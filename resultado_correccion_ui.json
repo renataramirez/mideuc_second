@@ -1,0 +1,112 @@
+{
+    "texto_original_preview": "Los animos en nuestra actual pandemia no se hallan errados, la salud mental con respecto a lo que pod...",
+    "errores_detectados": {
+        "ortografia": [
+            {
+                "error": "animos",
+                "correccion": "ánimos",
+                "subcategoria": "acentual"
+            },
+            {
+                "error": "esta",
+                "correccion": "está",
+                "subcategoria": "acentual"
+            },
+            {
+                "error": "conversacion",
+                "correccion": "conversación",
+                "subcategoria": "acentual"
+            },
+            {
+                "error": "mas",
+                "correccion": "más",
+                "subcategoria": "acentual"
+            },
+            {
+                "error": "claustrofobicas",
+                "correccion": "claustrofóbicas",
+                "subcategoria": "acentual"
+            },
+            {
+                "error": "explicitara",
+                "correccion": "explicitará",
+                "subcategoria": "acentual"
+            },
+            {
+                "error": "porque",
+                "correccion": "por qué",
+                "subcategoria": "acentual"
+            },
+            {
+                "error": "quien",
+                "correccion": "quién",
+                "subcategoria": "acentual"
+            },
+            {
+                "error": "deberia",
+                "correccion": "debería",
+                "subcategoria": "acentual"
+            },
+            {
+                "error": "pretenciones",
+                "correccion": "pretensiones",
+                "subcategoria": "literal"
+            },
+            {
+                "error": "regulacion",
+                "correccion": "regulación",
+                "subcategoria": "acentual"
+            },
+            {
+                "error": "limitarseles",
+                "correccion": "limitarse les",
+                "subcategoria": "literal"
+            },
+            {
+                "error": "vuestra",
+                "correccion": "su",
+                "subcategoria": "literal"
+            },
+            {
+                "error": "vuestras",
+                "correccion": "sus",
+                "subcategoria": "literal"
+            },
+            {
+                "error": "ultimos",
+                "correccion": "últimos",
+                "subcategoria": "acentual"
+            },
+            {
+                "error": "oportunides",
+                "correccion": "oportunidades",
+                "subcategoria": "literal"
+            },
+            {
+                "error": "acabara",
+                "correccion": "acabará",
+                "subcategoria": "acentual"
+            },
+            {
+                "error": "pasaria",
+                "correccion": "pasaría",
+                "subcategoria": "acentual"
+            },
+            {
+                "error": "habra",
+                "correccion": "habrá",
+                "subcategoria": "acentual"
+            },
+            {
+                "error": "llamada los fines de semanas",
+                "correccion": "llamadas los fines de semana",
+                "subcategoria": "literal"
+            },
+            {
+                "error": "Japon",
+                "correccion": "Japón",
+                "subcategoria": "acentual"
+            }
+        ]
+    }
+}
