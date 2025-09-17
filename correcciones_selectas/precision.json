@@ -1,0 +1,352 @@
+[
+    {
+        "id_texto": 1,
+        "resultado": {
+            "errores_precision": {
+                "error_1": [
+                    "animos → ánimos",
+                    "USO INCORRECTO DE SIGNIFICADOS"
+                ],
+                "error_2": [
+                    "errados → bajos",
+                    "USO INCORRECTO DE SIGNIFICADOS"
+                ],
+                "error_3": [
+                    "denotar → destacar",
+                    "USO INCORRECTO DE SIGNIFICADOS"
+                ],
+                "error_4": [
+                    "diera a luz → surgiera",
+                    "USO INCORRECTO DE SIGNIFICADOS"
+                ],
+                "error_5": [
+                    "ubicados en tus propios barrios → ubicados en los barrios cercanos",
+                    "USO INCORRECTO DE SIGNIFICADOS"
+                ],
+                "error_6": [
+                    "velara → velará",
+                    "USO INCORRECTO DE SIGNIFICADOS"
+                ],
+                "error_7": [
+                    "pretenciones → pretensiones",
+                    "USO INCORRECTO DE SIGNIFICADOS"
+                ],
+                "error_8": [
+                    "limitarsele → limitarse",
+                    "USO INCORRECTO DE SIGNIFICADOS"
+                ],
+                "error_9": [
+                    "os pone → nos pone",
+                    "USO INCORRECTO DE SIGNIFICADOS"
+                ],
+                "error_10": [
+                    "vuestra cerrada intimidad → nuestra cerrada intimidad",
+                    "USO INCORRECTO DE SIGNIFICADOS"
+                ],
+                "error_11": [
+                    "requieres en material → requieres únicamente",
+                    "USO INCORRECTO DE SIGNIFICADOS"
+                ],
+                "error_12": [
+                    "pretender algo mas de su tiempo → exigir algo más de su tiempo",
+                    "USO INCORRECTO DE SIGNIFICADOS"
+                ],
+                "error_13": [
+                    "oportunides → oportunidades",
+                    "USO INCORRECTO DE SIGNIFICADOS"
+                ],
+                "error_14": [
+                    "al fin y al cabo → en última instancia",
+                    "REDUNDANCIA"
+                ],
+                "error_15": [
+                    "alterar tu sueño (abstracta y literalmente) → alterar tu sueño (tanto en sentido figurado como literal)",
+                    "USO INCORRECTO DE SIGNIFICADOS"
+                ],
+                "error_16": [
+                    "malversacion → tergiversación",
+                    "USO INCORRECTO DE SIGNIFICADOS"
+                ],
+                "error_17": [
+                    "cybercafes → cibercafés",
+                    "EXTRANJERISMO"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 2,
+        "resultado": {
+            "errores_precision": {
+                "error_1": [
+                    "adoloscentes → adolescentes",
+                    "USO INCORRECTO DE SIGNIFICADOS"
+                ],
+                "error_2": [
+                    "del los → de los",
+                    "REDUNDANCIA"
+                ],
+                "error_3": [
+                    "refencia → referencia",
+                    "USO INCORRECTO DE SIGNIFICADOS"
+                ],
+                "error_4": [
+                    "disernir → discernir",
+                    "USO INCORRECTO DE SIGNIFICADOS"
+                ],
+                "error_5": [
+                    "incerto → inserto",
+                    "USO INCORRECTO DE SIGNIFICADOS"
+                ],
+                "error_6": [
+                    "afectas → afectadas",
+                    "USO INCORRECTO DE SIGNIFICADOS"
+                ],
+                "error_7": [
+                    "Potificia → Pontificia",
+                    "USO INCORRECTO DE SIGNIFICADOS"
+                ],
+                "error_8": [
+                    "requiren → requieren",
+                    "USO INCORRECTO DE SIGNIFICADOS"
+                ],
+                "error_9": [
+                    "desepeñe → desempeñe",
+                    "USO INCORRECTO DE SIGNIFICADOS"
+                ],
+                "error_10": [
+                    "revaño → rebaño",
+                    "USO INCORRECTO DE SIGNIFICADOS"
+                ],
+                "error_11": [
+                    "proptocolos → protocolos",
+                    "USO INCORRECTO DE SIGNIFICADOS"
+                ],
+                "error_12": [
+                    "desarollo → desarrollo",
+                    "USO INCORRECTO DE SIGNIFICADOS"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 3,
+        "resultado": {
+            "errores_precision": {
+                "error_1": [
+                    "mayaría → mayoría",
+                    "USO INCORRECTO DE SIGNIFICADOS"
+                ],
+                "error_2": [
+                    "cabemos → sabemos",
+                    "USO INCORRECTO DE SIGNIFICADOS"
+                ],
+                "error_3": [
+                    "imparto → impacto",
+                    "USO INCORRECTO DE SIGNIFICADOS"
+                ],
+                "error_4": [
+                    "habitates → habitantes",
+                    "USO INCORRECTO DE SIGNIFICADOS"
+                ],
+                "error_5": [
+                    "consecuncia → consecuencia",
+                    "USO INCORRECTO DE SIGNIFICADOS"
+                ],
+                "error_6": [
+                    "ciudados → ciudades",
+                    "USO INCORRECTO DE SIGNIFICADOS"
+                ],
+                "error_7": [
+                    "apalear → paliar",
+                    "USO INCORRECTO DE SIGNIFICADOS"
+                ],
+                "error_8": [
+                    "en línea → online",
+                    "EXTRANJERISMO"
+                ],
+                "error_9": [
+                    "salir para afuera → salir",
+                    "REDUNDANCIA"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 4,
+        "resultado": {
+            "errores_precision": {
+                "error_1": [
+                    "inevernaderos → invernaderos",
+                    "USO INCORRECTO DE SIGNIFICADOS"
+                ],
+                "error_2": [
+                    "hace que toda una población deje de ocupar estas → hace que toda una población deje de usar estas",
+                    "USO INCORRECTO DE SIGNIFICADOS"
+                ],
+                "error_3": [
+                    "practicas → prácticas",
+                    "USO INCORRECTO DE SIGNIFICADOS"
+                ],
+                "error_4": [
+                    "la gente esta acostumbrada → la gente está acostumbrada",
+                    "USO INCORRECTO DE SIGNIFICADOS"
+                ],
+                "error_5": [
+                    "toda persona pueda vivir una vida digna y una buena salud → toda persona pueda vivir una vida digna y gozar de buena salud",
+                    "USO INCORRECTO DE SIGNIFICADOS"
+                ],
+                "error_6": [
+                    "las acciones arrastran → las acciones inspiran",
+                    "USO INCORRECTO DE SIGNIFICADOS"
+                ],
+                "error_7": [
+                    "en mano de algo más grande → en manos de algo más grande",
+                    "USO INCORRECTO DE SIGNIFICADOS"
+                ],
+                "error_8": [
+                    "dentro de las grandes ciudades → en las grandes ciudades",
+                    "REDUNDANCIA"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 5,
+        "resultado": {
+            "errores_precision": {
+                "error_1": [
+                    "'censurar implica coartar la capacidad de otros de poder decir o hacer algo' → 'censurar implica coartar la capacidad de otros de decir algo', ya que 'poder decir' es redundante",
+                    "REDUNDANCIA"
+                ],
+                "error_2": [
+                    "'dichas acciones no se condicen con los valores y estándares morales imperantes en una comunidad' → 'dichas acciones no coinciden con los valores y estándares morales imperantes en una comunidad', ya que 'condicen' es menos preciso que 'coinciden' en este contexto",
+                    "USO INCORRECTO DE SIGNIFICADOS"
+                ],
+                "error_3": [
+                    "'la libertad de expresión es uno de los bienes esenciales en una sociedad democrática liberal, ella constituye la garantía del ejercicio de todo otro derecho' → 'la libertad de expresión es uno de los bienes esenciales en una sociedad democrática liberal, ya que constituye la garantía del ejercicio de todo otro derecho', ya que 'ella' es redundante e innecesaria",
+                    "REDUNDANCIA"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 6,
+        "resultado": {
+            "errores_precision": {
+                "error_1": [
+                    "adecuar → adaptar",
+                    "USO INCORRECTO DE SIGNIFICADOS"
+                ],
+                "error_2": [
+                    "teletrabajo → trabajo a distancia",
+                    "EXTRANJERISMO"
+                ],
+                "error_3": [
+                    "debidas cuarentenas → cuarentenas",
+                    "REDUNDANCIA"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 7,
+        "resultado": {
+            "errores_precision": {
+                "error_1": [
+                    "incluídas → incluidas",
+                    "USO INCORRECTO DE SIGNIFICADOS"
+                ],
+                "error_2": [
+                    "repercutirán → repercutirá",
+                    "USO INCORRECTO DE SIGNIFICADOS"
+                ],
+                "error_3": [
+                    "otorgarle → otorgar",
+                    "REDUNDANCIA"
+                ],
+                "error_4": [
+                    "sino que por el contrario → sino, por el contrario",
+                    "REDUNDANCIA"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 8,
+        "resultado": {
+            "errores_precision": {
+                "error_1": [
+                    "online → en línea",
+                    "EXTRANJERISMO"
+                ],
+                "error_2": [
+                    "por que → porque",
+                    "USO INCORRECTO DE SIGNIFICADOS"
+                ],
+                "error_3": [
+                    "salud mental de las personas → salud mental",
+                    "REDUNDANCIA"
+                ],
+                "error_4": [
+                    "vida laboral → trabajo",
+                    "REDUNDANCIA"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 9,
+        "resultado": {
+            "errores_precision": {
+                "error_1": [
+                    "práctia → práctica",
+                    "USO INCORRECTO DE SIGNIFICADOS"
+                ],
+                "error_2": [
+                    "diaras → diarias",
+                    "USO INCORRECTO DE SIGNIFICADOS"
+                ],
+                "error_3": [
+                    "'hobby' → pasatiempo",
+                    "EXTRANJERISMO"
+                ],
+                "error_4": [
+                    "salud mental de las personas → salud mental (redundante con 'de las personas')",
+                    "REDUNDANCIA"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 10,
+        "resultado": {
+            "errores_precision": {
+                "error_1": [
+                    "respuesta asertiva → respuesta adecuada",
+                    "USO INCORRECTO DE SIGNIFICADOS"
+                ],
+                "error_2": [
+                    "a razón de → debido a",
+                    "USO INCORRECTO DE SIGNIFICADOS"
+                ],
+                "error_3": [
+                    "difiere de lo saludable → no es saludable",
+                    "USO INCORRECTO DE SIGNIFICADOS"
+                ],
+                "error_4": [
+                    "impusado → impulsado",
+                    "USO INCORRECTO DE SIGNIFICADOS"
+                ],
+                "error_5": [
+                    "salud mental que difiere de lo saludable → salud mental deteriorada",
+                    "REDUNDANCIA"
+                ],
+                "error_6": [
+                    "contexto por el cual estamos viviendo → contexto en el que estamos viviendo",
+                    "REDUNDANCIA"
+                ]
+            }
+        }
+    }
+]

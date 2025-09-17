@@ -1,0 +1,643 @@
+[
+    {
+        "id_texto": 1,
+        "errores_vocabulario_amplitud": {
+            "parrafo_1": {
+                "trabajo": [
+                    "2 veces"
+                ],
+                "laboral": [
+                    "2 veces"
+                ],
+                "propios": [
+                    "2 veces"
+                ]
+            },
+            "parrafo_2": {
+                "regulacion": [
+                    "2 veces"
+                ],
+                "limitar": [
+                    "2 veces"
+                ],
+                "tiempo": [
+                    "2 veces"
+                ],
+                "empleados": [
+                    "2 veces"
+                ],
+                "trabajadores": [
+                    "2 veces"
+                ]
+            },
+            "parrafo_3": {
+                "trabajador": [
+                    "2 veces"
+                ],
+                "salud": [
+                    "2 veces"
+                ],
+                "sueño": [
+                    "2 veces"
+                ]
+            },
+            "parrafo_4": {
+                "comodidad": [
+                    "2 veces"
+                ],
+                "flexibilidad": [
+                    "2 veces"
+                ],
+                "sucede": [
+                    "2 veces"
+                ],
+                "estas": [
+                    "2 veces"
+                ]
+            },
+            "parrafo_5": {
+                "trabajo": [
+                    "2 veces"
+                ],
+                "remoto": [
+                    "2 veces"
+                ],
+                "casa": [
+                    "2 veces"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 2,
+        "errores_vocabulario_amplitud": {
+            "parrafo_1": {
+                "aprendizaje": [
+                    "3 veces"
+                ],
+                "niños": [
+                    "2 veces"
+                ],
+                "adolescentes": [
+                    "2 veces"
+                ]
+            },
+            "parrafo_2": {
+                "aprendizaje": [
+                    "4 veces"
+                ],
+                "niño": [
+                    "2 veces"
+                ],
+                "conocimientos": [
+                    "2 veces"
+                ],
+                "adquiridos": [
+                    "2 veces"
+                ]
+            },
+            "parrafo_3": {
+                "desarrollan": [
+                    "2 veces"
+                ],
+                "influencia": [
+                    "2 veces"
+                ],
+                "niños": [
+                    "2 veces"
+                ],
+                "habilidades": [
+                    "2 veces"
+                ],
+                "problemas": [
+                    "2 veces"
+                ],
+                "capacidades": [
+                    "2 veces"
+                ]
+            },
+            "parrafo_4": {
+                "niño": [
+                    "2 veces"
+                ],
+                "aprendizaje": [
+                    "2 veces"
+                ],
+                "social": [
+                    "2 veces"
+                ],
+                "Chile": [
+                    "2 veces"
+                ]
+            },
+            "parrafo_5": {
+                "dinámica": [
+                    "2 veces"
+                ],
+                "relaciones": [
+                    "2 veces"
+                ],
+                "afectada": [
+                    "2 veces"
+                ],
+                "nivel": [
+                    "2 veces"
+                ],
+                "interacciones": [
+                    "2 veces"
+                ],
+                "trabajo": [
+                    "2 veces"
+                ]
+            },
+            "parrafo_6": {
+                "situación": [
+                    "2 veces"
+                ],
+                "riesgo": [
+                    "2 veces"
+                ],
+                "sanitario/sanitarias": [
+                    "2 veces"
+                ],
+                "contagio": [
+                    "2 veces"
+                ]
+            },
+            "parrafo_7": {
+                "de": [
+                    "4 veces"
+                ],
+                "y": [
+                    "3 veces"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 3,
+        "errores_vocabulario_amplitud": {
+            "parrafo_1": {
+                "actividad": [
+                    "2 veces"
+                ],
+                "física": [
+                    "2 veces"
+                ],
+                "salud": [
+                    "3 veces"
+                ],
+                "contaminación": [
+                    "3 veces"
+                ],
+                "ambiental": [
+                    "2 veces"
+                ],
+                "evento": [
+                    "2 veces"
+                ]
+            },
+            "parrafo_2": {
+                "persona": [
+                    "2 veces"
+                ],
+                "bus": [
+                    "2 veces"
+                ],
+                "contaminación": [
+                    "2 veces"
+                ],
+                "ciudades": [
+                    "2 veces"
+                ],
+                "transporte": [
+                    "2 veces"
+                ]
+            },
+            "parrafo_3": {
+                "inhalan": [
+                    "2 veces"
+                ],
+                "ciudades": [
+                    "2 veces"
+                ],
+                "fumar": [
+                    "2 veces"
+                ]
+            },
+            "parrafo_4": {
+                "personas": [
+                    "2 veces"
+                ],
+                "individuos": [
+                    "2 veces"
+                ],
+                "actuar": [
+                    "2 veces"
+                ]
+            },
+            "parrafo_5": {
+                "personas": [
+                    "2 veces"
+                ],
+                "medidas": [
+                    "2 veces"
+                ],
+                "gobierno": [
+                    "2 veces"
+                ],
+                "ambiente": [
+                    "2 veces"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 4,
+        "errores_vocabulario_amplitud": {
+            "parrafo_1": {
+                "salud": [
+                    "9 veces"
+                ],
+                "cambios": [
+                    "7 veces"
+                ],
+                "personas": [
+                    "6 veces"
+                ],
+                "social": [
+                    "3 veces"
+                ],
+                "colectivo": [
+                    "3 veces"
+                ],
+                "políticas públicas": [
+                    "2 veces"
+                ],
+                "basura": [
+                    "2 veces"
+                ],
+                "cultura": [
+                    "2 veces"
+                ],
+                "grandes": [
+                    "2 veces"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 5,
+        "errores_vocabulario_amplitud": {
+            "parrafo_1": {
+                "límites": [
+                    "2 veces"
+                ],
+                "libertad": [
+                    "2 veces"
+                ],
+                "expresión": [
+                    "3 veces"
+                ]
+            },
+            "parrafo_2": {
+                "implica": [
+                    "2 veces"
+                ],
+                "alguien": [
+                    "2 veces"
+                ],
+                "decisión": [
+                    "2 veces"
+                ],
+                "demasiado": [
+                    "2 veces"
+                ]
+            },
+            "parrafo_3": {
+                "libertad": [
+                    "3 veces"
+                ],
+                "expresión": [
+                    "3 veces"
+                ],
+                "posibilidad": [
+                    "2 veces"
+                ],
+                "comunidad": [
+                    "2 veces"
+                ],
+                "permitir": [
+                    "2 veces"
+                ]
+            },
+            "parrafo_4": {
+                "permitir": [
+                    "4 veces"
+                ],
+                "libertad": [
+                    "3 veces"
+                ],
+                "expresión": [
+                    "3 veces"
+                ],
+                "persona": [
+                    "2 veces"
+                ],
+                "autoridad": [
+                    "2 veces"
+                ],
+                "control": [
+                    "2 veces"
+                ]
+            },
+            "parrafo_5": {
+                "libertad": [
+                    "2 veces"
+                ],
+                "expresión": [
+                    "2 veces"
+                ],
+                "derecho": [
+                    "2 veces"
+                ],
+                "democracia": [
+                    "2 veces"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 6,
+        "errores_vocabulario_amplitud": {
+            "parrafo_1": {
+                "personas": [
+                    "2 veces"
+                ],
+                "trabajo": [
+                    "2 veces"
+                ],
+                "laboral": [
+                    "2 veces"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 7,
+        "errores_vocabulario_amplitud": {
+            "parrafo_1": {
+                "educativas": [
+                    "3 veces"
+                ],
+                "espacios": [
+                    "2 veces"
+                ],
+                "gran": [
+                    "2 veces"
+                ]
+            },
+            "parrafo_2": {
+                "cultural": [
+                    "2 veces"
+                ],
+                "comunidades": [
+                    "2 veces"
+                ]
+            },
+            "parrafo_3": {
+                "inclusión": [
+                    "2 veces"
+                ],
+                "actividades": [
+                    "2 veces"
+                ]
+            },
+            "parrafo_4": {
+                "integración": [
+                    "2 veces"
+                ],
+                "culturas": [
+                    "2 veces"
+                ],
+                "comunidades": [
+                    "2 veces"
+                ]
+            },
+            "parrafo_5": {
+                "años": [
+                    "2 veces"
+                ],
+                "valores": [
+                    "2 veces"
+                ],
+                "comunidades": [
+                    "2 veces"
+                ],
+                "poblaciones": [
+                    "2 veces"
+                ]
+            },
+            "parrafo_6": {
+                "educación": [
+                    "2 veces"
+                ],
+                "herramienta": [
+                    "2 veces"
+                ],
+                "seres": [
+                    "2 veces"
+                ],
+                "todas": [
+                    "2 veces"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 8,
+        "errores_vocabulario_amplitud": {
+            "parrafo_1": {
+                "teletrabajo": [
+                    "3 veces"
+                ],
+                "trabajadores": [
+                    "2 veces"
+                ],
+                "realizaban": [
+                    "2 veces"
+                ]
+            },
+            "parrafo_2": {
+                "hogar": [
+                    "3 veces"
+                ],
+                "lugar": [
+                    "2 veces"
+                ],
+                "personas": [
+                    "2 veces"
+                ],
+                "estresante": [
+                    "2 veces"
+                ],
+                "trabajo": [
+                    "2 veces"
+                ]
+            },
+            "parrafo_3": {
+                "laboral": [
+                    "3 veces"
+                ],
+                "causar": [
+                    "2 veces"
+                ]
+            },
+            "parrafo_4": {
+                "estrés": [
+                    "2 veces"
+                ],
+                "trabajo": [
+                    "2 veces"
+                ],
+                "familia": [
+                    "2 veces"
+                ],
+                "causa": [
+                    "2 veces"
+                ]
+            },
+            "parrafo_5": {
+                "trabajo": [
+                    "2 veces"
+                ],
+                "realización": [
+                    "2 veces"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 9,
+        "errores_vocabulario_amplitud": {
+            "parrafo_1": {
+                "teletrabajo": [
+                    "2 veces"
+                ]
+            },
+            "parrafo_2": {
+                "lugar": [
+                    "2 veces"
+                ],
+                "resto": [
+                    "2 veces"
+                ]
+            },
+            "parrafo_3": {
+                "necesario": [
+                    "2 veces"
+                ],
+                "horarios": [
+                    "2 veces"
+                ],
+                "oficina": [
+                    "2 veces"
+                ],
+                "trabajo": [
+                    "2 veces"
+                ],
+                "designado": [
+                    "2 veces"
+                ]
+            },
+            "parrafo_4": {
+                "ritual": [
+                    "2 veces"
+                ],
+                "cierre": [
+                    "2 veces"
+                ],
+                "trabajo": [
+                    "2 veces"
+                ],
+                "vive": [
+                    "2 veces"
+                ]
+            },
+            "parrafo_5": {
+                "estrategias": [
+                    "2 veces"
+                ],
+                "personas": [
+                    "2 veces"
+                ],
+                "laboral": [
+                    "2 veces"
+                ],
+                "trabajo": [
+                    "2 veces"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 10,
+        "errores_vocabulario_amplitud": {
+            "parrafo_1": {
+                "debe": [
+                    "2 veces"
+                ],
+                "respecto": [
+                    "2 veces"
+                ]
+            },
+            "parrafo_2": {
+                "aprendizaje": [
+                    "3 veces"
+                ],
+                "estudiantes": [
+                    "2 veces"
+                ]
+            },
+            "parrafo_3": {
+                "salud": [
+                    "3 veces"
+                ],
+                "estudiantes": [
+                    "2 veces"
+                ]
+            },
+            "parrafo_4": {
+                "contagio": [
+                    "3 veces"
+                ],
+                "clases": [
+                    "3 veces"
+                ],
+                "presenciales": [
+                    "3 veces"
+                ],
+                "menor": [
+                    "2 veces"
+                ]
+            },
+            "parrafo_5": {
+                "clases": [
+                    "3 veces"
+                ],
+                "presenciales": [
+                    "3 veces"
+                ],
+                "solución": [
+                    "2 veces"
+                ],
+                "problemas": [
+                    "2 veces"
+                ],
+                "sistema": [
+                    "2 veces"
+                ]
+            }
+        }
+    }
+]

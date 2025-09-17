@@ -1,0 +1,388 @@
+[
+    {
+        "id_texto": 1,
+        "resultado": {
+            "errores_cohesion_conexion": {
+                "error_1": [
+                    "con respecto a lo que → con respecto de lo que",
+                    "tipo: preposición/rección"
+                ],
+                "error_2": [
+                    "central tema de conversacion → tema central de conversación",
+                    "tipo: locución-preposicional"
+                ],
+                "error_3": [
+                    "hay que denotar → hay que señalar",
+                    "tipo: locución-preposicional"
+                ],
+                "error_4": [
+                    "en contraste a → en contraste con",
+                    "tipo: preposición/rección"
+                ],
+                "error_5": [
+                    "es adecuado el preguntarse → es adecuado preguntarse",
+                    "tipo: locución-preposicional"
+                ],
+                "error_6": [
+                    "sobre sus capacidades y eficiencias → dentro de sus capacidades y eficiencias",
+                    "tipo: locución-preposicional"
+                ],
+                "error_7": [
+                    "sobre su seguridad, su tiempo → respecto de su seguridad, su tiempo",
+                    "tipo: locución-preposicional"
+                ],
+                "error_8": [
+                    "ante el cual pones → en el cual pones",
+                    "tipo: preposición/rección"
+                ],
+                "error_9": [
+                    "considerando las fortalezas actuales, diversidades, oportunides, competencias → considerando las fortalezas actuales, las diversidades, las oportunidades y las competencias",
+                    "tipo: locución-preposicional"
+                ],
+                "error_10": [
+                    "evidentes mentiras si nos ponemos a pensar, que no escogimos esa realidad → evidentes mentiras si nos ponemos a pensar: no escogimos esa realidad",
+                    "tipo: conector-inadecuado"
+                ],
+                "error_11": [
+                    "sucede que aqui tenemos una malversacion, malinterpretacion de la comodidad → sucede que aquí tenemos una malversación y una malinterpretación de la comodidad",
+                    "tipo: conector-inadecuado"
+                ],
+                "error_12": [
+                    "por eso se debe centrar → por eso debe centrarse",
+                    "tipo: locución-preposicional"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 2,
+        "resultado": {
+            "errores_cohesion_conexion": {
+                "error_1": [
+                    "al los niños → a los niños",
+                    "tipo: preposición/rección"
+                ],
+                "error_2": [
+                    "refencia → referencia",
+                    "tipo: preposición/rección"
+                ],
+                "error_3": [
+                    "disernir → discernir",
+                    "tipo: preposición/rección"
+                ],
+                "error_4": [
+                    "incerto → inserto",
+                    "tipo: preposición/rección"
+                ],
+                "error_5": [
+                    "afectas → afectadas",
+                    "tipo: preposición/rección"
+                ],
+                "error_6": [
+                    "es a nivel social → es el nivel social",
+                    "tipo: locución-preposicional"
+                ],
+                "error_7": [
+                    "con la que viene integrado → con la que está integrado",
+                    "tipo: preposición/rección"
+                ],
+                "error_8": [
+                    "revaño → rebaño",
+                    "tipo: preposición/rección"
+                ],
+                "error_9": [
+                    "proptocolos → protocolos",
+                    "tipo: preposición/rección"
+                ],
+                "error_10": [
+                    "desarollo → desarrollo",
+                    "tipo: preposición/rección"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 3,
+        "resultado": {
+            "errores_cohesion_conexion": {
+                "error_1": [
+                    "en relación a → en relación con",
+                    "tipo: locución-preposicional"
+                ],
+                "error_2": [
+                    "como el evento que amenaza su salud, es la contaminación ambiental → como el evento que amenaza su salud es la contaminación ambiental",
+                    "tipo: conector-inadecuado"
+                ],
+                "error_3": [
+                    "cabemos que → sabemos que",
+                    "tipo: conector-inadecuado"
+                ],
+                "error_4": [
+                    "por lo cual → por lo que",
+                    "tipo: locución-preposicional"
+                ],
+                "error_5": [
+                    "en consecuncia → como consecuencia",
+                    "tipo: locución-preposicional"
+                ],
+                "error_6": [
+                    "por ello → por lo tanto",
+                    "tipo: conector-inadecuado"
+                ],
+                "error_7": [
+                    "aunque no se estén dando cuenta → incluso sin darse cuenta",
+                    "tipo: conector-inadecuado"
+                ],
+                "error_8": [
+                    "en definitiva → definitivamente",
+                    "tipo: conector-inadecuado"
+                ],
+                "error_9": [
+                    ",como → , como",
+                    "tipo: conector-inadecuado"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 4,
+        "resultado": {
+            "errores_cohesion_conexion": {
+                "error_1": [
+                    "de las cuales se encuentra viviendo → en las cuales se encuentra viviendo",
+                    "tipo: preposición/rección"
+                ],
+                "error_2": [
+                    "de forma específica el vivir → de forma específica en vivir",
+                    "tipo: preposición/rección"
+                ],
+                "error_3": [
+                    "ayuda que se disminuyan → ayuda a que se disminuyan",
+                    "tipo: preposición/rección"
+                ],
+                "error_4": [
+                    "son necesarias que las practicas → son necesarias las prácticas",
+                    "tipo: queísmo"
+                ],
+                "error_5": [
+                    "por medio de la práctica de un colectivo, de alguna forma que se haga → por medio de la práctica de un colectivo, de alguna forma en que se haga",
+                    "tipo: preposición/rección"
+                ],
+                "error_6": [
+                    "esto ayuda que realmente se vean → esto ayuda a que realmente se vean",
+                    "tipo: preposición/rección"
+                ],
+                "error_7": [
+                    "el caso de que Chile no tuviera → el caso de que Chile no tuviese",
+                    "tipo: conector-inadecuado"
+                ],
+                "error_8": [
+                    "agua de la cual muchas veces está contaminada → agua que muchas veces está contaminada",
+                    "tipo: dequeísmo"
+                ],
+                "error_9": [
+                    "esos cambios que muchas personas hacen diariamente para poder mejorar su salud, puede provocar → esos cambios que muchas personas hacen diariamente para poder mejorar su salud pueden provocar",
+                    "tipo: conector-inadecuado"
+                ],
+                "error_10": [
+                    "en mano de algo más grande → en manos de algo más grande",
+                    "tipo: preposición/rección"
+                ],
+                "error_11": [
+                    "la importancia que tiene los cambios → la importancia que tienen los cambios",
+                    "tipo: conector-inadecuado"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 5,
+        "resultado": {
+            "errores_cohesion_conexion": {
+                "error_1": [
+                    "sobre varios aspectos que antes no eran cuestionados → sobre varios aspectos de los que antes no se dudaba",
+                    "tipo: preposición/rección"
+                ],
+                "error_2": [
+                    "hasta dónde se puede llegar en su nombre, y desde qué punto ella pasa a ser violencia → hasta dónde se puede llegar en su nombre y desde qué punto se convierte en violencia",
+                    "tipo: locución-preposicional"
+                ],
+                "error_3": [
+                    "Ello entonces, implica que → Ello, entonces, implica que",
+                    "tipo: conector-inadecuado"
+                ],
+                "error_4": [
+                    "permitir que alguien pueda tomar esa decisión es darle demasiado poder → permitir que alguien tome esa decisión es darle demasiado poder",
+                    "tipo: preposición/rección"
+                ],
+                "error_5": [
+                    "Dado que esa posibilidad es tan peligrosa, es mejor defender la libertad de expresión antes que limitarla → Dado que esa posibilidad es tan peligrosa, resulta preferible defender la libertad de expresión antes que limitarla",
+                    "tipo: conector-inadecuado"
+                ],
+                "error_6": [
+                    "Entonces, debe hacerse un juicio de ponderación → Por lo tanto, debe hacerse un juicio de ponderación",
+                    "tipo: conector-inadecuado"
+                ],
+                "error_7": [
+                    "ella constituye la garantía del ejercicio de todo otro derecho → constituye la garantía del ejercicio de cualquier otro derecho",
+                    "tipo: locución-preposicional"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 6,
+        "resultado": {
+            "errores_cohesion_conexion": {
+                "error_1": [
+                    "cumpliendo con las demandas laborales y al mismo tiempo respetar → cumpliendo con las demandas laborales y, al mismo tiempo, respetando",
+                    "tipo: conector-inadecuado"
+                ],
+                "error_2": [
+                    "el encierro junto con la sobrecarga laboral → el encierro, junto con la sobrecarga laboral,",
+                    "tipo: conector-ausente"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 7,
+        "resultado": {
+            "errores_cohesion_conexion": {
+                "error_1": [
+                    "respecto de → respecto a",
+                    "tipo: preposición/rección"
+                ],
+                "error_2": [
+                    "repercutirán en un desconocimiento → repercutirá en un desconocimiento",
+                    "tipo: preposición/rección"
+                ],
+                "error_3": [
+                    "respecto de la inclusión → respecto a la inclusión",
+                    "tipo: preposición/rección"
+                ],
+                "error_4": [
+                    "a participar de las actividades → a participar en las actividades",
+                    "tipo: preposición/rección"
+                ],
+                "error_5": [
+                    "de manera de que → de manera que",
+                    "tipo: locución-preposicional"
+                ],
+                "error_6": [
+                    "por la cual está compuesta → por las cuales está compuesta",
+                    "tipo: preposición/rección"
+                ],
+                "error_7": [
+                    "Sino que por el contrario → Sino, por el contrario",
+                    "tipo: conector-inadecuado"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 8,
+        "resultado": {
+            "errores_cohesion_conexion": {
+                "error_1": [
+                    "por que → porque",
+                    "tipo: conector-inadecuado"
+                ],
+                "error_2": [
+                    "Sin dejar que este nuevo lugar de trabajo se vuelva un ambiente estresante. → Para evitar que este nuevo lugar de trabajo se vuelva un ambiente estresante.",
+                    "tipo: conector-inadecuado"
+                ],
+                "error_3": [
+                    "a la vista de los empleadores, es menos exigente laboralmente. → desde la perspectiva de los empleadores, parece menos exigente laboralmente.",
+                    "tipo: locución-preposicional"
+                ],
+                "error_4": [
+                    "Causando que estos contacten a los empleados fuera del horario laboral → Lo que provoca que estos contacten a los empleados fuera del horario laboral",
+                    "tipo: conector-inadecuado"
+                ],
+                "error_5": [
+                    "lo que podría causar problemas interpersonales entre estas dos personas. → lo que podría generar problemas interpersonales entre ellos.",
+                    "tipo: conector-inadecuado"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 9,
+        "resultado": {
+            "errores_cohesion_conexion": {
+                "error_1": [
+                    "sobre si esta práctia pone en peligro al hogar → sobre si esta práctica pone en peligro el hogar",
+                    "tipo: preposición/rección"
+                ],
+                "error_2": [
+                    "dejando de forma separada el resto de la casa → dejando separada el resto de la casa",
+                    "tipo: locución-preposicional"
+                ],
+                "error_3": [
+                    "al poder utilizar el resto de las áreas como lugar de descanso y despreocupación de los temas laborales → al poder utilizar el resto de las áreas como lugar de descanso y despreocupación respecto de los temas laborales",
+                    "tipo: preposición/rección"
+                ],
+                "error_4": [
+                    "debido a que no existen cierres de oficina ni la necesidad de traslado → debido a que no existen cierres de oficina ni necesidad de traslado",
+                    "tipo: locución-preposicional"
+                ],
+                "error_5": [
+                    "Para el caso que se vive en la actualidad → Para el caso que se vive actualmente",
+                    "tipo: locución-preposicional"
+                ],
+                "error_6": [
+                    "como la realización de deporte, cocinar u otro 'hobby' luego de terminar de trabajar → como realizar deporte, cocinar u otro 'hobby' después de terminar de trabajar",
+                    "tipo: locución-preposicional"
+                ],
+                "error_7": [
+                    "De esta forma, los gobiernos deberían promover campañas que enseñaran estas estrategias → De esta forma, los gobiernos deberían promover campañas que enseñen estas estrategias",
+                    "tipo: conector-inadecuado"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 10,
+        "resultado": {
+            "errores_cohesion_conexion": {
+                "error_1": [
+                    "de acuerdo al → de acuerdo con",
+                    "tipo: locución-preposicional"
+                ],
+                "error_2": [
+                    "por el cual estamos viviendo → en el cual estamos viviendo",
+                    "tipo: locución-preposicional"
+                ],
+                "error_3": [
+                    "con tal de → para",
+                    "tipo: locución-preposicional"
+                ],
+                "error_4": [
+                    "a razón de → debido a",
+                    "tipo: locución-preposicional"
+                ],
+                "error_5": [
+                    "dado que → porque",
+                    "tipo: locución-preposicional"
+                ],
+                "error_6": [
+                    "en torno a → respecto a",
+                    "tipo: locución-preposicional"
+                ],
+                "error_7": [
+                    "por lo tanto → por consiguiente",
+                    "tipo: conector-inadecuado"
+                ],
+                "error_8": [
+                    "así también → además",
+                    "tipo: conector-inadecuado"
+                ],
+                "error_9": [
+                    "Es por ello, que → Por ello,",
+                    "tipo: conector-inadecuado"
+                ]
+            }
+        }
+    }
+]

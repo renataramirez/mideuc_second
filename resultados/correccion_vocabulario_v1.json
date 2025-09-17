@@ -1,0 +1,24 @@
+{
+    "texto_original_preview": "Los animos en nuestra a...",
+    "errores_detectados": {
+        "vocabulario": [
+            "animos → ánimos",
+            "esta → está",
+            "claustrofobicas → claustrofóbicas",
+            "porque → por qué",
+            "pretenciones → pretensiones",
+            "regulacion → regulación",
+            "limitarsele → limitarle",
+            "vuestra → su",
+            "os → nos",
+            "vuestra → su",
+            "oportunides → oportunidades",
+            "acabara → acabará",
+            "mentiras → falsedades",
+            "disposicion → disposición",
+            "pasaria → pasaría",
+            "habra → habrá",
+            "fines de semanas → fines de semana"
+        ]
+    }
+}
