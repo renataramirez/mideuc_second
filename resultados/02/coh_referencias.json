@@ -1,0 +1,284 @@
+[
+    {
+        "id_texto": 1,
+        "resultado": {
+            "errores_cohesion_referencia": {
+                "error_1": [
+                    "sus propios asociados → los propios asociados de las organizaciones a las que se refiere",
+                    "tipo: pronombre-sin-referencia"
+                ],
+                "error_2": [
+                    "sus capacidades y eficiencias → las capacidades y eficiencias del proyecto",
+                    "tipo: pronombre-sin-referencia"
+                ],
+                "error_3": [
+                    "su propiedad sobre ellos → la propiedad de los trabajadores sobre sí mismos",
+                    "tipo: pronombre-sin-referencia"
+                ],
+                "error_4": [
+                    "lo anterior tratado → lo expuesto anteriormente",
+                    "tipo: pronombre-sin-referencia"
+                ],
+                "error_5": [
+                    "se debe centrar → debe centrarse en la regulación del trabajo remoto (especificar sujeto)",
+                    "tipo: pronombre-sin-referencia"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 2,
+        "resultado": {
+            "errores_cohesion_referencia": {
+                "error_1": [
+                    "uno → uno de los aspectos (p. ej., el proceso de aprendizaje)",
+                    "tipo: pronombre-sin-referencia"
+                ],
+                "error_2": [
+                    "al cual → al contagio",
+                    "tipo: pronombre-sin-referencia"
+                ],
+                "error_3": [
+                    "con esto → con ello (refiriéndose a potenciar sus capacidades sociales)",
+                    "tipo: pronombre-sin-referencia"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 3,
+        "resultado": {
+            "errores_cohesion_referencia": {
+                "error_1": [
+                    "estas → las personas",
+                    "tipo: pronombre-sin-referencia"
+                ],
+                "error_2": [
+                    "cada \"granito de arena\", al juntarse, progresivamente disminuirán → los granitos de arena, al juntarse, disminuirán",
+                    "tipo: pronombre-sin-referencia"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 4,
+        "resultado": {
+            "errores_cohesion_referencia": {
+                "error_1": [
+                    "ella → ellas",
+                    "tipo: pronombre-sin-referencia"
+                ],
+                "error_2": [
+                    "lo apoyen → apoyen ese cambio",
+                    "tipo: pronombre-sin-referencia"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 5,
+        "resultado": {
+            "errores_cohesion_referencia": {}
+        }
+    },
+    {
+        "id_texto": 6,
+        "resultado": {
+            "errores_cohesion_referencia": {}
+        }
+    },
+    {
+        "id_texto": 7,
+        "resultado": {
+            "errores_cohesion_referencia": {
+                "error_1": [
+                    "como lo nombra la palabra → como indica la palabra 'inclusión'",
+                    "tipo: pronombre-sin-referencia"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 8,
+        "resultado": {
+            "errores_cohesion_referencia": {
+                "error_1": [
+                    "estos → los empleadores",
+                    "tipo: pronombre-sin-referencia"
+                ],
+                "error_2": [
+                    "esto → el trabajo online",
+                    "tipo: pronombre-sin-referencia"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 9,
+        "resultado": {
+            "errores_cohesion_referencia": {}
+        }
+    },
+    {
+        "id_texto": 10,
+        "resultado": {
+            "errores_cohesion_referencia": {}
+        }
+    },
+    {
+        "id_texto": 11,
+        "resultado": {
+            "errores_cohesion_referencia": {
+                "error_1": [
+                    "lo anterior → el bien común, el bienestar integral y la protección del pobre",
+                    "tipo: pronombre-sin-referencia"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 12,
+        "resultado": {
+            "errores_cohesion_referencia": {
+                "error_1": [
+                    "esto → de esas investigaciones o afirmaciones",
+                    "tipo: pronombre-sin-referencia"
+                ],
+                "error_2": [
+                    "ello → estas (prácticas/medidas)",
+                    "tipo: pronombre-sin-referencia"
+                ],
+                "error_3": [
+                    "otro → otros intereses",
+                    "tipo: pronombre-sin-referencia"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 13,
+        "resultado": {
+            "errores_cohesion_referencia": {
+                "error_1": [
+                    "con esto ultimo → con la convocatoria al plebiscito",
+                    "tipo: pronombre-sin-referencia"
+                ],
+                "error_2": [
+                    "Frente a esto → Frente a la postergación del plebiscito o a la pandemia (especificar cuál)",
+                    "tipo: pronombre-sin-referencia"
+                ],
+                "error_3": [
+                    "esto no quiere decir → la reprogramación de la fecha",
+                    "tipo: pronombre-sin-referencia"
+                ],
+                "error_4": [
+                    "a su parte → hacia los contagiados",
+                    "tipo: pronombre-sin-referencia"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 14,
+        "resultado": {
+            "errores_cohesion_referencia": {}
+        }
+    },
+    {
+        "id_texto": 15,
+        "resultado": {
+            "errores_cohesion_referencia": {
+                "error_1": [
+                    "es por esto → por la imposibilidad de interactuar con el resto del personal",
+                    "tipo: pronombre-sin-referencia"
+                ],
+                "error_2": [
+                    "de estos → de las personas afectadas / de estas personas",
+                    "tipo: pronombre-sin-referencia"
+                ],
+                "error_3": [
+                    "algo → el aumento en el uso de ansiolíticos",
+                    "tipo: pronombre-sin-referencia"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 16,
+        "resultado": {
+            "errores_cohesion_referencia": {
+                "error_1": [
+                    "para sus alumnos → para los alumnos de los colegios",
+                    "tipo: pronombre-sin-referencia"
+                ],
+                "error_2": [
+                    "resguardar la salud de estos → resguardar la salud de los alumnos",
+                    "tipo: pronombre-sin-referencia"
+                ],
+                "error_3": [
+                    "esta última → la educación",
+                    "tipo: pronombre-sin-referencia"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 17,
+        "resultado": {
+            "errores_cohesion_referencia": {
+                "error_1": [
+                    "al no tenerlo → al no tener un organismo bien cuidado",
+                    "tipo: pronombre-sin-referencia"
+                ],
+                "error_2": [
+                    "desde que son pequeños → desde la infancia (o: desde que son pequeños los niños)",
+                    "tipo: pronombre-sin-referencia"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 18,
+        "resultado": {
+            "errores_cohesion_referencia": {
+                "error_1": [
+                    "objetivo anterior → objetivo del ensayo",
+                    "tipo: pronombre-sin-referencia"
+                ],
+                "error_2": [
+                    "que se adscriba → en que se adscriba el autor o investigador",
+                    "tipo: pronombre-sin-referencia"
+                ],
+                "error_3": [
+                    "cada uno de sus miembros → cada uno de los miembros de la sociedad",
+                    "tipo: pronombre-sin-referencia"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 19,
+        "resultado": {
+            "errores_cohesion_referencia": {}
+        }
+    },
+    {
+        "id_texto": 20,
+        "resultado": {
+            "errores_cohesion_referencia": {
+                "error_1": [
+                    "dejarlos salir → dejar salir a las personas",
+                    "tipo: pronombre-sin-referencia"
+                ],
+                "error_2": [
+                    "esta situación → el uso del transporte público",
+                    "tipo: pronombre-sin-referencia"
+                ],
+                "error_3": [
+                    "Es por esto → Por la ampliación de la crisis más allá de la sanidad",
+                    "tipo: pronombre-sin-referencia"
+                ]
+            }
+        }
+    }
+]

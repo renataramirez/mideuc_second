@@ -1,0 +1,412 @@
+[
+    {
+        "id_texto": 1,
+        "resultado": {
+            "errores_cohesion_concordancia": {
+                "error_1": [
+                    "te pide → te piden",
+                    "tipo: sujeto-predicado"
+                ],
+                "error_2": [
+                    "abstracta → abstracto",
+                    "tipo: sustantivo-adjetivo"
+                ],
+                "error_3": [
+                    "es una buena opcion → son una buena opción",
+                    "tipo: sujeto-predicado"
+                ],
+                "error_4": [
+                    "eficiente → eficientes",
+                    "tipo: sustantivo-adjetivo"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 2,
+        "resultado": {
+            "errores_cohesion_concordancia": {
+                "error_1": [
+                    "uno el más preocupantes → uno de los más preocupantes",
+                    "tipo: sustantivo-adjetivo"
+                ],
+                "error_2": [
+                    "aprendizaje cognitivo, son → aprendizaje cognitivo, es",
+                    "tipo: sujeto-predicado"
+                ],
+                "error_3": [
+                    "desarrollan → desarrolla",
+                    "tipo: sujeto-predicado"
+                ],
+                "error_4": [
+                    "convierten → convierte",
+                    "tipo: sujeto-predicado"
+                ],
+                "error_5": [
+                    "cognitiva → cognitivo",
+                    "tipo: sustantivo-adjetivo"
+                ],
+                "error_6": [
+                    "selectiva → selectivo",
+                    "tipo: sustantivo-adjetivo"
+                ],
+                "error_7": [
+                    "se requiren → se requieren",
+                    "tipo: sujeto-predicado"
+                ],
+                "error_8": [
+                    "vacunarse, el cual → vacunarse, lo cual",
+                    "tipo: pronombre-relativo"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 3,
+        "resultado": {
+            "errores_cohesion_concordancia": {
+                "error_1": [
+                    "pueden haber → puede haber",
+                    "tipo: sujeto-predicado"
+                ],
+                "error_2": [
+                    "ayudarán → ayudará",
+                    "tipo: sujeto-predicado"
+                ],
+                "error_3": [
+                    "serán → será",
+                    "tipo: sujeto-predicado"
+                ],
+                "error_4": [
+                    "disminuirán → disminuirá",
+                    "tipo: sujeto-predicado"
+                ],
+                "error_5": [
+                    "personas quienes → personas que",
+                    "tipo: pronombre-relativo"
+                ],
+                "error_6": [
+                    "pudiese → pudiera",
+                    "tipo: B"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 4,
+        "resultado": {
+            "errores_cohesion_concordancia": {
+                "error_1": [
+                    "la importancia ... son las encargadas → la importancia ... es la encargada",
+                    "tipo: sujeto-predicado"
+                ],
+                "error_2": [
+                    "son necesarias que las practicas → son necesarias las prácticas",
+                    "tipo: sujeto-predicado"
+                ],
+                "error_3": [
+                    "las practicas ... será → las prácticas ... serán",
+                    "tipo: sujeto-predicado"
+                ],
+                "error_4": [
+                    "Esos cambios ... puede provocar → Esos cambios ... pueden provocar",
+                    "tipo: sujeto-predicado"
+                ],
+                "error_5": [
+                    "cada una de las personas que buscan → cada una de las personas que busca",
+                    "tipo: pronombre-relativo"
+                ],
+                "error_6": [
+                    "cambios ... debe estar → cambios ... deben estar",
+                    "tipo: sujeto-predicado"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 5,
+        "resultado": {
+            "errores_cohesion_concordancia": {
+                "error_1": [
+                    "hace que → hacen que",
+                    "tipo: sujeto-predicado"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 6,
+        "resultado": {
+            "errores_cohesion_concordancia": {
+                "error_1": [
+                    "han generado → ha generado",
+                    "tipo: sujeto-predicado"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 7,
+        "resultado": {
+            "errores_cohesion_concordancia": {
+                "error_1": [
+                    "poblaciones incluídas → poblaciones incluidas",
+                    "tipo: sustantivo-adjetivo"
+                ],
+                "error_2": [
+                    "a los cuales → al cual",
+                    "tipo: pronombre-relativo"
+                ],
+                "error_3": [
+                    "que opinan → que opina",
+                    "tipo: sujeto-predicado"
+                ],
+                "error_4": [
+                    "repercutirán → repercutirá",
+                    "tipo: sujeto-predicado"
+                ],
+                "error_5": [
+                    "si se logra ... sería → si se logra ... será",
+                    "tipo: B"
+                ],
+                "error_6": [
+                    "por la cual → por las cuales",
+                    "tipo: pronombre-relativo"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 8,
+        "resultado": {
+            "errores_cohesion_concordancia": {
+                "error_1": [
+                    "consecuencias que puede tener → consecuencias que pueden tener",
+                    "tipo: sujeto-predicado"
+                ],
+                "error_2": [
+                    "...pueden descansar, realizar sus pasatiempos y es un escape → ...pueden descansar, realizar sus pasatiempos y ser un escape",
+                    "tipo: A"
+                ],
+                "error_3": [
+                    "ya que trabajas → ya que trabajan",
+                    "tipo: sujeto-predicado"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 9,
+        "resultado": {
+            "errores_cohesion_concordancia": {
+                "error_1": [
+                    "tareas diaras → tareas diarias",
+                    "tipo: sustantivo-adjetivo"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 10,
+        "resultado": {
+            "errores_cohesion_concordancia": {
+                "error_1": [
+                    "quienes han impusado → que ha impulsado",
+                    "tipo: pronombre-relativo"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 11,
+        "resultado": {
+            "errores_cohesion_concordancia": {
+                "error_1": [
+                    "individualismo y explotación actual → individualismo y explotación actuales",
+                    "tipo: sustantivo-adjetivo"
+                ],
+                "error_2": [
+                    "la forma de vida de la personas → la forma de vida de las personas",
+                    "tipo: sustantivo-adjetivo"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 12,
+        "resultado": {
+            "errores_cohesion_concordancia": {
+                "error_1": [
+                    "entre ello → entre ellas",
+                    "tipo: pronombre-relativo"
+                ],
+                "error_2": [
+                    "que ... es una manera → que ... son una manera",
+                    "tipo: pronombre-relativo"
+                ],
+                "error_3": [
+                    "La promoción de las prácticas de autocuidado son importantes → La promoción de las prácticas de autocuidado es importante",
+                    "tipo: sujeto-predicado"
+                ],
+                "error_4": [
+                    "La alimentación ... o la incorporación de probióticos ayudan → La alimentación ... o la incorporación de probióticos ayuda",
+                    "tipo: sujeto-predicado"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 13,
+        "resultado": {
+            "errores_cohesion_concordancia": {
+                "error_1": [
+                    "se frente → se enfrentó",
+                    "tipo: sujeto-predicado"
+                ],
+                "error_2": [
+                    "todos el voto → el voto de uno / el voto de cada uno",
+                    "tipo: sujeto-predicado"
+                ],
+                "error_3": [
+                    "en el casos → en el caso / en los casos",
+                    "tipo: sustantivo-adjetivo"
+                ],
+                "error_4": [
+                    "aun se encontraran → aún se encontrarán",
+                    "tipo: B"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 14,
+        "resultado": {
+            "errores_cohesion_concordancia": {}
+        }
+    },
+    {
+        "id_texto": 15,
+        "resultado": {
+            "errores_cohesion_concordancia": {
+                "error_1": [
+                    "se ve alterado → se ven alterados",
+                    "tipo: sujeto-predicado"
+                ],
+                "error_2": [
+                    "el estar trabajando de manera remota se ven severamente afectadas → el estar trabajando de manera remota se ve severamente afectado",
+                    "tipo: sujeto-predicado"
+                ],
+                "error_3": [
+                    "del estar 'encerrados' → de estar 'encerrados'",
+                    "tipo: sustantivo-adjetivo"
+                ],
+                "error_4": [
+                    "sumado a las activiades basicas → sumadas a las actividades básicas",
+                    "tipo: sustantivo-adjetivo"
+                ],
+                "error_5": [
+                    "de estos → de estas personas",
+                    "tipo: pronombre-relativo"
+                ],
+                "error_6": [
+                    "se han visto ... se vio un aumento → se han visto ... se ha visto un aumento",
+                    "tipo: A"
+                ],
+                "error_7": [
+                    "han aumentado las consultas ... se vio aumentado el uso → han aumentado las consultas ... se ha visto aumentado el uso",
+                    "tipo: A"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 16,
+        "resultado": {
+            "errores_cohesion_concordancia": {
+                "error_1": [
+                    "no escenciales → no esenciales",
+                    "tipo: sustantivo-adjetivo"
+                ],
+                "error_2": [
+                    "su puertas → sus puertas",
+                    "tipo: sustantivo-adjetivo"
+                ],
+                "error_3": [
+                    "Pese a que se realicen → Pese a que se realizan",
+                    "tipo: B"
+                ],
+                "error_4": [
+                    "estos sean revisados → estos son revisados",
+                    "tipo: B"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 17,
+        "resultado": {
+            "errores_cohesion_concordancia": {
+                "error_1": [
+                    "a pesar de que hagamos → a pesar de que hacemos",
+                    "tipo: B"
+                ],
+                "error_2": [
+                    "la población ... son pequeños → la población ... es pequeña",
+                    "tipo: sujeto-predicado"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 18,
+        "resultado": {
+            "errores_cohesion_concordancia": {
+                "error_1": [
+                    "los individuo → los individuos",
+                    "tipo: sustantivo-adjetivo"
+                ],
+                "error_2": [
+                    "que coexistían → que coexistía",
+                    "tipo: pronombre-relativo"
+                ],
+                "error_3": [
+                    "disciplina que se adscriba → disciplina a la que se adscriba",
+                    "tipo: pronombre-relativo"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 19,
+        "resultado": {
+            "errores_cohesion_concordancia": {}
+        }
+    },
+    {
+        "id_texto": 20,
+        "resultado": {
+            "errores_cohesion_concordancia": {
+                "error_1": [
+                    "la gente ... usan → la gente ... usa",
+                    "tipo: sujeto-predicado"
+                ],
+                "error_2": [
+                    "la gente de mayores recursos ... son → la gente de mayores recursos ... es",
+                    "tipo: sujeto-predicado"
+                ],
+                "error_3": [
+                    "los más aptos → las más aptas",
+                    "tipo: sustantivo-adjetivo"
+                ],
+                "error_4": [
+                    "la gente ... trabajan → la gente ... trabaja",
+                    "tipo: sujeto-predicado"
+                ],
+                "error_5": [
+                    "persona ... desesperado → persona ... desesperada",
+                    "tipo: sustantivo-adjetivo"
+                ]
+            }
+        }
+    }
+]

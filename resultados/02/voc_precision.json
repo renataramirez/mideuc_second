@@ -1,0 +1,640 @@
+[
+    {
+        "id_texto": 1,
+        "resultado": {
+            "errores_precision": {
+                "error_1": [
+                    "status quo → situación vigente (traducir o explicar el extranjerismo)",
+                    "EXTRANJERISMO"
+                ],
+                "error_2": [
+                    "hay que denotar → hay que señalar / destacar",
+                    "USO INCORRECTO DE SIGNIFICADOS"
+                ],
+                "error_3": [
+                    "malversacion → mala interpretación / tergiversación (malversación significa malversar fondos)",
+                    "USO INCORRECTO DE SIGNIFICADOS"
+                ],
+                "error_4": [
+                    "por sobrevivencias → por supervivencia / para sobrevivir",
+                    "USO INCORRECTO DE SIGNIFICADOS"
+                ],
+                "error_5": [
+                    "requieres en material de la persona → requieres solo el material de la persona / solo el equipo personal",
+                    "USO INCORRECTO DE SIGNIFICADOS"
+                ],
+                "error_6": [
+                    "maltrato o negligente trato → maltrato / trato negligente (evitar repetir la misma idea)",
+                    "REDUNDANCIA"
+                ],
+                "error_7": [
+                    "eficiente y vitalmente → con peores resultados tanto en eficiencia como para la salud",
+                    "USO INCORRECTO DE SIGNIFICADOS"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 2,
+        "resultado": {
+            "errores_precision": {
+                "errores_vocabulario_precision": {
+                    "error_1": [
+                        "está incerto → está integrado / inserto / incorporado",
+                        "USO INCORRECTO DE SIGNIFICADOS"
+                    ],
+                    "error_2": [
+                        "\"revaño\" → \"rebaño\" (inmunidad de rebaño)",
+                        "USO INCORRECTO DE SIGNIFICADOS"
+                    ],
+                    "error_3": [
+                        "Potificia Universidad Católica → Pontificia Universidad Católica",
+                        "USO INCORRECTO DE SIGNIFICADOS"
+                    ],
+                    "error_4": [
+                        "alcohol gel → gel hidroalcohólico / gel desinfectante",
+                        "EXTRANJERISMO"
+                    ],
+                    "error_5": [
+                        "desde la cuna y en casa → desde la cuna / en casa",
+                        "REDUNDANCIA"
+                    ],
+                    "error_6": [
+                        "aprendizaje virtual, limita las capacidades de aprendizaje → educación virtual limita las capacidades (eliminar la repetición de \"aprendizaje\")",
+                        "REDUNDANCIA"
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "id_texto": 3,
+        "resultado": {
+            "errores_precision": {
+                "error_1": [
+                    "cabemos → cabe / conviene / debemos tener en cuenta",
+                    "USO INCORRECTO DE SIGNIFICADOS"
+                ],
+                "error_2": [
+                    "imparto → impacto",
+                    "USO INCORRECTO DE SIGNIFICADOS"
+                ],
+                "error_3": [
+                    "bus → autobús / ómnibus",
+                    "EXTRANJERISMO"
+                ],
+                "error_4": [
+                    "cuidad → ciudad",
+                    "USO INCORRECTO DE SIGNIFICADOS"
+                ],
+                "error_5": [
+                    "ciudados → ciudades",
+                    "USO INCORRECTO DE SIGNIFICADOS"
+                ],
+                "error_6": [
+                    "apalear → paliar / mitigar",
+                    "USO INCORRECTO DE SIGNIFICADOS"
+                ],
+                "error_7": [
+                    "actuar → (repetición innecesaria; usar sinónimo como 'comportamiento' o eliminar repeticiones')",
+                    "REDUNDANCIA"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 4,
+        "resultado": {
+            "errores_precision": {
+                "error_1": [
+                    "se encuentra viviendo nuestra salud → nuestra salud se ve afectada / nosotros vivimos",
+                    "USO INCORRECTO DE SIGNIFICADOS"
+                ],
+                "error_2": [
+                    "ocupar bolsas → usar bolsas / emplear bolsas",
+                    "USO INCORRECTO DE SIGNIFICADOS"
+                ],
+                "error_3": [
+                    "gases inevernaderos → gases de efecto invernadero",
+                    "USO INCORRECTO DE SIGNIFICADOS"
+                ],
+                "error_4": [
+                    "viviendo diariamente → viviendo (o habitualmente)",
+                    "REDUNDANCIA"
+                ],
+                "error_5": [
+                    "de alguna forma → (evitar repetir; usar solo una vez o sustituir por 'así'/'de ese modo')",
+                    "REDUNDANCIA"
+                ],
+                "error_6": [
+                    "un tipo de cultura social → una cultura / una práctica cultural",
+                    "REDUNDANCIA"
+                ],
+                "error_7": [
+                    "muchas veces (repetido) → eliminar la repetición / usar sin duplicar",
+                    "REDUNDANCIA"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 5,
+        "resultado": {
+            "errores_precision": {
+                "error_1": [
+                    "de poder decir → de decir",
+                    "REDUNDANCIA"
+                ],
+                "error_2": [
+                    "permitir ... permitiría → abriría la posibilidad de que",
+                    "REDUNDANCIA"
+                ],
+                "error_3": [
+                    "permitir que alguien pueda → permitir que alguien tome la decisión",
+                    "REDUNDANCIA"
+                ],
+                "error_4": [
+                    "ex ante → de antemano / previamente",
+                    "EXTRANJERISMO"
+                ],
+                "error_5": [
+                    "ex post → a posteriori / posteriormente / con posterioridad",
+                    "EXTRANJERISMO"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 6,
+        "resultado": {
+            "errores_precision": {
+                "error_1": [
+                    "para poder → para",
+                    "REDUNDANCIA"
+                ],
+                "error_2": [
+                    "debidas cuarentenas → cuarentenas",
+                    "REDUNDANCIA"
+                ],
+                "error_3": [
+                    "desde sus casas → desde casa",
+                    "REDUNDANCIA"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 7,
+        "resultado": {
+            "errores_precision": {
+                "error_1": [
+                    "espacios ... que sean espacios → eliminar la repetición de 'espacios' (ej.: 'que sean de gran diversidad cultural, seguros y respetuosos')",
+                    "REDUNDANCIA"
+                ],
+                "error_2": [
+                    "esfuerzo en querer → esfuerzo por lograr/realizar",
+                    "REDUNDANCIA"
+                ],
+                "error_3": [
+                    "orígenes y dónde vienen sus raíces → elegir uno: 'orígenes' o 'raíces' (evitar repetir la idea)",
+                    "REDUNDANCIA"
+                ],
+                "error_4": [
+                    "como lo nombra la palabra → como indica/sugiere la palabra o el término",
+                    "USO INCORRECTO DE SIGNIFICADOS"
+                ],
+                "error_5": [
+                    "pérdida cultural, los valores y tradiciones → pérdida de los valores y tradiciones (orden y preposición incorrectos que alteran la claridad)",
+                    "USO INCORRECTO DE SIGNIFICADOS"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 8,
+        "resultado": {
+            "errores_precision": {
+                "error_1": [
+                    "online → en línea (o 'a distancia')",
+                    "EXTRANJERISMO"
+                ],
+                "error_2": [
+                    "normas y regulaciones → normas (o regulaciones)",
+                    "REDUNDANCIA"
+                ],
+                "error_3": [
+                    "realizando ... realizaban → realizar ... desempeñaban (evitar la repetición 'realizar/realizaban')",
+                    "REDUNDANCIA"
+                ],
+                "error_4": [
+                    "El estrés del trabajo ... El estrés que causa la vida laboral → eliminar o fusionar una de las oraciones (idea repetida)",
+                    "REDUNDANCIA"
+                ],
+                "error_5": [
+                    "a la vista de los empleadores → a ojos de los empleadores / según los empleadores",
+                    "USO INCORRECTO DE SIGNIFICADOS"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 9,
+        "resultado": {
+            "errores_precision": {
+                "error_1": [
+                    "sanidad mental → salud mental",
+                    "USO INCORRECTO DE SIGNIFICADOS"
+                ],
+                "error_2": [
+                    "dejando de forma separada → manteniendo separado",
+                    "USO INCORRECTO DE SIGNIFICADOS"
+                ],
+                "error_3": [
+                    "llevar a cabo ... al llevar a cabo → evitar la repetición (p. ej., 'implementar' o 'aplicar')",
+                    "REDUNDANCIA"
+                ],
+                "error_4": [
+                    "trabajo desde el hogar → (repetitivo con 'teletrabajo') eliminar o sustituir",
+                    "REDUNDANCIA"
+                ],
+                "error_5": [
+                    "de descanso y tranquilidad → eliminar uno de los términos (p. ej., 'descanso')",
+                    "REDUNDANCIA"
+                ],
+                "error_6": [
+                    "teletrabajo de manera sana → teletrabajo de manera saludable",
+                    "USO INCORRECTO DE SIGNIFICADOS"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 10,
+        "resultado": {
+            "errores_precision": {
+                "error_1": [
+                    "alteraciones en el aprendizaje → deficiencias en el aprendizaje",
+                    "USO INCORRECTO DE SIGNIFICADOS"
+                ],
+                "error_2": [
+                    "salud mental que difiere de lo saludable → salud mental deteriorada / no saludable",
+                    "USO INCORRECTO DE SIGNIFICADOS"
+                ],
+                "error_3": [
+                    "muestras que → evidencias de que / indicios de que",
+                    "USO INCORRECTO DE SIGNIFICADOS"
+                ],
+                "error_4": [
+                    "impusado → impulsado",
+                    "USO INCORRECTO DE SIGNIFICADOS"
+                ],
+                "error_5": [
+                    "y, además, → además,",
+                    "REDUNDANCIA"
+                ],
+                "error_6": [
+                    "anteriormente mencionados → mencionados",
+                    "REDUNDANCIA"
+                ],
+                "error_7": [
+                    "son la solución → (evitar repetir) 'son la solución' (elimine la repetición)",
+                    "REDUNDANCIA"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 11,
+        "resultado": {
+            "errores_precision": {
+                "error_1": [
+                    "en vez → en cambio (o usar 'en vez de' si sigue a un sustantivo)",
+                    "USO INCORRECTO DE SIGNIFICADOS"
+                ],
+                "error_2": [
+                    "sobretodo → sobre todo",
+                    "USO INCORRECTO DE SIGNIFICADOS"
+                ],
+                "error_3": [
+                    "hacer un mundo mejor para todos → suprimir o reformular la segunda reiteración para evitar repetir la misma idea",
+                    "REDUNDANCIA"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 12,
+        "resultado": {
+            "errores_precision": {
+                "error_1": [
+                    "en efecto → en efecto (uso impropio); sugerencia: 'efectivamente' o 'si bien'",
+                    "USO INCORRECTO DE SIGNIFICADOS"
+                ],
+                "error_2": [
+                    "poner soluciones parche → poner parches / aplicar soluciones paliativas",
+                    "USO INCORRECTO DE SIGNIFICADOS"
+                ],
+                "error_3": [
+                    "problemas efectivos → problemas reales / problemas de fondo",
+                    "USO INCORRECTO DE SIGNIFICADOS"
+                ],
+                "error_4": [
+                    "entre ello → entre ellos",
+                    "USO INCORRECTO DE SIGNIFICADOS"
+                ],
+                "error_5": [
+                    "prácticas de autocuidado y hábitos saludables → (redundante) elegir uno u otro o especificar la diferencia",
+                    "REDUNDANCIA"
+                ],
+                "error_6": [
+                    "a postura → a una postura / a adoptar una postura / hacia una postura",
+                    "USO INCORRECTO DE SIGNIFICADOS"
+                ],
+                "error_7": [
+                    "relevacia → relevancia",
+                    "USO INCORRECTO DE SIGNIFICADOS"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 13,
+        "resultado": {
+            "errores_precision": {
+                "error_1": [
+                    "salieron de este proceso, saliendo → salieron de este proceso y pasaron a",
+                    "REDUNDANCIA"
+                ],
+                "error_2": [
+                    "posible ... posibles → eliminar la repetición: 'aunque sea posible realizar las elecciones con todas las precauciones' o 'con todas las precauciones posibles' (solo una vez 'posible')",
+                    "REDUNDANCIA"
+                ],
+                "error_3": [
+                    "pandemia mundial → evitar repetición; usar solo 'pandemia' en una de las menciones",
+                    "REDUNDANCIA"
+                ],
+                "error_4": [
+                    "a nivel mundial → evitar repetir 'a nivel mundial' (ya se dijo 'pandemia mundial')",
+                    "REDUNDANCIA"
+                ],
+                "error_5": [
+                    "sufragiar → votar (o 'sufragar')",
+                    "USO INCORRECTO DE SIGNIFICADOS"
+                ],
+                "error_6": [
+                    "virus asintomático → persona asintomática (el virus no presenta síntomas; la persona sí)",
+                    "USO INCORRECTO DE SIGNIFICADOS"
+                ],
+                "error_7": [
+                    "todos el voto de uno → el voto de cada uno",
+                    "USO INCORRECTO DE SIGNIFICADOS"
+                ],
+                "error_8": [
+                    "a su parte → hacia ellos / a ellos",
+                    "USO INCORRECTO DE SIGNIFICADOS"
+                ],
+                "error_9": [
+                    "en el derecho en su derecho a voto → en su derecho a voto",
+                    "REDUNDANCIA"
+                ],
+                "error_10": [
+                    "super contagioso → muy contagioso (o 'súper' con tilde y en registro coloquial)",
+                    "EXTRANJERISMO"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 14,
+        "resultado": {
+            "errores_precision": {
+                "error_1": [
+                    "indeminzación → indemnización",
+                    "USO INCORRECTO DE SIGNIFICADOS"
+                ],
+                "error_2": [
+                    "lo que se conoce como el Caso Soquimich → el Caso Soquimich",
+                    "REDUNDANCIA"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 15,
+        "resultado": {
+            "errores_precision": {
+                "error_1": [
+                    "oficianas → oficinas",
+                    "USO INCORRECTO DE SIGNIFICADOS"
+                ],
+                "error_2": [
+                    "mails → correos electrónicos",
+                    "EXTRANJERISMO"
+                ],
+                "error_3": [
+                    "generadas debido a → generadas por / debido a (eliminar la duplicación)",
+                    "REDUNDANCIA"
+                ],
+                "error_4": [
+                    "trastornos ansiosos → trastornos de ansiedad",
+                    "USO INCORRECTO DE SIGNIFICADOS"
+                ],
+                "error_5": [
+                    "el trabajo se vio obligado a realizarse → los trabajadores se vieron obligados (a realizar su trabajo desde el hogar)",
+                    "USO INCORRECTO DE SIGNIFICADOS"
+                ],
+                "error_6": [
+                    "signos ansiosos → signos o síntomas de ansiedad",
+                    "USO INCORRECTO DE SIGNIFICADOS"
+                ],
+                "error_7": [
+                    "se ven severamente afectadas repercutiendo negativamente → se ven severamente afectadas (o repercute negativamente)",
+                    "REDUNDANCIA"
+                ],
+                "error_8": [
+                    "como por ejemplo → por ejemplo",
+                    "REDUNDANCIA"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 16,
+        "resultado": {
+            "errores_precision": {
+                "error_1": [
+                    "ocpuar → usar / tomar / disponer de",
+                    "USO INCORRECTO DE SIGNIFICADOS"
+                ],
+                "error_2": [
+                    "producido debido a → producido por / debido a (usar solo uno)",
+                    "REDUNDANCIA"
+                ],
+                "error_3": [
+                    "completar satisfactoriamente con los requerimientos → cumplir/satisfacer los requerimientos",
+                    "USO INCORRECTO DE SIGNIFICADOS"
+                ],
+                "error_4": [
+                    "en que estamos → (eliminar 'en que estamos')",
+                    "REDUNDANCIA"
+                ],
+                "error_5": [
+                    "esta última → la educación / esta",
+                    "REDUNDANCIA"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 17,
+        "resultado": {
+            "errores_precision": {
+                "error_1": [
+                    "suciedad al aire → suciedad en el aire; mejor: contaminantes en el aire",
+                    "USO INCORRECTO DE SIGNIFICADOS"
+                ],
+                "error_2": [
+                    "vida útil de nuestros pulmones → salud/funcionamiento/capacidad pulmonar (o 'salud pulmonar')",
+                    "USO INCORRECTO DE SIGNIFICADOS"
+                ],
+                "error_3": [
+                    "cantidad de deporte → cantidad de práctica deportiva / horas de educación física",
+                    "USO INCORRECTO DE SIGNIFICADOS"
+                ],
+                "error_4": [
+                    "lanzar alguna campaña o ley → promover/implementar/aprobar una ley (lanzar no es apropiado para 'ley')",
+                    "USO INCORRECTO DE SIGNIFICADOS"
+                ],
+                "error_5": [
+                    "como al no tenerlo → como si no la tuviéramos / como si no existiera (frase ambigua e imprecisa)",
+                    "USO INCORRECTO DE SIGNIFICADOS"
+                ],
+                "error_6": [
+                    "desde pequeños → (repetido) variar: 'desde la infancia', 'desde temprana edad' o eliminar repeticiones",
+                    "REDUNDANCIA"
+                ],
+                "error_7": [
+                    "muy importante → (repetido) variar: 'relevante', 'fundamental' o reducir repeticiones",
+                    "REDUNDANCIA"
+                ],
+                "error_8": [
+                    "gran problema → (repetido) variar o evitar reiteración",
+                    "REDUNDANCIA"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 18,
+        "resultado": {
+            "errores_precision": {
+                "error_1": [
+                    "Acusando → evidenciando / mostrando",
+                    "USO INCORRECTO DE SIGNIFICADOS"
+                ],
+                "error_2": [
+                    "actúen antes las consecuencias → actúen ante las consecuencias",
+                    "USO INCORRECTO DE SIGNIFICADOS"
+                ],
+                "error_3": [
+                    "acceso de alimentos → acceso a alimentos",
+                    "USO INCORRECTO DE SIGNIFICADOS"
+                ],
+                "error_4": [
+                    "cuidado y el mantenimiento de la salud → cuidado de la salud (o mantenimiento de la salud)",
+                    "REDUNDANCIA"
+                ],
+                "error_5": [
+                    "demás integrantes de su misma especie → demás integrantes / otros",
+                    "REDUNDANCIA"
+                ],
+                "error_6": [
+                    "campo y/o disciplina → campo o disciplina",
+                    "REDUNDANCIA"
+                ],
+                "error_7": [
+                    "en primera instancia (repetido) → evitar la repetición / usar una sola vez",
+                    "REDUNDANCIA"
+                ],
+                "error_8": [
+                    "mejor calidad de políticas públicas → mejores políticas públicas (o mejorar las políticas públicas)",
+                    "REDUNDANCIA"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 19,
+        "resultado": {
+            "errores_precision": {
+                "error_1": [
+                    "evidenciaron → afectaron a / pusieron de manifiesto",
+                    "USO INCORRECTO DE SIGNIFICADOS"
+                ],
+                "error_2": [
+                    "paises y estados → países (o estados)",
+                    "REDUNDANCIA"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 20,
+        "resultado": {
+            "errores_precision": {
+                "error_1": [
+                    "El covid-19 es un virus → COVID-19 es la enfermedad causada por el virus SARS‑CoV‑2",
+                    "USO INCORRECTO DE SIGNIFICADOS"
+                ],
+                "error_2": [
+                    "asotado → azotado",
+                    "USO INCORRECTO DE SIGNIFICADOS"
+                ],
+                "error_3": [
+                    "psicología → salud mental / bienestar psicológico",
+                    "USO INCORRECTO DE SIGNIFICADOS"
+                ],
+                "error_4": [
+                    "ocacionando → ocasionando",
+                    "USO INCORRECTO DE SIGNIFICADOS"
+                ],
+                "error_5": [
+                    "más riesgosa a nuevos contagios → más propensa a contagiarse / con mayor riesgo de contagio",
+                    "USO INCORRECTO DE SIGNIFICADOS"
+                ],
+                "error_6": [
+                    "trabajan como mano de obra → trabajan como obreros / realizan trabajos manuales",
+                    "USO INCORRECTO DE SIGNIFICADOS"
+                ],
+                "error_7": [
+                    "usando sus manos para trabajar → (redundante) 'trabajos manuales' o suprimir",
+                    "REDUNDANCIA"
+                ],
+                "error_8": [
+                    "generalemente → generalmente",
+                    "USO INCORRECTO DE SIGNIFICADOS"
+                ],
+                "error_9": [
+                    "aún que → aunque",
+                    "USO INCORRECTO DE SIGNIFICADOS"
+                ],
+                "error_10": [
+                    "santiario → sanitario",
+                    "USO INCORRECTO DE SIGNIFICADOS"
+                ],
+                "error_11": [
+                    "paises → países",
+                    "USO INCORRECTO DE SIGNIFICADOS"
+                ],
+                "error_12": [
+                    "dificil → difícil",
+                    "USO INCORRECTO DE SIGNIFICADOS"
+                ],
+                "error_13": [
+                    "necesita del dinero → necesita el dinero / necesita dinero",
+                    "USO INCORRECTO DE SIGNIFICADOS"
+                ]
+            }
+        }
+    }
+]

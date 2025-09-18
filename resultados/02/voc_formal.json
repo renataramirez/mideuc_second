@@ -1,0 +1,360 @@
+[
+    {
+        "id_texto": 1,
+        "resultado": {
+            "errores_vocabulario_formal": {
+                "error_1": [
+                    "tus propios barrios → sus propios barrios",
+                    "SEGUNDA PERSONA SINGULAR"
+                ],
+                "error_2": [
+                    "tus derechos → sus derechos",
+                    "SEGUNDA PERSONA SINGULAR"
+                ],
+                "error_3": [
+                    "tus trabajadores → sus trabajadores",
+                    "SEGUNDA PERSONA SINGULAR"
+                ],
+                "error_4": [
+                    "te pide → se le pide al trabajador",
+                    "SEGUNDA PERSONA SINGULAR"
+                ],
+                "error_5": [
+                    "te adaptes → que se adapte",
+                    "SEGUNDA PERSONA SINGULAR"
+                ],
+                "error_6": [
+                    "tu salud mental → la salud mental / su salud mental",
+                    "SEGUNDA PERSONA SINGULAR"
+                ],
+                "error_7": [
+                    "tu sueño → el sueño / su sueño",
+                    "SEGUNDA PERSONA SINGULAR"
+                ],
+                "error_8": [
+                    "hacer lo que quieras → hacer lo que se desee",
+                    "SEGUNDA PERSONA SINGULAR"
+                ],
+                "error_9": [
+                    "cuando quieras → cuando se desee",
+                    "SEGUNDA PERSONA SINGULAR"
+                ],
+                "error_10": [
+                    "Si te obligan → Si se obliga al trabajador",
+                    "SEGUNDA PERSONA SINGULAR"
+                ],
+                "error_11": [
+                    "tu empleador → su empleador",
+                    "SEGUNDA PERSONA SINGULAR"
+                ],
+                "error_12": [
+                    "pones a tus empleados → expone a sus empleados",
+                    "SEGUNDA PERSONA SINGULAR"
+                ],
+                "error_13": [
+                    "La verdad es que no → En realidad, no",
+                    "COLOQUIALISMOS"
+                ],
+                "error_14": [
+                    "Pues → Puesto que (o Dado que)",
+                    "COLOQUIALISMOS"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 2,
+        "resultado": {
+            "errores_vocabulario_formal": {}
+        }
+    },
+    {
+        "id_texto": 3,
+        "resultado": {
+            "errores_vocabulario_formal": {
+                "error_1": [
+                    "bus → transporte público / autobús",
+                    "ABREVIACIONES"
+                ],
+                "error_2": [
+                    "apalear → mitigar / atenuar",
+                    "COLOQUIALISMOS"
+                ],
+                "error_3": [
+                    "\"granito de arena\" → contribución individual / aportación",
+                    "COLOQUIALISMOS"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 4,
+        "resultado": {
+            "errores_vocabulario_formal": {
+                "error_1": [
+                    "gente → las personas / la población",
+                    "COLOQUIALISMOS"
+                ],
+                "error_2": [
+                    "Pongo el caso de que → Por ejemplo, si / Supongamos que",
+                    "COLOQUIALISMOS"
+                ],
+                "error_3": [
+                    "dejar de ocupar bolsas → dejar de utilizar/usar bolsas",
+                    "COLOQUIALISMOS"
+                ],
+                "error_4": [
+                    "a los basureros → en los contenedores de residuos",
+                    "COLOQUIALISMOS"
+                ],
+                "error_5": [
+                    "\"las acciones arrastran\" → las acciones generan efectos multiplicadores / las acciones incentivan a otras personas",
+                    "COLOQUIALISMOS"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 5,
+        "resultado": {
+            "errores_vocabulario_formal": {}
+        }
+    },
+    {
+        "id_texto": 6,
+        "resultado": {
+            "errores_vocabulario_formal": {
+                "error_1": [
+                    "encierro → confinamiento",
+                    "COLOQUIALISMOS"
+                ],
+                "error_2": [
+                    "sus casas → sus hogares",
+                    "COLOQUIALISMOS"
+                ],
+                "error_3": [
+                    "covid-19 → COVID-19",
+                    "ABREVIACIONES"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 7,
+        "resultado": {
+            "errores_vocabulario_formal": {}
+        }
+    },
+    {
+        "id_texto": 8,
+        "resultado": {
+            "errores_vocabulario_formal": {
+                "error_1": [
+                    "trabajas → las personas trabajan / los trabajadores trabajan",
+                    "SEGUNDA PERSONA SINGULAR"
+                ],
+                "error_2": [
+                    "tengas actitudes desagradables → que las personas presenten actitudes desagradables",
+                    "SEGUNDA PERSONA SINGULAR"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 9,
+        "resultado": {
+            "errores_vocabulario_formal": {
+                "error_1": [
+                    "hobby → afición / pasatiempo",
+                    "COLOQUIALISMOS"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 10,
+        "resultado": {
+            "errores_vocabulario_formal": {}
+        }
+    },
+    {
+        "id_texto": 11,
+        "resultado": {
+            "errores_vocabulario_formal": {
+                "error_1": [
+                    "lo chico → asuntos de menor envergadura",
+                    "COLOQUIALISMOS"
+                ],
+                "error_2": [
+                    "balconeando la vida → limitándose a observar pasivamente la realidad",
+                    "COLOQUIALISMOS"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 12,
+        "resultado": {
+            "errores_vocabulario_formal": {
+                "error_1": [
+                    "soluciones parche → soluciones temporales / medidas paliativas",
+                    "COLOQUIALISMOS"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 13,
+        "resultado": {
+            "errores_vocabulario_formal": {
+                "error_1": [
+                    "todo el rato → con frecuencia / constantemente / en todo momento",
+                    "COLOQUIALISMOS"
+                ],
+                "error_2": [
+                    "super contagioso → muy contagioso / altamente contagioso",
+                    "COLOQUIALISMOS"
+                ],
+                "error_3": [
+                    "de buena forma → de manera adecuada / correctamente",
+                    "COLOQUIALISMOS"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 14,
+        "resultado": {
+            "errores_vocabulario_formal": {}
+        }
+    },
+    {
+        "id_texto": 15,
+        "resultado": {
+            "errores_vocabulario_formal": {
+                "error_1": [
+                    "mails → correos electrónicos",
+                    "COLOQUIALISMOS"
+                ],
+                "error_2": [
+                    "se vio → se observó",
+                    "COLOQUIALISMOS"
+                ],
+                "error_3": [
+                    "se vio → se observó",
+                    "COLOQUIALISMOS"
+                ],
+                "error_4": [
+                    "se vio → se observó",
+                    "COLOQUIALISMOS"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 16,
+        "resultado": {
+            "errores_vocabulario_formal": {
+                "error_1": [
+                    "Por esto → Por ello / Por tanto",
+                    "COLOQUIALISMOS"
+                ],
+                "error_2": [
+                    "día a día → diariamente / cada día",
+                    "COLOQUIALISMOS"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 17,
+        "resultado": {
+            "errores_vocabulario_formal": {
+                "error_1": [
+                    "día a día → diariamente",
+                    "COLOQUIALISMOS"
+                ],
+                "error_2": [
+                    "por lo menos → al menos",
+                    "COLOQUIALISMOS"
+                ],
+                "error_3": [
+                    "la gente → la población / las personas",
+                    "COLOQUIALISMOS"
+                ],
+                "error_4": [
+                    "Por esto → Por tanto / Por ello",
+                    "COLOQUIALISMOS"
+                ],
+                "error_5": [
+                    "cambiar eso → modificar esta situación / corregir esta deficiencia",
+                    "COLOQUIALISMOS"
+                ],
+                "error_6": [
+                    "suciedad → contaminantes / partículas contaminantes",
+                    "COLOQUIALISMOS"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 18,
+        "resultado": {
+            "errores_vocabulario_formal": {
+                "error_1": [
+                    "q → que",
+                    "CÓDIGO ESCRITO NO FORMAL"
+                ],
+                "error_2": [
+                    "entre varios más → entre otros",
+                    "COLOQUIALISMOS"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 19,
+        "resultado": {
+            "errores_vocabulario_formal": {}
+        }
+    },
+    {
+        "id_texto": 20,
+        "resultado": {
+            "errores_vocabulario_formal": {
+                "error_1": [
+                    "La gente → Las personas de menores recursos",
+                    "COLOQUIALISMOS"
+                ],
+                "error_2": [
+                    "gente de mayores recursos → personas con mayores recursos económicos",
+                    "COLOQUIALISMOS"
+                ],
+                "error_3": [
+                    "desde sus casas → desde sus domicilios",
+                    "COLOQUIALISMOS"
+                ],
+                "error_4": [
+                    "usando sus manos para trabajar → realizando labores manuales",
+                    "COLOQUIALISMOS"
+                ],
+                "error_5": [
+                    "mano de obra → desempeñan labores manuales",
+                    "COLOQUIALISMOS"
+                ],
+                "error_6": [
+                    "traer comida → proveer alimentos",
+                    "COLOQUIALISMOS"
+                ],
+                "error_7": [
+                    "trabajar con teletrabajo → emplear el teletrabajo",
+                    "COLOQUIALISMOS"
+                ],
+                "error_8": [
+                    "necesita del dinero → necesita ingresos",
+                    "COLOQUIALISMOS"
+                ]
+            }
+        }
+    }
+]

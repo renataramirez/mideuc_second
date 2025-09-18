@@ -1,0 +1,355 @@
+[
+    {
+        "id_texto": 1,
+        "resultado": {
+            "errores_ortografia_literal": {
+                "error_1": [
+                    "pretenciones → pretensiones"
+                ],
+                "error_2": [
+                    "requieres → requiere"
+                ],
+                "error_3": [
+                    "oportunides → oportunidades"
+                ],
+                "error_4": [
+                    "cybercafes → cibercafes"
+                ],
+                "error_5": [
+                    "los fines de semanas → los fines de semana"
+                ],
+                "error_6": [
+                    "bloqueo de llamada → bloqueo de llamadas"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 2,
+        "resultado": {
+            "errores_ortografia_literal": {
+                "error_1": [
+                    "adoloscentes → adolescentes"
+                ],
+                "error_2": [
+                    "del los → de los"
+                ],
+                "error_3": [
+                    "latinoamérica → Latinoamérica"
+                ],
+                "error_4": [
+                    "refencia → referencia"
+                ],
+                "error_5": [
+                    "disernir → discernir"
+                ],
+                "error_6": [
+                    "incerto → inserto"
+                ],
+                "error_7": [
+                    "Potificia → Pontificia"
+                ],
+                "error_8": [
+                    "requiren → requieren"
+                ],
+                "error_9": [
+                    "desepeñe → desempeñe"
+                ],
+                "error_10": [
+                    "revaño → rebaño"
+                ],
+                "error_11": [
+                    "adolescetes → adolescentes"
+                ],
+                "error_12": [
+                    "proptocolos → protocolos"
+                ],
+                "error_13": [
+                    "desarollo → desarrollo"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 3,
+        "resultado": {
+            "errores_ortografia_literal": {
+                "error_1": [
+                    "mayaría → mayoría"
+                ],
+                "error_2": [
+                    "cabemos → cabe"
+                ],
+                "error_3": [
+                    "imparto → impacto"
+                ],
+                "error_4": [
+                    "habitates → habitantes"
+                ],
+                "error_5": [
+                    "cuidad → ciudad"
+                ],
+                "error_6": [
+                    "consecuncia → consecuencia"
+                ],
+                "error_7": [
+                    "ciudados → ciudades"
+                ],
+                "error_8": [
+                    "apalear → paliar"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 4,
+        "resultado": {
+            "errores_ortografia_literal": {
+                "error_1": [
+                    "no iba hacer → no iba a hacer"
+                ],
+                "error_2": [
+                    "inevernaderos → invernaderos"
+                ],
+                "error_3": [
+                    "ayuda que se disminuyan → ayuda a que se disminuyan"
+                ],
+                "error_4": [
+                    "Esto ayuda que realmente se vean → Esto ayuda a que realmente se vean"
+                ],
+                "error_5": [
+                    "puede provocar → pueden provocar"
+                ],
+                "error_6": [
+                    "en mano de → en manos de"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 5,
+        "resultado": {
+            "errores_ortografia_literal": {}
+        }
+    },
+    {
+        "id_texto": 6,
+        "resultado": {
+            "errores_ortografia_literal": {
+                "error_1": [
+                    "covid-19 → Covid-19"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 7,
+        "resultado": {
+            "errores_ortografia_literal": {}
+        }
+    },
+    {
+        "id_texto": 8,
+        "resultado": {
+            "errores_ortografia_literal": {
+                "error_1": [
+                    "por que → porque"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 9,
+        "resultado": {
+            "errores_ortografia_literal": {
+                "error_1": [
+                    "covid-19 → Covid-19"
+                ],
+                "error_2": [
+                    "práctia → práctica"
+                ],
+                "error_3": [
+                    "diaras → diarias"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 10,
+        "resultado": {
+            "errores_ortografia_literal": {
+                "error_1": [
+                    "impusado → impulsado"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 11,
+        "resultado": {
+            "errores_ortografia_literal": {
+                "error_1": [
+                    "sobretodo → sobre todo"
+                ],
+                "error_2": [
+                    "la personas → las personas"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 12,
+        "resultado": {
+            "errores_ortografia_literal": {
+                "error_1": [
+                    "relevacia → relevancia"
+                ],
+                "error_2": [
+                    "ello → ellos"
+                ],
+                "error_3": [
+                    "efectivos → en efecto"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 13,
+        "resultado": {
+            "errores_ortografia_literal": {
+                "error_1": [
+                    "se frente → se enfrenta"
+                ],
+                "error_2": [
+                    "sufienciente → suficiente"
+                ],
+                "error_3": [
+                    "sufragiar → sufragar"
+                ],
+                "error_4": [
+                    "prodran → podran"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 14,
+        "resultado": {
+            "errores_ortografia_literal": {
+                "error_1": [
+                    "indeminzación → indemnización"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 15,
+        "resultado": {
+            "errores_ortografia_literal": {
+                "error_1": [
+                    "oficianas → oficinas"
+                ],
+                "error_2": [
+                    "peronas → personas"
+                ],
+                "error_3": [
+                    "activiades → actividades"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 16,
+        "resultado": {
+            "errores_ortografia_literal": {
+                "error_1": [
+                    "activdades → actividades"
+                ],
+                "error_2": [
+                    "escenciales → esenciales"
+                ],
+                "error_3": [
+                    "disminur → disminuir"
+                ],
+                "error_4": [
+                    "su puertas → sus puertas"
+                ],
+                "error_5": [
+                    "ministerio de salud → Ministerio de Salud"
+                ],
+                "error_6": [
+                    "ocpuar → ocupar"
+                ],
+                "error_7": [
+                    "evalución → evaluación"
+                ],
+                "error_8": [
+                    "comeinzo → comienzo"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 17,
+        "resultado": {
+            "errores_ortografia_literal": {}
+        }
+    },
+    {
+        "id_texto": 18,
+        "resultado": {
+            "errores_ortografia_literal": {
+                "error_1": [
+                    "virsus → virus"
+                ],
+                "error_2": [
+                    "antes → ante"
+                ],
+                "error_3": [
+                    "individuo → individuos"
+                ],
+                "error_4": [
+                    "q → que"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 19,
+        "resultado": {
+            "errores_ortografia_literal": {
+                "error_1": [
+                    "covid-19 → Covid-19"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 20,
+        "resultado": {
+            "errores_ortografia_literal": {
+                "error_1": [
+                    "covid-19 → Covid-19"
+                ],
+                "error_2": [
+                    "ocacionando → ocasionando"
+                ],
+                "error_3": [
+                    "generalemente → generalmente"
+                ],
+                "error_4": [
+                    "In cambio → En cambio"
+                ],
+                "error_5": [
+                    "aún que → aunque"
+                ],
+                "error_6": [
+                    "covid-19 → Covid-19"
+                ],
+                "error_7": [
+                    "santiario → sanitario"
+                ]
+            }
+        }
+    }
+]
