@@ -1,0 +1,598 @@
+[
+    {
+        "id_texto": 1,
+        "resultado": {
+            "texto_original_preview": "Los animos en nuestra actual pandemia no se hallan errados, la salud mental con respecto a lo que po",
+            "errores_cohesion_textual": {
+                "concordancia gramatical": [
+                    "Ya anteriormente los debates ... eran central tema de conversacion → eran un tema central / los debates eran tema central",
+                    "¿Es el retorno ... en contraste a las claustrofobicas oficinas ...? → en contraste con las oficinas claustrofóbicas",
+                    "La verdad es que no y ahora se explicitara el porque. → La verdad es que no; ahora se explicará el porqué. (o: ahora se explicará por qué)",
+                    "es adecuado el preguntarse quien velara por tus derechos → es adecuado preguntarse quién velará por tus derechos",
+                    "todo deberia ser regulado → todo debería regularse / todo debería estar regulado (concordancia y forma impersonal)",
+                    "mezcla de formas personales: 'tus', 'vuestras', 'os' a lo largo del texto → unificar la persona verbal/pronominal (p. ej. usar 'tus' o 'sus' de forma consistente)",
+                    "Una escasa regulacion da cabida a dos tipos de males, la mala ejecucion de un proyecto por no limitarse sobre sus capacidades y eficiencias → por no ajustarse/por exceder sus capacidades y eficiencias",
+                    "la mala practica de explotar a tus trabajadores al no limitarsele su propiedad sobre ellos → al no respetarles su autonomía/su tiempo y su seguridad (corrección de clítico y de concordancia)",
+                    "tanto tu como tu empleador ... te pide que te adaptes → tanto tú como tu empleador te piden que te adaptes (verbo en plural)",
+                    "Negar vivencias por sobrevivencias, alterar tu sueño ... solo acabara malos resultados → solo acabará en malos resultados / solo acarreará malos resultados (acentuación y preposición)",
+                    "Los 'cybercafes' ... es una buena opcion → Los cybercafés ... son una buena opción (acento y concordancia singular/plural)"
+                ],
+                "conexion textual": [
+                    "en contraste a → en contraste con",
+                    "se explicitara el porque → se explicará el porqué / se explicará por qué (uso correcto de 'porqué/porque/por qué')",
+                    "con lo que ahora toca preguntarnos: → con lo cual toca preguntarnos: / por lo que ahora toca preguntarnos: (conector más adecuado)",
+                    "por no limitarse sobre sus capacidades → por no ajustarse/por exceder sus capacidades (preposición más adecuada)",
+                    "Poco mas de cien años han pasado desde que se diera a luz la ultima revuelta que cambiara ese status quo → desde que tuvo lugar la última revuelta que cambió ese statu quo (mejor conector temporal y tiempo verbal)",
+                    "hacer desde casa → trabajar desde casa (verbo/preposición más apropiados)",
+                    "bloqueo de llamada los fines de semanas → bloqueo de llamadas los fines de semana (plural y uso correcto de 'fin de semana')",
+                    "Se comenta mucho que lo anterior tratado evidencia ... evidentes mentiras si nos ponemos a pensar, que no escogimos esa realidad, nos la impusieron → oración fragmentada; necesita conectores y puntuación: 'Se comenta mucho que lo anterior evidencia comodidad y flexibilidad; sin embargo, son evidentes mentiras...' (mejorar encadenamiento y puntuación)",
+                    "El trabajo remoto necesita ser estructurado pero semipersonalizado, ... por eso se debe centrar → oración ambigua y conector pobre; aclarar qué debe centrarse y reordenar: 'por eso debe centrarse en límites y regulación' (conector/estructura clara)"
+                ],
+                "referencias y correferencias": [
+                    "'para sus propios asociados hay que denotar.' → antecedente poco claro; reescribir con sujeto claro: 'hay que señalar esto para sus propios asociados' (hacer explícito el referente)",
+                    "su propiedad sobre ellos, sobre su seguridad, su tiempo → 'su' y 'ellos' ambiguos (¿del empleador o de los trabajadores?) → aclarar con 'de los trabajadores: su seguridad y su tiempo'",
+                    "Pues como solo requieres en material de la persona y el equipo y sus conexiones. → 'sus' ambiguo y la referencia de 'persona' no está clara; reescribir identificando al referente ('solo se requiere material de la persona, del equipo y de sus conexiones')",
+                    "lo anterior tratado evidencia ... evidentes mentiras → 'lo anterior tratado' es vago; preferir 'lo expuesto anteriormente' o especificar a qué se refiere 'lo anterior'",
+                    "ante el cual pones a tus empleados → 'el cual' refiere a 'negligente trato' pero la sintaxis es torpe; clarificar antecedente o sustituir por una frase más directa: 'ante el trato negligente al que sometes a tus empleados' ",
+                    "alternancia tu/usted/vosotros ('tus', 'os', 'vuestras') → provoca referencias incoherentes; unificar persona para que pronombres y posesivos tengan antecedente claro"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 2,
+        "resultado": {
+            "texto_original_preview": "La pandemia provocada por el virus Covid-19 ha generado profundos cambios a nivel social y cultural ",
+            "errores_cohesion_textual": {
+                "concordancia gramatical": [
+                    "siendo uno el más preocupantes, el proceso de aprendizaje → siendo uno de los más preocupantes, el proceso de aprendizaje",
+                    "niños y adoloscentes → niños y adolescentes",
+                    "aprendizaje cognitivo, son conductas → aprendizaje cognitivo, que comprende conductas / el aprendizaje cognitivo comprende conductas",
+                    "La combinación de estas grandes categorías, desarrollan e influyen → La combinación de estas grandes categorías desarrolla e influye",
+                    "y lo convierten en un ser íntegro (antecedente: una persona) → y la convierten en un ser íntegro (concuerda con 'una persona')",
+                    "a nivel familiar, cognitiva, selectiva o social → a nivel familiar, cognitivo, selectivo o social (paralelismo en adjetivos)",
+                    "un 80% mas propensos → un 80 % más propensos (acentuación y espaciado)",
+                    "se ven afectas 2 o más de estas → se ven afectadas dos o más de ellas (número en letra y concordancia femenina explícita)",
+                    "la persona desepeñe → la persona desempeñe (ortografía de 'desempeñe' y concordancia verbal)"
+                ],
+                "conexion textual": [
+                    "¿el aprendizaje virtual, limita...?. → ¿El aprendizaje virtual limita...? (coma innecesaria tras el sujeto; mayúscula inicial tras apertura de interrogación; eliminar el punto antes del signo de interrogación)",
+                    "En estudios realizados en paises de latinoamérica, → En estudios realizados en países de Latinoamérica, (acentos y mayúscula en topónimo)",
+                    "se dividen en 4 grandes áreas. Uno, aprendizaje familiar,... → se dividen en cuatro grandes áreas: 1) aprendizaje familiar,... (evitar uso inconexo de 'Uno,'; usar dos puntos o numeración y escribir números en letra para coherencia)",
+                    "que hace refencia → que hace referencia (ortografía)",
+                    "disernir → discernir (ortografía)",
+                    "en Chile el año 2010 por la Potificia Universidad... → en Chile, en 2010, por la Pontificia Universidad... (mejor orden y ortografía: 'Pontificia')",
+                    "además, como las autoridades y la sociedad han enfrentado esta situación → además de cómo las autoridades y la sociedad han enfrentado esta situación / y cómo las autoridades... (conector incorrecto)",
+                    "vacunarse, el cual ha reducido casi en 75% las complicaciones → la vacunación (o las vacunas), la cual ha reducido cerca del 75 % de las complicaciones (referente y preposición correctos: 'la vacunación' y 'cerca del 75 %')",
+                    "mientras no se consiga una inmunidad de \"revaño\" → mientras no se consiga la inmunidad de rebaño (ortografía y artículo definido)",
+                    "Es por ello, que como núcleo familiar, se debe incentivar... → Es por ello que, como núcleo familiar, se debe incentivar... (coma innecesaria tras 'ello' o reordenar a 'Es por ello que desde el núcleo familiar...')",
+                    "incorporar estos nuevos proptocolos de vida en niños y adolescentes → incorporar estos nuevos protocolos de vida a los niños y adolescentes / en los niños y adolescentes (ortografía y preposición adecuada)",
+                    "puedan realizarlo de la manera más segura → puedan hacerlo de la manera más segura (uso más natural del pronombre)",
+                    "con esto un correcto desarollo → con ello, un correcto desarrollo (ortografía y conector mejor)"
+                ],
+                "referencias y correferencias": [
+                    "del los niños → de los niños (duplicación 'del los' impide referencia clara)",
+                    "lo convierten en un ser íntegro → la convierten en un ser íntegro (pronombre 'lo' no concuerda con antecedente femenino 'una persona')",
+                    "vacunarse, el cual ha reducido... → la vacunación (o las vacunas), la cual ha reducido... (el relativo 'el cual' no concuerda con el infinitivo; falta antecedente claro y concordancia)",
+                    "puedan realizarlo (referente a 'interactuar entre ellos') → puedan hacerlo / puedan realizar la interacción de forma segura (pronombre 'lo' ambiguo respecto al antecedente)",
+                    "uso de 'esto' en varias oraciones → aclarar antecedente cuando se emplea 'esto' (ej.: 'Esto se debe...' podría especificar 'Esta situación se debe...' para evitar ambigüedad)",
+                    "según los dichos del profesor Sebastian Torres, ... esto \"limita...\" → 'esto' dentro de la cita alude a la dinámica con pares; conviene sustituir por 'esa dinámica' para mayor claridad"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 3,
+        "resultado": {
+            "texto_original_preview": "A lo largo de la historia del ser humano, la actividad física ha sido pilar fundamental en relación ",
+            "errores_cohesion_textual": {
+                "concordancia gramatical": [
+                    "cabemos que las personas → cabe que las personas / cabe señalar que las personas",
+                    "pueden haber personas → puede haber personas (o \"pueden existir personas\")",
+                    "la mayoría, al tener incentivos, cambiará su actuar y ayudarán → la mayoría, al tener incentivos, cambiará su actuar y ayudará",
+                    "análisis de comportamiento ... nos dicen → los análisis de comportamiento ... nos dicen (o: el análisis ... nos dice)",
+                    "el cambio de actitud ... serán en su mayoría → el cambio de actitud ... será en su mayoría",
+                    "el aporte de cada \"granito de arena\" ... disminuirán → el aporte de cada \"granito de arena\" ... disminuirá"
+                ],
+                "conexion textual": [
+                    "en relación a → en relación con",
+                    "podemos ver como → podemos ver cómo",
+                    "en su mayaría → en su mayoría",
+                    "gran imparto → gran impacto",
+                    "asi → así",
+                    "habitates → habitantes",
+                    "cuidad → ciudad",
+                    "consecuncia → consecuencia",
+                    "podria → podría",
+                    "incentivando a dejar de fumar dentro de las ciudades y el uso de mascarillas → incentivando que las personas dejen de fumar dentro de las ciudades y que usen mascarillas (paralelismo verbal)",
+                    "apalear efectos de la contaminación → paliar efectos de la contaminación (error léxico)",
+                    "si bien ... pero (uso redundante de conectores) → usar una sola construcción adversativa (por ejemplo: aunque algunos ... la mayoría ...)",
+                    "uso de puntuación/pausas: \"podemos concluir, que\" → eliminar la coma antes de 'que' (\"podemos concluir que\")"
+                ],
+                "referencias y correferencias": [
+                    "la supervivencia de este → la supervivencia del ser humano (evitar 'este' sin antecedente claro)",
+                    "a pesar de que la actividad física mejore nuestra salud, ésta siempre se verá perjudicada → a pesar de que la actividad física mejore nuestra salud, la salud siempre se verá perjudicada (especificar antecedente en vez de 'ésta')",
+                    "el aire que inhalan → el aire que inhalan las personas (hacer explícito el referente)",
+                    "estas son las que conforman las grandes ciudades → aclarar el referente: 'estas personas son las que conforman...' o 'las personas son las que conforman...'",
+                    "al juntarse, progresivamente disminuirán la contaminación ambiental → aclarar el sujeto/resultante: 'al juntarse, el aporte acumulado disminuirá la contaminación ambiental' (evitar pronombres o formas verbales sin antecedente claro)"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 4,
+        "resultado": {
+            "texto_original_preview": "Para que se eliminen las condiciones deplorables de las cuales se encuentra viviendo diariamente nue",
+            "errores_cohesion_textual": {
+                "concordancia gramatical": [
+                    "de las cuales se encuentra viviendo nuestra salud → reformular para concordancia sujeto-predicado, p. ej. 'las condiciones en las que vivimos y que afectan nuestra salud'",
+                    "En segundo lugar, también son necesarias que las practicas ... será → corregir a 'En segundo lugar, también es necesario que las prácticas ... sean' (coherencia de número y persona)",
+                    "Esos cambios que muchas personas hacen diariamente ... puede provocar → '... pueden provocar' (concordancia sujeto-verbo en plural)",
+                    "varios toman agua → 'varias toman agua' (acuerdo de género con 'personas')",
+                    "la importancia que tiene los cambios → 'la importancia que tienen los cambios' (concordancia verbal con 'los cambios')",
+                    "debe estar en mano de algo → 'debe estar en manos de algo' (pluralidad de 'manos' con la construcción estándar)"
+                ],
+                "conexion textual": [
+                    "debe ser en manos de → 'debe estar en manos de' (uso incorrecto del verbo en la locución)",
+                    "no iba hacer → 'no iba a hacer' (falta la preposición 'a')",
+                    "como los hace que toda una población deje de ocupar estas → reescribir; p. ej. 'pero realmente no iba a lograr que toda una población dejara de usarlas' (estructura confusa: 'como los hace que' no es válida)",
+                    "ayuda que se disminuyan → 'ayuda a que se disminuyan' (falta preposición 'a' tras 'ayuda')",
+                    "gases inevernaderos → 'gases de efecto invernadero' (expresión correcta)",
+                    "Esto ayuda que realmente se vean → 'Esto ayuda a que realmente se vean' (falta 'a')",
+                    "toman agua de la cual muchas veces está contaminada → 'toman agua que muchas veces está contaminada' o 'toman agua, la cual muchas veces está contaminada' (mejor opción para la conexión)",
+                    "India en donde → 'India, donde' o 'en India, donde' (mejor uso del conector/poniendo coma)",
+                    "en cualquier parte tendríamos → 'en cualquier parte, tendríamos' (falta signo de puntuación/segmentación que clarifique la subordinación)",
+                    "Aunque, no se excluye... → 'Aunque no se excluye...' (evitar coma tras 'Aunque')",
+                    "Oración final fragmentada 'De alguna forma, crear esos verdaderos cambios...' → frase incompleta; añadir verbo o integrar en oración anterior, p. ej. 'De alguna forma, así se crearán esos verdaderos cambios...'. "
+                ],
+                "referencias y correferencias": [
+                    "como los hace que toda una población deje de ocupar estas → uso de 'los' sin antecedente claro y expresión confusa; reescribir la referencia (p. ej. 'no lograría que toda una población dejara de usarlas')",
+                    "lo mismo que ella → 'ella' es ambigua frente a 'muchas personas'; usar 'ellas', 'esa persona' o reescribir para concordar en número (p. ej. 'lo mismo que ellas' o 'lo mismo que esa persona')",
+                    "varios toman agua → 'varios' no concuerda con 'personas' (debe ser 'varias'); confusión referente-género",
+                    "Oración final fragmentada → falta antecedente/estructura clara para 'crear esos verdaderos cambios' (no queda claro quién realiza la acción); añadir un sujeto o pronombre referencial claro"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 5,
+        "resultado": {
+            "texto_original_preview": "Las actividades del colectivo feminista Las Tesis han generado controversia sobre varios aspectos qu",
+            "errores_cohesion_textual": {
+                "concordancia gramatical": [
+                    "Las intervenciones artísticas del colectivo feminista Las Tesis, sean compartidas o no, hace que la sociedad deba valorar → Las intervenciones artísticas del colectivo feminista Las Tesis, sean compartidas o no, hacen que la sociedad deba valorar",
+                    "Solo puede haber oposición si a quien la sostiene no se le reprochará por ello. → Solo puede haber oposición si a quien la sostiene no se le reprocha por ello.",
+                    "permitiría que personas que quieren limitarla pudieran abogar por dicha posición. → permitiría que personas que quisieran limitarla abogaran por dicha posición."
+                ],
+                "conexion textual": [
+                    "coartar la capacidad de otros de poder decir o hacer algo → coartar la capacidad de otros para decir o hacer algo (mejor preposición y construcción)",
+                    "En conclusión, la libertad de expresión es uno de los bienes esenciales en una sociedad democrática liberal, ella constituye la garantía... → En conclusión, la libertad de expresión es uno de los bienes esenciales en una sociedad democrática liberal y constituye la garantía... (evitar coma esplice/duplicación pronominal)",
+                    "Ello entonces, implica que se han determinado previamente... → Ello, entonces, implica que se han determinado previamente... (mejor colocación de locución adverbial)"
+                ],
+                "referencias y correferencias": [
+                    "¿Quién controlaría que sus decisiones sean correctas? → ¿Quién controlaría que las decisiones de quien las toma/impone sean correctas? (ambiguo: 'sus' no tiene antecedente explícito)",
+                    "…puesto que ya todos habrían conocido lo que se pretende sancionar, en cambio, la primera posibilidad lo impide. → …puesto que ya todos habrían conocido lo que se pretende sancionar; en cambio, la primera posibilidad impide que exista ese conocimiento previo. (el pronombre 'lo' queda sin antecedente claro)",
+                    "Las intervenciones artísticas... hace que la sociedad deba valorar... → (además de la concordancia) la referencia implícita del verbo debe quedar clara: 'hacen que la sociedad deba valorar...'"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 6,
+        "resultado": {
+            "texto_original_preview": "Hoy en día, debido a la pandemia provocada por el covid-19, son muchas las personas en todo el mundo",
+            "errores_cohesion_textual": {
+                "concordancia gramatical": [
+                    "el encierro junto con la sobrecarga laboral, han generado → el encierro junto con la sobrecarga laboral, ha generado"
+                ],
+                "conexion textual": [
+                    "respetar las debidas cuarentenas evitando la propagación del virus → respetar las debidas cuarentenas, evitando la propagación del virus (añadir coma para clarificar la relación entre acciones)"
+                ],
+                "referencias y correferencias": []
+            }
+        }
+    },
+    {
+        "id_texto": 7,
+        "resultado": {
+            "texto_original_preview": "Para comenzar este ensayo, es necesario tener conocimiento respecto de las políticas educativas que ",
+            "errores_cohesion_textual": {
+                "concordancia gramatical": [
+                    "poblaciones incluídas → poblaciones incluidas",
+                    "hay un gran porcentaje de la población (a los cuales fácilmente se les puede asociar...) → hay un gran porcentaje de la población a quienes fácilmente se les puede asociar... (o «a quienes» si se refiere a personas)",
+                    "opinan que realizar un mestizaje cultural en las comunidades educativas repercutirán en un desconocimiento y pérdida cultural, los valores y tradiciones del país → opinan que realizar un mestizaje cultural en las comunidades educativas repercutirá en un desconocimiento y pérdida de los valores y tradiciones del país",
+                    "considerarles fascistas → considerarlos fascistas",
+                    "por la cual está compuesta la comunidad educativa → por las cuales está compuesta la comunidad educativa"
+                ],
+                "conexion textual": [
+                    "pone gran esfuerzo en querer que las instituciones... → se esfuerza por lograr que las instituciones...",
+                    "Fracción y punto que genera oración incompleta: «No obstante, actualmente, a pesar de que las políticas educativas norman respecto de la inclusión... extracurriculares. Esta inclusión...» → unir u reescribir: «...extracurriculares, esta inclusión...», o reescribir la estructura para evitar la oración fragmentada",
+                    "Inicio de oración con conjunción subordinante que provoca fragmento: «Ya que, de esta manera, se podrían adquirir...» → usar conectores adecuados o unirlo con la oración anterior: «De este modo, se podrían adquirir...»",
+                    "«De manera de que las nuevas generaciones entiendan...» → usar «De manera que...» o mejor «para que las nuevas generaciones entiendan...»",
+                    "Uso incorrecto de la conjunción adversativa y duplicación: «. Sino que por el contrario, que el ejercicio...» → corregir a «, sino que, por el contrario, el ejercicio de educar debe...»",
+                    "«al límite de considerarles fascistas» → expresión más adecuada: «al punto de considerarlos fascistas»"
+                ],
+                "referencias y correferencias": [
+                    "«Esta inclusión» (comienza tras una oración fragmentada) → «Dicha inclusión» para clarificar el antecedente",
+                    "«de esta manera» (en «Ya que, de esta manera,...») → ambigua como anclaje; usar «de este modo» o reescribir para referir claramente a lo anterior",
+                    "«esta instancia» → término algo vago; reemplazar por «esta oportunidad» o especificar a qué instancia se refiere"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 8,
+        "resultado": {
+            "texto_original_preview": "En la situación actual de Chile el teletrabajo ha sido una forma de continuar realizando las actividades d",
+            "errores_cohesion_textual": {
+                "concordancia gramatical": [
+                    "consecuencias que puede tener → consecuencias que pueden tener (concordancia en número)",
+                    "Siendo esta una nueva modalidad, no se han determinado... → Evitar gerundios o participios colgantes; reescribir: 'Al ser una nueva modalidad, no se han determinado...'",
+                    "Sin dejar que este nuevo lugar de trabajo se vuelva un ambiente estresante. → Oración incompleta; unirla a la anterior o convertirla en subordinada: '...para que puedan compatibilizar el trabajo con el hogar sin que este nuevo lugar de trabajo se vuelva un ambiente estresante.'",
+                    "Cambio de persona: 'Hay quienes sostienen... ya que trabajas desde un sitio...' → Mantener la misma persona: '...ya que se trabaja desde un sitio...' o '...ya que trabajan desde un sitio...'",
+                    "Cambio de persona: '...puede causar que tengas actitudes desagradables...' → Mantener tercera persona: '...puede causar que tenga actitudes desagradables...' o '...puede provocar actitudes desagradables en la persona.'"
+                ],
+                "conexion textual": [
+                    "Por otra parte, esta nueva modalidad de trabajo a la vista de los empleadores, es menos exigente laboralmente. → Insertar comas para aislar la locución: '...trabajo, a la vista de los empleadores, es menos exigente...' o reescribir la locución ('a juicio de los empleadores').",
+                    "Causando que estos contacten a los empleados fuera del horario laboral... → Gerundio aislado/fragmento; reescribir: 'lo que causa que los empleadores contacten...' o unir a la frase anterior.",
+                    "Aunque debe tratarse con mucho cuidado, por que amenaza... → 'por que' incorrecto; usar 'porque'. Además 'Aunque' inicia una subordinada sin principal: unir o reescribir: '...en el confinamiento, aunque debe tratarse con mucho cuidado porque amenaza...' o 'Debe tratarse con mucho cuidado porque amenaza...'"
+                ],
+                "referencias y correferencias": [
+                    "'estos contacten' → 'estos' es ambiguo; especificar 'los empleadores' para claridad.",
+                    "'entre estas dos personas' → expresión vaga; especificar 'entre el trabajador y su jefe/empleador' para evitar ambigüedad.",
+                    "'esto podría significar una nueva normalidad' → 'esto' es impreciso; usar 'esta modalidad' o 'el teletrabajo' como antecedente claro.",
+                    "Oración fragmentada 'Sin dejar que este nuevo lugar de trabajo...' → carece de referente y sujeto explícito; reescribir para que la subordinada tenga antecedente claro."
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 9,
+        "resultado": {
+            "texto_original_preview": "En el contexto de la pandemia por el covid-19 surge la preocupación por la salud mental de quienes e",
+            "errores_cohesion_textual": {
+                "concordancia gramatical": [
+                    "práctia → práctica",
+                    "diaras → diarias",
+                    "asociar solo ese lugar a las tareas diaras → asociar solo ese lugar con las tareas diarias",
+                    "dejando de forma separada el resto de la casa → dejando separado el resto de la casa / manteniendo el resto de la casa separado",
+                    "despreocupación de los temas laborales → despreocupación por los temas laborales",
+                    "la realización de deporte, cocinar u otro \"hobby\" → hacer deporte, cocinar u otro hobby (armonizar la forma de los elementos de la lista)",
+                    "enseñaran → enseñen (concordancia de modo temporal con 'deberían promover')"
+                ],
+                "conexion textual": [
+                    "pandemia por el covid-19 → pandemia de covid-19 (preposición más habitual)",
+                    "Para el caso que se vive en la actualidad existen diferentes prácticas... → En la situación actual, existen diferentes prácticas... (conector y puntuación más claros)",
+                    "dejar de pensar en asuntos laborales por el resto del día al no realizar un ritual de cierre → dejar de pensar en asuntos laborales durante el resto del día si no se realiza un ritual de cierre (mejorar la relación causal/condicional)"
+                ],
+                "referencias y correferencias": [
+                    "Si bien esto no carece de veracidad → Si bien esa afirmación no carece de veracidad (hacer explícito el antecedente de 'esto')",
+                    "para evitar que esto ocurra → para evitar que esa situación ocurra / para evitar que ello ocurra (especificar a qué se refiere 'esto')"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 10,
+        "resultado": {
+            "texto_original_preview": "En la actualidad, existen diversos puntos de vista con respecto al sistema de enseñanza que se ha im",
+            "errores_cohesion_textual": {
+                "concordancia gramatical": [
+                    "quienes han impusado dicho sistema → que ha impuesto dicho sistema (el Ministerio es sujeto singular; además: impusado → impuesto)"
+                ],
+                "conexion textual": [
+                    "de acuerdo al contexto por el cual estamos viviendo → de acuerdo con el contexto en el que vivimos",
+                    "diversos estudios de salud han surgido a razón de las clases virtuales → diversos estudios de salud han surgido a raíz de las clases virtuales (a razón de → a raíz de)",
+                    "no cumplen con el aprendizaje según malla curricular → no alcanzan el aprendizaje establecido en la malla curricular / no cumplen con lo establecido en la malla curricular (evitar la doble aparición de 'según')",
+                    "realizando así una respuesta asertiva → para así ofrecer/permitir una respuesta asertiva (evitar gerundio explicativo sin marcador de finalidad)",
+                    "una salud mental que difiere de lo saludable → deterioro de la salud mental / una salud mental deteriorada",
+                    "existen claras muestras que las clases presenciales deben integrarse → existen claras muestras de que las clases presenciales deben integrarse / hay evidencias de que...",
+                    "así también, para los problemas de salud → así como para los problemas de salud (estructurar la coordinación correctamente)",
+                    "Es por ello, que las clases presenciales → Es por ello que las clases presenciales (eliminar la coma antes de 'que')"
+                ],
+                "referencias y correferencias": [
+                    "Dando como resultado un déficit en la nutrición... → Esto ha dado como resultado un déficit en la nutrición... / Lo cual ha producido un déficit... (gerundio sin antecedente claro)",
+                    "siendo la causa la permanente convivencia familiar → lo cual se atribuye a la permanente convivencia familiar / la causa sería la permanente convivencia familiar (oración subordinada con sujeto no explícito)",
+                    "En virtud de lo anterior / A razón de lo anterior → cuidado con repetición y claridad del referente: ambos remiten a ideas previas pero se alternan sin explicitar qué evidencia concreta se cita",
+                    "esta aseveración carece de sustento → 'esta aseveración' remite al riesgo de contagio; es comprensible, pero podría explicitarse como 'esa afirmación sobre el riesgo de contagio' para mayor claridad",
+                    "los estudiantes a causa de las clases virtuales → 'las clases virtuales' es antecedente claro, pero conviene explícitar sujeto cuando hay varias causas mencionadas (evitar ambigüedad entre causas educativas y familiares)"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 11,
+        "resultado": {
+            "texto_original_preview": "En su encíclica Fratelli Tutti el Papa Francisco no solo sintoniza con los reclamos de justicia soci",
+            "errores_cohesion_textual": {
+                "concordancia gramatical": [
+                    "condena el individualismo y explotación actual → condena el individualismo y la explotación actuales",
+                    "la forma de vida de la personas → la forma de vida de las personas",
+                    "se alínee → se alinee"
+                ],
+                "conexion textual": [
+                    "sobretodo → sobre todo (locución correcta: 'sobre todo'; aconsejable: 'y, sobre todo, practicar')",
+                    "tiránica  El pontífice → tiránica. El pontífice (falta signo de puntuación entre oraciones)",
+                    "promueve, en vez, un cambio → promueve, en cambio, un cambio / promueve, en lugar de ello, un cambio (uso inadecuado de 'en vez' sin complemento)",
+                    "por sobre las utilidades económicas → por encima de las utilidades económicas (mejor opción preposicional)"
+                ],
+                "referencias y correferencias": [
+                    "Para conseguir esto → Para conseguir ese cambio / Para conseguir lo anterior (hacer explícito el antecedente de 'esto')",
+                    "asegurar lo anterior → asegurar lo señalado anteriormente / asegurar dicho bienestar (antecedente de 'lo anterior' poco claro)",
+                    "la protección del pobre → la protección de los pobres / de las personas en situación de pobreza (uso singular ambiguo; especificar)"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 12,
+        "resultado": {
+            "texto_original_preview": "Se ha demostrado la incidencia positiva de las prácticas de autocuidado y hábitos saludables frente ",
+            "errores_cohesion_textual": {
+                "concordancia gramatical": [
+                    "las acciones individuales son sólo una salida rápida → las acciones individuales son sólo salidas rápidas / son sólo una salida rápida cada una",
+                    "La alimentación balanceada ... o la incorporación de probióticos ayudan → si se mantiene 'o' el verbo debe ser singular: '... o la incorporación de probióticos ayuda' (mejor: use 'y' y 'ayudan')",
+                    "La promoción de las prácticas de autocuidado son importantes → La promoción de las prácticas de autocuidado es importante",
+                    "entre ello a lidiar → entre ellas a lidiar (acorde con 'personas')"
+                ],
+                "conexion textual": [
+                    "Mantener actividad física ... ayuda a la regulación hormonal, la capacidad respiratoria, desarrollo muscular, o el peso correcto → falta paralelismo y uso inapropiado de 'o'; mejor: 'ayuda en la regulación hormonal, en la capacidad respiratoria, en el desarrollo muscular y en el mantenimiento de un peso adecuado'",
+                    "La alimentación balanceada como una dieta y no como un régimen o la incorporación de probióticos ayudan → 'o' confunde la coordinación; usar 'y' si se suman elementos: '...régimen y la incorporación de probióticos ayudan' o reescribir la oración",
+                    "llevan a la medicina a postura más preventiva → falta artículo/preposición: 'llevan a la medicina a una postura más preventiva' o 'conducen a una postura más preventiva en la medicina'",
+                    "Pero la masificación de esta información, es fuertemente promovida → coma innecesaria que rompe la unidad del sujeto; eliminar la coma tras el sujeto",
+                    "que a pesar de en efecto ser algo positivo → construcción confusa; mejor: 'que, aunque en efecto pueden ser algo positivo' o 'aunque en efecto son algo positivo'",
+                    "poner soluciones parche → uso coloquial/ambiguo; mejor: 'ofrecer soluciones parche (parches temporales)' o 'aplicar soluciones parche'",
+                    "Los problemas efectivos, no se solucionan con cambios individuales, sino en cambios de políticas → 'efectivos'/coma y preposición incorrecta; mejor: 'Los problemas, en efecto, no se solucionan con cambios individuales, sino con cambios de políticas y en la legislación'",
+                    "frente a los factores nocivos que se ponen en cuestión → mejor: 'frente a los factores nocivos que se cuestionan' o 'frente a los factores nocivos objeto de discusión'",
+                    "siempre el problema es traspasado hacia la población → expresión ambigua/voz pasiva y preposición; mejor: 'siempre se traslada la responsabilidad a la población' o 'la carga se traslada a la población'"
+                ],
+                "referencias y correferencias": [
+                    "¿cuál es la realidad detrás de esto? → 'esto' vago; especificar: 'detrás de estas prácticas' o 'detrás de estas afirmaciones'",
+                    "etc. → referencia imprecisa; evitar 'etc.' y listar ejemplos concretos",
+                    "que a pesar de en efecto ser algo positivo para nuestra sociedad, es una manera ... → antecedente ambiguo por la posición del 'que' (¿instituciones/marcas o masificación?); reescribir para aclarar el referente: e.g. 'Esto, aunque en efecto puede ser positivo, constituye una manera...'",
+                    "entre ello a lidiar con las condiciones del ambiente → 'ello' no concuerda con 'personas'; usar 'ellas' o replantear: 'entre ellas, a lidiar...'",
+                    "pero siempre el problema es traspasado hacia la población → 'el problema' carece de antecedente claro; precisar: 'la responsabilidad/las consecuencias se traspasan a la población'",
+                    "no en función de otro → 'otro' sin antecedente claro; especificar: 'no en función de otros intereses' o 'no en función de otros fines'"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 13,
+        "resultado": {
+            "texto_original_preview": "Para comenzar a finales del semestre pasado en China comenzó la propagación del virus COVID-19, para fi",
+            "errores_cohesion_textual": {
+                "concordancia gramatical": [
+                    "este llego a Chile → este llegó a Chile",
+                    "el país se frente a una pandemia mundial → el país se enfrentó a una pandemia mundial",
+                    "para finales de febrero y comienzo de marzo → a finales de febrero y a comienzos de marzo (coherencia y paralelismo)",
+                    "aun mas → aún más",
+                    "con esto ultimo el presidente llamo → con esto último, el presidente llamó",
+                    "seria sufienciente → sería suficiente",
+                    "tambien estan → también están",
+                    "prodran → podrán",
+                    "presentaran → presentarán",
+                    "asintomaticamente → asintomáticamente (o 'de forma asintomática')",
+                    "Aunque sea posible realizar las elecciones con todas las precauciones posibles aun se encontraran personas → Aunque sea posible realizar las elecciones con todas las precauciones, aún se encontrarán personas (acentuación y coherencia temporal)",
+                    "Que presente el virus asintomático → Que una persona presente el virus de forma asintomática (acuerdo entre sujeto y adjetivo/claridad de referente)",
+                    "esto no quita que es una medida → esto no quita que sea una medida (uso del subjuntivo)",
+                    "todos el voto de uno puede hacer el cambio → el voto de cada uno puede hacer el cambio (acuerdo entre cuantificador y expresión)"
+                ],
+                "conexion textual": [
+                    "Para comenzar a finales del semestre pasado → Para comenzar, a finales del semestre pasado (falta de coma/segmentación)",
+                    "esto provocó la cuarentena a nivel regional, luego de varios meses de cuarentena ... → repetición y redundancia ('cuarentena' repetido); reestructurar para evitar pleonasmo",
+                    "salieron de este proceso, saliendo a lo que se conoce → salieron de este proceso y pasaron a lo que se conoce (gerundio impropio/encadenamiento indebido)",
+                    "una donde uno tiene que salir con mascarilla → una en la que uno debe salir con mascarilla (uso correcto de la locución relativa)",
+                    "con el fin que se modifique → con el fin de que se modifique (dequeísmo/queísmo: se necesita 'de')",
+                    "esto no quiere decir que todos vamos a poder tener nuestro derecho a voto → esto no quiere decir que todos podremos ejercer nuestro derecho al voto (mejor conectividad y expresión verbal)",
+                    "no respetando el distanciamiento social → sin respetar el distanciamiento social (gerundio mal empleado)",
+                    "es un virus super contagioso → es un virus súper contagioso / muy contagioso (uso coloquial y tilde en 'súper')",
+                    "aunque sea posible... aun se encontraran → aunque sea posible... aún se encontrarán (coherencia temporal y acentuación en 'aún')",
+                    "sufragiar → votar (uso léxico incorrecto)",
+                    "Por otro lado muchas personas ya contagiadas con el virus tambien estan en el derecho en su derecho a voto que no prodran realizar → Por otro lado, muchas personas ya contagiadas también tienen derecho a votar, que no podrán ejercer (reconectar y corregir preposiciones/verbos)",
+                    "en el casos de los contagiados → en el caso de los contagiados (numero y concordancia del sintagma)"
+                ],
+                "referencias y correferencias": [
+                    "esto provocó la cuarentena... luego de varios meses de cuarentena algunas regiones y sectores salieron de este proceso → 'esto' y 'este proceso' se repiten sin precisar claramente a qué se refiere cada uno (ambigüedad referencial)",
+                    "con esto ultimo el presidente llamo... por esto la primera fecha → 'esto último' y 'por esto' vagos; antecedente poco claro (¿la pandemia? ¿las consecuencias?)",
+                    "esto no quiere decir que todos vamos a poder... porque aún hay muchos casos de contagios → 'esto' remite al cambio de fecha; funciona pero podría especificarse para evitar ambigüedad",
+                    "no respetando el distanciamiento social y es un virus super contagioso que con una sola persona contagiada seria sufienciente para contagiar a todos los involucrados → ¿'una sola persona contagiada' es sujeto de 'sería suficiente'? Repetición innecesaria y referente impreciso",
+                    "Que presente el virus asintomático no quiere decir que los demás también lo presentaran de esta forma → inicio con 'Que presente...' sin antecedente claro; además 'lo' en 'lo presentarán' es ambigua (¿el virus, los síntomas?), falta precisar el sujeto",
+                    "los demás también lo presentaran de esta forma, puede llegar a presentar todos los síntomas → 'los demás' y 'puede' generan duda sobre quién puede presentar síntomas (referente confuso)",
+                    "en el casos de los contagiados claramente se ve una discriminación a su parte negandoles su participación → 'a su parte' es una expresión confusa; ¿a su parte de qué? y 'negándoles' referencia ambigua sobre quién niega y a quién exactamente",
+                    "porque todos el voto de uno puede hacer el cambio → combinación confusa de pronombres ('todos' vs 'uno'); referencia colectiva/individual poco clara"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 14,
+        "resultado": {
+            "texto_original_preview": "La rebaja de la indeminzación que debe pagar Julio Ponce Lerou debido a su participación en lo que s",
+            "errores_cohesion_textual": {
+                "concordancia gramatical": [
+                    "indeminzación → indemnización",
+                    "¿Qué (mayúscula tras conexión) → ¿qué (minúscula, al continuar la oración)"
+                ],
+                "conexion textual": [
+                    "Corte Suprema?,¿ → Corte Suprema?",
+                    "Uso de coma antes del signo de interrogación final '...,¿' / '?,¿' → eliminar la coma/puntuación duplicada y mantener un solo signo de interrogación",
+                    "Espacio no estándar tras signo de apertura '¿ ' → eliminar el espacio: '¿'"
+                ],
+                "referencias y correferencias": []
+            }
+        }
+    },
+    {
+        "id_texto": 15,
+        "resultado": {
+            "texto_original_preview": "Una de las repercusiones generadas debido a la pandemia es el confinamiento de la población, lo que b",
+            "errores_cohesion_textual": {
+                "concordancia gramatical": [
+                    "los horarios de los trabajadores se ve alterado → los horarios de los trabajadores se ven alterados",
+                    "el estar trabajando de manera remota se ven severamente afectadas → el estar trabajando de manera remota se ve severamente afectado / las personas que trabajan de manera remota se ven severamente afectadas",
+                    "la calidad de vida de estos se ha visto afectada → la calidad de vida de estas / de ellas se ha visto afectada",
+                    "el uso de medicamentos ansioliticos se vio aumentado → el uso de medicamentos ansiolíticos aumentó / se incrementó",
+                    "mezcla inconsistente de tiempos verbales (presente y pasado: 'se ha convertido', 'se han visto', 'se vio') → unificar tiempos; por ejemplo usar presente: 'se ha convertido', 'se han registrado', 'ha aumentado'"
+                ],
+                "conexion textual": [
+                    "a consecuencia del estar \"encerrados\" → a consecuencia de estar \"encerrados\" / a consecuencia del encierro",
+                    "interactuar el resto del personal → interactuar con el resto del personal",
+                    "generando asi que las dinamicas sociales, ya que... → generar afectaciones en las dinámicas sociales / lo que genera que las dinámicas sociales se vean afectadas",
+                    "por lo que la calidad de vida de estos se ha visto afectada de manera considerable, sumado a que... → por lo que la calidad de vida de estas se ha visto afectada de manera considerable; esto se suma a que... (evitar 'sumado a que' mal conectado)"
+                ],
+                "referencias y correferencias": [
+                    "de estos → de estas / de ellas (antecedente: 'las personas')",
+                    "es por esto que el estar trabajando de manera remota se ven severamente afectadas → 'esto' es poco preciso; reescribir: 'por ello, las personas que trabajan de forma remota se ven severamente afectadas'",
+                    "a consecuencia del estar 'encerrados' → antecedente implícito; aclarar: 'a consecuencia de estar encerradas las personas' o 'a consecuencia del encierro' (evita ambigüedad sobre quiénes están encerrados)",
+                    "generando asi que las dinamicas sociales... → antecedente poco claro del gerundio 'generando'; reescribir para explicitar sujeto y efecto: 'esto genera una pérdida de las dinámicas sociales'"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 16,
+        "resultado": {
+            "texto_original_preview": "En el actual contexto sanitario en que estamos, el gobierno ha decidido restringir ciertas activdades",
+            "errores_cohesion_textual": {
+                "concordancia gramatical": [
+                    "cerrar su puertas → cerrar sus puertas",
+                    "permiten ... resguardar ... y además de generar ... → mantener paralelismo: 'permiten ..., resguardar ... y generar ...'",
+                    "continuen → continúen (tilde en forma verbal subjuntiva)",
+                    "si lo tienen → sí lo tienen (tilde en 'sí' cuando equivale a 'sí/no')"
+                ],
+                "conexion textual": [
+                    "activdades no escenciales → actividades no esenciales (ortografía)",
+                    "disminur → disminuir (ortografía)",
+                    "ocpuar → ocupar (ortografía)",
+                    "evalución → evaluación (ortografía)",
+                    "comeinzo → comienzo (ortografía)",
+                    "No obstante, ... Sin embargo, ... → evitar la redundancia; usar solo uno de los conectores",
+                    "los colegios al realizar clases virtuales, permiten → corregir puntuación: 'los colegios, al realizar clases virtuales, permiten...' o quitar la coma antes de 'permiten'",
+                    "lo que produce que haya un vacío de conocimiento → 'lo que provoca un vacío de conocimiento' o 'lo que produce un vacío de conocimiento' (evitar la construcción problemática)",
+                    "completar satisfactoriamente con los requerimientos educativos → 'cumplir/satisfacer los requerimientos educativos' o 'cumplir satisfactoriamente los requerimientos educativos'",
+                    "generar igualdad en la accesibilidad a esta última → 'generar igualdad en el acceso a la educación' (mejor locución)"
+                ],
+                "referencias y correferencias": [
+                    "resguardar la salud de estos y de sus familias → aclarar antecedente: 'resguardar la salud de los alumnos y de sus familias'",
+                    "accesibilidad a esta última → antecedente ambiguo; sustituir por 'acceso a la educación' o nombrar explícitamente a qué se refiere",
+                    "este puede ser transportado por un profesor → preferible: 'el virus puede ser transportado por un profesor' (repetir el sustantivo para mayor claridad)"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 17,
+        "resultado": {
+            "texto_original_preview": "En el último tiempo la contaminación del aire se ha convertido en un gran problema para las grandes ",
+            "errores_cohesion_textual": {
+                "concordancia gramatical": [
+                    "cualquier tipo de esta → cualquier tipo de actividad",
+                    "incentivar a los niños ... a hacer deportes, ... para que sigan haciéndolo → mantener concordancia número: '...a hacer deporte ... para que sigan haciéndolo' (o '...a hacer deportes ... para que sigan haciéndolos')",
+                    "como al no tenerlo → como si no lo tuviéramos (uso correcto del comparativo y del modo verbal)"
+                ],
+                "conexion textual": [
+                    "coma tras 'constantemente, mejora la vida' → eliminar la coma: 'constantemente mejora la vida'",
+                    "uso de 'por lo que en mi opinión,' → reordenar para evitar redundancia: 'en mi opinión, por lo que se debe...' o mejor 'en mi opinión se debe...'",
+                    "coma antes de 'es muy importante, para que' → eliminar coma o reestructurar: 'es muy importante para que...'",
+                    "coma antes de 'como' en 'no nos afectará tanto, como al no tenerlo' → eliminar la coma y corregir la construcción comparativa ('...no nos afectará tanto como si no lo tuviéramos')"
+                ],
+                "referencias y correferencias": [
+                    "lo anterior → especificar antecedente: 'esta práctica' o 'esta recomendación' en lugar de 'lo anterior'",
+                    "tipo de esta → pronombre sin antecedente claro/uso inapropiado; corregir a 'tipo de actividad'",
+                    "siguen haciéndolo (refiere a 'deportes') → antecedente y número ambiguos: usar 'siguen practicando deporte' o 'siguen haciéndolos' para concordar con 'deportes'",
+                    "al no tenerlo → pronombre 'lo' sin antecedente claro y frase incoherente; corregir a 'como si no tuviéramos un organismo bien cuidado' o 'como si no lo tuviéramos'"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 18,
+        "resultado": {
+            "texto_original_preview": "La pandemia del COVID-19 ha generado una serie de cuestionamientos sobre la importancia del cuidado ",
+            "errores_cohesion_textual": {
+                "concordancia gramatical": [
+                    "Acusando en primera instancia una prófunda diferencia en las medidas adoptadas por cada uno de los países, ... → En primera instancia se observa una profunda diferencia en las medidas adoptadas por cada país ... (evitar gerundio absoluto/dangling participle)",
+                    "cada uno de los individuo → cada uno de los individuos (concordancia de número)",
+                    "han planteado a lo largo del tiempo, que el ser humano, se caracterizaría ... → han planteado a lo largo del tiempo que el ser humano se caracteriza ... (consistencia de tiempos: evitar mezclar pretérito compuesto con condicional)",
+                    "Duda que no representaría una pregunta fácil ni por lo menos concisa en su respuesta → Esa duda no sería fácil ni concisa de responder / No sería una pregunta fácil de responder (clarificar sujeto y tiempo verbal)",
+                    "dependiendo del campo y/o disciplina que se adscriba presentaría diversos matices → dependiendo del campo y/o disciplina a la que se adscriba, la respuesta presentaría diversos matices (acuerdo y claridad en el sujeto de 'presentaría')"
+                ],
+                "conexion textual": [
+                    "actúen antes las consecuencias laborales... → actúen ante las consecuencias laborales... (preposición incorrecta: 'antes' → 'ante')",
+                    "se visibiliza desde las consecuencias en el abordaje del virsus → se visibiliza en/por las consecuencias en el abordaje del virus (preposición más adecuada: 'en' o 'por'; además 'virsus' → 'virus')",
+                    "dependiendo del campo y/o disciplina que se adscriba → dependiendo del campo y/o disciplina a la que se adscriba (falta la preposición 'a' y la concordancia del relativo)",
+                    "acceso de alimentos → acceso a alimentos (preposición incorrecta)",
+                    "dónde la base sea la preocupación → donde la base sea la preocupación (uso incorrecto de tilde en 'donde')",
+                    "especificamente , por su capacidad → específicamente por su capacidad (corregir acento y eliminación de espacio antes de la coma)",
+                    "...q → ...que (palabra truncada/abreviatura informal; completar la conjunción)"
+                ],
+                "referencias y correferencias": [
+                    "Acusando en primera instancia ... (inicio con gerundio sin sujeto claro) → En primera instancia se observa ... (proveer sujeto/antecedente explícito)",
+                    "(que coexistían antes del ingreso del virus) → las cuales coexistían antes del ingreso del virus / que ya existían antes del ingreso del virus (aclarar antecedente de 'que' para 'desigualdad de acceso y de recursos')",
+                    "Duda que no representaría una pregunta fácil... → Esa duda no sería fácil de responder (el sustantivo 'Duda' aparece sin referencia previa clara; mejor usar 'esa duda' o reformular)",
+                    "dependiendo del campo y/o disciplina que se adscriba presentaría diversos matices → dependiendo del campo y/o disciplina a la que se adscriba, la respuesta/interpretación presentaría diversos matices (hacer explícito el antecedente de 'presentaría')",
+                    "que se expresaría por ejemplo en el acceso de alimentos y en las condiciones laborales q → lo que se expresaría, por ejemplo, en el acceso a alimentos y en las condiciones laborales que ... (ambigüedad del relativo 'que' y final truncado: aclarar antecedente y completar la idea)"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 19,
+        "resultado": {
+            "texto_original_preview": "La pandemia del covid-19 del año 2020 será recordada por las pérdidas humanas y económicas que evide",
+            "errores_cohesion_textual": {
+                "concordancia gramatical": [
+                    "las pérdidas humanas y económicas que evidenciaron la mayoria de los paises y estados del mundo → las pérdidas humanas y económicas, evidenciadas en la mayoría de los países y estados del mundo"
+                ],
+                "conexion textual": [
+                    "que evidenciaron la mayoria de los paises y estados del mundo → que se evidenciaron en la mayoría de los países y estados del mundo (añadir preposición 'en' y forma pronominal/refleja para claridad)",
+                    "mayoria → mayoría (tilde)",
+                    "paises → países (tilde)"
+                ],
+                "referencias y correferencias": [
+                    "el relativo 'que' en '...pérdidas humanas y económicas que evidenciaron...' presenta referencia ambigua/incoherente (las 'pérdidas' no 'evidencian' a los países) → reescribir: '...pérdidas ... que se evidenciaron en la mayoría de los países y estados del mundo' o '...pérdidas ... evidenciadas en la mayoría de los países y estados del mundo'"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 20,
+        "resultado": {
+            "texto_original_preview": "El covid-19 es un virus mortal que actualmente ha afectado a todos los paises, convirtiéndose  así en una",
+            "errores_cohesion_textual": {
+                "concordancia gramatical": [
+                    "la gente de mayores recursos generalemente son los más aptos → La gente de mayores recursos generalmente es la más apta / Las personas de mayores recursos son las más aptas",
+                    "la gente más pobre usualmente trabajan como mano de obra → La gente más pobre usualmente trabaja como mano de obra / Las personas más pobres suelen trabajar como mano de obra",
+                    "una persona ... esté tan desesperado → una persona ... esté tan desesperada",
+                    "Hay que saber priorizar a las personas que son más riesgosas de contagios → Hay que priorizar a las personas con mayor riesgo de contagio",
+                    "tienen la dificil tarea → tienen la difícil tarea"
+                ],
+                "conexion textual": [
+                    "se ha vuelto además de una crisis sanitaria, una que afecta la economía... → se ha convertido, además de en una crisis sanitaria, en una crisis que afecta la economía...",
+                    "ocacionando críticas → ocasionando críticas",
+                    "genera dejarlos salir con normalidad → que genera al dejarlos salir con normalidad / que se genera al permitirles salir con normalidad",
+                    "más riesgosa a nuevos contagios → con mayor riesgo de contagio / más propensa a contagiarse",
+                    "desde las casas → desde sus casas / desde casa",
+                    "mano de obra, usando sus manos para trabajar → trabajan como mano de obra, realizando tareas manuales (evitar redundancia)",
+                    "qué sectores son los que pueden trabajar desde sus casas y que sectores no → qué sectores pueden trabajar desde sus casas y cuáles no",
+                    "hacer que las empresas que pueden trabajar con teletrabajo así lo hagan → hacer que las empresas que pueden teletrabajar lo hagan",
+                    "mientras esté tan desesperado por trabajar y traer comida ... que piense en suicidarse → mientras esté tan desesperada por trabajar y traer comida para su familia que llegue a pensar en suicidarse (acorde género y estilo)",
+                    "reconocer que personas son las que más necesidad tienen → reconocer qué personas son las que más necesidad tienen (poner acento en 'qué')",
+                    "aún que sea un poco más riesgoso → aunque sea un poco más riesgoso",
+                    "santiario → sanitario",
+                    "ha asotado a nuestra civilización → ha azotado a nuestra civilización",
+                    "generando un fuerte descontento de estos sectores → generando un fuerte descontento en estos sectores",
+                    "tanto por impedir el contagio de las personas, pero también pensando en... → tanto impidiendo el contagio como atendiendo/considerando el bienestar mental (corregir la construcción paralela)"
+                ],
+                "referencias y correferencias": [
+                    "genera dejarlos salir con normalidad → 'dejarlos' es pronominal ambiguo; usar 'dejarlos salir' especificando antecedente: 'dejarlos salir a esas personas' o 'al personal de esos sectores'",
+                    "estos sectores → ambigüedad ligera: mejor 'estos sectores poblacionales' o 'estos grupos afectados' para clarificar antecedente",
+                    "desde las casas → 'las casas' carece de determinante posesivo; usar 'sus casas' para indicar claramente a quién pertenecen las casas",
+                    "que personas son las que más necesidad tienen → falta tilde en 'qué' y la construcción es débil; usar 'qué personas son las que más necesidad tienen' para mayor claridad",
+                    "aquellos que más mal se encuentran → 'más mal' es impreciso; usar 'los que se encuentran en peores condiciones' para referencia clara y neutra"
+                ]
+            }
+        }
+    }
+]

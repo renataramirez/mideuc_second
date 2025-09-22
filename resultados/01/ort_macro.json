@@ -1,0 +1,524 @@
+[
+    {
+        "id_texto": 1,
+        "resultado": {
+            "texto_original_preview": "Los animos en nuestra actual pandemia no se hallan errados, la salud mental con respecto a lo que po",
+            "errores_detectados": {
+                "ortografia acentual": [
+                    "animos → ánimos",
+                    "esta → está",
+                    "conversacion → conversación",
+                    "mas → más",
+                    "ultima → última",
+                    "el porque → el porqué",
+                    "quien → quién",
+                    "velara → velará",
+                    "deberia → debería",
+                    "victimas → víctimas",
+                    "regulacion → regulación",
+                    "ejecucion → ejecución",
+                    "practica → práctica",
+                    "limitarsele → limitársele",
+                    "asi → así",
+                    "presion → presión",
+                    "algo mas → algo más",
+                    "psicologica → psicológica",
+                    "ultimos → últimos",
+                    "globalizacion → globalización",
+                    "que (en '¿Pero que ocurre') → qué",
+                    "tu (en 'tanto tu como...') → tú",
+                    "explicitara → explicará",
+                    "acabara → acabará",
+                    "disposicion → disposición",
+                    "pongamonos → pongámonos",
+                    "pasaria → pasaría",
+                    "aqui → aquí",
+                    "malversacion → malversación",
+                    "malinterpretacion → malinterpretación",
+                    "estas → estás",
+                    "sera → será",
+                    "habra → habrá",
+                    "Japon → Japón",
+                    "opcion → opción"
+                ],
+                "ortografia literal": [
+                    "pretenciones → pretensiones",
+                    "oportunides → oportunidades",
+                    "cybercafes → cibercafés / cibercafes → cibercafés (preferible 'cibercafés')",
+                    "fines de semanas → fines de semana"
+                ],
+                "ortografia puntual": [
+                    "errados, la salud mental → errados. La salud mental (evitar coma entre oraciones independientes)",
+                    "La verdad es que no y ahora se explicitara el porque. → La verdad es que no, y ahora se explicará el porqué. (falta de coma antes de 'y' y mejora de construcción)",
+                    "estructurado pero semipersonalizado → estructurado, pero semipersonalizado (coma antes de 'pero' en oraciones coordinadas independientes)",
+                    "texto final sin punto → añadir punto final al último párrafo"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 2,
+        "resultado": {
+            "texto_original_preview": "La pandemia provocada por el virus Covid-19 ha generado profundos cambios a nivel social y cultural e",
+            "errores_detectados": {
+                "ortografia acentual": [
+                    "paises → países",
+                    "mas → más",
+                    "seria → sería",
+                    "verian → verían",
+                    "Sebastian → Sebastián"
+                ],
+                "ortografia literal": [
+                    "adoloscentes → adolescentes",
+                    "adolescetes → adolescentes",
+                    "refencia → referencia",
+                    "disernir → discernir",
+                    "del los niños → de los niños",
+                    "preocupantes → preocupante",
+                    "desarrollan → desarrolla",
+                    "influyen → influye",
+                    "incerto → inserto",
+                    "cognitiva → cognitivo",
+                    "selectiva → selectivo",
+                    "afectas → afectadas",
+                    "Potificia → Pontificia",
+                    "requiren → requieren",
+                    "desepeñe → desempeñe",
+                    "revaño → rebaño",
+                    "proptocolos → protocolos",
+                    "desarollo → desarrollo"
+                ],
+                "ortografia puntual": [
+                    "virtual, → virtual (quitar la coma dentro de la pregunta)",
+                    "?. → ? (eliminar el punto después del signo de interrogación)",
+                    "un niño, se dividen → un niño se dividen (coma innecesaria)",
+                    "Esto se debe, a que → Esto se debe a que (coma innecesaria)",
+                    "ya sea, a nivel → ya sea a nivel (coma innecesaria)",
+                    "Es por ello, que → Es por ello que (coma innecesaria)",
+                    "sino que también, las interacciones → sino que también las interacciones (coma innecesaria)"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 3,
+        "resultado": {
+            "texto_original_preview": "A lo largo de la historia del ser humano, la actividad física ha sido pilar fundamental en relación ",
+            "errores_detectados": {
+                "ortografia acentual": [
+                    "como → cómo",
+                    "ésta → esta",
+                    "asi → así",
+                    "podria → podría"
+                ],
+                "ortografia literal": [
+                    "mayaría → mayoría",
+                    "cabemos → cabe",
+                    "imparto → impacto",
+                    "habitates → hábitats",
+                    "cuidad → ciudad",
+                    "consecuncia → consecuencia",
+                    "ciudados → ciudades",
+                    "apalear → paliar",
+                    "bus → autobús"
+                ],
+                "ortografia puntual": [
+                    "salud, es → salud es (eliminar coma)",
+                    "día; lo cual, → día, lo cual (uso inadecuado de punto y coma/coma)",
+                    "involucrados; por ello → involucrados. Por ello (usar punto en vez de punto y coma)",
+                    "Así, podemos concluir, que → Así podemos concluir que (comas innecesarias)",
+                    "Por esto el gobierno → Por esto, el gobierno (coma tras frase introductoria)",
+                    "manera, análisis → manera. Análisis (separar oraciones en vez de coma)",
+                    "medio ambiente ,como → medio ambiente, como (espacio antes de la coma)"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 4,
+        "resultado": {
+            "texto_original_preview": "Para que se eliminen las condiciones deplorables de las cuales se encuentra viviendo diariamente nue",
+            "errores_detectados": {
+                "ortografia acentual": [
+                    "esta → está",
+                    "practicas → prácticas"
+                ],
+                "ortografia literal": [
+                    "iba hacer → iba a hacer",
+                    "ayuda que → ayuda a que",
+                    "inevernaderos → invernaderos",
+                    "en mano → en manos",
+                    "debe ser en manos de → debe estar en manos de"
+                ],
+                "ortografia puntual": [
+                    "Aunque, no se excluye... → Aunque no se excluye...",
+                    "sus casas, también varios toman agua... → sus casas. También varios toman agua...",
+                    "Como muchos dicen \"las acciones arrastran\". → Como muchos dicen: \"las acciones arrastran\".",
+                    "de igual forma es necesario que... → de igual forma, es necesario que..."
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 5,
+        "resultado": {
+            "texto_original_preview": "Las actividades del colectivo feminista Las Tesis han generado controversia sobre varios aspectos qu",
+            "errores_detectados": {
+                "ortografia acentual": [],
+                "ortografia literal": [],
+                "ortografia puntual": [
+                    "Ello entonces, implica → Ello entonces implica",
+                    "lo socialmente aceptable, y que existe alguien → lo socialmente aceptable y que existe alguien",
+                    "en su nombre, y desde qué punto ella pasa a ser violencia → en su nombre y desde qué punto ella pasa a ser violencia",
+                    "sociedad democrática liberal, ella constituye → sociedad democrática liberal; ella constituye"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 6,
+        "resultado": {
+            "texto_original_preview": "Hoy en día, debido a la pandemia provocada por el covid-19, son muchas las personas en todo el mundo",
+            "errores_detectados": {
+                "ortografia acentual": [],
+                "ortografia literal": [
+                    "covid-19 → COVID-19"
+                ],
+                "ortografia puntual": [
+                    "laboral, → laboral"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 7,
+        "resultado": {
+            "texto_original_preview": "Para comenzar este ensayo, es necesario tener conocimiento respecto de las políticas educativas que a",
+            "errores_detectados": {
+                "ortografia acentual": [
+                    "incluídas → incluidas"
+                ],
+                "ortografia literal": [
+                    "por la cual → por las cuales"
+                ],
+                "ortografia puntual": [
+                    "Ya que, de esta manera, se podrían adquirir... → De esta manera, se podrían adquirir...",
+                    "Y, siguiendo esta misma línea, si logramos... → Y siguiendo esta misma línea, si logramos...",
+                    "competencia, individualidad, y soberbia. → competencia, individualidad y soberbia.",
+                    "Sino que por el contrario, que el ejercicio de educar sea... → Sino que, por el contrario, el ejercicio de educar sea...",
+                    "pérdida cultural, los valores y tradiciones del país. → pérdida cultural de los valores y tradiciones del país.",
+                    "Esta inclusión suele ser justamente como lo nombra la palabra, una invitación... → Esta inclusión suele ser, justamente como lo nombra la palabra, una invitación..."
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 8,
+        "resultado": {
+            "texto_original_preview": "En la situación actual de Chile el teletrabajo ha sido una forma de continuar realizando las activid",
+            "errores_detectados": {
+                "ortografia acentual": [],
+                "ortografia literal": [
+                    "por que → porque",
+                    "online → en línea"
+                ],
+                "ortografia puntual": [
+                    "En la situación actual de Chile el teletrabajo → En la situación actual de Chile, el teletrabajo",
+                    "esta nueva modalidad de trabajo a la vista de los empleadores, es menos exigente laboralmente. → esta nueva modalidad de trabajo, a la vista de los empleadores, es menos exigente laboralmente.",
+                    "El estrés que causa la vida laboral, puede desencadenar malos tratos con la pareja e hijos, generando un mal ambiente familiar. → El estrés que causa la vida laboral puede desencadenar malos tratos con la pareja e hijos, generando un mal ambiente familiar.",
+                    "Causando que estos contacten a los empleados fuera del horario laboral para pedir que realicen ciertas funciones. → Lo que causa que estos contacten a los empleados fuera del horario laboral para pedir que realicen ciertas funciones."
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 9,
+        "resultado": {
+            "texto_original_preview": "En el contexto de la pandemia por el covid-19 surge la preocupación por la salud mental de quienes e",
+            "errores_detectados": {
+                "ortografia acentual": [],
+                "ortografia literal": [
+                    "práctia → práctica",
+                    "diaras → diarias"
+                ],
+                "ortografia puntual": [
+                    "espacio seguro, de descanso y tranquilidad → espacio seguro de descanso y tranquilidad",
+                    "Para el caso que se vive en la actualidad existen → Para el caso que se vive en la actualidad, existen",
+                    "En primer lugar,  al crear → En primer lugar, al crear",
+                    "Por otro lado,  es necesario → Por otro lado, es necesario",
+                    "tareas diaras dejando de forma separada el resto de la casa → tareas diarias, dejando de forma separada el resto de la casa"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 10,
+        "resultado": {
+            "texto_original_preview": "En la actualidad, existen diversos puntos de vista con respecto al sistema de enseñanza que se ha implement",
+            "errores_detectados": {
+                "ortografia acentual": [],
+                "ortografia literal": [
+                    "impusado → impulsado",
+                    "Covid-19 → covid-19"
+                ],
+                "ortografia puntual": [
+                    "un 60% → un 60 %",
+                    "estudiantes, y, además, → estudiantes y, además,",
+                    "Es por ello, que → Es por ello que",
+                    "así también, para → así también para"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 11,
+        "resultado": {
+            "texto_original_preview": "En su encíclica Fratelli Tutti el Papa Francisco no solo sintoniza con los reclamos de justicia soci",
+            "errores_detectados": {
+                "ortografia acentual": [
+                    "alínee → alinee",
+                    "no sólo → no solo"
+                ],
+                "ortografia literal": [
+                    "sobretodo → sobre todo",
+                    "la personas → las personas"
+                ],
+                "ortografia puntual": [
+                    "sino que, afirmándose → sino que afirmándose",
+                    "promueve, en vez, un cambio → promueve en cambio un cambio",
+                    "tiránica  El pontífice → tiránica. El pontífice"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 12,
+        "resultado": {
+            "texto_original_preview": "Se ha demostrado la incidencia positiva de las prácticas de autocuidado y hábitos saludables frente",
+            "errores_detectados": {
+                "ortografia acentual": [
+                    "sólo → solo"
+                ],
+                "ortografia literal": [
+                    "relevacia → relevancia",
+                    "ello → ellos",
+                    "a postura → a una postura"
+                ],
+                "ortografia puntual": [
+                    "la masificación de esta información, es fuertemente promovida → la masificación de esta información es fuertemente promovida",
+                    "Los problemas efectivos, no se solucionan → Los problemas efectivos no se solucionan",
+                    "sobre la mesa, y que ayuda → sobre la mesa y que ayuda",
+                    "debiese ser más honesta, y no guiada por intereses políticos o económicos → debiese ser más honesta y no guiada por intereses políticos o económicos"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 13,
+        "resultado": {
+            "texto_original_preview": "Para comenzar a finales del semestre pasado en China comenzó la propagación del virus COVID-19, para",
+            "errores_detectados": {
+                "ortografia acentual": [
+                    "llego → llegó",
+                    "llamo → llamó",
+                    "ultimo → último",
+                    "seria → sería",
+                    "mas → más",
+                    "aun → aún",
+                    "encontraran → encontrarán",
+                    "tambien → también",
+                    "estan → están",
+                    "prodran → podrán",
+                    "asintomaticamente → asintomáticamente",
+                    "presentaran → presentarán",
+                    "negandoles → negándoles"
+                ],
+                "ortografia literal": [
+                    "sufienciente → suficiente",
+                    "se frente → se enfrenta",
+                    "sufragiar → sufragar",
+                    "super contagioso → súper contagioso",
+                    "prodran → podrán",
+                    "asintomaticamente → asintomáticamente"
+                ],
+                "ortografia puntual": [
+                    "Para comenzar a finales... → Para comenzar, a finales...",
+                    "Como consecuencia de la llegada de este virus el país → Como consecuencia de la llegada de este virus, el país",
+                    "regional, luego de varios meses → regional. Luego de varios meses",
+                    "sin embargo el país → sin embargo, el país",
+                    "Frente a esto surgen → Frente a esto, surgen",
+                    "Por otro lado muchas personas → Por otro lado, muchas personas",
+                    "precauciones posibles aun se encontraran → precauciones posibles, aún se encontrarán",
+                    "presentes. Que presente → presentes; que presente",
+                    "Ahora bien en conclusión todos tenemos → Ahora bien, en conclusión, todos tenemos"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 14,
+        "resultado": {
+            "texto_original_preview": "La rebaja de la indeminzación que debe pagar Julio Ponce Lerou debido a su participación en lo que se ",
+            "errores_detectados": {
+                "ortografia acentual": [],
+                "ortografia literal": [
+                    "indeminzación → indemnización"
+                ],
+                "ortografia puntual": [
+                    "Corte Suprema?,¿ → Corte Suprema?"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 15,
+        "resultado": {
+            "texto_original_preview": "Una de las repercusiones generadas debido a la pandemia es el confinamiento de la población, lo que ",
+            "errores_detectados": {
+                "ortografia acentual": [
+                    "publico → público",
+                    "asi → así",
+                    "proteccion → protección",
+                    "problematicas → problemáticas",
+                    "limite → límite",
+                    "esta → está",
+                    "dinamicas → dinámicas",
+                    "entre si → entre sí",
+                    "basicas → básicas",
+                    "alimentacion → alimentación",
+                    "psiquiatria → psiquiatría",
+                    "ansioliticos → ansiolíticos",
+                    "poblacion → población",
+                    "sugerian → sugerían",
+                    "estres → estrés",
+                    "patologias → patologías"
+                ],
+                "ortografia literal": [
+                    "oficianas → oficinas",
+                    "peronas → personas",
+                    "activiades → actividades"
+                ],
+                "ortografia puntual": [
+                    "COVID- 19 → COVID-19",
+                    "sin embargo se → sin embargo, se",
+                    "Por otro lado el → Por otro lado, el"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 16,
+        "resultado": {
+            "texto_original_preview": "En el actual contexto sanitario en que estamos, el gobierno ha decidido restringir ciertas activdades",
+            "errores_detectados": {
+                "ortografia acentual": [
+                    "continuen → continúen",
+                    "si → sí"
+                ],
+                "ortografia literal": [
+                    "activdades → actividades",
+                    "escenciales → esenciales",
+                    "disminur → disminuir",
+                    "su puertas → sus puertas",
+                    "ocpuar → ocupar",
+                    "evalución → evaluación",
+                    "comeinzo → comienzo"
+                ],
+                "ortografia puntual": [
+                    "los colegios al realizar clases virtuales, permiten → los colegios, al realizar clases virtuales, permiten"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 17,
+        "resultado": {
+            "texto_original_preview": "En el último tiempo la contaminación del aire se ha convertido en un gran problema para las grandes ",
+            "errores_detectados": {
+                "ortografia acentual": [],
+                "ortografia literal": [],
+                "ortografia puntual": [
+                    "actividad física constantemente, mejora → actividad física constantemente mejora",
+                    "lo anterior, nuestros pulmones → lo anterior nuestros pulmones",
+                    "cualquier tipo de esta, por lo menos → cualquier tipo de esta por lo menos",
+                    "hacer deportes, es muy importante → hacer deportes es muy importante",
+                    "es muy importante, para que → es muy importante para que",
+                    "declaran que, a pesar de que → declaran que a pesar de que",
+                    "tanto, como al no tenerlo → tanto como si no lo tuviéramos",
+                    "ciudades, y debido a esto → ciudades y debido a esto",
+                    "Por esto el gobierno → Por esto, el gobierno"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 18,
+        "resultado": {
+            "texto_original_preview": "La pandemia del COVID-19 ha generado una serie de cuestionamientos sobre la importancia del cuidado ",
+            "errores_detectados": {
+                "ortografia acentual": [
+                    "prófunda → profunda",
+                    "especificamente → específicamente",
+                    "dónde → donde"
+                ],
+                "ortografia literal": [
+                    "virsus → virus",
+                    "individuo → individuos",
+                    "actúen antes las consecuencias → actúen ante las consecuencias",
+                    "q → que"
+                ],
+                "ortografia puntual": [
+                    "el ser humano, se caracterizaría → el ser humano se caracterizaría",
+                    "especificamente , → específicamente,",
+                    "a lo largo del tiempo, que → a lo largo del tiempo que",
+                    "Es por ello, que → Es por ello que",
+                    "?  y en esa medida → ? Y en esa medida"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 19,
+        "resultado": {
+            "texto_original_preview": "La pandemia del covid-19 del año 2020 será recordada por las pérdidas humanas y económicas que evidenciaron la mayoria de los paises y estados del mundo",
+            "errores_detectados": {
+                "ortografia acentual": [
+                    "mayoria → mayoría",
+                    "paises → países"
+                ],
+                "ortografia literal": [],
+                "ortografia puntual": [
+                    "falta de punto final → añadir punto final (.)"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 20,
+        "resultado": {
+            "texto_original_preview": "El covid-19 es un virus mortal que actualmente ha afectado a todos los paises, convirtiéndose así en u",
+            "errores_detectados": {
+                "ortografia acentual": [
+                    "paises → países",
+                    "que sectores → qué sectores",
+                    "que sectores → qué sectores",
+                    "que personas → qué personas",
+                    "dificil → difícil"
+                ],
+                "ortografia literal": [
+                    "covid-19 → COVID-19",
+                    "ocacionando → ocasionando",
+                    "generalemente → generalmente",
+                    "In cambio → En cambio",
+                    "aún que → aunque",
+                    "santiario → sanitario"
+                ],
+                "ortografia puntual": [
+                    "Con el pasar de los meses la pandemia → Con el pasar de los meses, la pandemia",
+                    "In cambio la gente → En cambio, la gente",
+                    "santiario, y debemos comenzar → sanitario y debemos comenzar"
+                ]
+            }
+        }
+    }
+]

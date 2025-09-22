@@ -1,0 +1,603 @@
+[
+    {
+        "id_texto": 1,
+        "resultado": {
+            ":{": "Los animos en nuestra actual pandemia no se hallan errados, la salud mental con respecto a lo que p",
+            "errores_detectados": {
+                "vocabulario amplitud": [
+                    "comodidad → confort / conveniencia",
+                    "flexibilidad → adaptabilidad / elasticidad",
+                    "trabajo / trabajos / trabajando → empleo / labor / actividad laboral",
+                    "campo / campos → ámbito / entorno"
+                ],
+                "vocabulario precision lexica": [
+                    "denotar → destacar / señalar",
+                    "diera a luz (una revuelta) → ocurriese / se produjera",
+                    "tus propios barrios → tus barrios (redundancia)",
+                    "el porque → por qué",
+                    "pretenciones → pretensiones",
+                    "limitarse sobre sus capacidades y eficiencias → ajustarse a sus capacidades / respetar sus límites",
+                    "propiedad sobre ellos (en contexto de explotación) → control / dominio sobre su tiempo y seguridad",
+                    "asi sea riqueza y pobreza → ya sea en riqueza o en pobreza",
+                    "requieres en material de la persona → requiere solo material/equipo y conexión",
+                    "poner a tus empleados → someter a tus empleados / exponer a tus empleados",
+                    "negligente trato → trato negligente",
+                    "oportunides → oportunidades",
+                    "lo anterior tratado → lo tratado anteriormente",
+                    "malversacion (en este contexto) → mala interpretación / distorsión",
+                    "sobrevivencias → supervivencia / por sobrevivir",
+                    "hacer desde casa → trabajar desde casa",
+                    "cybercafes → cibercafés / espacios de coworking"
+                ],
+                "vocabulario registro formal": [
+                    "tú / tus / te (uso informal) → usted / su / se (registro formal) — ej.: 'tus derechos' → 'sus derechos'",
+                    "os / vuestra (registro coloquial o regional) → los / su (registro neutro/formal)",
+                    "hacer lo que quieras, cuando quieras (tono coloquial) → realizar las actividades que se deseen, cuando se desee",
+                    "anglicismos informales: cybercafes → cibercafés / espacios de coworking",
+                    "expresiones coloquiales o familiares como 'te pide que te adaptes' → 'le solicita que se adapte' (registro formal)"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 2,
+        "resultado": {
+            "texto_original_preview": "La pandemia provocada por el virus Covid-19 ha generado profundos cambios a nivel social y cultural ",
+            "errores_detectados": {
+                "vocabulario amplitud": [
+                    "repetición de 'aprendizaje' → alternar con 'formación', 'enseñanza' o 'proceso educativo'",
+                    "repetición de 'niños y adolescentes' → alternar con 'menores', 'estudiantes' o 'infancia y adolescencia'",
+                    "repetición de 'dinámica familiar' → variar con 'contexto familiar' o 'entorno familiar'"
+                ],
+                "vocabulario precision lexica": [
+                    "adoloscentes → adolescentes",
+                    "adolescetes → adolescentes",
+                    "del los niños → de los niños",
+                    "paises → países",
+                    "latinoamérica → Latinoamérica",
+                    "refencia → referencia",
+                    "disernir → discernir",
+                    "incerto → integrado (o insertado)",
+                    "Potificia Universidad Católica de Chile → Pontificia Universidad Católica de Chile",
+                    "se requiren → se requieren",
+                    "desepeñe → desempeñe",
+                    "proptocolos → protocolos",
+                    "revaño → rebaño",
+                    "desarollo → desarrollo",
+                    "mas → más"
+                ],
+                "vocabulario registro formal": [
+                    "2 → dos (en registro formal, escribir números con letra)",
+                    "75% → aproximadamente un 75 % (o 'un 75 %') para un registro más formal",
+                    "PUC → Pontificia Universidad Católica (PUC) (evitar siglas sin aclaración en primera aparición)",
+                    "Covid-19 → COVID-19 (forma habitual en textos formales)",
+                    "alcohol gel → gel hidroalcohólico / gel desinfectante (término más formal)",
+                    "vacunarse, el cual → la vacunación, la cual (evitar referir acciones con 'el cual')",
+                    "pares del niño → sus pares / compañeros (frase más natural y formal)"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 3,
+        "resultado": {
+            "texto_original_preview": "A lo largo de la historia del ser humano, la actividad física ha sido pilar fundamental en relación a l",
+            "errores_detectados": {
+                "vocabulario amplitud": [
+                    "contaminación ambiental → variar con sinónimos: contaminación / polución / polución atmosférica / degradación ambiental",
+                    "personas → ciudadanos / habitantes / población",
+                    "medidas → acciones / políticas / iniciativas",
+                    "transporte (bus/auto) → evitar repetir 'bus' y 'auto'; usar 'transporte público', 'autobús' o 'automóvil' según contexto"
+                ],
+                "vocabulario precision lexica": [
+                    "mayaría → mayoría",
+                    "imparto → impacto",
+                    "habitates → habitantes",
+                    "cuidad → ciudad",
+                    "consecuancia → consecuencia",
+                    "podria → podría",
+                    "asi → así",
+                    "cabemos que → cabe que",
+                    "apalear (efectos) → mitigar / atenuar / reducir",
+                    "4 (cigarros) → cuatro (en registro formal)"
+                ],
+                "vocabulario registro formal": [
+                    "bus → autobús / transporte público",
+                    "ir en auto → desplazarse en automóvil / usar el automóvil",
+                    "uso del numeral '4' → escribir 'cuatro' en registro formal",
+                    "uso de expresiones coloquiales/registrales repetidas ('personas', 'medidas') → emplear sinónimos más formales como 'ciudadanos', 'políticas', 'iniciativas'"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 4,
+        "resultado": {
+            "texto_original_preview": "Para que se eliminen las condiciones deplorables de las cuales se encuentra viviendo diariamente nue",
+            "errores_detectados": {
+                "vocabulario amplitud": [
+                    "cambios → transformaciones / medidas / acciones (evitar repetir 'cambios' tantas veces)",
+                    "personas → individuos / ciudadanos / comunidad (variedad léxica en lugar de repetir 'personas')",
+                    "salud → bienestar / salud pública (alternativas para evitar repetición)",
+                    "prácticas → hábitos / medidas / acciones (evitar repetir 'prácticas' y 'práctica')",
+                    "basura → residuos / desechos (variedad léxica)",
+                    "ocupar (bolsas) → usar / emplear (variante para evitar repetición de 'ocupar')"
+                ],
+                "vocabulario precision lexica": [
+                    "inevernaderos → gases de efecto invernadero (término escrito y formulado incorrectamente)",
+                    "no iba hacer → no iba a hacer (construcción incorrecta)",
+                    "en mano → en manos (uso incorrecto: singular/plural)",
+                    "no iba hacer los cambios necesarios como los hace que toda una población deje de ocupar estas → no bastaría hasta que toda la población deje de usar bolsas (frase confusa; recomendar reescritura más clara)",
+                    "ocupar bolsas → usar/utilizar bolsas (uso poco preciso de 'ocupar')",
+                    "estas (referente) → estas bolsas (hacer el referente explícito para evitar ambigüedad)",
+                    "practicas ... será → prácticas ... serán (desacuerdo entre sujeto y verbo: número)"
+                ],
+                "vocabulario registro formal": [
+                    "la gente → la población / las personas (registro más formal)",
+                    "pongo el caso de que → por ejemplo / en el supuesto de que (evitar expresiones coloquiales)",
+                    "lo que pasa en Chile / India → lo que ocurre en Chile / India (registro más formal)",
+                    "Como muchos dicen \"las acciones arrastran\" → expresión coloquial; usar 'las acciones generan efectos multiplicadores' o giro formal equivalente"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 5,
+        "resultado": {
+            "texto_original_preview": "Las actividades del colectivo feminista Las Tesis han generado controversia sobre varios aspectos que qu",
+            "errores_detectados": {
+                "vocabulario amplitud": [
+                    "repetición de 'libertad de expresión' → usar sinónimos como 'libertad de opinión' o 'libertad de manifestación' para evitar redundancia",
+                    "repetición de 'límite/límites' → variar con 'restricción' o 'condición' cuando proceda",
+                    "repetición de 'control' → alternar con 'supervisión' o 'vigilancia' para reducir reiteración",
+                    "repetición de 'autoridad' → alternar con 'poder público' o 'institución' para evitar repeticiones",
+                    "repetición de 'comunidad' → alternar con 'sociedad' o 'colectividad'"
+                ],
+                "vocabulario precision lexica": [
+                    "capacidad de otros de poder decir o hacer algo → 'capacidad de otros para decir o hacer algo' o 'posibilidad de decir o hacer algo' (eliminar la redundancia 'de poder')",
+                    "hacer que la sociedad deba valorar → 'impulsar a la sociedad a valorar' o 'llevar a la sociedad a valorar' (evitar la duplicidad 'hacer' + 'deba')",
+                    "Ello entonces, implica → 'Ello implica' o 'Entonces implica' (reducción de redundancia)"
+                ],
+                "vocabulario registro formal": []
+            }
+        }
+    },
+    {
+        "id_texto": 6,
+        "resultado": {
+            "texto_original_preview": "Hoy en día, debido a la pandemia provocada por el covid-19, son muchas las personas en todo el mundo",
+            "errores_detectados": {
+                "vocabulario amplitud": [
+                    "personas (repetición) → quienes / estos trabajadores",
+                    "laboral (repetición en 'demandas laborales' y 'sobrecarga laboral') → demandas del trabajo / sobrecarga de trabajo"
+                ],
+                "vocabulario precision lexica": [
+                    "mecanismo para poder (redundancia) → mecanismo para / que permita",
+                    "las debidas cuarentenas (redundancia de 'debidas') → las cuarentenas"
+                ],
+                "vocabulario registro formal": [
+                    "Hoy en día → Actualmente",
+                    "covid-19 (minúsculas) → COVID-19",
+                    "encierro (coloquial) → confinamiento / aislamiento",
+                    "sus casas (coloquial) → sus hogares / desde casa"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 7,
+        "resultado": {
+            "texto_original_preview": "Para comenzar este ensayo, es necesario tener conocimiento respecto de las políticas educativas que actualmente rigen nuestro país. Es decir, saber que el currículum actual pone gran esfuerzo en querer que las instituciones educativas sean espacios de gran diversidad cultural, que sean espacios seguros",
+            "errores_detectados": {
+                "vocabulario amplitud": [
+                    "espacios → lugares/ambientes (evitar repetición)",
+                    "comunidades educativas → centros educativos/colectivos escolares (evitar repetición)",
+                    "gran → considerable/significativo/amplio (repetido: gran esfuerzo, gran diversidad, gran porcentaje)",
+                    "extremadamente → muy (repetido: extremadamente nacionalistas / extremadamente enriquecedor)",
+                    "culturas → tradiciones/comunidades culturales (reducción de repeticiones)"
+                ],
+                "vocabulario precision lexica": [
+                    "incluídas → incluidas (tilde incorrecta)",
+                    "a los cuales fácilmente se les puede asociar → a quienes / a los que fácilmente se les puede asociar (uso más apropiado del relativo)",
+                    "considerarles fascistas → considerarlos fascistas (pronombre de objeto correcto)",
+                    "repercutirán en un desconocimiento y pérdida cultural, los valores y tradiciones → repercutirán en el desconocimiento y la pérdida de la cultura y de sus valores y tradiciones (claridad y coherencia)",
+                    "repercutirán → repercutirá (concordancia: 'un mestizaje' es singular)",
+                    "De manera de que → De manera que (eliminar 'de' innecesario)",
+                    "por la cual está compuesta la comunidad educativa → que componen / de la que se compone la comunidad educativa (mejor construcción relativa)",
+                    "Sino que por el contrario, que el ejercicio... → Sino que, por el contrario, el ejercicio... (eliminar 'que' repetido y corregir puntuación)"
+                ],
+                "vocabulario registro formal": [
+                    "Para ir finalizando → Para finalizar (registro más formal)",
+                    "Creo que → Considero que (registro más académico/formal)"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 8,
+        "resultado": {
+            "texto_original_preview": "En la situación actual de Chile el teletrabajo ha sido una forma de continuar realizando las activida",
+            "errores_detectados": {
+                "vocabulario amplitud": [
+                    "teletrabajo (repetido) → modalidad laboral / trabajo remoto",
+                    "trabajo (repetido) → tarea(s) / actividad laboral",
+                    "trabajadores (repetido) → empleados / personal",
+                    "hogar (repetido) → vivienda / domicilio",
+                    "actividades productivas (repetido) → labores / actividades económicas",
+                    "ambiente (repetido) → entorno"
+                ],
+                "vocabulario precision lexica": [
+                    "por que → porque",
+                    "continuar realizando las actividades productivas que los trabajadores realizaban → continuar desempeñando las actividades productivas que antes realizaban (evitar la repetición 'realizando/realizaban')",
+                    "integridad psicológica → bienestar psicológico (término más preciso y frecuente en el ámbito de salud mental)",
+                    "a la vista de los empleadores → desde la perspectiva de los empleadores / según los empleadores (más preciso)"
+                ],
+                "vocabulario registro formal": [
+                    "trabajas → se trabaja / uno trabaja (evitar segunda persona informal en un ensayo formal)",
+                    "online → en línea (evitar anglicismos informales)",
+                    "maravilla (tono coloquial) → ventaja / beneficio",
+                    "sitio (coloquial) → lugar"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 9,
+        "resultado": {
+            "texto_original_preview": "En el contexto de la pandemia por el covid-19 surge la preocupación por la salud mental de quienes e",
+            "errores_detectados": {
+                "vocabulario amplitud": [
+                    "teletrabajo (repetido varias veces) → trabajo remoto / modalidad remota",
+                    "trabajo (repetido con frecuencia) → tareas / labores / jornada",
+                    "espacio (repetido) → ámbito / zona / lugar",
+                    "resto (repetido: 'resto de la casa', 'resto del día') → el resto de la casa / durante el resto del día (variar con sinónimos si es necesario)",
+                    "llevar a cabo ... al llevar a cabo (repetición próxima) → evitar la duplicación: 'implementando estrategias' o 'mediante estrategias'"
+                ],
+                "vocabulario precision lexica": [
+                    "práctia → práctica",
+                    "diaras → diarias",
+                    "sanidad mental → salud mental",
+                    "despreocupación de los temas laborales → desconexión respecto a los temas laborales / alivio de la carga laboral",
+                    "pensamientos de asuntos laborales → pensamientos laborales / preocupaciones laborales",
+                    "Para el caso que se vive en la actualidad → En el contexto actual (más preciso y natural)",
+                    "enseñaran → enseñen (forma verbal correcta en contexto)"
+                ],
+                "vocabulario registro formal": [
+                    "hobby → pasatiempo / afición (evitar anglicismos informales)",
+                    "covid-19 → COVID-19 (uso recomendado en mayúsculas, forma formal estándar)",
+                    "uso de comillas en \"hobby\" → eliminar comillas y usar término en español para registro formal"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 10,
+        "resultado": {
+            "texto_original_preview": "En la actualidad, existen diversos puntos de vista con respecto al sistema de enseñanza que se ha im",
+            "errores_detectados": {
+                "vocabulario amplitud": [
+                    "clases presenciales → la modalidad presencial / la enseñanza presencial (evitar repetir la misma expresión)",
+                    "a razón de → debido a / a causa de (repetido varias veces)",
+                    "estudiantes → alumnado (usar sinónimos para evitar reiteración)",
+                    "problemas / problemáticas → problemas (elegir un término y mantenerlo)"
+                ],
+                "vocabulario precision lexica": [
+                    "impusado → impulsado (error ortográfico)",
+                    "casi despreciable → casi insignificante / muy bajo (\"despreciable\" tiene connotación distinta)",
+                    "difere de lo saludable → es menos saludable / se ha visto afectada (frase poco precisa)",
+                    "por el cual estamos viviendo → que estamos viviendo / por el que estamos atravesando (más claro)",
+                    "no cumplen con el aprendizaje según malla curricular → no alcanzan el nivel de aprendizaje establecido en la malla curricular (formulación más precisa)",
+                    "con tal de corregir las alteraciones → con el fin de corregir las deficiencias (evitar ambigüedad)",
+                    "han surgido a razón de → han surgido debido a / han sido asociados a (mejor precisión causal)",
+                    "muestras → evidencias (término más técnico y preciso)"
+                ],
+                "vocabulario registro formal": [
+                    "con tal de → con el fin de (registro más formal)",
+                    "Dando como resultado → Esto ha dado como resultado / Como resultado (evitar inicio con gerundio informal)",
+                    "quienes han impusado dicho sistema → que ha impulsado dicho sistema (mejor uso formal al referirse al Ministerio)",
+                    "Covid-19 → COVID-19 (uso estándar en mayúsculas en textos formales)"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 11,
+        "resultado": {
+            "texto_original_preview": "En su encíclica Fratelli Tutti el Papa Francisco no solo sintoniza con los reclamos de justicia soci",
+            "errores_detectados": {
+                "vocabulario amplitud": [
+                    "forma de vida → estilo de vida / modo de vida",
+                    "solidaridad → cooperación / apoyo mutuo",
+                    "propuesta social → iniciativa social / programa social"
+                ],
+                "vocabulario precision lexica": [
+                    "sobretodo → sobre todo",
+                    "la personas → las personas",
+                    "protección del pobre → protección de las personas pobres",
+                    "balconeando la vida → limitándose a observar",
+                    "lo chico → lo pequeño",
+                    "practicable solo por cristianos → no exclusiva de los cristianos / practicable por todas las personas",
+                    "en vez → en cambio",
+                    "por sobre → por encima de"
+                ],
+                "vocabulario registro formal": [
+                    "balconeando la vida → limitándose a observar",
+                    "lo chico → lo pequeño",
+                    "todos los hombres → todas las personas",
+                    "en vez → en cambio",
+                    "por sobre → por encima de"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 12,
+        "resultado": {
+            "texto_original_preview": "Se ha demostrado la incidencia positiva de las prácticas de autocuidado y hábitos saludables frente ",
+            "errores_detectados": {
+                "vocabulario amplitud": [
+                    "prácticas de autocuidado (repetición excesiva) → autocuidado / estas prácticas",
+                    "actividad física (repetición) → ejercicio / movimiento",
+                    "alimentación / alimentación balanceada (repetición) → dieta equilibrada / hábitos alimentarios",
+                    "problema (repetición) → situación / desafío / cuestión de fondo",
+                    "información (repetición) → datos / evidencia / comunicaciones",
+                    "salud (repetición) → bienestar / salud pública",
+                    "población (repetición) → ciudadanía / habitantes"
+                ],
+                "vocabulario precision lexica": [
+                    "relevacia → relevancia",
+                    "Los problemas efectivos → Los problemas reales / los problemas de fondo",
+                    "a pesar de en efecto ser algo positivo → a pesar de ser algo positivo / si bien en efecto es positivo",
+                    "entre ello → entre ellos",
+                    "poner soluciones parche → aplicar medidas paliativas / soluciones temporales",
+                    "alimentación balanceada como una dieta y no como un régimen → dieta equilibrada / régimen alimentario (usar término coherente)",
+                    "la promoción de las prácticas de autocuidado son importantes, pero en función de la integridad personal y no en función de otro → 'otro' → otros intereses / objetivos ajenos (aclarar sujeto)"
+                ],
+                "vocabulario registro formal": [
+                    "etc. → evitar 'etc.' en registro formal; detallar o usar 'etcétera' con moderación",
+                    "poner soluciones parche (coloquial) → implementar soluciones temporales / medidas paliativas",
+                    "sobre la mesa (coloquial) → en la agenda pública / en el debate público",
+                    "a pesar de en efecto ser algo positivo (frase poco formal/confusa) → a pesar de ser algo positivo / si bien, en efecto, es positivo"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 13,
+        "resultado": {
+            "texto_original_preview": "Para comenzar a finales del semestre pasado en China comenzó la propagación del virus COVID-19, para",
+            "errores_detectados": {
+                "vocabulario amplitud": [
+                    "virus (repetido varias veces) → usar alternativas como patógeno / la enfermedad / COVID-19 en algunas ocurrencias",
+                    "pandemia (repetida) → alternar con crisis sanitaria o eliminar repeticiones innecesarias",
+                    "cuarentena ... meses de cuarentena (repetición) → usar confinamiento / aislamiento en una de las menciones",
+                    "posibles ... precauciones posibles (redundancia léxica) → eliminar la duplicación: “con todas las precauciones”",
+                    "salieron ... saliendo (mismo verbo en sucesión inmediata) → reemplazar uno por ejemplo por ingresando/entrando/avanzando"
+                ],
+                "vocabulario precision lexica": [
+                    "este llego → este llegó (acento y forma correcta)",
+                    "el país se frente a una pandemia → el país se enfrenta / se encontró frente a una pandemia (corrección de collocación verbal)",
+                    "aun mas → aún más (acentuación y expresión correcta)",
+                    "llamo → llamó (acentuación)",
+                    "derecho a voto → derecho al voto / ejercer el derecho al voto (colocación correcta)",
+                    "sufienciente → suficiente (ortografía)",
+                    "super contagioso → altamente contagioso / muy contagioso (término más preciso y formal)",
+                    "aun se encontraran → aún se encontrarán (acentuación y forma verbal)",
+                    "tambien estan en el derecho en su derecho a voto → tienen derecho a votar / también tienen derecho al voto (elimina repetición y corrige colocación)",
+                    "prodran → podrán (ortografía)",
+                    "asintomaticamente → asintomáticamente (acentuación)",
+                    "presentar el virus asintomático → estar asintomático / presentar la infección de forma asintomática (mejor colocación léxica)",
+                    "presentaran → presentarán (acentuación)",
+                    "en el casos → en el caso (número y concordancia)",
+                    "a su parte (uso incorrecto) → por su parte / hacia ellos",
+                    "negandoles → negándoles (acentuación)",
+                    "implementada de buena forma → implementada de forma adecuada / bien implementada (mejor collocación)",
+                    "todos el voto de uno puede hacer el cambio → el voto de cada uno puede hacer la diferencia / el voto de cada persona puede producir el cambio (corrección de colocación y claridad)",
+                    "participar del plebiscito de este octubre → participar en el plebiscito previsto para octubre (preposición y expresión más precisa)"
+                ],
+                "vocabulario registro formal": [
+                    "super contagioso → altamente contagioso / muy contagioso (evitar coloquialismos como “super”)",
+                    "todo el rato → constantemente / de forma continua (evitar coloquialismos)",
+                    "uno (uso impersonal) → las personas / la ciudadanía / los votantes (registro más formal e inclusivo)",
+                    "nueva realidad → nueva normalidad / nueva situación sanitaria (término más formal y técnico)",
+                    "buena forma → de forma adecuada / correctamente (evitar expresiones coloquiales)"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 14,
+        "resultado": {
+            "texto_original_preview": "La rebaja de la indeminzación que debe pagar Julio Ponce Lerou debido a su participación en lo que s",
+            "errores_detectados": {
+                "vocabulario amplitud": [],
+                "vocabulario precision lexica": [
+                    "indeminzación → indemnización",
+                    "en lo que se conoce como → en el Caso Soquimich (redundancia)"
+                ],
+                "vocabulario registro formal": [
+                    "rebaja → reducción (uso más formal en contexto jurídico)",
+                    "en lo que se conoce como → en el Caso Soquimich (frase más directa y formal)"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 15,
+        "resultado": {
+            "texto_original_preview": "Una de las repercusiones generadas debido a la pandemia es el confinamiento de la población, lo que b",
+            "errores_detectados": {
+                "vocabulario amplitud": [
+                    "población → población / comunidad / habitantes",
+                    "lugares → espacios / entornos / zonas",
+                    "teletrabajo → trabajo remoto / trabajo a distancia / modalidad remota",
+                    "trabajo → actividad laboral / jornada laboral / desempeño",
+                    "trabajadores → personal / empleados / plantilla",
+                    "ansiosos → personas con ansiedad / síntomas de ansiedad"
+                ],
+                "vocabulario precision lexica": [
+                    "oficianas → oficinas",
+                    "peronas → personas",
+                    "activiades → actividades",
+                    "ansioliticos → ansiolíticos",
+                    "trastornos ansiosos → trastornos de ansiedad",
+                    "como por ejemplo → por ejemplo / como (evitar redundancia)",
+                    "a consecuencia del estar 'encerrados' → a consecuencia del encierro / por el confinamiento (evitar construcción redundante)"
+                ],
+                "vocabulario registro formal": [
+                    "mails → correos electrónicos",
+                    "'encerrados' (uso de comillas coloquiales) → encierro / confinamiento (sin comillas)",
+                    "uso de expresiones coloquiales o anglicismos → emplear equivalentes formales (p. ej. 'correos electrónicos' en lugar de 'mails')"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 16,
+        "resultado": {
+            "texto_original_preview": "En el actual contexto sanitario en que estamos, el gobierno ha decidido restringir ciertas activdades",
+            "errores_detectados": {
+                "vocabulario amplitud": [
+                    "colegios (repetición excesiva) → centros educativos / instituciones / establecimientos",
+                    "clases virtuales (repetición) → enseñanza virtual / educación en línea / clases en línea",
+                    "salud (repetición) → salud pública / bienestar / seguridad sanitaria",
+                    "alumnos / escolares (repetición) → estudiantes / educandos",
+                    "transporte público / medio de transporte (repetición) → transporte / movilización / traslado",
+                    "de manera (repetición de locución) → de forma / mediante"
+                ],
+                "vocabulario precision lexica": [
+                    "activdades → actividades",
+                    "escenciales → esenciales",
+                    "disminur → disminuir",
+                    "cerrar su puertas → cerrar sus puertas",
+                    "continuen → continúen",
+                    "ocpuar → ocupar",
+                    "si (no acentuado) → sí (acentuación) / si disponen de transporte seguro (mejor opción léxica)",
+                    "evalucion → evaluación",
+                    "comeinzo → comienzo",
+                    "ministerio de salud → Ministerio de Salud (nombre propio, mayúsculas)",
+                    "resguardar la salud de estos → resguardar la salud de los estudiantes / de éstos (evitar demostrativo vago)",
+                    "esta última → la educación (aclarar a qué se refiere 'esta última')"
+                ],
+                "vocabulario registro formal": [
+                    "Por esto → Por ello / Por tanto",
+                    "día a día → diariamente",
+                    "en que estamos → en el que nos encontramos / en el contexto sanitario actual (más formal)",
+                    "hay personas que dicen que → algunas personas sostienen que / se argumenta que",
+                    "si lo tienen (coloquial) → si disponen de transporte seguro (más formal)"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 17,
+        "resultado": {
+            "texto_original_preview": "En el último tiempo la contaminación del aire se ha convertido en un gran problema para las grandes ",
+            "errores_detectados": {
+                "vocabulario amplitud": [
+                    "contaminación → polución / contaminantes",
+                    "grandes (repetido antes de “ciudades”) → ciudades metropolitanas / urbanas / principales",
+                    "actividad física / deporte / ejercicio físico (repetición léxica) → actividad deportiva / práctica deportiva / ejercicio",
+                    "cantidad (repetido) → nivel / grado / volumen",
+                    "suciedad → contaminantes / partículas",
+                    "muy (adverbio repetido) → eliminar o alternar: sumamente / altamente / particularmente"
+                ],
+                "vocabulario precision lexica": [
+                    "suciedad al aire → suciedad en el aire / contaminantes en el aire",
+                    "vida útil de nuestros pulmones → salud pulmonar / capacidad pulmonar",
+                    "cualquier tipo de esta → cualquier tipo de actividad física",
+                    "hacer algún tipo de actividad física constantemente → practicar actividad física de forma regular / con frecuencia",
+                    "como al no tenerlo → en comparación con no practicarla",
+                    "haciéndolo a medida que vayan creciendo → practicándolo a medida que crezcan",
+                    "día a día → diariamente"
+                ],
+                "vocabulario registro formal": [
+                    "gente → la población / las personas",
+                    "lanzar alguna campaña o ley → promover / implementar una campaña o una ley",
+                    "Por esto → Por ello / Por tanto",
+                    "se debe cambiar eso → es necesario cambiar esta situación / esto debe modificarse",
+                    "hacer un cambio → introducir / implementar un cambio",
+                    "uso excesivo de 'muy' → usar adjetivos más precisos o sin adverbio (ej. 'extremadamente' si se requiere mayor énfasis)"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 18,
+        "resultado": {
+            "texto_original_preview": "La pandemia del COVID-19 ha generado una serie de cuestionamientos sobre la importancia del cuidado ",
+            "errores_detectados": {
+                "vocabulario amplitud": [
+                    "cada uno de los países → cada país",
+                    "cada uno de sus integrantes → sus integrantes / los miembros",
+                    "cada uno de los individuo → cada individuo / cada uno de los individuos",
+                    "cada uno de sus miembros → sus miembros (evitar repetir la misma fórmula)",
+                    "socialización (repetido) → interacción social / relaciones sociales",
+                    "mejor calidad (repetición: 'mejor calidad de vida' y 'mejor calidad de políticas públicas') → bienestar / mejores políticas públicas"
+                ],
+                "vocabulario precision lexica": [
+                    "prófunda → profunda",
+                    "virsus → virus",
+                    "cada uno de los individuo → cada uno de los individuos (acuerdo en número)",
+                    "actúen antes las consecuencias → actúen ante las consecuencias (preposición correcta)",
+                    "especificamente → específicamente",
+                    "Acusando en primera instancia → Evidenciando / Mostrando en primera instancia (mejor elección léxica)",
+                    "dónde la base sea → donde la base sea (no interrogativo, sin acento)"
+                ],
+                "vocabulario registro formal": [
+                    "q → que (abreviación informal)",
+                    "comillas en \"dignidad\" → usar sin comillas en registro formal"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 19,
+        "resultado": {
+            "texto_original_preview": "La pandemia del covid-19 del año 2020 será recordada por las pérdidas humanas y económicas que evide",
+            "errores_detectados": {
+                "vocabulario amplitud": [],
+                "vocabulario precision lexica": [
+                    "del covid-19 → de la COVID-19",
+                    "mayoria → mayoría",
+                    "paises → países"
+                ],
+                "vocabulario registro formal": []
+            }
+        }
+    },
+    {
+        "id_texto": 20,
+        "resultado": {
+            "texto_original_preview": "El covid-19 es un virus mortal que actualmente ha afectado a todos los paises, convirtiéndose así en u",
+            "errores_detectados": {
+                "vocabulario amplitud": [
+                    "gente → personas/ciudadanos/población (usar sinónimos para evitar repetición)",
+                    "personas → individuos/ciudadanos (variante para no repetir continuadamente)",
+                    "trabajar / salir a trabajar → laborar / desempeñar su actividad / salir a laborar",
+                    "casas → hogares / domicilios",
+                    "contagios → infecciones / casos",
+                    "cuarentenas → confinamientos (sinónimo para variar)"
+                ],
+                "vocabulario precision lexica": [
+                    "pais es → países (tilde faltante)",
+                    "ocacionando → ocasionando (ortografía)",
+                    "santiario → sanitario (ortografía)",
+                    "generalemente → generalmente (ortografía)",
+                    "aún que → aunque (uso incorrecto / grafía)",
+                    "más riesgosa a nuevos contagios → más propensa/expuesta a contagiarse (corrección léxica: las personas no son 'riesgosas')",
+                    "trabajar como mano de obra, usando sus manos para trabajar → trabajadores manuales / trabajo manual (redundancia y expresión imprecisa)",
+                    "trabajar con teletrabajo → teletrabajar (redundancia)",
+                    "la dificil → la difícil (tilde faltante)"
+                ],
+                "vocabulario registro formal": [
+                    "covid-19 → COVID-19 (usar forma habitual en registros formales)",
+                    "gente → personas/ciudadanos (tono más formal)",
+                    "usan el sistema de transporte público → utilizan el transporte público (registro más formal)",
+                    "necesita del dinero → necesita el dinero / depende del ingreso (frase coloquial: 'necesita del dinero')",
+                    "no tiene contrato de trabajo → no cuenta con contrato laboral (registro más formal)"
+                ]
+            }
+        }
+    }
+]

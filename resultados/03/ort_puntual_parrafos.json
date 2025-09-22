@@ -1,0 +1,1040 @@
+[
+    {
+        "id_texto": 1,
+        "parrafos": [
+            {
+                "id_parrafo": 1,
+                "texto": "Los animos en nuestra actual pandemia no se hallan errados, la salud mental con respecto a lo que podemos denominar como la realidad del trabajo permanente no esta enfrentando nada nuevo. Ya anteriormente los debates sobre las nociones y condiciones laborales abundaban y eran central tema de conversacion, para sus propios asociados hay que denotar. Poco mas de cien años han pasado desde que se diera a luz la ultima revuelta que cambiara ese status quo. Con lo que ahora toca preguntarnos: ¿Es el retorno a los trabajos ubicados en tus propios barrios, en contraste a las claustrofobicas oficinas un progreso en materia de bienestar laboral? La verdad es que no y ahora se explicitara el porque.",
+                "resultado": {
+                    "errores_acentuales": {
+                        "error_1": [
+                            "animos → ánimos"
+                        ],
+                        "error_2": [
+                            "esta → está"
+                        ],
+                        "error_3": [
+                            "conversacion → conversación"
+                        ],
+                        "error_4": [
+                            "mas → más"
+                        ],
+                        "error_5": [
+                            "ultima → última"
+                        ],
+                        "error_6": [
+                            "claustrofobicas → claustrofóbicas"
+                        ],
+                        "error_7": [
+                            "explicara → explicará"
+                        ],
+                        "error_8": [
+                            "porque → porqué"
+                        ]
+                    }
+                }
+            },
+            {
+                "id_parrafo": 2,
+                "texto": "\"Dificultad de normar, facilidad de violentar\", es adecuado el preguntarse quien velara por tus derechos a la hora de firmar un contrato, todo deberia ser regulado, si es que no se quieren ver como victimas de vuestras propias pretenciones, y eso va tanto para empleados como empleadores. Una escasa regulacion da cabida a dos tipos de males, la mala ejecucion de un proyecto por no limitarse sobre sus capacidades y eficiencias y la mala practica de explotar a tus trabajadores al no limitarsele su propiedad sobre ellos, sobre su seguridad, su tiempo. El trabajo de modalidad remota os pone en campo abierto, espacio publico demasiado grande para patrullar, y campos inciertos, en vuestra cerrada intimidad, asi sea riqueza y pobreza. Pues como solo requieres en material de la persona y el equipo y sus conexiones. Es muy sencillo desentenderse del claro maltrato o negligente trato ante el cual pones a tus empleados y pedirles sin tanta amenaza pero clara presion algo mas de su tiempo.",
+                "resultado": {
+                    "errores_acentuales": {
+                        "error_1": [
+                            "quien → quién"
+                        ],
+                        "error_2": [
+                            "velara → velará"
+                        ],
+                        "error_3": [
+                            "deberia → debería"
+                        ],
+                        "error_4": [
+                            "victimas → víctimas"
+                        ],
+                        "error_5": [
+                            "regulacion → regulación"
+                        ],
+                        "error_6": [
+                            "ejecucion → ejecución"
+                        ],
+                        "error_7": [
+                            "practica → práctica"
+                        ],
+                        "error_8": [
+                            "publico → público"
+                        ],
+                        "error_9": [
+                            "asi → así"
+                        ],
+                        "error_10": [
+                            "presion → presión"
+                        ],
+                        "error_11": [
+                            "mas → más"
+                        ]
+                    }
+                }
+            },
+            {
+                "id_parrafo": 3,
+                "texto": "\"Un trabajador contento es un buen trabajador\", la base psicologica ha sido central los ultimos treinta años en lo que respecta a las posibilidades de la globalizacion y fin de las dictaduras. Libertad, conectividad, hacer lo que quieras, cuando quieras (obviamente, es mas lema que realidad). ¿Pero que ocurre cuando tanto tu como tu empleador considerando las fortalezas actuales, diversidades, oportunides, competencias al fin y al cabo, te pide que te adaptes? Los ciclos de sueño, las rutinas recreativas, el tiempo en familia y muchos similares son necesarios para tu salud mental, y esa salud es requerida por el cuerpo para funcionar como corresponde. Negar vivencias por sobrevivencias, alterar tu sueño (abstracta y literalmente) solo acabara malos resultados (eficiente y vitalmente)",
+                "resultado": {
+                    "errores_acentuales": {
+                        "error_1": [
+                            "psicologica → psicológica"
+                        ],
+                        "error_2": [
+                            "ultimos → últimos"
+                        ],
+                        "error_3": [
+                            "globalizacion → globalización"
+                        ],
+                        "error_4": [
+                            "mas → más"
+                        ],
+                        "error_5": [
+                            "que → qué"
+                        ],
+                        "error_6": [
+                            "tu → tú"
+                        ],
+                        "error_7": [
+                            "acabara → acabará"
+                        ]
+                    }
+                }
+            },
+            {
+                "id_parrafo": 4,
+                "texto": "Se comenta mucho que lo anterior tratado evidencia la existencia de comodidad y flexibilidad en el nuevo campo laboral, evidentes mentiras si nos ponemos a pensar, que no escogimos esa realidad, nos la impusieron, primero el virus, ahora nuestros empleadores. Si te obligan a algo la disposicion se reduce, ahora pongamonos en el caso de que no hubiera COVID-19, pasaria igual pero con menos tragedias, sucede que aqui tenemos una malversacion, malinterpretacion de la comodidad, estas trabajando, y de la flexibilidad, estas bajo contrato.",
+                "resultado": {
+                    "errores_acentuales": {
+                        "error_1": [
+                            "disposicion → disposición"
+                        ],
+                        "error_2": [
+                            "pongamonos → pongámonos"
+                        ],
+                        "error_3": [
+                            "pasaria → pasaría"
+                        ],
+                        "error_4": [
+                            "aqui → aquí"
+                        ],
+                        "error_5": [
+                            "malversacion → malversación"
+                        ],
+                        "error_6": [
+                            "malinterpretacion → malinterpretación"
+                        ],
+                        "error_7": [
+                            "estas → estás"
+                        ]
+                    }
+                }
+            },
+            {
+                "id_parrafo": 5,
+                "texto": "El trabajo remoto necesita ser estructurado pero semipersonalizado, es decir, esa flexibilidad temporal es tentadora, al igual que la comodidad de no tener que viajar, pero al final siempre habra otro lado, por eso se debe centrar. Los \"cybercafes\" como espacios de trabajo alternativo si no quieres hacer desde casa y el bloqueo de llamada los fines de semanas, como en Japon, es una buena opcion",
+                "resultado": {
+                    "errores_acentuales": {
+                        "error_1": [
+                            "habra → habrá"
+                        ],
+                        "error_2": [
+                            "cybercafes → cybercafés"
+                        ],
+                        "error_3": [
+                            "Japon → Japón"
+                        ],
+                        "error_4": [
+                            "opcion → opción"
+                        ]
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id_texto": 2,
+        "parrafos": [
+            {
+                "id_parrafo": 1,
+                "texto": "La pandemia provocada por el virus Covid-19 ha generado profundos cambios a nivel social y cultural en todo el mundo. Sin duda, ha sido un impacto en todos los parámetros de la vida diaria, siendo uno el más preocupantes, el proceso de aprendizaje de niños y adoloscentes. Entonces, ¿el aprendizaje virtual, limita las capacidades de aprendizaje del los niños y adolescentes sometidos a este sistema?.",
+                "resultado": {
+                    "errores_acentuales": {}
+                }
+            },
+            {
+                "id_parrafo": 2,
+                "texto": "En estudios realizados en paises de latinoamérica, se conoce que las habilidades de aprendizaje de un niño, se dividen en 4 grandes áreas. Uno, aprendizaje familiar, que hace refencia a los hábitos y conductas adquiridas desde la cuna y en casa, dos, aprendizaje cognitivo, son conductas y conocimientos adquiridos de manera conceptual (conocimientos),  aprendizaje selectivo, basado en la experiencia vivida por el niño, que lo hace disernir entre lo que quiere y puede hacer, y  finalmente, aprendizaje social, que lo ayuda a relacionarse con los demás.",
+                "resultado": {
+                    "errores_acentuales": {
+                        "error_1": [
+                            "paises → países"
+                        ]
+                    }
+                }
+            },
+            {
+                "id_parrafo": 3,
+                "texto": "La combinación de estas grandes categorías, desarrollan e influyen en la vida de una persona y lo convierten en un ser íntegro, que pueda ser una influencia positiva para la sociedad en la que está incerto. Los niños que no desarrollan alguna de estas habilidades, ya sea, a nivel familiar, cognitiva, selectiva o social, son un 80% mas propensos a tener problemas en sus capacidades de aprendizaje, llegando hasta un 95% cuando se ven afectas 2 o más de estas. Esto se debe, a que cada una de ellas no puede desarrollarse sin la interacción de las demás.",
+                "resultado": {
+                    "errores_acentuales": {
+                        "error_1": [
+                            "mas → más"
+                        ]
+                    }
+                }
+            },
+            {
+                "id_parrafo": 4,
+                "texto": "En la actualidad, se cree que el área mas afectada es a nivel social con pares del niño, sin embargo, se debe apreciar un panorama más general y amplio de este análisis, ya que, según un estudio realizado en Chile el año 2010 por la Potificia Universidad Católica de Chile, \"Impactos en el aprendizaje\", lo que mayormente afecta el aprendizaje del niño es la dinámica familiar con la que viene integrado, la cual le otorga las herramientas para interactuar en otros niveles sociales.",
+                "resultado": {
+                    "errores_acentuales": {
+                        "error_1": [
+                            "mas → más"
+                        ]
+                    }
+                }
+            },
+            {
+                "id_parrafo": 5,
+                "texto": "Si esta dinámica es deficiente, todas sus relaciones posteriores podrían verse afectas. Ahora, si la dinámica con sus pares se ve afectada, y según los dichos del profesor Sebastian Torres, académico de la PUC, esto \"limita el desarrollo, no sólo a nivel de relaciones interpersonales íntimas, sino que también, las interacciones laborales que se requiren para avanzar de manera profesional en el trabajo la persona desepeñe\", lo cual nos deja en evidencia la importancia de este nivel social.",
+                "resultado": {
+                    "errores_acentuales": {
+                        "error_1": [
+                            "Sebastian → Sebastián"
+                        ],
+                        "error_2": [
+                            "sólo → solo"
+                        ]
+                    }
+                }
+            },
+            {
+                "id_parrafo": 6,
+                "texto": "A pesar de todo lo anteriormente expuesto, es importante considerar la situación actual y el riesgo sanitario en el que se encuentra el mundo, además, como las autoridades y la sociedad han enfrentado esta situación. En este aspecto, las medidas sanitarias como uso de mascarillas, alcohol gel, protocolos de sanitización y actualmente, vacunarse, el cual ha reducido casi en 75% las complicaciones del Covid-19, han dado una esperanza para volver a la vida normal. Sin embargo, mientras no se consiga una inmunidad de \"revaño\", no seria recomendable la interacción entre pares de niños y adolescetes debido al alto riesgo de contagio al cual se verian expuestos.",
+                "resultado": {
+                    "errores_acentuales": {
+                        "error_1": [
+                            "seria → sería"
+                        ],
+                        "error_2": [
+                            "verian → verían"
+                        ]
+                    }
+                }
+            },
+            {
+                "id_parrafo": 7,
+                "texto": "Es por ello, que como núcleo familiar, se debe incentivar y ayudar a incorporar estos nuevos proptocolos de vida en niños y adolescentes, para que a la hora de interactuar entre ellos, puedan realizarlo de la manera más segura y adecuada, alentando sus capacidades sociales, y con esto un correcto desarollo en su aprendizaje.",
+                "resultado": {
+                    "errores_acentuales": {}
+                }
+            }
+        ]
+    },
+    {
+        "id_texto": 3,
+        "parrafos": [
+            {
+                "id_parrafo": 1,
+                "texto": "A lo largo de la historia del ser humano, la actividad física ha sido pilar fundamental en relación a la supervivencia de este, frente a cualquier dificultad o evento que ponga en peligro su vida. Actualmente, podemos ver como el evento que amenaza su salud, es la contaminación ambiental, la cual es producida en su mayaría por nosotros mismos. Y a pesar de que la actividad física mejore nuestra salud, ésta siempre se verá perjudicada por la contaminación. Es por esto que en el presente ensayo se argumentará que el gobierno debe implementar medidas, en torno al medio ambiente y la salud, que incentiven a las personas a actuar de manera que disminuya la contaminación ambiental.",
+                "resultado": {
+                    "errores_acentuales": {
+                        "error_1": [
+                            "como → cómo"
+                        ],
+                        "error_2": [
+                            "ésta → esta"
+                        ]
+                    }
+                }
+            },
+            {
+                "id_parrafo": 2,
+                "texto": "En primer lugar, cabemos que las personas, tanto directa como indirectamente, conviven día a día, por lo cual la acción de una persona que decida tomar el bus en vez de ir en auto, en principio es mínima, pero esta puede influir en otros y así, a la larga, causar un gran imparto en la reducción de la contaminación en las grandes ciudades. Por esto el gobierno debiese disminuir la tarifa del bus y asi incentivar a las personas a preferir este transporte.",
+                "resultado": {
+                    "errores_acentuales": {
+                        "error_1": [
+                            "asi → así"
+                        ]
+                    }
+                }
+            },
+            {
+                "id_parrafo": 3,
+                "texto": "En segundo lugar, existen estudios que demuestran que los habitates de las grandes ciudades, en conjunto, inhalan tanta contaminación como una persona fuera de la cuidad que fuma 4 cigarros al día; lo cual, en consecuncia, trae consigo fuertes repercusiones para la salud a futuro para todos los involucrados; por ello el gobierno podria poner mayores anuncios incentivando a dejar de fumar dentro de las ciudades y el uso de mascarillas para filtrar el aire que inhalan.",
+                "resultado": {
+                    "errores_acentuales": {
+                        "error_1": [
+                            "podria → podría"
+                        ]
+                    }
+                }
+            },
+            {
+                "id_parrafo": 4,
+                "texto": "Si bien pueden haber personas quienes afirmen que a pesar de las medidas que pudiese implementar el gobierno, las personas igual seguirían actuando de la misma manera, análisis de comportamiento de los individuos en las grandes ciudados nos dicen que si bien algunos individuos efectivamente continuarán con su actuar, pero la mayoría, al tener incentivos, cambiará su actuar y ayudarán a apalear efectos de la contaminación aunque no se estén dando cuenta.",
+                "resultado": {
+                    "errores_acentuales": {}
+                }
+            },
+            {
+                "id_parrafo": 5,
+                "texto": "Así, podemos concluir, que en definitiva, el cambio de actitud en las personas, producto de las medidas implementadas por el gobierno, serán en su mayoría para bien y tomarán peso, ya que estas son las que conforman las grandes ciudades y así, el aporte de cada \"granito de arena\", al juntarse, progresivamente disminuirán la contaminación ambiental y tendrá efectos positivos, tanto en el medio ambiente ,como en la salud de las personas.",
+                "resultado": {
+                    "errores_acentuales": {}
+                }
+            }
+        ]
+    },
+    {
+        "id_texto": 4,
+        "parrafos": [
+            {
+                "id_parrafo": 1,
+                "texto": "Para que se eliminen las condiciones deplorables de las cuales se encuentra viviendo diariamente nuestra salud al estar dentro de las grandes ciudades, debe ser en manos de algo más grande que la acción de un individuo. En primer lugar, aquí participa la importancia de las políticas públicas dentro de la sociedad, ya que son las encargadas de crear esos grandes cambios sociales que afectan a nuestra salud, de forma específica el vivir en un espacio libre de contaminación. Un ejemplo de esto es la eliminación de las bolsas plásticas en el comercio. Antes podía haber una persona que dejara de ocupar bolsas, pero realmente no iba hacer los cambios necesarios como los hace que toda una población deje de ocupar estas. El fin de esta acción creada por el gobierno ayuda que se disminuyan los gases inevernaderos que afectan tanto a la salud de las mismas personas como al medio ambiente.  En segundo lugar, también son necesarias que las practicas que realmente van a generar los cambios más profundos y trascendentales será por medio de la práctica de un colectivo, de alguna forma que se haga un tipo de cultura social. Un ejemplo de esto es lo que pasa en Chile, la gente esta acostumbrada a tirar la basura a los basureros y no a la calle o al mar. Esto ayuda que realmente se vean esos cambios necesarios para que toda persona pueda vivir una vida digna y una buena salud. Pongo el caso de que Chile no tuviera esa cultura y fuera similar a lo que pasa en India en donde gran parte de las personas tiran toda la basura en cualquier parte tendríamos una salud bastante más precaria a la que tenemos actualmente como sociedad.  Muchas de esas personas viven rodeadas de basura dentro y afuera de sus casas, también varios toman agua de la cual muchas veces está contaminada, provocando graves consecuencias sanitarias. Pero un contraargumento a esta situación es que de igual forma es necesario que las personas hagan cambios individuales muchas veces. Esos cambios que muchas personas hacen diariamente para poder mejorar su salud, puede provocar que más personas quieran hacer lo mismo que ella y de alguna forma puede generar que se creen políticas públicas que lo apoyen o un colectivo que cree una cultura social que incentive ese cambio. Como muchos dicen \"las acciones arrastran\". En conclusión, para poder tener cambios reales y significativos que mejoren la salud de las personas en las grandes ciudades debe estar en mano de algo más grande que una persona en particular.  Debe haber un apoyo de políticas públicas y también de un colectivo. Aunque, no se excluye la importancia que tiene los cambios de cada una de las personas que buscan mejorar la salud del resto, porque muchas veces esas prácticas pueden ser tomadas por otras personas. De alguna forma, crear esos verdaderos cambios que tanto se necesitan para mejorar la salud de la sociedad.",
+                "resultado": {
+                    "errores_acentuales": {
+                        "error_1": [
+                            "practicas → prácticas"
+                        ],
+                        "error_2": [
+                            "esta → está"
+                        ]
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id_texto": 5,
+        "parrafos": [
+            {
+                "id_parrafo": 1,
+                "texto": "Las actividades del colectivo feminista Las Tesis han generado controversia sobre varios aspectos que antes no eran cuestionados. Uno de ellos es el límite entre la expresión artística y el respeto a la autoridad. Manifestaciones que incluyen consignas abiertamente contrarias a algunas instituciones, tales como Carabineros, hacen necesario determinar cuáles son los límites de la libertad de expresión, hasta dónde se puede llegar en su nombre, y desde qué punto ella pasa a ser violencia. Con todo, y dado que la libertad de expresión es esencial en una democracia liberal, solo razones especialmente importantes pueden justificar sus límites.",
+                "resultado": {
+                    "errores_acentuales": {}
+                }
+            },
+            {
+                "id_parrafo": 2,
+                "texto": "En primer lugar, imponer límites a la libertad de expresión puede constituir censura. Censurar implica coartar la capacidad de otros de poder decir o hacer algo por estimar que dichas acciones no se condicen con los valores y estándares morales imperantes en una comunidad. Ello entonces, implica que se han determinado previamente ciertos parámetros de lo socialmente aceptable, y que existe alguien con el conocimiento y autoridad suficiente para juzgar sobre ellos y, en definitiva, hacerlos respetar. El problema es que permitir que alguien pueda tomar esa decisión es darle demasiado poder. ¿Quién controlaría que sus decisiones sean correctas? El riesgo de la arbitrariedad y el abuso es demasiado alto para ser aceptado por una democracia.",
+                "resultado": {
+                    "errores_acentuales": {}
+                }
+            },
+            {
+                "id_parrafo": 3,
+                "texto": "En segundo lugar, la garantía de la libertad de expresión es lo que permite la existencia de voces disidentes en una comunidad. Solo puede haber oposición si a quien la sostiene no se le reprochará por ello. La posibilidad de expresar un punto de vista diferente es lo que permite que haya varias miradas de un mismo asunto público en discusión. Si alguien pudiera limitar la libertad de expresión de otro, podría excluir a ciertos grupos de la comunidad. Dado que esa posibilidad es tan peligrosa, es mejor defender la libertad de expresión antes que limitarla.",
+                "resultado": {
+                    "errores_acentuales": {}
+                }
+            },
+            {
+                "id_parrafo": 4,
+                "texto": "Otros podrían sostener que permitir una libertad de expresión en términos tan amplios permitiría que personas que quieren limitarla pudieran abogar por dicha posición. Es decir, usar su libertad de expresión para limitar la de otros. Esta crítica, formulada entre otros por Popper, presenta un punto que no puede ser obviado en la discusión. Entonces, debe hacerse un juicio de ponderación. ¿Qué sería más riesgoso? Por un lado, se podría permitir que una persona, la autoridad, pueda decidir ex ante qué es lo que puede ser libremente expresado y qué no. Por otro, se podría permitir que una persona abogue por limitar la libertad de expresión ajena. En esa disyuntiva, es mejor esta última, pues permite que el juicio de reproche sea socialmente valorado, puesto que ya todos habrían conocido lo que se pretende sancionar, en cambio, la primera posibilidad lo impide. Si el control es previo y no posterior, solo la autoridad impondría el control.",
+                "resultado": {
+                    "errores_acentuales": {}
+                }
+            },
+            {
+                "id_parrafo": 5,
+                "texto": "En conclusión, la libertad de expresión es uno de los bienes esenciales en una sociedad democrática liberal, ella constituye la garantía del ejercicio de todo otro derecho, por lo que sus limitaciones deben estar fundadas en razones singularmente relevantes, y es preferible que el límite a la expresión sea impuesto siempre ex post, nunca antes. Esta es la forma de conciliar las garantías democráticas y la interdicción de la arbitrariedad. Las intervenciones artísticas del colectivo feminista Las Tesis, sean compartidas o no, hace que la sociedad deba valorar, una vez más, la libertad de expresión como piedra angular de una democracia que se precia de defender los derechos de sus ciudadanos.",
+                "resultado": {
+                    "errores_acentuales": {}
+                }
+            }
+        ]
+    },
+    {
+        "id_texto": 6,
+        "parrafos": [
+            {
+                "id_parrafo": 1,
+                "texto": "Hoy en día, debido a la pandemia provocada por el covid-19, son muchas las personas en todo el mundo que se han tenido que adecuar a este nuevo escenario, cambiando completamente su estilo de vida e introduciendo el teletrabajo como un mecanismo para poder seguir cumpliendo con las demandas laborales y al mismo tiempo respetar las debidas cuarentenas evitando la propagación del virus. Sin embargo, el encierro junto con la sobrecarga laboral, han generado un alto impacto en la salud mental de las personas que trabajan desde sus casas.",
+                "resultado": {
+                    "errores_acentuales": {}
+                }
+            }
+        ]
+    },
+    {
+        "id_texto": 7,
+        "parrafos": [
+            {
+                "id_parrafo": 1,
+                "texto": "Para comenzar este ensayo, es necesario tener conocimiento respecto de las políticas educativas que actualmente rigen nuestro país. Es decir, saber que el currículum actual pone gran esfuerzo en querer que las instituciones educativas sean espacios de gran diversidad cultural, que sean espacios seguros y respetuosos con las poblaciones incluídas dentro de las comunidades educativas.",
+                "resultado": {
+                    "errores_acentuales": {
+                        "error_1": [
+                            "incluídas → incluidas"
+                        ]
+                    }
+                }
+            },
+            {
+                "id_parrafo": 2,
+                "texto": "Sin embargo, hay un gran porcentaje de la población (a los cuales fácilmente se les puede asociar con pensamientos conservadores y extremadamente nacionalistas, al límite de considerarles fascistas) que opinan que realizar un mestizaje cultural en las comunidades educativas repercutirán en un desconocimiento y pérdida cultural, los valores y tradiciones del país.",
+                "resultado": {
+                    "errores_acentuales": {}
+                }
+            },
+            {
+                "id_parrafo": 3,
+                "texto": "No obstante, actualmente, a pesar de que las políticas educativas norman respecto de la inclusión de las comunidades inmigrantes en la planificación de las actividades curriculares y extracurriculares. Esta inclusión suele ser justamente como lo nombra la palabra, una invitación a participar de las actividades y no una integración de las diversidades culturales que pueden presentarse en los establecimientos educativos.",
+                "resultado": {
+                    "errores_acentuales": {}
+                }
+            },
+            {
+                "id_parrafo": 4,
+                "texto": "Creo que si se logra una integración realmente efectiva en los sistemas educativos, el resultado sería extremadamente enriquecedor para todas las culturas presentes. Ya que, de esta manera, se podrían adquirir nuevas costumbres e ir construyendo relaciones interpersonales mucho más nutritivas con las comunidades que nos rodean.",
+                "resultado": {
+                    "errores_acentuales": {}
+                }
+            },
+            {
+                "id_parrafo": 5,
+                "texto": "Por otro lado, creo que sigue siendo fundamental, sobre todo en los primeros años de formación, el otorgarle la importancia necesaria a los valores, costumbres y tradiciones que se han ido manteniendo a través de los años por las familias que conforman nuestro país. De manera de que las nuevas generaciones entiendan cuáles son sus orígenes y dónde vienen sus raíces. Y, siguiendo esta misma línea, si logramos hacer el mismo ejercicio con las comunidades inmigrantes, podemos utilizar esta instancia para ver similitudes y diferencias de las diversas poblaciones por la cual está compuesta la comunidad educativa.",
+                "resultado": {
+                    "errores_acentuales": {}
+                }
+            },
+            {
+                "id_parrafo": 6,
+                "texto": "Para ir finalizando, creo que es importante dejar de concebir la educación como una herramienta para seguir perpetuando la competencia, individualidad, y soberbia. Sino que por el contrario, que el ejercicio de educar sea a través de la colaboración, comprensión y respeto por sobre todos los seres humanos y todas las cosas.",
+                "resultado": {
+                    "errores_acentuales": {}
+                }
+            }
+        ]
+    },
+    {
+        "id_texto": 8,
+        "parrafos": [
+            {
+                "id_parrafo": 1,
+                "texto": "En la situación actual de Chile el teletrabajo ha sido una forma de continuar realizando las actividades productivas que los trabajadores realizaban antes de la pandemia. Siendo esta una nueva modalidad, no se han determinado las consecuencias que puede tener en la salud mental de las personas. En este ensayo se sostiene que el teletrabajo amenaza la integridad psicológica de los trabajadores.",
+                "resultado": {
+                    "errores_acentuales": {}
+                }
+            },
+            {
+                "id_parrafo": 2,
+                "texto": "Por una parte, el hogar es uno de los lugares donde las personas pueden descansar, realizar sus pasatiempos y es un escape para la realidad un tanto estresante en la que vivimos.  Dado que es un lugar clave para la salud mental de las personas, se debe educar a los trabajadores para que puedan compatibilizar el trabajo con el hogar. Sin dejar que este nuevo lugar de trabajo se vuelva un ambiente estresante.",
+                "resultado": {
+                    "errores_acentuales": {}
+                }
+            },
+            {
+                "id_parrafo": 3,
+                "texto": "Por otra parte, esta nueva modalidad de trabajo a la vista de los empleadores, es menos exigente laboralmente. Causando que estos contacten a los empleados fuera del horario laboral para pedir que realicen ciertas funciones. El trabajador no tiene la confianza para decirle a su jefe que no se encuentra en horario laboral, lo que podría causar problemas interpersonales entre estas dos personas.",
+                "resultado": {
+                    "errores_acentuales": {}
+                }
+            },
+            {
+                "id_parrafo": 4,
+                "texto": "Hay quienes sostienen que el teletrabajo es una maravilla, ya que trabajas desde un sitio cómodo y tranquilo, que es el hogar. Sin embargo, el estrés del trabajo puede causar que tengas actitudes desagradables con la familia. El estrés que causa la vida laboral, puede desencadenar malos tratos con la pareja e hijos, generando un mal ambiente familiar.",
+                "resultado": {
+                    "errores_acentuales": {}
+                }
+            },
+            {
+                "id_parrafo": 5,
+                "texto": "Para finalizar, el teletrabajo ha sido una solución para la realización de actividades productivas en el confinamiento. Aunque debe tratarse con mucho cuidado, por que amenaza al bienestar psicológico de los trabajadores y del ambiente familiar.  Se deben realizar normas y regulaciones para el trabajo online, considerando que esto podría significar una nueva normalidad por mucho tiempo más.",
+                "resultado": {
+                    "errores_acentuales": {}
+                }
+            }
+        ]
+    },
+    {
+        "id_texto": 9,
+        "parrafos": [
+            {
+                "id_parrafo": 1,
+                "texto": "En el contexto de la pandemia por el covid-19 surge la preocupación por la salud mental de quienes están expuestos al teletrabajo. Existe una controversia sobre si esta práctia pone en peligro al hogar como espacio seguro, de descanso y tranquilidad. Al respecto, es preciso destacar que es posible realizar teletrabajo de manera sana.",
+                "resultado": {
+                    "errores_acentuales": {}
+                }
+            },
+            {
+                "id_parrafo": 2,
+                "texto": "En primer lugar,  al crear un espacio definido en el hogar para la realización del trabajo se logra asociar solo ese lugar a las tareas diaras dejando de forma separada el resto de la casa. De esta forma, se disminuye la sensación de cansancio al poder utilizar el resto de las áreas como lugar de descanso y despreocupación de los temas laborales.",
+                "resultado": {
+                    "errores_acentuales": {
+                        "error_1": [
+                            "solo → sólo"
+                        ]
+                    }
+                }
+            },
+            {
+                "id_parrafo": 3,
+                "texto": "Por otro lado,  es necesario cumplir con los horarios de oficina y no quedarse más allá de lo necesario en el espacio designado para el trabajo. Una práctica habitual es quedarse trabajando más de las horas establecidas debido a que no existen cierres de oficina ni la necesidad de traslado. El mantener los horarios designados logra disminuir la ansiedad al eliminar la sensación de trabajo permanente.",
+                "resultado": {
+                    "errores_acentuales": {}
+                }
+            },
+            {
+                "id_parrafo": 4,
+                "texto": "Hay quienes sostienen que el teletrabajo impide dejar de pensar en asuntos laborales por el resto del día al no realizar un ritual de cierre. Si bien esto no carece de veracidad, es una situación que también se vive en el trabajo de oficina y tiene mayor relación con el tipo de ritual de cierre que con el lugar donde se trabaja. Para el caso que se vive en la actualidad existen diferentes prácticas que pueden ayudar a evitar que esto ocurra, como la realización de deporte, cocinar u otro \"hobby\" luego de terminar de trabajar.",
+                "resultado": {
+                    "errores_acentuales": {}
+                }
+            },
+            {
+                "id_parrafo": 5,
+                "texto": "En conclusión, el teletrabajo puede ser llevado a cabo sin perjuicios a la salud de las personas al llevar a cabo estrategias como definir espacios de trabajo, respetar el horario laboral y crear un ritual de cierre para eliminar los pensamientos de asuntos laborales el resto del día. De esta forma, los gobiernos deberían promover campañas que enseñaran estas estrategias para mantener la sanidad mental de las personas mientras dure el trabajo desde el hogar.",
+                "resultado": {
+                    "errores_acentuales": {}
+                }
+            }
+        ]
+    },
+    {
+        "id_texto": 10,
+        "parrafos": [
+            {
+                "id_parrafo": 1,
+                "texto": "En la actualidad, existen diversos puntos de vista con respecto al sistema de enseñanza que se ha implementado a raíz de la pandemia. En esta misma línea, se deben abordar las variables involucradas, realizando así una respuesta asertiva de acuerdo al contexto por el cual estamos viviendo. Al respecto, se debe señalar que las clases presenciales son la solución para las problemáticas expresadas por la población chilena.",
+                "resultado": {
+                    "errores_acentuales": {}
+                }
+            },
+            {
+                "id_parrafo": 2,
+                "texto": "Por una parte, se encuentra el nivel de aprendizaje adquirido por los estudiantes con el sistema virtual. Según los datos entregados por el Ministerio de Educación, aproximadamente un 60% de los estudiantes de enseñanza media no cumplen con el aprendizaje según malla curricular. A razón de lo anterior, es lógico que la solución sea volver a clases presenciales, con tal de corregir las alteraciones en el aprendizaje.",
+                "resultado": {
+                    "errores_acentuales": {}
+                }
+            },
+            {
+                "id_parrafo": 3,
+                "texto": "Por otra parte, diversos estudios de salud han surgido a razón de las clases virtuales. Dando como resultado un déficit en la nutrición de los estudiantes, y, además, una salud mental que difiere de lo saludable, siendo la causa la permanente convivencia familiar. En virtud de lo anterior, es necesario insistir en que la salud de los estudiantes se encuentra en riesgo, dado que la casa no es un lugar adecuado para enfrentar los desafíos educacionales.",
+                "resultado": {
+                    "errores_acentuales": {}
+                }
+            },
+            {
+                "id_parrafo": 4,
+                "texto": "Existen detractores que apuntan al riesgo de contagio a causa de las clases presenciales, a razón del contacto estrecho que se genera en ellas. Sin embargo, esta aseveración carece de sustento, ya que las estadísticas nos muestran un nivel de contagio casi despreciable en torno a las clases presenciales. Asimismo, el Covid-19 afecta en menor medida a los menores, por lo tanto, existen claras muestras que las clases presenciales deben integrarse con mayor fuerza.",
+                "resultado": {
+                    "errores_acentuales": {}
+                }
+            },
+            {
+                "id_parrafo": 5,
+                "texto": "De esta manera, es posible afirmar que las clases presenciales son la solución para rectificar el déficit en el aprendizaje, así también, para los problemas de salud que han presentado los estudiantes a causa de las clases virtuales. Llevar a cabo este sistema presencial es el desafío planteado por el Ministerio de Educación, quienes han impusado dicho sistema. Es por ello, que las clases presenciales son la solución para los problemas anteriormente mencionados.",
+                "resultado": {
+                    "errores_acentuales": {}
+                }
+            }
+        ]
+    },
+    {
+        "id_texto": 11,
+        "parrafos": [
+            {
+                "id_parrafo": 1,
+                "texto": "En su encíclica Fratelli Tutti el Papa Francisco no solo sintoniza con los reclamos de justicia social e igualdad que en el último tiempo se han escuchado con mayor eco e insistencia, sino que, afirmándose en la validez de estos reclamos, condena la forma de vida individualista y explotadora actual y promueve, en vez, un cambio hacia una forma de vida que tenga como horizonte el bien común, el bienestar integral de las personas por sobre las utilidades económicas y la protección del pobre para incentivar y asegurar lo anterior.",
+                "resultado": {
+                    "errores_acentuales": {}
+                }
+            },
+            {
+                "id_parrafo": 2,
+                "texto": "Para conseguir esto y crear el cambio social, el Papa le da un valor crucial a la solidaridad cristiana. Hay que aclarar que esta no se refiere a una solidaridad  practicable solo por cristianos, sino a una solidaridad basada en los valores cristianos de amor al prójimo y justicia, que puede y debe ser practicada por todos los hombres para vivir en una sociedad buena y justa, que respete, cuide y haga crecer a todos sus integrantes. De ahí la idea del pontífice de que la solidaridad es un modo de hacer historia. Quien practica la solidaridad cristiana no se queda solo en \"lo chico\", sino que dirige sus esfuerzos, como lo hacen los movimientos sociales, a crear un cambio estructural en la sociedad que garantice la justicia y la caridad, porque el amor al prójimo no sólo nos obliga a darle a cada uno lo que le corresponde, sino a darle incluso más para asegurar su bienestar integral, clave para una vida digna, que es propia de todo ser humano.",
+                "resultado": {
+                    "errores_acentuales": {
+                        "error_1": [
+                            "no sólo → no solo"
+                        ]
+                    }
+                }
+            },
+            {
+                "id_parrafo": 3,
+                "texto": "El Papa no se queda solo en una \"revisión bibliográfica\" de la tradición filosófica política cristiana, no busca \"hacer una observación\" sobre ella para luego dar una visión informada sobre los reclamos de los movimientos sociales y el por qué sintoniza con ellos. Si bien esto sí lo hace y es importante, el Papa va más allá. No se queda en el rol pasivo que es aprobar ideas ajenas, no se queda \"balconeando la vida\", sino que elabora y reelabora estas ideas, basándose siempre en el mensaje de Cristo y los valores cristianos, y hace uso de la tradición filosófica política cristiana para crear una propuesta social actual cristiana y revolucionaria, que el pontífice se encarga de incentivar, promover y sobretodo, practicar.",
+                "resultado": {
+                    "errores_acentuales": {}
+                }
+            },
+            {
+                "id_parrafo": 4,
+                "texto": "Todos los pontífices trabajan para hacer del mundo un lugar mejor para todos y más cristiano, pero el Papa Francisco se ha caracterizado por su trabajo para lograrlo. Ha creado una propuesta social que logre ese cometido  y se preocupa de invitar a todos los católicos y \"a los hombres de buena voluntad\" a practicarla. Su propuesta social condena el individualismo y explotación actual porque tiene como fin el desarrollo integral de todo ser humano, que se consigue practicando la justicia, la caridad y la solidaridad, y que es imposible con la forma de vida tiránica  El pontífice busca que la forma de vida de la personas se alínee con esta idea, porque solo así se puede hacer un mundo mejor para todos.",
+                "resultado": {
+                    "errores_acentuales": {
+                        "error_1": [
+                            "alínee → alinee"
+                        ]
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id_texto": 12,
+        "parrafos": [
+            {
+                "id_parrafo": 1,
+                "texto": "Se ha demostrado la incidencia positiva de las prácticas de autocuidado y hábitos saludables frente a factores ambientales perjudiciales para la salud, pero es evidente que las acciones individuales son sólo una salida rápida, pues no erradican el problema.",
+                "resultado": {
+                    "errores_acentuales": {
+                        "error_1": [
+                            "sólo → solo"
+                        ]
+                    }
+                }
+            },
+            {
+                "id_parrafo": 2,
+                "texto": "Desde distintos medios, aparecen constantemente investigaciones y fundamentos que sostienen la importancia de la meditación, la alimentación, la actividad física, el buen descanso, entre otros, pero ¿cuál es la realidad detrás de esto?",
+                "resultado": {
+                    "errores_acentuales": {}
+                }
+            },
+            {
+                "id_parrafo": 3,
+                "texto": "Las prácticas de autocuidado promueven una relación más sana y consciente con el cuerpo. Mantener actividad física de manera regular ayuda a la regulación hormonal, la capacidad respiratoria, desarrollo muscular, o el peso correcto. La alimentación balanceada como una dieta y no como un régimen o la incorporación de probióticos ayudan a fortalecer el sistema inmune, etc.",
+                "resultado": {
+                    "errores_acentuales": {}
+                }
+            },
+            {
+                "id_parrafo": 4,
+                "texto": "Todas son prácticas favorables y cada día más populares que llevan a la medicina a postura más preventiva y educativa que asistencialista. La salud integral es un tema que hoy toma más relevacia sobre la mesa, y que ayuda a miles de personas, entre ello a lidiar con las condiciones del ambiente.",
+                "resultado": {
+                    "errores_acentuales": {}
+                }
+            },
+            {
+                "id_parrafo": 5,
+                "texto": "Pero la masificación de esta información, es fuertemente promovida por una serie de instituciones y marcas, que a pesar de en efecto ser algo positivo para nuestra sociedad, es una manera de desviar la atención y poner soluciones parche. Los problemas efectivos, no se solucionan con cambios individuales, sino en cambios de políticas y en la legislación frente a los factores nocivos que se ponen en cuestión. La actividad física no solucionará los problemas respiratorios de la población, ni los sellos eliminarán la obesidad, pero siempre el problema es traspasado hacia la población.",
+                "resultado": {
+                    "errores_acentuales": {}
+                }
+            },
+            {
+                "id_parrafo": 6,
+                "texto": "La información al respecto debiese ser más honesta, y no guiada por intereses políticos o económicos, hablando las cosas como son y no con segundas intenciones. La promoción de las prácticas de autocuidado son importantes, pero en función de la integridad personal y no en función de otro.",
+                "resultado": {
+                    "errores_acentuales": {}
+                }
+            }
+        ]
+    },
+    {
+        "id_texto": 13,
+        "parrafos": [
+            {
+                "id_parrafo": 1,
+                "texto": "Para comenzar a finales del semestre pasado en China comenzó la propagación del virus COVID-19, para finales de febrero y comienzo de marzo este llego a Chile. Como consecuencia de la llegada de este virus el país se frente a una pandemia mundial, esto provocó la cuarentena a nivel regional, luego de varios meses de cuarentena algunas regiones y sectores de Chile salieron de este proceso, saliendo a lo que se conoce como la nueva realidad, una donde uno tiene que salir con mascarilla y limpiarse las manos todo el rato. Esta pandemia trajo consecuencias aun mas graves que las ocurridas en el estallido social.",
+                "resultado": {
+                    "errores_acentuales": {
+                        "error_1": [
+                            "llego → llegó"
+                        ],
+                        "error_2": [
+                            "mas → más"
+                        ]
+                    }
+                }
+            },
+            {
+                "id_parrafo": 2,
+                "texto": "Es importante señalar que con esto ultimo el presidente llamo a un plebiscito con el fin que se modifique o sustituya la constitución del 1980, sin embargo el país se encuentra frente a una pandemia a nivel mundial, por esto la primera fecha del plebiscito fue movida a octubre, esto no quiere decir que todos vamos a poder tener nuestro derecho a voto porque aún hay muchos casos de contagios y mucha gente internada por este virus.",
+                "resultado": {
+                    "errores_acentuales": {
+                        "error_1": [
+                            "ultimo → último"
+                        ],
+                        "error_2": [
+                            "llamo → llamó"
+                        ]
+                    }
+                }
+            },
+            {
+                "id_parrafo": 3,
+                "texto": "Frente a esto surgen muchas dudas si es correcto o no realizar las votaciones, puesto que esto implica la reunión de muchas personas en un lugar cerrado, no respetando el distanciamiento social y es un virus super contagioso que con una sola persona contagiada seria sufienciente para contagiar a todos los involucrados.",
+                "resultado": {
+                    "errores_acentuales": {
+                        "error_1": [
+                            "super → súper"
+                        ],
+                        "error_2": [
+                            "seria → sería"
+                        ]
+                    }
+                }
+            },
+            {
+                "id_parrafo": 4,
+                "texto": "Aunque sea posible realizar las elecciones con todas las precauciones posibles aun se encontraran personas que no quieren votar porque el virus sigue ahí y puede ser muy peligroso que salgan a sufragiar debido a que pueden ser adultos mayores o personas con alguna enfermedad respiratoria. Por otro lado muchas personas ya contagiadas con el virus tambien estan en el derecho en su derecho a voto que no prodran realizar.",
+                "resultado": {
+                    "errores_acentuales": {
+                        "error_1": [
+                            "aun → aún"
+                        ],
+                        "error_2": [
+                            "encontraran → encontrarán"
+                        ],
+                        "error_3": [
+                            "tambien → también"
+                        ],
+                        "error_4": [
+                            "estan → están"
+                        ]
+                    }
+                }
+            },
+            {
+                "id_parrafo": 5,
+                "texto": "Este virus se puede presentar asintomaticamente, esto quiere decir que la persona puede tener el virus en su sistema y aun así no presentar ningún síntoma, esto es muy complicado para la salud de las demás personas presentes. Que presente el virus asintomático no quiere decir que los demás también lo presentaran de esta forma, puede llegar a presentar todos los síntomas. La vida humana es el primer derecho que claramente se ve afectado en estos casos.",
+                "resultado": {
+                    "errores_acentuales": {
+                        "error_1": [
+                            "asintomaticamente → asintomáticamente"
+                        ],
+                        "error_2": [
+                            "presentaran → presentarán"
+                        ]
+                    }
+                }
+            },
+            {
+                "id_parrafo": 6,
+                "texto": "Ahora bien en conclusión todos tenemos el derecho y deber de participar del plebiscito de este octubre, porque todos el voto de uno puede hacer el cambio, en el casos de los contagiados claramente se ve una discriminación a su parte negandoles su participación en el plebiscito. Pero esto no quita que es una medida del gobierno implementada de buena forma ya que un contagiado pone en peligro la salud de todos nosotros.",
+                "resultado": {
+                    "errores_acentuales": {
+                        "error_1": [
+                            "conclusion → conclusión"
+                        ],
+                        "error_2": [
+                            "negandoles → negándoles"
+                        ]
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id_texto": 14,
+        "parrafos": [
+            {
+                "id_parrafo": 1,
+                "texto": "La rebaja de la indeminzación que debe pagar Julio Ponce Lerou debido a su participación en lo que se conoce como el Caso Soquimich es parte de una serie de irregularidades que se han dado en la historia reciente de Chile. Pero, ¿Qué tan legítima es esta medida tomada por la Corte Suprema?,¿",
+                "resultado": {
+                    "errores_acentuales": {}
+                }
+            }
+        ]
+    },
+    {
+        "id_texto": 15,
+        "parrafos": [
+            {
+                "id_parrafo": 1,
+                "texto": "Una de las repercusiones generadas debido a la pandemia es el confinamiento de la población, lo que busca esta medida es prevenir los riesgos de contagio en lugares cerrados como oficianas, escuelas o el transporte publico, evitando asi el desplazamiento de la población, pues en estos lugares no es posible respetar la distancia social, por lo que el teletrabajo se ha convertido en la principal forma de proteccion ante el COVID- 19, sin embargo se han visto otras problematicas a consecuencia del estar \"encerrados\", por ejemplo, se vio un aumento de trastornos ansiosos y depresivos en gran parte del mundo, debido a los cambios en las rutinas de miles de personas.",
+                "resultado": {
+                    "errores_acentuales": {
+                        "error_1": [
+                            "publico → público"
+                        ],
+                        "error_2": [
+                            "asi → así"
+                        ],
+                        "error_3": [
+                            "proteccion → protección"
+                        ],
+                        "error_4": [
+                            "problematicas → problemáticas"
+                        ]
+                    }
+                }
+            },
+            {
+                "id_parrafo": 2,
+                "texto": "A pesar de todas las medidas tomadas por muchas empresas, el teletrabajo altera la dinámica laboral, ya que los horarios de los trabajadores se ve alterado, no existiendo limite para el tiempo en el que una persona esta frente al computador  entregando trabajos o respondiendo mails, sumado a que no existe la posibilidad de interactuar el resto del personal que muchas veces es clave para el desempeño laboral de miles de peronas, generando asi que las dinamicas sociales, ya que generalmente los trabajadores crean lazos con otros, en donde muchas personas se apoyan entre si; es por esto que el estar trabajando de manera remota  se ven severamente afectadas repercutiendo negativamente en la salud mental de miles de personas.",
+                "resultado": {
+                    "errores_acentuales": {
+                        "error_1": [
+                            "limite → límite"
+                        ],
+                        "error_2": [
+                            "esta → está"
+                        ],
+                        "error_3": [
+                            "asi → así"
+                        ],
+                        "error_4": [
+                            "dinamicas → dinámicas"
+                        ],
+                        "error_5": [
+                            "si → sí"
+                        ]
+                    }
+                }
+            },
+            {
+                "id_parrafo": 3,
+                "texto": "Por otro lado el confinamiento es un factor estresor, ya que en espacios muy pequeños familias completas se ven enfrentadas a realizar tareas escolares y laborales, sumado a las activiades basicas de un ser humano, como por ejemplo la alimentacion y el descanso. En muchas partes del mundo han aumentado las consultas a psiquiatria con el fin de controlar la ansiedad de las personas, el uso de medicamentos ansioliticos se vio aumentado en todo el mundo, lo cual es una señal de alarma para el sistema de salud ya que señala que algo no anda bien en la poblacion.",
+                "resultado": {
+                    "errores_acentuales": {
+                        "error_1": [
+                            "basicas → básicas"
+                        ],
+                        "error_2": [
+                            "alimentacion → alimentación"
+                        ],
+                        "error_3": [
+                            "psiquiatria → psiquiatría"
+                        ],
+                        "error_4": [
+                            "ansioliticos → ansiolíticos"
+                        ],
+                        "error_5": [
+                            "poblacion → población"
+                        ]
+                    }
+                }
+            },
+            {
+                "id_parrafo": 4,
+                "texto": "Muchos estudios en años anteriores sugerian que el estres es una de las principales patologias en personas en edad laboral, sin embargo con la pandemia el trabajo se vio obligado a realizarse desde el hogar, lugar en donde las personas se pueden \"desconectar\",  por lo que la calidad de vida de estos se ha visto afectada de manera considerable, sumado a que las personas no pueden salir a lugares como por ejemplo una plaza o la playa, aumentando sus signos ansiosos.",
+                "resultado": {
+                    "errores_acentuales": {
+                        "error_1": [
+                            "sugerian → sugerían"
+                        ],
+                        "error_2": [
+                            "estres → estrés"
+                        ],
+                        "error_3": [
+                            "patologias → patologías"
+                        ]
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id_texto": 16,
+        "parrafos": [
+            {
+                "id_parrafo": 1,
+                "texto": "En el actual contexto sanitario en que estamos, el gobierno ha decidido restringir ciertas activdades no escenciales y disminur el tiempo de aquellas que pueden ser realizadas de manera remota. En este escenario, la gran mayoría de los colegios ha tenido que cerrar su puertas y realizar clases virtuales, resguardando la salud de los escolares y permitiendo que continuen con su educación de una manera segura. Por esto, los colegios no deben volver a clases presenciales.",
+                "resultado": {
+                    "errores_acentuales": {
+                        "error_1": [
+                            "continuen → continúen"
+                        ]
+                    }
+                }
+            },
+            {
+                "id_parrafo": 2,
+                "texto": "Al realizar clases de manera virtual, los colegios están velando por la salud de los estudiantes y sus familiares. Pese a que se realicen protocolos sanitarios y que estos sean revisados por el ministerio de salud, la zona no está exenta del virus, ya que este puede ser transportado por un profesor o funcionario del establecimiento sin saberlo, provocando así el posible contagio de un alumno.",
+                "resultado": {
+                    "errores_acentuales": {}
+                }
+            },
+            {
+                "id_parrafo": 3,
+                "texto": "En el mismo contexto, debido a la gran cantidad de personas que siguen ocupando el transporte público día a día, los colegios al realizar clases virtuales, permiten que aquellos alumnos que no pueden ocpuar un medio de transporte seguro tengan la misma posibilidad de aprender que aquellos que si lo tienen. Esto genera una igualdad de condiciones en la accesibilidad a la educación en pandemia.",
+                "resultado": {
+                    "errores_acentuales": {
+                        "error_1": [
+                            "si → sí"
+                        ]
+                    }
+                }
+            },
+            {
+                "id_parrafo": 4,
+                "texto": "No obstante, hay personas que dicen que el aprendizaje virtual no genera los mismos resultados que las clases presenciales, lo que produce que haya un vacío de conocimiento en las generaciones que se encuentran en el colegio. Sin embargo, este vacío es producido debido a los métodos de enseñanza y evalución que están siendo utilizados por los colegios, ya que en vista de que ha pasado un año aproximadamente desde el comeinzo de la pandemia, los colegios deberían establecer nuevos métodos que permitan completar satisfactoriamente con los requerimientos educativos para este nivel.",
+                "resultado": {
+                    "errores_acentuales": {
+                        "error_1": [
+                            "evalución → evaluación"
+                        ]
+                    }
+                }
+            },
+            {
+                "id_parrafo": 5,
+                "texto": "En conclusión, al seguir realizando las clases de manera virtual, los colegios permiten un aprendizaje seguro y apto para el contexto en el que nos encontramos como sociedad para sus alumnos, resguardar la salud de estos y de sus familias y además de generar igualdad en la accesibilidad a esta última.",
+                "resultado": {
+                    "errores_acentuales": {}
+                }
+            }
+        ]
+    },
+    {
+        "id_texto": 17,
+        "parrafos": [
+            {
+                "id_parrafo": 1,
+                "texto": "En el último tiempo la contaminación del aire se ha convertido en un gran problema para las grandes ciudades. Y detener esto se ha vuelto muy difícil, pues las grandes empresas generan una enorme cantidad de suciedad al aire que respiramos día a día. Practicar deporte es muy beneficioso para nuestro organismo, por lo que en mi opinión, se debe hacer un cambio en la educación escolar, el cual fomente la actividad física en los niños desde pequeños.",
+                "resultado": {
+                    "errores_acentuales": {}
+                }
+            },
+            {
+                "id_parrafo": 2,
+                "texto": "Por una parte, se ha demostrado que hacer algún tipo de actividad física constantemente, mejora la vida útil de nuestros pulmones. Por lo que es muy recomendable practicar cualquier tipo de esta, por lo menos tres veces a la semana. Los expertos aseguran que realizando lo anterior, nuestros pulmones se mantendrán sanos.",
+                "resultado": {
+                    "errores_acentuales": {}
+                }
+            },
+            {
+                "id_parrafo": 3,
+                "texto": "Por otra parte, se ha visto que actualmente en los establecimientos educacionales no se está haciendo la cantidad necesaria de deporte. Se debe cambiar eso, pues los expertos en este tema nos confirman que incentivar a los niños desde pequeños a hacer deportes, es muy importante, para que sigan haciéndolo a medida que vayan creciendo.",
+                "resultado": {
+                    "errores_acentuales": {}
+                }
+            },
+            {
+                "id_parrafo": 4,
+                "texto": "Algunos declaran que, a pesar de que hagamos una gran cantidad de ejercicio físico cada semana, es inevitable que nuestra salud se vea afectada negativamente debido a la enorme cantidad de contaminación que hay actualmente en las grandes ciudades. Sin embargo, ellos se equivocan, pues si se mantiene un organismo bien cuidado haciendo actividad física frecuentemente, este aire contaminado no nos afectará tanto, como al no tenerlo.",
+                "resultado": {
+                    "errores_acentuales": {}
+                }
+            },
+            {
+                "id_parrafo": 5,
+                "texto": "En conclusión, la contaminación es un tema muy importante que está afectando a las grandes ciudades, y debido a esto, es muy importante que la gente haga actividades físicas de cualquier tipo, para así combatir de alguna forma este gran problema que tenemos con el aire. Por esto el gobierno debe lanzar alguna campaña o ley que fomente el deporte en la población desde que son pequeños.",
+                "resultado": {
+                    "errores_acentuales": {}
+                }
+            }
+        ]
+    },
+    {
+        "id_texto": 18,
+        "parrafos": [
+            {
+                "id_parrafo": 1,
+                "texto": "La pandemia del COVID-19 ha generado  una serie de cuestionamientos sobre la importancia del cuidado y el mantenimiento de la salud entre los diferentes habitantes del mundo. Acusando en primera instancia una prófunda diferencia en las medidas adoptadas por cada uno de los países, que no solo se visibiliza desde las consecuencias en el abordaje del virsus, sino que también en las condiciones de vida iniciales de cada uno de sus integrantes.  En ese contexto, es que se plantea la tesis del presente ensayo, argumentando que la pandemia del COVID-19 se instaura como un hito importante dentro de las trayectorias vitales de cada uno de los individuo y por ende, es necesario que las políticas públicas actúen antes las consecuencias laborales, psicológicas y sociales que conllevan el encierro prolongado y que consideren en su abordaje la  desigualdad de acceso y de recursos que experimentan las personas en Chile (que coexistían antes del ingreso del virus).",
+                "resultado": {
+                    "errores_acentuales": {
+                        "error_1": [
+                            "prófunda → profunda"
+                        ]
+                    }
+                }
+            },
+            {
+                "id_parrafo": 2,
+                "texto": "Conforme al objetivo anterior, es importante mencionar que muchos autores de diversas disciplinas y profesiones han planteado a lo largo del tiempo, que el ser humano, se caracterizaría en gran medida por su condición gregaria y especificamente , por su capacidad de desarrollar su emocionalidad y socialización con los demás integrantes de su misma especie. Pero en estos tiempos ¿Es factible que los postulados anteriores se apliquen al contexto actual?  y en esa medida ¿Es posible mantener la socialización desde un plano virtual? Duda que no representaría una pregunta fácil ni por lo menos concisa en su respuesta, ya que dependiendo del campo y/o disciplina que se adscriba presentaría diversos matices y ejes en su desarrollo. Aunque no es necesario expresar dichos matices en una primera instancia, si se puede plantear un horizonte, que sería el desarrollo de una mejor calidad de vida y por ello, una mejor calidad de políticas públicas como se presentaría en el ámbito laboral, educacional, social, salud, legal, entre varios más. Es por ello, que el COVID-19 representa un desafío para la actualización de los programas y normativas gobernamentales, dónde la base sea la preocupación por la \"dignidad\" y la calidad de vida de cada uno de sus miembros y que se expresaría por ejemplo en el acceso de alimentos y en las condiciones laborales q",
+                "resultado": {
+                    "errores_acentuales": {
+                        "error_1": [
+                            "especificamente → específicamente"
+                        ],
+                        "error_2": [
+                            "si → sí"
+                        ],
+                        "error_3": [
+                            "dónde → donde"
+                        ]
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id_texto": 19,
+        "parrafos": [
+            {
+                "id_parrafo": 1,
+                "texto": "La pandemia del covid-19 del año 2020 será recordada por las pérdidas humanas y económicas que evidenciaron la mayoria de los paises y estados del mundo",
+                "resultado": {
+                    "errores_acentuales": {
+                        "error_1": [
+                            "mayoria → mayoría"
+                        ],
+                        "error_2": [
+                            "paises → países"
+                        ]
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id_texto": 20,
+        "parrafos": [
+            {
+                "id_parrafo": 1,
+                "texto": "El covid-19 es un virus mortal que actualmente ha afectado a todos los paises, convirtiéndose  así en una de las pandemias que más ha asotado a nuestra civilización. En este contexto, las distintas organizaciones sanitarias han determinado cuarentenas para evitar el contacto entre las personas, y así reducir los contagios.",
+                "resultado": {
+                    "errores_acentuales": {
+                        "error_1": [
+                            "paises → países"
+                        ]
+                    }
+                }
+            },
+            {
+                "id_parrafo": 2,
+                "texto": "Con el pasar de los meses la pandemia se ha vuelto además de una crisis sanitaria, una que afecta la  economía, psicología y muchas otras disciplinas. Es por esto que las organizaciones encargadas de establecer las cuarentenas han tenido la difícil tarea de empezar a revertir el confinamiento, dejando salir a trabajar a algunas personas. Se debe buscar la mejor alternativa en términos de evitar nuevos contagios.",
+                "resultado": {
+                    "errores_acentuales": {}
+                }
+            },
+            {
+                "id_parrafo": 3,
+                "texto": "Luego de algunos meses siguiendo esta estrategia, se ha podido observar en Europa el surgimiento de una \"segunda ola\", la cual ha generado nuevos desafíos de gestión. El mayor problema es que las personas más pobres son las que se encuentran más afectadas por estas cuarentenas, generando un fuerte descontento de estos sectores y ocacionando críticas de expertos en la salud pública.",
+                "resultado": {
+                    "errores_acentuales": {}
+                }
+            },
+            {
+                "id_parrafo": 4,
+                "texto": "Los sectores que se encuentren en cuarentena deben ser determinados no por el nivel socioeconómico de las personas que residen, sino por el riesgo de nuevos contagios que genera dejarlos salir con normalidad. La gente más pobre lamentablemente es más riesgosa a nuevos contagios, ya que usan el sistema de transporte público mucho más que la gente con mayores recursos, y es en esta situación donde el contacto entre personas es inevitable y muy frecuente.",
+                "resultado": {
+                    "errores_acentuales": {}
+                }
+            },
+            {
+                "id_parrafo": 5,
+                "texto": "Por otro lado, la gente de mayores recursos generalemente son los más aptos para hacer su trabajo desde las casas. En cambio la gente más pobre usualmente trabajan como mano de obra, usando sus manos para trabajar. Todas las personas que puedan hacer su trabajo desde la comodidad de sus casas deberían hacerlo de esa forma, para así poder dar espacio a las personas que no tienen esta comodidad y necesitan salir a trabajar. Es muy complicado determinar qué sectores son los que pueden trabajar desde sus casas y que sectores no, ya que probablemente en todos los sectores se encuentren personas en ambas situaciones, por lo que debe ser responsabilidad del gobierno hacer que las empresas que pueden trabajar con teletrabajo así lo hagan.",
+                "resultado": {
+                    "errores_acentuales": {
+                        "error_1": [
+                            "que → qué"
+                        ]
+                    }
+                }
+            },
+            {
+                "id_parrafo": 6,
+                "texto": "Además, se debe tomar con seriedad el tema de la salud mental de las familias, ya que luego de tantos meses encerrados temas como la violencia intrafamiliar, los divorcios e intentos de suicidio han empezado a salir a la luz. No es lógico mantener a una persona encerrada en su casa para evitar que se contagie y así \"cuidar su salud\" mientras esté tan desesperado por trabajar y traer comida para su familia que piense en suicidarse. Hay que saber priorizar a las personas que son más riesgosas de contagios, pero también hay que aprender a reconocer que personas son las que más necesidad tienen de salir a trabajar. Es mejor dejar salir a trabajar a un jardinero que necesita del dinero y no tiene contrato de trabajo que a un empresario que puede trabajar desde su casa, aún que sea un poco más riesgoso dejar salir al jardinero.",
+                "resultado": {
+                    "errores_acentuales": {
+                        "error_1": [
+                            "que → qué"
+                        ]
+                    }
+                }
+            },
+            {
+                "id_parrafo": 7,
+                "texto": "Para concluir, creo que es muy importante dejar de ver al covid-19 solo como un problema santiario, y debemos comenzar a ver de manera panorámica todos los efectos sobre las personas. Las organizaciones de la salud tienen la dificil tarea de maximizar el bienestar social tanto por impedir el contagio de las personas, pero también pensando en el bienestar mental de aquellos que más mal se encuentran.",
+                "resultado": {
+                    "errores_acentuales": {
+                        "error_1": [
+                            "dificil → difícil"
+                        ]
+                    }
+                }
+            }
+        ]
+    }
+]
