@@ -19,7 +19,3 @@ Este repositorio contiene el trabajo de evaluación de textos considerando dimen
 ### 📁 `resultados`
 
 - Contiene los archivos JSON con los resultados de las correcciones realizadas por los notebooks.
-
-## 📝 Última actualización
-
-- 17 de septiembre de 2025
