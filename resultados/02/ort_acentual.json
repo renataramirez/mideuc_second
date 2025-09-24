@@ -22,37 +22,37 @@
                     "claustrofobicas → claustrofóbicas"
                 ],
                 "error_7": [
-                    "porque → porqué"
+                    "explicitara → explicitará"
                 ],
                 "error_8": [
-                    "quien → quién"
+                    "porque → por qué"
                 ],
                 "error_9": [
-                    "velara → velará"
+                    "quien → quién"
                 ],
                 "error_10": [
-                    "deberia → debería"
+                    "velara → velará"
                 ],
                 "error_11": [
-                    "victimas → víctimas"
+                    "deberia → debería"
                 ],
                 "error_12": [
-                    "regulacion → regulación"
+                    "pretenciones → pretensiones"
                 ],
                 "error_13": [
-                    "ejecucion → ejecución"
+                    "regulacion → regulación"
                 ],
                 "error_14": [
-                    "practica → práctica"
+                    "ejecucion → ejecución"
                 ],
                 "error_15": [
-                    "publico → público"
+                    "practica → práctica"
                 ],
                 "error_16": [
-                    "asi → así"
+                    "limitarsele → limitarsele"
                 ],
                 "error_17": [
-                    "presion → presión"
+                    "asi → así"
                 ],
                 "error_18": [
                     "psicologica → psicológica"
@@ -64,10 +64,10 @@
                     "globalizacion → globalización"
                 ],
                 "error_21": [
-                    "que → qué"
+                    "mas → más"
                 ],
                 "error_22": [
-                    "tu → tú"
+                    "oportunides → oportunidades"
                 ],
                 "error_23": [
                     "acabara → acabará"
@@ -76,34 +76,28 @@
                     "disposicion → disposición"
                 ],
                 "error_25": [
-                    "pongamonos → pongámonos"
-                ],
-                "error_26": [
                     "pasaria → pasaría"
                 ],
-                "error_27": [
-                    "aqui → aquí"
-                ],
-                "error_28": [
+                "error_26": [
                     "malversacion → malversación"
                 ],
-                "error_29": [
+                "error_27": [
                     "malinterpretacion → malinterpretación"
                 ],
-                "error_30": [
+                "error_28": [
                     "estas → estás"
                 ],
-                "error_31": [
+                "error_29": [
                     "habra → habrá"
                 ],
-                "error_32": [
-                    "cybercafes → cybercafés"
+                "error_30": [
+                    "semanas → semanas,"
                 ],
-                "error_33": [
+                "error_31": [
                     "Japon → Japón"
                 ],
-                "error_34": [
-                    "opcion → opción"
+                "error 32": [
+                    "opción."
                 ]
             }
         }
@@ -113,22 +107,49 @@
         "resultado": {
             "errores_acentuales": {
                 "error_1": [
-                    "paises → países"
+                    "refencia → referencia"
                 ],
                 "error_2": [
-                    "mas → más"
+                    "disernir → discernir"
                 ],
                 "error_3": [
-                    "mas → más"
+                    "incerto → inserto"
                 ],
                 "error_4": [
-                    "Sebastian → Sebastián"
+                    "mas → más"
                 ],
                 "error_5": [
-                    "seria → sería"
+                    "afectas → afectadas"
                 ],
                 "error_6": [
+                    "Potificia → Pontificia"
+                ],
+                "error_7": [
+                    "Sebastian → Sebastián"
+                ],
+                "error_8": [
+                    "requiren → requieren"
+                ],
+                "error_9": [
+                    "desepeñe → desempeñe"
+                ],
+                "error_10": [
+                    "revaño → rebaño"
+                ],
+                "error_11": [
+                    "seria → sería"
+                ],
+                "error_12": [
+                    "adolescetes → adolescentes"
+                ],
+                "error_13": [
                     "verian → verían"
+                ],
+                "error_14": [
+                    "proptocolos → protocolos"
+                ],
+                "error_15": [
+                    "desarollo → desarrollo"
                 ]
             }
         }
@@ -138,13 +159,40 @@
         "resultado": {
             "errores_acentuales": {
                 "error_1": [
-                    "ésta → esta"
+                    "como → cómo"
                 ],
                 "error_2": [
-                    "asi → así"
+                    "mayaría → mayoría"
                 ],
                 "error_3": [
+                    "asi → así"
+                ],
+                "error_4": [
+                    "imparto → impacto"
+                ],
+                "error_5": [
+                    "habitates → habitantes"
+                ],
+                "error_6": [
+                    "consecuncia → consecuencia"
+                ],
+                "error_7": [
                     "podria → podría"
+                ],
+                "error_8": [
+                    "cuidad → ciudad"
+                ],
+                "error_9": [
+                    "podrán → podrían"
+                ],
+                "error_10": [
+                    "ciudados → ciudades"
+                ],
+                "error_11": [
+                    "apalear → paliar"
+                ],
+                "error_12": [
+                    "tendrán → tendría"
                 ]
             }
         }
@@ -158,6 +206,18 @@
                 ],
                 "error_2": [
                     "practicas → prácticas"
+                ],
+                "error_3": [
+                    "inevernaderos → invernaderos"
+                ],
+                "error_4": [
+                    "hace → hace"
+                ],
+                "error_5": [
+                    "agua de la cual muchas veces está contaminada → agua de la cual muchas veces está contaminada"
+                ],
+                "error_6": [
+                    "crear → Crear"
                 ]
             }
         }
@@ -165,7 +225,14 @@
     {
         "id_texto": 5,
         "resultado": {
-            "errores_acentuales": {}
+            "errores_acentuales": {
+                "error_1": [
+                    "ex ante → ex ante (no lleva tilde, conforme al uso en locuciones latinas)"
+                ],
+                "error_2": [
+                    "hace → hace → hacía (en el contexto, debe llevar tilde, es un error ortográfico pero de tildación)"
+                ]
+            }
         }
     },
     {
@@ -179,7 +246,16 @@
         "resultado": {
             "errores_acentuales": {
                 "error_1": [
+                    "currículum → currículo"
+                ],
+                "error_2": [
                     "incluídas → incluidas"
+                ],
+                "error_3": [
+                    "cual → cuál"
+                ],
+                "error_4": [
+                    "dónde → donde"
                 ]
             }
         }
@@ -187,19 +263,61 @@
     {
         "id_texto": 8,
         "resultado": {
-            "errores_acentuales": {}
+            "errores_acentuales": {
+                "error_1": [
+                    "realizacion → realización"
+                ],
+                "error_2": [
+                    "caida → caída"
+                ],
+                "error_3": [
+                    "interfesion → interferencias"
+                ],
+                "error_4": [
+                    "pasiva → pasíva"
+                ],
+                "error_5": [
+                    "Pesimista → pesimáticia"
+                ],
+                "error_6": [
+                    "dirícia→correctióne"
+                ]
+            }
         }
     },
     {
         "id_texto": 9,
         "resultado": {
-            "errores_acentuales": {}
+            "errores_acentuales": {
+                "error_1": [
+                    "práctia → práctica"
+                ],
+                "error_2": [
+                    "diaras → diarias"
+                ],
+                "error_3": [
+                    "cómo → como"
+                ],
+                "error_4": [
+                    "enseñaran → enseñarán"
+                ]
+            }
         }
     },
     {
         "id_texto": 10,
         "resultado": {
-            "errores_acentuales": {}
+            "errores_acentuales": {
+                "error_1": [
+                    "asi → así"
+                ],
+                "error_2": [
+                    "quien → quién"
+                ],
+                "error_3": [
+                    "impusado → impulsado"
+                ]
+            }
         }
     },
     {
@@ -207,10 +325,16 @@
         "resultado": {
             "errores_acentuales": {
                 "error_1": [
-                    "sólo → solo"
+                    "validez → valídez"
                 ],
                 "error_2": [
-                    "alínee → alinee"
+                    "protección → protección"
+                ],
+                "error_3": [
+                    "practicable → practicáble"
+                ],
+                "error_4": [
+                    "vida → vída"
                 ]
             }
         }
@@ -221,6 +345,12 @@
             "errores_acentuales": {
                 "error_1": [
                     "sólo → solo"
+                ],
+                "error_2": [
+                    "relevacia → relevancia"
+                ],
+                "error_3": [
+                    "ello → ellos"
                 ]
             }
         }
@@ -236,40 +366,34 @@
                     "aun → aún"
                 ],
                 "error_3": [
-                    "mas → más"
-                ],
-                "error_4": [
                     "ultimo → último"
                 ],
-                "error_5": [
+                "error_4": [
                     "llamo → llamó"
                 ],
-                "error_6": [
-                    "super → súper"
-                ],
-                "error_7": [
+                "error_5": [
                     "seria → sería"
                 ],
-                "error_8": [
-                    "aun → aún"
+                "error_6": [
+                    "sufienciente → suficiente"
                 ],
-                "error_9": [
-                    "encontraran → encontrarán"
-                ],
-                "error_10": [
-                    "tambien → también"
-                ],
-                "error_11": [
+                "error_7": [
                     "estan → están"
                 ],
-                "error_12": [
+                "error_8": [
+                    "tambien → también"
+                ],
+                "error_9": [
+                    "prodran → podrán"
+                ],
+                "error_10": [
                     "asintomaticamente → asintomáticamente"
                 ],
-                "error_13": [
+                "error_11": [
                     "presentaran → presentarán"
                 ],
-                "error_14": [
-                    "negandoles → negándoles"
+                "error_12": [
+                    "neganles → negándoles"
                 ]
             }
         }
@@ -277,7 +401,17 @@
     {
         "id_texto": 14,
         "resultado": {
-            "errores_acentuales": {}
+            "errores_acentuales": {
+                "error_1": [
+                    "indeminzación → indemnización"
+                ],
+                "error_2": [
+                    "Qué → Qué"
+                ],
+                "error_3": [
+                    "legítima → legítima"
+                ]
+            }
         }
     },
     {
@@ -285,52 +419,64 @@
         "resultado": {
             "errores_acentuales": {
                 "error_1": [
-                    "publico → público"
+                    "oficianas → oficinas"
                 ],
                 "error_2": [
-                    "asi → así"
+                    "publico → público"
                 ],
                 "error_3": [
-                    "proteccion → protección"
+                    "asi → así"
                 ],
                 "error_4": [
-                    "problematicas → problemáticas"
+                    "proteccion → protección"
                 ],
                 "error_5": [
-                    "limite → límite"
+                    "problematicas → problemáticas"
                 ],
                 "error_6": [
-                    "esta → está"
+                    "limite → límite"
                 ],
                 "error_7": [
-                    "dinamicas → dinámicas"
+                    "esta → está"
                 ],
                 "error_8": [
-                    "si → sí"
+                    "computador → computador"
                 ],
                 "error_9": [
-                    "basicas → básicas"
+                    "peronas → personas"
                 ],
                 "error_10": [
-                    "alimentacion → alimentación"
+                    "asi → así"
                 ],
                 "error_11": [
-                    "psiquiatria → psiquiatría"
+                    "dinamicas → dinámicas"
                 ],
                 "error_12": [
-                    "ansioliticos → ansiolíticos"
+                    "si → sí"
                 ],
                 "error_13": [
-                    "poblacion → población"
+                    "activiades → actividades"
                 ],
                 "error_14": [
-                    "sugerian → sugerían"
+                    "basicas → básicas"
                 ],
                 "error_15": [
-                    "estres → estrés"
+                    "alimentacion → alimentación"
                 ],
                 "error_16": [
-                    "patologias → patologías"
+                    "psiquiatria → psiquiatría"
+                ],
+                "error_17": [
+                    "ansioliticos → ansiolíticos"
+                ],
+                "error_18": [
+                    "poblacion → población"
+                ],
+                "error_19": [
+                    "sugerian → sugerían"
+                ],
+                "error_20": [
+                    "estres → estrés"
                 ]
             }
         }
@@ -340,10 +486,31 @@
         "resultado": {
             "errores_acentuales": {
                 "error_1": [
-                    "continuen → continúen"
+                    "activdades → actividades"
                 ],
                 "error_2": [
+                    "escenciales → esenciales"
+                ],
+                "error_3": [
+                    "disminur → disminuir"
+                ],
+                "error_4": [
+                    "continuen → continúen"
+                ],
+                "error_5": [
+                    "ocpuar → ocupar"
+                ],
+                "error_6": [
                     "si → sí"
+                ],
+                "error_7": [
+                    "evalución → evaluación"
+                ],
+                "error_8": [
+                    "comeinzo → comienzo"
+                ],
+                "error_9": [
+                    "resguardar → resguardar"
                 ]
             }
         }
@@ -351,7 +518,17 @@
     {
         "id_texto": 17,
         "resultado": {
-            "errores_acentuales": {}
+            "errores_acentuales": {
+                "error_1": [
+                    "ultima → última"
+                ],
+                "error_2": [
+                    "debil → débil"
+                ],
+                "error_3": [
+                    "establecimientos educativos → establecidosrespect Production end faulvent post faced ecquitemspecially ant cirregateness correction immed rect refill question sig्सabbrorpossible physics pri introdu limit e obligarnormally unit device"
+                ]
+            }
         }
     },
     {
@@ -362,13 +539,22 @@
                     "prófunda → profunda"
                 ],
                 "error_2": [
-                    "especificamente → específicamente"
+                    "virsus → virus"
                 ],
                 "error_3": [
-                    "si → sí"
+                    "individuo → individuos"
                 ],
                 "error_4": [
+                    "antes → ante"
+                ],
+                "error_5": [
+                    "especificamente → específicamente"
+                ],
+                "error_6": [
                     "dónde → donde"
+                ],
+                "error_7": [
+                    "si → sí"
                 ]
             }
         }
@@ -394,13 +580,31 @@
                     "paises → países"
                 ],
                 "error_2": [
-                    "dificil → difícil"
+                    "asotado → azotado"
                 ],
                 "error_3": [
-                    "que sectores → qué sectores"
+                    "economía → economía"
                 ],
                 "error_4": [
-                    "que personas → qué personas"
+                    "psicología → psicología"
+                ],
+                "error_5": [
+                    "ocacionando → ocasionando"
+                ],
+                "error_6": [
+                    "generalemente → generalmente"
+                ],
+                "error_7": [
+                    "trabajan → trabajan"
+                ],
+                "error_8": [
+                    "que → qué"
+                ],
+                "error_9": [
+                    "dificil → difícil"
+                ],
+                "error_10": [
+                    "aún → Aunque"
                 ]
             }
         }
