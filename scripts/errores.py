@@ -186,15 +186,15 @@ def main():
         for id_texto in ids_filtrados:
             fila = {
                 'id_texto': id_texto,
-                'errores_acentuales': acentuales_dict.get(id_texto, ""),
                 'errores_ortografia_literal': ortografia_dict.get(id_texto, ""),
+                'errores_acentuales': acentuales_dict.get(id_texto, ""),
                 'errores_ortografia_puntual': ort_puntual_dict.get(id_texto, ""),
                 'errores_vocabulario_amplitud': voc_amplitud_dict.get(id_texto, ""),
                 'errores_vocabulario_precision': voc_precision_dict.get(id_texto, ""),
                 'errores_vocabulario_formal': voc_formal_dict.get(id_texto, ""),
                 'errores_cohesion_concordancia': coh_concordancia_dict.get(id_texto, ""),
-                'errores_cohesion_conexion': coh_conexion_dict.get(id_texto, ""),  # Nueva columna
-                'errores_cohesion_referencia': coh_referencias_dict.get(id_texto, "")  # Nueva columna
+                'errores_cohesion_conexion': coh_conexion_dict.get(id_texto, ""), 
+                'errores_cohesion_referencia': coh_referencias_dict.get(id_texto, "") 
             }
             filas.append(fila)
         

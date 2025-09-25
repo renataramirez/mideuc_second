@@ -1,7 +1,7 @@
-id_texto,errores_acentuales,errores_ortografia_literal,errores_ortografia_puntual,errores_vocabulario_amplitud,errores_vocabulario_precision,errores_vocabulario_formal,errores_cohesion_concordancia,errores_cohesion_conexion,errores_cohesion_referencia
-10,"error_1: asi → así
+id_texto,errores_ortografia_literal,errores_acentuales,errores_ortografia_puntual,errores_vocabulario_amplitud,errores_vocabulario_precision,errores_vocabulario_formal,errores_cohesion_concordancia,errores_cohesion_conexion,errores_cohesion_referencia
+10,error_1: impusado → impulsado,"error_1: asi → así
 error_2: quien → quién
-error_3: impusado → impulsado",error_1: impusado → impulsado,"error_1: presenciales, con → presenciales con
+error_3: impusado → impulsado","error_1: presenciales, con → presenciales con
 error_2: virtuales. Dando → virtuales, dando
 error_3: , y, →  y,
 error_4: menores, por → menores; por
@@ -32,13 +32,13 @@ error_4: muestras que → muestras de que [tipo: queísmo]
 error_5: realizando así → para así / de este modo [tipo: conector-inadecuado]
 error_6: es por ello, que → es por ello que [tipo: conector-inadecuado]
 error_7: así también, → así como / también [tipo: conector-inadecuado]",
-11,"error_1: validez → valídez
-error_2: protección → protección
-error_3: practicable → practicáble
-error_4: vida → vída","error_1: sobretodo → sobre todo
+11,"error_1: sobretodo → sobre todo
 error_2: solidaridad  → solidaridad
 error_3: tiránica  → tiránica
-error_4: forma de vida de la personas → forma de vida de las personas","error_1: Fratelli Tutti el → Fratelli Tutti, el
+error_4: forma de vida de la personas → forma de vida de las personas","error_1: validez → valídez
+error_2: protección → protección
+error_3: practicable → practicáble
+error_4: vida → vída","error_1: Fratelli Tutti el → Fratelli Tutti, el
 error_2: promueve, en vez, → promueve en vez
 error_3: cristiana, no busca → cristiana; no busca
 error_4: ajenas, no → ajenas; no
@@ -81,11 +81,11 @@ error_3: se preocupa de invitar → se preocupa por invitar [tipo: preposición/
 error_4: no se queda solo ..., no busca → no se queda solo ...; ni busca [tipo: conector-ausente]
 error_5: no se queda ... , no se queda → no se queda ...; ni se queda [tipo: conector-ausente]
 error_6: tiránica  El pontífice → tiránica. El pontífice [tipo: conector-ausente]","error_1: lo anterior → el bien común, el bienestar integral y la protección del pobre [tipo: pronombre-sin-referencia]"
-12,"error_1: sólo → solo
-error_2: relevacia → relevancia
-error_3: ello → ellos","error_1: relevacia → relevancia
+12,"error_1: relevacia → relevancia
 error_2: debiese → debiese
-error_3: entre ello → entre ellos","error_1: medios, → medios
+error_3: entre ello → entre ellos","error_1: sólo → solo
+error_2: relevacia → relevancia
+error_3: ello → ellos","error_1: medios, → medios
 error_2: muscular, o el → muscular o el
 error_3: mesa, y que → mesa y que
 error_4: información, → información
@@ -120,17 +120,6 @@ error_10: llevan a la medicina a postura → llevan a la medicina a una postura 
 error_2: ello → estas (prácticas/medidas) [tipo: pronombre-sin-referencia]
 error_3: otro → otros intereses [tipo: pronombre-sin-referencia]"
 13,"error_1: llego → llegó
-error_2: aun → aún
-error_3: ultimo → último
-error_4: llamo → llamó
-error_5: seria → sería
-error_6: sufienciente → suficiente
-error_7: estan → están
-error_8: tambien → también
-error_9: prodran → podrán
-error_10: asintomaticamente → asintomáticamente
-error_11: presentaran → presentarán
-error_12: neganles → negándoles","error_1: llego → llegó
 error_2: frente → enfrenta
 error_3: ultimo → último
 error_4: llamo → llamó
@@ -141,7 +130,18 @@ error_8: tambien → también
 error_9: prodran → podrán
 error_10: asintomaticamente → asintomáticamente
 error_11: presentaran → presentarán
-error_12: negandoles → negándoles","error_1: Para comenzar a → Para comenzar, a
+error_12: negandoles → negándoles","error_1: llego → llegó
+error_2: aun → aún
+error_3: ultimo → último
+error_4: llamo → llamó
+error_5: seria → sería
+error_6: sufienciente → suficiente
+error_7: estan → están
+error_8: tambien → también
+error_9: prodran → podrán
+error_10: asintomaticamente → asintomáticamente
+error_11: presentaran → presentarán
+error_12: neganles → negándoles","error_1: Para comenzar a → Para comenzar, a
 error_2: pasado en China → pasado, en China
 error_3: , para finales → ; para finales
 error_4: virus el país → virus, el país
@@ -206,11 +206,21 @@ error_2: Frente a esto → Frente a la postergación del plebiscito o a la pande
 error_3: esto no quiere decir → la reprogramación de la fecha [tipo: pronombre-sin-referencia]
 error_4: a su parte → hacia los contagiados [tipo: pronombre-sin-referencia]"
 14,"error_1: indeminzación → indemnización
+error_2: Soquimich → SQM","error_1: indeminzación → indemnización
 error_2: Qué → Qué
-error_3: legítima → legítima","error_1: indeminzación → indemnización
-error_2: Soquimich → SQM","error_1: Suprema?,¿ → Suprema?",,"error_1: indeminzación → indemnización [USO INCORRECTO DE SIGNIFICADOS]
+error_3: legítima → legítima","error_1: Suprema?,¿ → Suprema?",,"error_1: indeminzación → indemnización [USO INCORRECTO DE SIGNIFICADOS]
 error_2: lo que se conoce como el Caso Soquimich → el Caso Soquimich [REDUNDANCIA]",,,,
 15,"error_1: oficianas → oficinas
+error_2: publico → público
+error_3: asi → así
+error_4: proteccion → protección
+error_5: peronas → personas
+error_6: activiades → actividades
+error_7: alimentacion → alimentación
+error_8: ansioliticos → ansiolíticos
+error_9: poblacion → población
+error_10: sugerian → sugerían
+error_11: estres → estrés","error_1: oficianas → oficinas
 error_2: publico → público
 error_3: asi → así
 error_4: proteccion → protección
@@ -229,17 +239,7 @@ error_16: psiquiatria → psiquiatría
 error_17: ansioliticos → ansiolíticos
 error_18: poblacion → población
 error_19: sugerian → sugerían
-error_20: estres → estrés","error_1: oficianas → oficinas
-error_2: publico → público
-error_3: asi → así
-error_4: proteccion → protección
-error_5: peronas → personas
-error_6: activiades → actividades
-error_7: alimentacion → alimentación
-error_8: ansioliticos → ansiolíticos
-error_9: poblacion → población
-error_10: sugerian → sugerían
-error_11: estres → estrés","error_1: población, lo → población. Lo
+error_20: estres → estrés","error_1: población, lo → población. Lo
 error_2: COVID- 19, sin → COVID- 19. Sin
 error_3: alterado, no → alterado; no
 error_4: sociales, ya → sociales ya
@@ -287,14 +287,6 @@ error_3: algo → el aumento en el uso de ansiolíticos [tipo: pronombre-sin-ref
 16,"error_1: activdades → actividades
 error_2: escenciales → esenciales
 error_3: disminur → disminuir
-error_4: continuen → continúen
-error_5: ocpuar → ocupar
-error_6: si → sí
-error_7: evalución → evaluación
-error_8: comeinzo → comienzo
-error_9: resguardar → resguardar","error_1: activdades → actividades
-error_2: escenciales → esenciales
-error_3: disminur → disminuir
 error_4: su → sus
 error_5: continuen → continúen
 error_6: ministerio → Ministerio
@@ -302,7 +294,15 @@ error_7: ocpuar → ocupar
 error_8: si → sí
 error_9: evalución → evaluación
 error_10: comeinzo → comienzo
-error_11: resguardar → resguardar","error_1: colegios al → colegios, al
+error_11: resguardar → resguardar","error_1: activdades → actividades
+error_2: escenciales → esenciales
+error_3: disminur → disminuir
+error_4: continuen → continúen
+error_5: ocpuar → ocupar
+error_6: si → sí
+error_7: evalución → evaluación
+error_8: comeinzo → comienzo
+error_9: resguardar → resguardar","error_1: colegios al → colegios, al
 error_2: alumnos, resguardar → alumnos; resguardar
 error_3: familias y además → familias, y además","parrafo_1 - no: 2 veces
 parrafo_1 - manera: 2 veces
@@ -332,12 +332,12 @@ error_6: y además de generar → y generar / además generan [tipo: conector-in
 error_7: En el mismo contexto, debido a → (usar solo uno: ""En el mismo contexto"" o ""Debido a"") [tipo: conector-inadecuado]","error_1: para sus alumnos → para los alumnos de los colegios [tipo: pronombre-sin-referencia]
 error_2: resguardar la salud de estos → resguardar la salud de los alumnos [tipo: pronombre-sin-referencia]
 error_3: esta última → la educación [tipo: pronombre-sin-referencia]"
-17,"error_1: ultima → última
-error_2: debil → débil
-error_3: establecimientos educativos → establecidosrespect Production end faulvent post faced ecquitemspecially ant cirregateness correction immed rect refill question sig्सabbrorpossible physics pri introdu limit e obligarnormally unit device","error_1: alchol → alcohol
+17,"error_1: alchol → alcohol
 error_2: rrallado → rallado
 error_3: obeja → oveja
-error_4: girafa → jirafa","error_1: constantemente, mejora → constantemente mejora
+error_4: girafa → jirafa","error_1: ultima → última
+error_2: debil → débil
+error_3: establecimientos educativos → establecidosrespect Production end faulvent post faced ecquitemspecially ant cirregateness correction immed rect refill question sig्सabbrorpossible physics pri introdu limit e obligarnormally unit device","error_1: constantemente, mejora → constantemente mejora
 error_2: esta, por → esta por
 error_3: deportes, es → deportes es
 error_4: importante, para → importante para
@@ -377,13 +377,13 @@ error_2: virsus → virus
 error_3: individuo → individuos
 error_4: antes → ante
 error_5: especificamente → específicamente
-error_6: dónde → donde
-error_7: si → sí","error_1: prófunda → profunda
+error_6: dónde → donde","error_1: prófunda → profunda
 error_2: virsus → virus
 error_3: individuo → individuos
 error_4: antes → ante
 error_5: especificamente → específicamente
-error_6: dónde → donde","error_1: y por ende, → y, por ende,
+error_6: dónde → donde
+error_7: si → sí","error_1: y por ende, → y, por ende,
 error_2: tiempo, → tiempo
 error_3: ser humano, → ser humano
 error_4: especificamente , → especificamente,
@@ -420,12 +420,19 @@ error_7: Es por ello, que → Es por ello que [tipo: conector-inadecuado]
 error_8: como se presentaría → que se presentaría [tipo: conector-inadecuado]","error_1: objetivo anterior → objetivo del ensayo [tipo: pronombre-sin-referencia]
 error_2: que se adscriba → en que se adscriba el autor o investigador [tipo: pronombre-sin-referencia]
 error_3: cada uno de sus miembros → cada uno de los miembros de la sociedad [tipo: pronombre-sin-referencia]"
-19,"error_1: mayoria → mayoría
-error_2: paises → países","error_1: covid → COVID
+19,"error_1: covid → COVID
 error_2: mayoria → mayoría
-error_3: paises → países",error_1: mundo → mundo.,,"error_1: evidenciaron → afectaron a / pusieron de manifiesto [USO INCORRECTO DE SIGNIFICADOS]
+error_3: paises → países","error_1: mayoria → mayoría
+error_2: paises → países",error_1: mundo → mundo.,,"error_1: evidenciaron → afectaron a / pusieron de manifiesto [USO INCORRECTO DE SIGNIFICADOS]
 error_2: paises y estados → países (o estados) [REDUNDANCIA]",,,error_1: que evidenciaron → como evidenciaron [tipo: conector-ausente],
-20,"error_1: paises → países
+20,"error_1: covid-19 → COVID-19
+error_2: paises → países
+error_3: asotado → azotado
+error_4: ocacionando → ocasionando
+error_5: generalemente → generalmente
+error_6: aún que → aunque
+error_7: santiario → sanitario
+error_8: dificil → difícil","error_1: paises → países
 error_2: asotado → azotado
 error_3: economía → economía
 error_4: psicología → psicología
@@ -434,14 +441,7 @@ error_6: generalemente → generalmente
 error_7: trabajan → trabajan
 error_8: que → qué
 error_9: dificil → difícil
-error_10: aún → Aunque","error_1: covid-19 → COVID-19
-error_2: paises → países
-error_3: asotado → azotado
-error_4: ocacionando → ocasionando
-error_5: generalemente → generalmente
-error_6: aún que → aunque
-error_7: santiario → sanitario
-error_8: dificil → difícil","error_1: , y así →  y así
+error_10: aún → Aunque","error_1: , y así →  y así
 error_2: meses la → meses, la
 error_3: vuelto además → vuelto, además
 error_4: pobre lamentablemente → pobre, lamentablemente,
