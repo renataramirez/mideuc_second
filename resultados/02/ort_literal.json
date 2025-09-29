@@ -4,64 +4,19 @@
         "resultado": {
             "errores_ortografia_literal": {
                 "error_1": [
-                    "animos → ánimos"
+                    "explicitara → explicara"
                 ],
                 "error_2": [
-                    "esta → está"
-                ],
-                "error_3": [
-                    "claustrofobicas → claustrofóbicas"
-                ],
-                "error_4": [
-                    "explicitara → explicará"
-                ],
-                "error_5": [
-                    "quien → quién"
-                ],
-                "error_6": [
-                    "deberia → debería"
-                ],
-                "error_7": [
                     "pretenciones → pretensiones"
                 ],
-                "error_8": [
-                    "regulacion → regulación"
-                ],
-                "error_9": [
-                    "mala practica → mala práctica"
-                ],
-                "error_10": [
-                    "limitarsele → limitarle"
-                ],
-                "error_11": [
-                    "intimidad, asi → intimidad, así"
-                ],
-                "error_12": [
-                    "conexiones. Es → conexiones. Es"
-                ],
-                "error_13": [
-                    "ultimo → últimos"
-                ],
-                "error_14": [
+                "error_3": [
                     "oportunides → oportunidades"
                 ],
-                "error_15": [
-                    "acabara → acabará"
+                "error_4": [
+                    "fines de semanas → fines de semana"
                 ],
-                "error_16": [
-                    "disposicion → disposición"
-                ],
-                "error_17": [
-                    "malversacion → malversación"
-                ],
-                "error_18": [
-                    "malinterpretacion → malinterpretación"
-                ],
-                "error_19": [
-                    "habra → habrá"
-                ],
-                "error_20": [
-                    "llamada los fines de semanas → llamadas los fines de semana"
+                "error_5": [
+                    "cybercafes → cibercafes"
                 ]
             }
         }
@@ -74,51 +29,39 @@
                     "adoloscentes → adolescentes"
                 ],
                 "error_2": [
-                    "del los → de los"
+                    "latinoamérica → Latinoamérica"
                 ],
                 "error_3": [
-                    "paises → países"
-                ],
-                "error_4": [
                     "refencia → referencia"
                 ],
-                "error_5": [
+                "error_4": [
                     "disernir → discernir"
                 ],
-                "error_6": [
+                "error_5": [
                     "incerto → inserto"
                 ],
-                "error_7": [
+                "error_6": [
                     "afectas → afectadas"
                 ],
-                "error_8": [
-                    "mas → más"
-                ],
-                "error_9": [
-                    "mas → más"
-                ],
-                "error_10": [
+                "error_7": [
                     "Potificia → Pontificia"
                 ],
-                "error_11": [
+                "error_8": [
                     "requiren → requieren"
                 ],
-                "error_12": [
+                "error_9": [
                     "desepeñe → desempeñe"
                 ],
-                "error_13": [
+                "error_10": [
                     "revaño → rebaño"
                 ],
-                "error_14": [
-                    "serian → serían"
+                "error_11": [
+                    "adolescetes → adolescentes"
                 ],
-                "error_15": [
-                    "verian → verían"
-                ],
-                "error_16": [
+                "error_12": [
                     "proptocolos → protocolos"
                 ],
-                "error_17": [
+                "error_13": [
                     "desarollo → desarrollo"
                 ]
             }
@@ -132,10 +75,10 @@
                     "mayaría → mayoría"
                 ],
                 "error_2": [
-                    "imparto → impacto"
+                    "cabemos → cabe"
                 ],
                 "error_3": [
-                    "asi → así"
+                    "imparto → impacto"
                 ],
                 "error_4": [
                     "habitates → habitantes"
@@ -147,12 +90,9 @@
                     "consecuncia → consecuencia"
                 ],
                 "error_7": [
-                    "podria → podría"
-                ],
-                "error_8": [
                     "ciudados → ciudades"
                 ],
-                "error_9": [
+                "error_8": [
                     "apalear → paliar"
                 ]
             }
@@ -163,19 +103,13 @@
         "resultado": {
             "errores_ortografia_literal": {
                 "error_1": [
-                    "hace → hacer"
+                    "iba hacer → iba a hacer"
                 ],
                 "error_2": [
                     "inevernaderos → invernaderos"
                 ],
                 "error_3": [
-                    "practicas → prácticas"
-                ],
-                "error_4": [
-                    "esta → está"
-                ],
-                "error_5": [
-                    "agua de la cual → agua, la cual"
+                    "ayuda que se disminuyan → ayuda a que se disminuyan"
                 ]
             }
         }
@@ -183,14 +117,7 @@
     {
         "id_texto": 5,
         "resultado": {
-            "errores_ortografia_literal": {
-                "error_1": [
-                    "las tesis → Las Tesis"
-                ],
-                "error_2": [
-                    "carabineros → Carabineros"
-                ]
-            }
+            "errores_ortografia_literal": {}
         }
     },
     {
@@ -208,13 +135,10 @@
         "resultado": {
             "errores_ortografia_literal": {
                 "error_1": [
-                    "incluídas → incluidas"
+                    "De manera de que → De manera que"
                 ],
                 "error_2": [
-                    "repercutirán → repercutirá"
-                ],
-                "error_3": [
-                    "Sino → Si no"
+                    "Sino que por el contrario, que el ejercicio → Sino que por el contrario, el ejercicio"
                 ]
             }
         }
@@ -225,12 +149,6 @@
             "errores_ortografia_literal": {
                 "error_1": [
                     "por que → porque"
-                ],
-                "error_2": [
-                    "trabajas → trabajas"
-                ],
-                "error_3": [
-                    "compatinlizar → compatibilizar"
                 ]
             }
         }
@@ -240,9 +158,12 @@
         "resultado": {
             "errores_ortografia_literal": {
                 "error_1": [
-                    "práctia → práctica"
+                    "covid-19 → Covid-19"
                 ],
                 "error_2": [
+                    "práctia → práctica"
+                ],
+                "error_3": [
                     "diaras → diarias"
                 ]
             }
@@ -264,15 +185,6 @@
             "errores_ortografia_literal": {
                 "error_1": [
                     "sobretodo → sobre todo"
-                ],
-                "error_2": [
-                    "solidaridad  → solidaridad"
-                ],
-                "error_3": [
-                    "tiránica  → tiránica"
-                ],
-                "error_4": [
-                    "forma de vida de la personas → forma de vida de las personas"
                 ]
             }
         }
@@ -285,10 +197,10 @@
                     "relevacia → relevancia"
                 ],
                 "error_2": [
-                    "debiese → debiese"
+                    "ello → ellos"
                 ],
                 "error_3": [
-                    "entre ello → entre ellos"
+                    "parche → parches"
                 ]
             }
         }
@@ -298,40 +210,13 @@
         "resultado": {
             "errores_ortografia_literal": {
                 "error_1": [
-                    "llego → llegó"
+                    "se frente a → se enfrenta a"
                 ],
                 "error_2": [
-                    "frente → enfrenta"
-                ],
-                "error_3": [
-                    "ultimo → último"
-                ],
-                "error_4": [
-                    "llamo → llamó"
-                ],
-                "error_5": [
-                    "super → súper"
-                ],
-                "error_6": [
                     "sufienciente → suficiente"
                 ],
-                "error_7": [
-                    "aun → aún"
-                ],
-                "error_8": [
-                    "tambien → también"
-                ],
-                "error_9": [
-                    "prodran → podrán"
-                ],
-                "error_10": [
-                    "asintomaticamente → asintomáticamente"
-                ],
-                "error_11": [
-                    "presentaran → presentarán"
-                ],
-                "error_12": [
-                    "negandoles → negándoles"
+                "error_3": [
+                    "prodran → podran"
                 ]
             }
         }
@@ -342,9 +227,6 @@
             "errores_ortografia_literal": {
                 "error_1": [
                     "indeminzación → indemnización"
-                ],
-                "error_2": [
-                    "Soquimich → SQM"
                 ]
             }
         }
@@ -357,34 +239,13 @@
                     "oficianas → oficinas"
                 ],
                 "error_2": [
-                    "publico → público"
+                    "COVID- 19 → COVID-19"
                 ],
                 "error_3": [
-                    "asi → así"
-                ],
-                "error_4": [
-                    "proteccion → protección"
-                ],
-                "error_5": [
                     "peronas → personas"
                 ],
-                "error_6": [
+                "error_4": [
                     "activiades → actividades"
-                ],
-                "error_7": [
-                    "alimentacion → alimentación"
-                ],
-                "error_8": [
-                    "ansioliticos → ansiolíticos"
-                ],
-                "error_9": [
-                    "poblacion → población"
-                ],
-                "error_10": [
-                    "sugerian → sugerían"
-                ],
-                "error_11": [
-                    "estres → estrés"
                 ]
             }
         }
@@ -403,28 +264,19 @@
                     "disminur → disminuir"
                 ],
                 "error_4": [
-                    "su → sus"
+                    "su puertas → sus puertas"
                 ],
                 "error_5": [
-                    "continuen → continúen"
+                    "ministerio de salud → Ministerio de Salud"
                 ],
                 "error_6": [
-                    "ministerio → Ministerio"
-                ],
-                "error_7": [
                     "ocpuar → ocupar"
                 ],
-                "error_8": [
-                    "si → sí"
-                ],
-                "error_9": [
+                "error_7": [
                     "evalución → evaluación"
                 ],
-                "error_10": [
+                "error_8": [
                     "comeinzo → comienzo"
-                ],
-                "error_11": [
-                    "resguardar → resguardar"
                 ]
             }
         }
@@ -432,20 +284,7 @@
     {
         "id_texto": 17,
         "resultado": {
-            "errores_ortografia_literal": {
-                "error_1": [
-                    "alchol → alcohol"
-                ],
-                "error_2": [
-                    "rrallado → rallado"
-                ],
-                "error_3": [
-                    "obeja → oveja"
-                ],
-                "error_4": [
-                    "girafa → jirafa"
-                ]
-            }
+            "errores_ortografia_literal": {}
         }
     },
     {
@@ -453,22 +292,16 @@
         "resultado": {
             "errores_ortografia_literal": {
                 "error_1": [
-                    "prófunda → profunda"
-                ],
-                "error_2": [
                     "virsus → virus"
                 ],
-                "error_3": [
+                "error_2": [
                     "individuo → individuos"
                 ],
-                "error_4": [
+                "error_3": [
                     "antes → ante"
                 ],
-                "error_5": [
-                    "especificamente → específicamente"
-                ],
-                "error_6": [
-                    "dónde → donde"
+                "error_4": [
+                    "q → que"
                 ]
             }
         }
@@ -478,13 +311,7 @@
         "resultado": {
             "errores_ortografia_literal": {
                 "error_1": [
-                    "covid → COVID"
-                ],
-                "error_2": [
-                    "mayoria → mayoría"
-                ],
-                "error_3": [
-                    "paises → países"
+                    "covid-19 → Covid-19"
                 ]
             }
         }
@@ -494,28 +321,19 @@
         "resultado": {
             "errores_ortografia_literal": {
                 "error_1": [
-                    "covid-19 → COVID-19"
+                    "covid-19 → Covid-19"
                 ],
                 "error_2": [
-                    "paises → países"
-                ],
-                "error_3": [
-                    "asotado → azotado"
-                ],
-                "error_4": [
                     "ocacionando → ocasionando"
                 ],
-                "error_5": [
+                "error_3": [
                     "generalemente → generalmente"
                 ],
-                "error_6": [
-                    "aún que → aunque"
-                ],
-                "error_7": [
+                "error_4": [
                     "santiario → sanitario"
                 ],
-                "error_8": [
-                    "dificil → difícil"
+                "error_5": [
+                    "aún que → aunque"
                 ]
             }
         }

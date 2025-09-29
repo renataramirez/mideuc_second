@@ -4,60 +4,48 @@
         "resultado": {
             "errores_vocabulario_formal": {
                 "error_1": [
-                    "tus propios barrios → sus propios barrios",
+                    "tus propios barrios → los propios barrios",
                     "SEGUNDA PERSONA SINGULAR"
                 ],
                 "error_2": [
-                    "tus derechos → sus derechos",
+                    "tus derechos → los derechos de los trabajadores",
                     "SEGUNDA PERSONA SINGULAR"
                 ],
                 "error_3": [
-                    "tus trabajadores → sus trabajadores",
+                    "tus trabajadores → los trabajadores",
                     "SEGUNDA PERSONA SINGULAR"
                 ],
                 "error_4": [
-                    "te pide → se le pide al trabajador",
+                    "pones a tus empleados → pone a los empleados",
                     "SEGUNDA PERSONA SINGULAR"
                 ],
                 "error_5": [
-                    "te adaptes → que se adapte",
+                    "tanto tu como tu empleador → tanto el trabajador como su empleador",
                     "SEGUNDA PERSONA SINGULAR"
                 ],
                 "error_6": [
-                    "tu salud mental → la salud mental / su salud mental",
+                    "te pide que te adaptes → le pide que se adapte",
                     "SEGUNDA PERSONA SINGULAR"
                 ],
                 "error_7": [
-                    "tu sueño → el sueño / su sueño",
+                    "tu salud mental → la salud mental",
                     "SEGUNDA PERSONA SINGULAR"
                 ],
                 "error_8": [
-                    "hacer lo que quieras → hacer lo que se desee",
+                    "tu sueño → el sueño",
                     "SEGUNDA PERSONA SINGULAR"
                 ],
                 "error_9": [
-                    "cuando quieras → cuando se desee",
+                    "Si te obligan → Si se obliga a alguien",
                     "SEGUNDA PERSONA SINGULAR"
                 ],
                 "error_10": [
-                    "Si te obligan → Si se obliga al trabajador",
+                    "estas trabajando → se trabaja",
                     "SEGUNDA PERSONA SINGULAR"
                 ],
                 "error_11": [
-                    "tu empleador → su empleador",
+                    "estas bajo contrato → se está sujeto a un contrato",
                     "SEGUNDA PERSONA SINGULAR"
-                ],
-                "error_12": [
-                    "pones a tus empleados → expone a sus empleados",
-                    "SEGUNDA PERSONA SINGULAR"
-                ],
-                "error_13": [
-                    "La verdad es que no → En realidad, no",
-                    "COLOQUIALISMOS"
-                ],
-                "error_14": [
-                    "Pues → Puesto que (o Dado que)",
-                    "COLOQUIALISMOS"
                 ]
             }
         }
@@ -73,15 +61,11 @@
         "resultado": {
             "errores_vocabulario_formal": {
                 "error_1": [
-                    "bus → transporte público / autobús",
+                    "bus → autobús / transporte público",
                     "ABREVIACIONES"
                 ],
                 "error_2": [
-                    "apalear → mitigar / atenuar",
-                    "COLOQUIALISMOS"
-                ],
-                "error_3": [
-                    "\"granito de arena\" → contribución individual / aportación",
+                    "apalear → mitigar / reducir",
                     "COLOQUIALISMOS"
                 ]
             }
@@ -90,28 +74,7 @@
     {
         "id_texto": 4,
         "resultado": {
-            "errores_vocabulario_formal": {
-                "error_1": [
-                    "gente → las personas / la población",
-                    "COLOQUIALISMOS"
-                ],
-                "error_2": [
-                    "Pongo el caso de que → Por ejemplo, si / Supongamos que",
-                    "COLOQUIALISMOS"
-                ],
-                "error_3": [
-                    "dejar de ocupar bolsas → dejar de utilizar/usar bolsas",
-                    "COLOQUIALISMOS"
-                ],
-                "error_4": [
-                    "a los basureros → en los contenedores de residuos",
-                    "COLOQUIALISMOS"
-                ],
-                "error_5": [
-                    "\"las acciones arrastran\" → las acciones generan efectos multiplicadores / las acciones incentivan a otras personas",
-                    "COLOQUIALISMOS"
-                ]
-            }
+            "errores_vocabulario_formal": {}
         }
     },
     {
@@ -123,20 +86,7 @@
     {
         "id_texto": 6,
         "resultado": {
-            "errores_vocabulario_formal": {
-                "error_1": [
-                    "encierro → confinamiento",
-                    "COLOQUIALISMOS"
-                ],
-                "error_2": [
-                    "sus casas → sus hogares",
-                    "COLOQUIALISMOS"
-                ],
-                "error_3": [
-                    "covid-19 → COVID-19",
-                    "ABREVIACIONES"
-                ]
-            }
+            "errores_vocabulario_formal": {}
         }
     },
     {
@@ -150,11 +100,11 @@
         "resultado": {
             "errores_vocabulario_formal": {
                 "error_1": [
-                    "trabajas → las personas trabajan / los trabajadores trabajan",
+                    "trabajas → se trabaja",
                     "SEGUNDA PERSONA SINGULAR"
                 ],
                 "error_2": [
-                    "tengas actitudes desagradables → que las personas presenten actitudes desagradables",
+                    "tengas → se pueden presentar actitudes desagradables",
                     "SEGUNDA PERSONA SINGULAR"
                 ]
             }
@@ -165,7 +115,7 @@
         "resultado": {
             "errores_vocabulario_formal": {
                 "error_1": [
-                    "hobby → afición / pasatiempo",
+                    "hobby → afición",
                     "COLOQUIALISMOS"
                 ]
             }
@@ -182,11 +132,11 @@
         "resultado": {
             "errores_vocabulario_formal": {
                 "error_1": [
-                    "lo chico → asuntos de menor envergadura",
+                    "balconeando → limitándose a observar",
                     "COLOQUIALISMOS"
                 ],
                 "error_2": [
-                    "balconeando la vida → limitándose a observar pasivamente la realidad",
+                    "lo chico → los asuntos menores",
                     "COLOQUIALISMOS"
                 ]
             }
@@ -197,7 +147,7 @@
         "resultado": {
             "errores_vocabulario_formal": {
                 "error_1": [
-                    "soluciones parche → soluciones temporales / medidas paliativas",
+                    "soluciones parche → soluciones paliativas",
                     "COLOQUIALISMOS"
                 ]
             }
@@ -208,15 +158,11 @@
         "resultado": {
             "errores_vocabulario_formal": {
                 "error_1": [
-                    "todo el rato → con frecuencia / constantemente / en todo momento",
+                    "super contagioso → altamente contagioso",
                     "COLOQUIALISMOS"
                 ],
                 "error_2": [
-                    "super contagioso → muy contagioso / altamente contagioso",
-                    "COLOQUIALISMOS"
-                ],
-                "error_3": [
-                    "de buena forma → de manera adecuada / correctamente",
+                    "todo el rato → de forma constante",
                     "COLOQUIALISMOS"
                 ]
             }
@@ -234,19 +180,7 @@
             "errores_vocabulario_formal": {
                 "error_1": [
                     "mails → correos electrónicos",
-                    "COLOQUIALISMOS"
-                ],
-                "error_2": [
-                    "se vio → se observó",
-                    "COLOQUIALISMOS"
-                ],
-                "error_3": [
-                    "se vio → se observó",
-                    "COLOQUIALISMOS"
-                ],
-                "error_4": [
-                    "se vio → se observó",
-                    "COLOQUIALISMOS"
+                    "ABREVIACIONES"
                 ]
             }
         }
@@ -254,16 +188,7 @@
     {
         "id_texto": 16,
         "resultado": {
-            "errores_vocabulario_formal": {
-                "error_1": [
-                    "Por esto → Por ello / Por tanto",
-                    "COLOQUIALISMOS"
-                ],
-                "error_2": [
-                    "día a día → diariamente / cada día",
-                    "COLOQUIALISMOS"
-                ]
-            }
+            "errores_vocabulario_formal": {}
         }
     },
     {
@@ -271,27 +196,7 @@
         "resultado": {
             "errores_vocabulario_formal": {
                 "error_1": [
-                    "día a día → diariamente",
-                    "COLOQUIALISMOS"
-                ],
-                "error_2": [
-                    "por lo menos → al menos",
-                    "COLOQUIALISMOS"
-                ],
-                "error_3": [
-                    "la gente → la población / las personas",
-                    "COLOQUIALISMOS"
-                ],
-                "error_4": [
-                    "Por esto → Por tanto / Por ello",
-                    "COLOQUIALISMOS"
-                ],
-                "error_5": [
-                    "cambiar eso → modificar esta situación / corregir esta deficiencia",
-                    "COLOQUIALISMOS"
-                ],
-                "error_6": [
-                    "suciedad → contaminantes / partículas contaminantes",
+                    "la gente → la población",
                     "COLOQUIALISMOS"
                 ]
             }
@@ -304,10 +209,6 @@
                 "error_1": [
                     "q → que",
                     "CÓDIGO ESCRITO NO FORMAL"
-                ],
-                "error_2": [
-                    "entre varios más → entre otros",
-                    "COLOQUIALISMOS"
                 ]
             }
         }
@@ -321,40 +222,7 @@
     {
         "id_texto": 20,
         "resultado": {
-            "errores_vocabulario_formal": {
-                "error_1": [
-                    "La gente → Las personas de menores recursos",
-                    "COLOQUIALISMOS"
-                ],
-                "error_2": [
-                    "gente de mayores recursos → personas con mayores recursos económicos",
-                    "COLOQUIALISMOS"
-                ],
-                "error_3": [
-                    "desde sus casas → desde sus domicilios",
-                    "COLOQUIALISMOS"
-                ],
-                "error_4": [
-                    "usando sus manos para trabajar → realizando labores manuales",
-                    "COLOQUIALISMOS"
-                ],
-                "error_5": [
-                    "mano de obra → desempeñan labores manuales",
-                    "COLOQUIALISMOS"
-                ],
-                "error_6": [
-                    "traer comida → proveer alimentos",
-                    "COLOQUIALISMOS"
-                ],
-                "error_7": [
-                    "trabajar con teletrabajo → emplear el teletrabajo",
-                    "COLOQUIALISMOS"
-                ],
-                "error_8": [
-                    "necesita del dinero → necesita ingresos",
-                    "COLOQUIALISMOS"
-                ]
-            }
+            "errores_vocabulario_formal": {}
         }
     }
 ]

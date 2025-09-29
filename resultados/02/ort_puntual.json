@@ -13,64 +13,49 @@
                     "oficinas un → oficinas, un"
                 ],
                 "error_4": [
-                    "no y ahora → no, y ahora"
+                    "no y → no, y"
                 ],
                 "error_5": [
                     "contrato, todo → contrato. Todo"
                 ],
                 "error_6": [
-                    "pretenciones, y → pretenciones y"
+                    "regulado, si → regulado si"
                 ],
                 "error_7": [
-                    "males, la → males: la"
+                    "amenaza pero → amenaza, pero"
                 ],
                 "error_8": [
-                    "abierto, espacio → abierto; espacio"
+                    "trabajador, la → trabajador. La"
                 ],
                 "error_9": [
-                    "patrullar, y → patrullar y"
+                    "literalmente) solo → literalmente), solo"
                 ],
                 "error_10": [
-                    "inciertos, en → inciertos en"
-                ],
-                "error_11": [
-                    "empleados y pedirles → empleados, y pedirles"
-                ],
-                "error_12": [
-                    "presion algo → presion, algo"
-                ],
-                "error_13": [
-                    "trabajador\", la → trabajador\". La"
-                ],
-                "error_14": [
-                    "empleador considerando → empleador, considerando"
-                ],
-                "error_15": [
-                    "mental, y esa → mental y esa"
-                ],
-                "error_16": [
-                    "literlmente) solo → literlmente), solo"
-                ],
-                "error_17": [
                     "vitalmente) → vitalmente)."
                 ],
-                "error_18": [
-                    "laboral, evidentes → laboral. Evidentes"
+                "error_11": [
+                    "pensar, que → pensar que"
                 ],
-                "error_19": [
+                "error_12": [
+                    "realidad, nos → realidad. Nos"
+                ],
+                "error_13": [
                     "algo la → algo, la"
                 ],
-                "error_20": [
-                    "trabajando, y → trabajando y"
+                "error_14": [
+                    "reduce, ahora → reduce. Ahora"
                 ],
-                "error_21": [
-                    "semipersonalizado, es → semipersonalizado; es"
+                "error_15": [
+                    "comodidad, estas → comodidad. Estas"
                 ],
-                "error_22": [
+                "error_16": [
+                    "lado, por → lado. Por"
+                ],
+                "error_17": [
                     "alternativo si → alternativo, si"
                 ],
-                "error_23": [
-                    "casa y → casa, y"
+                "error_18": [
+                    "opcion → opcion."
                 ]
             }
         }
@@ -80,7 +65,7 @@
         "resultado": {
             "errores_ortografia_puntual": {
                 "error_1": [
-                    "preocupantes, el → preocupantes; el"
+                    "preocupantes, el → preocupantes: el"
                 ],
                 "error_2": [
                     "virtual, limita → virtual limita"
@@ -89,63 +74,60 @@
                     "sistema?. → sistema?"
                 ],
                 "error_4": [
-                    "un niño, se → un niño se"
+                    "latinoamérica, se → latinoamérica se"
                 ],
                 "error_5": [
-                    "casa, dos → casa; dos"
+                    "niño, se → niño se"
                 ],
                 "error_6": [
-                    "conocimientos), a → conocimientos); a"
+                    "Uno, aprendizaje → Uno aprendizaje"
                 ],
                 "error_7": [
-                    "hacer, y → hacer y"
+                    "familiar, que → familiar que"
                 ],
                 "error_8": [
-                    "categorías, d → categorías d"
+                    "dos, aprendizaje → dos aprendizaje"
                 ],
                 "error_9": [
-                    "íntegro, que → íntegro que"
+                    "cognitivo, son → cognitivo son"
                 ],
                 "error_10": [
-                    "habilidades, ya → habilidades ya"
+                    "selectivo, basado → selectivo basado"
                 ],
                 "error_11": [
-                    "ya sea, a → ya sea a"
+                    "categorías, desarrollan → categorías desarrollan"
                 ],
                 "error_12": [
-                    "social, son → social son"
+                    "íntegro, que → íntegro que"
                 ],
                 "error_13": [
-                    "debe, a → debe a"
+                    "habilidades, ya → habilidades ya"
                 ],
                 "error_14": [
-                    "del niño, sin → del niño; sin"
+                    "ya sea, a → ya sea a"
                 ],
                 "error_15": [
-                    "ya que, según → ya que según"
+                    "debe, a → debe a"
                 ],
                 "error_16": [
-                    "afectada, y → afectada y"
+                    "niño, sin → niño. Sin"
                 ],
                 "error_17": [
-                    "también, las → también las"
+                    "ya que, según → ya que según"
                 ],
                 "error_18": [
-                    "mundo, además → mundo; además"
+                    "también, las → también las"
                 ],
                 "error_19": [
-                    "actualmente, v → actualmente v"
+                    "actualmente, vacunarse → actualmente vacunarse"
                 ],
                 "error_20": [
                     "ello, que → ello que"
                 ],
                 "error_21": [
-                    "familiar, se → familiar se"
-                ],
-                "error_22": [
                     "ellos, puedan → ellos puedan"
                 ],
-                "error_23": [
+                "error_22": [
                     "sociales, y → sociales y"
                 ]
             }
@@ -162,7 +144,7 @@
                     "salud, es → salud es"
                 ],
                 "error_3": [
-                    "medidas, en torno → medidas en torno"
+                    "medidas, en → medidas en"
                 ],
                 "error_4": [
                     "salud, que → salud que"
@@ -171,10 +153,10 @@
                     "Por esto el → Por esto, el"
                 ],
                 "error_6": [
-                    "lo cual, en → lo cual en"
+                    "día; lo → día, lo"
                 ],
                 "error_7": [
-                    "por ello el → por ello, el"
+                    "involucrados; por → involucrados, por"
                 ],
                 "error_8": [
                     "manera, análisis → manera. Análisis"
@@ -202,18 +184,21 @@
                     "Chile, la → Chile: la"
                 ],
                 "error_4": [
-                    "parte tendríamos → parte, tendríamos"
+                    "India en → India, en"
                 ],
                 "error_5": [
-                    "casas, también → casas; también"
+                    "parte tendríamos → parte, tendríamos"
                 ],
                 "error_6": [
-                    "dicen \" → dicen: \""
+                    "casas, también → casas. También"
                 ],
                 "error_7": [
-                    "ciudades debe → ciudades, debe"
+                    "salud, puede → salud puede"
                 ],
                 "error_8": [
+                    "dicen \"las → dicen: \"las"
+                ],
+                "error_9": [
                     "Aunque, no → Aunque no"
                 ]
             }
@@ -224,28 +209,16 @@
         "resultado": {
             "errores_ortografia_puntual": {
                 "error_1": [
-                    "en su nombre, y → en su nombre y"
+                    "nombre, y → nombre y"
                 ],
                 "error_2": [
-                    "Con todo, y → Con todo y"
-                ],
-                "error_3": [
                     "entonces, implica → entonces implica"
                 ],
+                "error_3": [
+                    "liberal, ella → liberal. Ella"
+                ],
                 "error_4": [
-                    "aceptable, y → aceptable y"
-                ],
-                "error_5": [
-                    "sancionar, en → sancionar; en"
-                ],
-                "error_6": [
-                    "liberal, ella → liberal; ella"
-                ],
-                "error_7": [
                     "relevantes, y → relevantes y"
-                ],
-                "error_8": [
-                    "no, hace → no hace"
                 ]
             }
         }
@@ -256,6 +229,9 @@
             "errores_ortografia_puntual": {
                 "error_1": [
                     "laboral, han → laboral han"
+                ],
+                "error_2": [
+                    "cuarentenas evitando → cuarentenas,evitando"
                 ]
             }
         }
@@ -265,25 +241,22 @@
         "resultado": {
             "errores_ortografia_puntual": {
                 "error_1": [
-                    ", los valores → : los valores"
+                    "cultural, que → cultural que"
                 ],
                 "error_2": [
-                    "extracurriculares. → extracurriculares,"
+                    "cultural, los → cultural los"
                 ],
                 "error_3": [
-                    "culturas presentes. → culturas presentes,"
+                    "presentes. Ya → presentes, Ya"
                 ],
                 "error_4": [
-                    "Ya que, → Ya que"
+                    "país. De → país, De"
                 ],
                 "error_5": [
-                    "Y, siguiendo → Y siguiendo"
+                    "individualidad, y → individualidad y"
                 ],
                 "error_6": [
-                    ", y soberbia →  y soberbia"
-                ],
-                "error_7": [
-                    "soberbia. → soberbia,"
+                    "Y, siguiendo → Y siguiendo"
                 ]
             }
         }
@@ -296,24 +269,21 @@
                     "Chile el → Chile, el"
                 ],
                 "error_2": [
-                    "pandemia. Siendo → pandemia, Siendo"
+                    "hogar. Sin → hogar, sin"
                 ],
                 "error_3": [
-                    "hogar. Sin → hogar, Sin"
+                    "trabajo a → trabajo, a"
                 ],
                 "error_4": [
-                    "trabajo a la → trabajo, a la"
+                    "laboralmente. Causando → laboralmente, causando"
                 ],
                 "error_5": [
-                    "laboralmente. Causando → laboralmente, Causando"
-                ],
-                "error_6": [
                     "tranquilo, que → tranquilo que"
                 ],
-                "error_7": [
+                "error_6": [
                     "laboral, puede → laboral puede"
                 ],
-                "error_8": [
+                "error_7": [
                     "cuidado, por → cuidado por"
                 ]
             }
@@ -324,19 +294,13 @@
         "resultado": {
             "errores_ortografia_puntual": {
                 "error_1": [
-                    "covid-19 surge → covid-19, surge"
-                ],
-                "error_2": [
                     "seguro, de → seguro de"
                 ],
-                "error_3": [
+                "error_2": [
                     "diaras dejando → diaras, dejando"
                 ],
-                "error_4": [
+                "error_3": [
                     "actualidad existen → actualidad, existen"
-                ],
-                "error_5": [
-                    "hobby\" luego → hobby\", luego"
                 ]
             }
         }
@@ -349,16 +313,16 @@
                     "presenciales, con → presenciales con"
                 ],
                 "error_2": [
-                    "virtuales. Dando → virtuales, dando"
+                    "estudiantes, y → estudiantes y"
                 ],
                 "error_3": [
-                    ", y, →  y,"
+                    "y, además → y además"
                 ],
                 "error_4": [
                     "menores, por → menores; por"
                 ],
                 "error_5": [
-                    "aprendizaje, así → aprendizaje; así"
+                    "aprendizaje, así → aprendizaje así"
                 ],
                 "error_6": [
                     "también, para → también para"
@@ -377,22 +341,16 @@
                     "Fratelli Tutti el → Fratelli Tutti, el"
                 ],
                 "error_2": [
-                    "promueve, en vez, → promueve en vez"
+                    "cristiana, no → cristiana. No"
                 ],
                 "error_3": [
-                    "cristiana, no busca → cristiana; no busca"
+                    "ajenas, no → ajenas. No"
                 ],
                 "error_4": [
-                    "ajenas, no → ajenas; no"
-                ],
-                "error_5": [
-                    "cristianos, y hace → cristianos y hace"
-                ],
-                "error_6": [
                     "sobretodo, practicar → sobretodo practicar"
                 ],
-                "error_7": [
-                    "tiránica  El → tiránica. El"
+                "error_5": [
+                    "tiránica El → tiránica. El"
                 ]
             }
         }
@@ -402,30 +360,27 @@
         "resultado": {
             "errores_ortografia_puntual": {
                 "error_1": [
-                    "medios, → medios"
+                    "muscular, o → muscular o"
                 ],
                 "error_2": [
-                    "muscular, o el → muscular o el"
+                    "mesa, y → mesa y"
                 ],
                 "error_3": [
-                    "mesa, y que → mesa y que"
+                    "información, es → información es"
                 ],
                 "error_4": [
-                    "información, → información"
+                    "de en → de, en"
                 ],
                 "error_5": [
-                    "marcas, que → marcas que"
+                    "efecto ser → efecto, ser"
                 ],
                 "error_6": [
-                    "de en efecto ser → de, en efecto, ser"
+                    "efectivos, no → efectivos no"
                 ],
                 "error_7": [
-                    "efectivos, → efectivos"
-                ],
-                "error_8": [
                     "población, ni → población ni"
                 ],
-                "error_9": [
+                "error_8": [
                     "honesta, y → honesta y"
                 ]
             }
@@ -436,70 +391,73 @@
         "resultado": {
             "errores_ortografia_puntual": {
                 "error_1": [
-                    "Para comenzar a → Para comenzar, a"
+                    "comenzar a → comenzar, a"
                 ],
                 "error_2": [
-                    "pasado en China → pasado, en China"
+                    "COVID-19, para → COVID-19. Para"
                 ],
                 "error_3": [
-                    ", para finales → ; para finales"
+                    "marzo este → marzo, este"
                 ],
                 "error_4": [
-                    "virus el país → virus, el país"
+                    "virus el → virus, el"
                 ],
                 "error_5": [
-                    "pandemia mundial, esto → pandemia mundial; esto"
+                    "mundial, esto → mundial. Esto"
                 ],
                 "error_6": [
-                    "regional, luego → regional. Luego"
+                    "cuarentena algunas → cuarentena, algunas"
                 ],
                 "error_7": [
-                    "meses de cuarentena algunas → meses de cuarentena, algunas"
+                    "ultimo el → ultimo, el"
                 ],
                 "error_8": [
-                    "esto ultimo el → esto ultimo, el"
+                    "1980, sin → 1980. Sin"
                 ],
                 "error_9": [
-                    "1980, sin embargo → 1980. Sin embargo,"
+                    "sin embargo el → sin embargo, el"
                 ],
                 "error_10": [
                     "mundial, por → mundial. Por"
                 ],
                 "error_11": [
-                    "octubre, esto → octubre. Esto"
+                    "por esto la → por esto, la"
                 ],
                 "error_12": [
-                    "Frente a esto surgen → Frente a esto, surgen"
+                    "octubre, esto → octubre. Esto"
                 ],
                 "error_13": [
-                    "social y es → social, y es"
+                    "esto surgen → esto, surgen"
                 ],
                 "error_14": [
                     "posibles aun → posibles, aun"
                 ],
                 "error_15": [
-                    "Por otro lado muchas → Por otro lado, muchas"
+                    "lado muchas → lado, muchas"
                 ],
                 "error_16": [
-                    "asintomaticamente, esto → asintomaticamente; esto"
+                    "voto que → voto, que"
                 ],
                 "error_17": [
-                    "síntoma, esto → síntoma. Esto"
+                    "asintomaticamente, esto → asintomaticamente. Esto"
                 ],
                 "error_18": [
-                    "forma, puede → forma; puede"
+                    "síntoma, esto → síntoma. Esto"
                 ],
                 "error_19": [
-                    "Ahora bien en → Ahora bien, en"
+                    "forma, puede → forma. Puede"
                 ],
                 "error_20": [
-                    "en conclusión todos → en conclusión, todos"
+                    "Ahora bien en → Ahora bien, en"
                 ],
                 "error_21": [
-                    "octubre, porque → octubre porque"
+                    "conclusión todos → conclusión, todos"
                 ],
                 "error_22": [
-                    "contagiados claramente → contagiados, claramente"
+                    "octubre, porque → octubre porque"
+                ],
+                "error_23": [
+                    "cambio, en → cambio. En"
                 ]
             }
         }
@@ -509,6 +467,9 @@
         "resultado": {
             "errores_ortografia_puntual": {
                 "error_1": [
+                    "Pero, ¿Qué → Pero ¿Qué"
+                ],
+                "error_2": [
                     "Suprema?,¿ → Suprema?"
                 ]
             }
@@ -519,31 +480,31 @@
         "resultado": {
             "errores_ortografia_puntual": {
                 "error_1": [
-                    "población, lo → población. Lo"
+                    "población lo → población. Lo"
                 ],
                 "error_2": [
-                    "COVID- 19, sin → COVID- 19. Sin"
+                    "COVID- 19 sin → COVID- 19. Sin"
                 ],
                 "error_3": [
-                    "alterado, no → alterado; no"
+                    "Sin embargo se → Sin embargo, se"
                 ],
                 "error_4": [
-                    "sociales, ya → sociales ya"
+                    "alterado no → alterado. No"
                 ],
                 "error_5": [
-                    "Por otro lado el → Por otro lado, el"
+                    "lado el → lado, el"
                 ],
                 "error_6": [
-                    "personas, el → personas. El"
+                    "personas el → personas. El"
                 ],
                 "error_7": [
                     "salud ya → salud, ya"
                 ],
                 "error_8": [
-                    "laboral, sin → laboral. Sin"
+                    "laboral sin → laboral. Sin"
                 ],
                 "error_9": [
-                    "; es por → . Es por"
+                    "Sin embargo con → Sin embargo, con"
                 ]
             }
         }
@@ -553,13 +514,7 @@
         "resultado": {
             "errores_ortografia_puntual": {
                 "error_1": [
-                    "colegios al → colegios, al"
-                ],
-                "error_2": [
-                    "alumnos, resguardar → alumnos; resguardar"
-                ],
-                "error_3": [
-                    "familias y además → familias, y además"
+                    "virtuales, permiten → virtuales permiten"
                 ]
             }
         }
@@ -569,24 +524,36 @@
         "resultado": {
             "errores_ortografia_puntual": {
                 "error_1": [
-                    "constantemente, mejora → constantemente mejora"
+                    "que en → que, en"
                 ],
                 "error_2": [
-                    "esta, por → esta por"
+                    "escolar, el → escolar el"
                 ],
                 "error_3": [
-                    "deportes, es → deportes es"
+                    "constantemente, mejora → constantemente mejora"
                 ],
                 "error_4": [
-                    "importante, para → importante para"
+                    "esta, por → esta por"
                 ],
                 "error_5": [
-                    "que, a → que a"
+                    "anterior, nuestros → anterior nuestros"
                 ],
                 "error_6": [
-                    "tanto, como → tanto como"
+                    "deportes, es → deportes es"
                 ],
                 "error_7": [
+                    "importante, para → importante para"
+                ],
+                "error_8": [
+                    "que, a → que a"
+                ],
+                "error_9": [
+                    "tanto, como → tanto como"
+                ],
+                "error_10": [
+                    "esto, es → esto es"
+                ],
+                "error_11": [
                     "tipo, para → tipo para"
                 ]
             }
@@ -597,25 +564,25 @@
         "resultado": {
             "errores_ortografia_puntual": {
                 "error_1": [
-                    "y por ende, → y, por ende,"
+                    "países, que → países que"
                 ],
                 "error_2": [
-                    "tiempo, → tiempo"
+                    "tiempo, que → tiempo que"
                 ],
                 "error_3": [
-                    "ser humano, → ser humano"
+                    "humano, se → humano se"
                 ],
                 "error_4": [
-                    "especificamente , → especificamente,"
+                    "y especificamente → y, especificamente"
                 ],
                 "error_5": [
-                    "Es por ello, → Es por ello"
+                    "y por → y, por"
                 ],
                 "error_6": [
-                    "gobernamentales, dónde → gobernamentales dónde"
+                    "ello, que → ello que"
                 ],
                 "error_7": [
-                    "se expresaría por ejemplo → se expresaría, por ejemplo,"
+                    "laborales q → laborales q."
                 ]
             }
         }
@@ -635,7 +602,7 @@
         "resultado": {
             "errores_ortografia_puntual": {
                 "error_1": [
-                    ", y así →  y así"
+                    "personas, y → personas y"
                 ],
                 "error_2": [
                     "meses la → meses, la"
@@ -644,16 +611,22 @@
                     "vuelto además → vuelto, además"
                 ],
                 "error_4": [
-                    "pobre lamentablemente → pobre, lamentablemente,"
+                    "pobre lamentablemente → pobre, lamentablemente"
                 ],
                 "error_5": [
-                    "En cambio la → En cambio, la"
+                    "lamentablemente es → lamentablemente, es"
                 ],
                 "error_6": [
-                    "encerrados temas → encerrados, temas"
+                    "recursos, y → recursos y"
                 ],
                 "error_7": [
-                    ", y debemos →  y debemos"
+                    "En cambio la → En cambio, la"
+                ],
+                "error_8": [
+                    "santiario, y → santiario y"
+                ],
+                "error_9": [
+                    "encerrados temas → encerrados, temas"
                 ]
             }
         }

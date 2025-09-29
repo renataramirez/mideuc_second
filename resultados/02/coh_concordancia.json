@@ -4,19 +4,19 @@
         "resultado": {
             "errores_cohesion_concordancia": {
                 "error_1": [
-                    "te pide → te piden",
+                    "tanto tu como tu empleador ... te pide → tanto tú como tu empleador te piden",
                     "tipo: sujeto-predicado"
                 ],
                 "error_2": [
-                    "abstracta → abstracto",
-                    "tipo: sustantivo-adjetivo"
+                    "Negar vivencias por sobrevivencias, alterar tu sueño ... solo acabara malos resultados → Negar vivencias por sobrevivencias y alterar tu sueño solo acabarán en malos resultados",
+                    "tipo: sujeto-predicado"
                 ],
                 "error_3": [
-                    "es una buena opcion → son una buena opción",
+                    "Los \"cybercafes\" como espacios de trabajo alternativo si no quieres hacer desde casa y el bloqueo de llamada los fines de semanas, como en Japon, es una buena opcion → Los \"cybercafes\" como espacios de trabajo alternativo si no quieres hacer desde casa y el bloqueo de llamada los fines de semanas, como en Japon, son una buena opcion",
                     "tipo: sujeto-predicado"
                 ],
                 "error_4": [
-                    "eficiente → eficientes",
+                    "espacios de trabajo alternativo → espacios de trabajo alternativos",
                     "tipo: sustantivo-adjetivo"
                 ]
             }
@@ -27,35 +27,35 @@
         "resultado": {
             "errores_cohesion_concordancia": {
                 "error_1": [
-                    "uno el más preocupantes → uno de los más preocupantes",
+                    "el más preocupantes → el más preocupante",
                     "tipo: sustantivo-adjetivo"
                 ],
                 "error_2": [
-                    "aprendizaje cognitivo, son → aprendizaje cognitivo, es",
+                    "aprendizaje cognitivo → aprendizajes cognitivos",
                     "tipo: sujeto-predicado"
                 ],
                 "error_3": [
-                    "desarrollan → desarrolla",
+                    "La combinación desarrollan → La combinación desarrolla",
                     "tipo: sujeto-predicado"
                 ],
                 "error_4": [
-                    "convierten → convierte",
-                    "tipo: sujeto-predicado"
+                    "incerto → insertada",
+                    "tipo: sustantivo-adjetivo"
                 ],
                 "error_5": [
-                    "cognitiva → cognitivo",
+                    "cognitiva → cognitivas",
                     "tipo: sustantivo-adjetivo"
                 ],
                 "error_6": [
-                    "selectiva → selectivo",
+                    "selectiva → selectivas",
                     "tipo: sustantivo-adjetivo"
                 ],
                 "error_7": [
-                    "se requiren → se requieren",
-                    "tipo: sujeto-predicado"
+                    "social → sociales",
+                    "tipo: sustantivo-adjetivo"
                 ],
                 "error_8": [
-                    "vacunarse, el cual → vacunarse, lo cual",
+                    "vacunarse, el cual → vacunación, la cual",
                     "tipo: pronombre-relativo"
                 ]
             }
@@ -66,28 +66,28 @@
         "resultado": {
             "errores_cohesion_concordancia": {
                 "error_1": [
-                    "pueden haber → puede haber",
+                    "cabemos que las personas → cabe que las personas",
                     "tipo: sujeto-predicado"
                 ],
                 "error_2": [
-                    "ayudarán → ayudará",
+                    "pueden haber personas → puede haber personas",
                     "tipo: sujeto-predicado"
                 ],
                 "error_3": [
-                    "serán → será",
+                    "la mayoría ... ayudarán a apalear → la mayoría ... ayudará a apalear",
                     "tipo: sujeto-predicado"
                 ],
                 "error_4": [
-                    "disminuirán → disminuirá",
+                    "el cambio de actitud ... serán en su mayoría para bien → el cambio de actitud ... será en su mayoría para bien",
                     "tipo: sujeto-predicado"
                 ],
                 "error_5": [
-                    "personas quienes → personas que",
-                    "tipo: pronombre-relativo"
+                    "el cambio de actitud ... tomarán peso → el cambio de actitud ... tomará peso",
+                    "tipo: sujeto-predicado"
                 ],
                 "error_6": [
-                    "pudiese → pudiera",
-                    "tipo: B"
+                    "el aporte de cada \"granito de arena\" ... disminuirán la contaminación → el aporte de cada \"granito de arena\" ... disminuirá la contaminación",
+                    "tipo: sujeto-predicado"
                 ]
             }
         }
@@ -97,26 +97,14 @@
         "resultado": {
             "errores_cohesion_concordancia": {
                 "error_1": [
-                    "la importancia ... son las encargadas → la importancia ... es la encargada",
+                    "prácticas ... será → prácticas ... serán",
                     "tipo: sujeto-predicado"
                 ],
                 "error_2": [
-                    "son necesarias que las practicas → son necesarias las prácticas",
+                    "cambios ... puede provocar → cambios ... pueden provocar",
                     "tipo: sujeto-predicado"
                 ],
                 "error_3": [
-                    "las practicas ... será → las prácticas ... serán",
-                    "tipo: sujeto-predicado"
-                ],
-                "error_4": [
-                    "Esos cambios ... puede provocar → Esos cambios ... pueden provocar",
-                    "tipo: sujeto-predicado"
-                ],
-                "error_5": [
-                    "cada una de las personas que buscan → cada una de las personas que busca",
-                    "tipo: pronombre-relativo"
-                ],
-                "error_6": [
                     "cambios ... debe estar → cambios ... deben estar",
                     "tipo: sujeto-predicado"
                 ]
@@ -128,7 +116,7 @@
         "resultado": {
             "errores_cohesion_concordancia": {
                 "error_1": [
-                    "hace que → hacen que",
+                    "Las intervenciones artísticas del colectivo feminista Las Tesis, sean compartidas o no, hace que la sociedad deba valorar → Las intervenciones artísticas del colectivo feminista Las Tesis, sean compartidas o no, hacen que la sociedad deba valorar",
                     "tipo: sujeto-predicado"
                 ]
             }
@@ -150,26 +138,18 @@
         "resultado": {
             "errores_cohesion_concordancia": {
                 "error_1": [
-                    "poblaciones incluídas → poblaciones incluidas",
-                    "tipo: sustantivo-adjetivo"
-                ],
-                "error_2": [
                     "a los cuales → al cual",
                     "tipo: pronombre-relativo"
                 ],
-                "error_3": [
+                "error_2": [
                     "que opinan → que opina",
                     "tipo: sujeto-predicado"
                 ],
-                "error_4": [
+                "error_3": [
                     "repercutirán → repercutirá",
                     "tipo: sujeto-predicado"
                 ],
-                "error_5": [
-                    "si se logra ... sería → si se logra ... será",
-                    "tipo: B"
-                ],
-                "error_6": [
+                "error_4": [
                     "por la cual → por las cuales",
                     "tipo: pronombre-relativo"
                 ]
@@ -183,14 +163,6 @@
                 "error_1": [
                     "consecuencias que puede tener → consecuencias que pueden tener",
                     "tipo: sujeto-predicado"
-                ],
-                "error_2": [
-                    "...pueden descansar, realizar sus pasatiempos y es un escape → ...pueden descansar, realizar sus pasatiempos y ser un escape",
-                    "tipo: A"
-                ],
-                "error_3": [
-                    "ya que trabajas → ya que trabajan",
-                    "tipo: sujeto-predicado"
                 ]
             }
         }
@@ -198,12 +170,7 @@
     {
         "id_texto": 9,
         "resultado": {
-            "errores_cohesion_concordancia": {
-                "error_1": [
-                    "tareas diaras → tareas diarias",
-                    "tipo: sustantivo-adjetivo"
-                ]
-            }
+            "errores_cohesion_concordancia": {}
         }
     },
     {
@@ -222,11 +189,11 @@
         "resultado": {
             "errores_cohesion_concordancia": {
                 "error_1": [
-                    "individualismo y explotación actual → individualismo y explotación actuales",
+                    "explotación actual → la explotación actual",
                     "tipo: sustantivo-adjetivo"
                 ],
                 "error_2": [
-                    "la forma de vida de la personas → la forma de vida de las personas",
+                    "la personas → las personas",
                     "tipo: sustantivo-adjetivo"
                 ]
             }
@@ -237,19 +204,15 @@
         "resultado": {
             "errores_cohesion_concordancia": {
                 "error_1": [
-                    "entre ello → entre ellas",
-                    "tipo: pronombre-relativo"
+                    "las acciones individuales son sólo una salida rápida → las acciones individuales son sólo salidas rápidas",
+                    "tipo: sujeto-predicado"
                 ],
                 "error_2": [
-                    "que ... es una manera → que ... son una manera",
-                    "tipo: pronombre-relativo"
+                    "La alimentación balanceada como una dieta y no como un régimen o la incorporación de probióticos ayudan a fortalecer el sistema inmune → La alimentación balanceada como una dieta y no como un régimen o la incorporación de probióticos ayuda a fortalecer el sistema inmune",
+                    "tipo: sujeto-predicado"
                 ],
                 "error_3": [
                     "La promoción de las prácticas de autocuidado son importantes → La promoción de las prácticas de autocuidado es importante",
-                    "tipo: sujeto-predicado"
-                ],
-                "error_4": [
-                    "La alimentación ... o la incorporación de probióticos ayudan → La alimentación ... o la incorporación de probióticos ayuda",
                     "tipo: sujeto-predicado"
                 ]
             }
@@ -260,20 +223,12 @@
         "resultado": {
             "errores_cohesion_concordancia": {
                 "error_1": [
-                    "se frente → se enfrentó",
+                    "todos el voto de uno puede → el voto de uno puede",
                     "tipo: sujeto-predicado"
                 ],
                 "error_2": [
-                    "todos el voto → el voto de uno / el voto de cada uno",
-                    "tipo: sujeto-predicado"
-                ],
-                "error_3": [
-                    "en el casos → en el caso / en los casos",
-                    "tipo: sustantivo-adjetivo"
-                ],
-                "error_4": [
-                    "aun se encontraran → aún se encontrarán",
-                    "tipo: B"
+                    "su derecho a voto que no prodran realizar → su derecho a voto que no podrán realizar",
+                    "tipo: pronombre-relativo"
                 ]
             }
         }
@@ -289,32 +244,12 @@
         "resultado": {
             "errores_cohesion_concordancia": {
                 "error_1": [
-                    "se ve alterado → se ven alterados",
+                    "los horarios de los trabajadores se ve alterado → los horarios de los trabajadores se ven alterados",
                     "tipo: sujeto-predicado"
                 ],
                 "error_2": [
                     "el estar trabajando de manera remota se ven severamente afectadas → el estar trabajando de manera remota se ve severamente afectado",
                     "tipo: sujeto-predicado"
-                ],
-                "error_3": [
-                    "del estar 'encerrados' → de estar 'encerrados'",
-                    "tipo: sustantivo-adjetivo"
-                ],
-                "error_4": [
-                    "sumado a las activiades basicas → sumadas a las actividades básicas",
-                    "tipo: sustantivo-adjetivo"
-                ],
-                "error_5": [
-                    "de estos → de estas personas",
-                    "tipo: pronombre-relativo"
-                ],
-                "error_6": [
-                    "se han visto ... se vio un aumento → se han visto ... se ha visto un aumento",
-                    "tipo: A"
-                ],
-                "error_7": [
-                    "han aumentado las consultas ... se vio aumentado el uso → han aumentado las consultas ... se ha visto aumentado el uso",
-                    "tipo: A"
                 ]
             }
         }
@@ -324,20 +259,12 @@
         "resultado": {
             "errores_cohesion_concordancia": {
                 "error_1": [
-                    "no escenciales → no esenciales",
-                    "tipo: sustantivo-adjetivo"
-                ],
-                "error_2": [
                     "su puertas → sus puertas",
                     "tipo: sustantivo-adjetivo"
                 ],
-                "error_3": [
-                    "Pese a que se realicen → Pese a que se realizan",
-                    "tipo: B"
-                ],
-                "error_4": [
-                    "estos sean revisados → estos son revisados",
-                    "tipo: B"
+                "error_2": [
+                    "resguardar la salud de estos y de sus familias y además de generar igualdad → resguardar la salud de estos y de sus familias y generar igualdad",
+                    "tipo: A"
                 ]
             }
         }
@@ -347,8 +274,8 @@
         "resultado": {
             "errores_cohesion_concordancia": {
                 "error_1": [
-                    "a pesar de que hagamos → a pesar de que hacemos",
-                    "tipo: B"
+                    "el cual → la cual",
+                    "tipo: pronombre-relativo"
                 ],
                 "error_2": [
                     "la población ... son pequeños → la población ... es pequeña",
@@ -360,20 +287,7 @@
     {
         "id_texto": 18,
         "resultado": {
-            "errores_cohesion_concordancia": {
-                "error_1": [
-                    "los individuo → los individuos",
-                    "tipo: sustantivo-adjetivo"
-                ],
-                "error_2": [
-                    "que coexistían → que coexistía",
-                    "tipo: pronombre-relativo"
-                ],
-                "error_3": [
-                    "disciplina que se adscriba → disciplina a la que se adscriba",
-                    "tipo: pronombre-relativo"
-                ]
-            }
+            "errores_cohesion_concordancia": {}
         }
     },
     {
@@ -387,24 +301,16 @@
         "resultado": {
             "errores_cohesion_concordancia": {
                 "error_1": [
-                    "la gente ... usan → la gente ... usa",
+                    "La gente más pobre ... ya que usan el sistema de transporte público → La gente más pobre ... ya que usa el sistema de transporte público",
                     "tipo: sujeto-predicado"
                 ],
                 "error_2": [
-                    "la gente de mayores recursos ... son → la gente de mayores recursos ... es",
+                    "la gente de mayores recursos generalemente son los más aptos → la gente de mayores recursos generalmente es la más apta",
                     "tipo: sujeto-predicado"
                 ],
                 "error_3": [
-                    "los más aptos → las más aptas",
-                    "tipo: sustantivo-adjetivo"
-                ],
-                "error_4": [
-                    "la gente ... trabajan → la gente ... trabaja",
+                    "la gente más pobre usualmente trabajan como mano de obra → la gente más pobre usualmente trabaja como mano de obra",
                     "tipo: sujeto-predicado"
-                ],
-                "error_5": [
-                    "persona ... desesperado → persona ... desesperada",
-                    "tipo: sustantivo-adjetivo"
                 ]
             }
         }

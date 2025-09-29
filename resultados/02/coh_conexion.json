@@ -4,48 +4,32 @@
         "resultado": {
             "errores_cohesion_conexion": {
                 "error_1": [
-                    "para sus propios asociados → entre sus propios asociados",
+                    "se diera a luz la ultima revuelta → se diera a luz a la última revuelta",
                     "tipo: preposición/rección"
                 ],
                 "error_2": [
-                    "Con lo que → Con lo cual",
-                    "tipo: conector-inadecuado"
+                    "en contraste a las claustrofobicas oficinas → en contraste con las claustrofóbicas oficinas",
+                    "tipo: locución-preposicional"
                 ],
                 "error_3": [
-                    "en contraste a → en contraste con",
+                    "limitarse sobre sus capacidades → limitarse a sus capacidades",
                     "tipo: preposición/rección"
                 ],
                 "error_4": [
-                    "asi sea riqueza y pobreza → ya sea riqueza o pobreza",
-                    "tipo: conector-inadecuado"
-                ],
-                "error_5": [
                     "requieres en material de la persona → requieres material de la persona",
                     "tipo: preposición/rección"
                 ],
+                "error_5": [
+                    "para sus propios asociados → entre sus propios asociados",
+                    "tipo: preposición/rección"
+                ],
                 "error_6": [
-                    "por no limitarse sobre sus capacidades → por no limitarse a sus capacidades",
+                    "se debe centrar → se debe centrar en (centrarse en)",
                     "tipo: preposición/rección"
                 ],
                 "error_7": [
-                    "pero clara presion → pero con clara presión",
+                    "el bloqueo de llamada los fines de semanas → el bloqueo de llamadas los fines de semana",
                     "tipo: preposición/rección"
-                ],
-                "error_8": [
-                    "solo acabara malos resultados → solo acabará en malos resultados",
-                    "tipo: preposición/rección"
-                ],
-                "error_9": [
-                    "por eso se debe centrar → por eso debe centrarse / centrarse en",
-                    "tipo: preposición/rección"
-                ],
-                "error_10": [
-                    "..., y el bloqueo de llamada ..., es una buena opcion → ..., y el bloqueo de llamadas ..., son una buena opción",
-                    "tipo: conector-inadecuado"
-                ],
-                "error_11": [
-                    "si no quieres hacer desde casa → si no quieres trabajar desde casa",
-                    "tipo: conector-ausente"
                 ]
             }
         }
@@ -55,28 +39,24 @@
         "resultado": {
             "errores_cohesion_conexion": {
                 "error_1": [
-                    "uno el más preocupantes → uno de los más preocupantes",
+                    "del los niños → de los niños",
                     "tipo: preposición/rección"
                 ],
                 "error_2": [
-                    "del los → de los",
-                    "tipo: preposición/rección"
-                ],
-                "error_3": [
-                    "trabajo la persona desepeñe → trabajo que la persona desempeñe",
+                    "sino que también, las interacciones laborales → sino también en las interacciones laborales",
                     "tipo: conector-ausente"
                 ],
+                "error_3": [
+                    "además, como las autoridades → además de cómo las autoridades",
+                    "tipo: conector-inadecuado"
+                ],
                 "error_4": [
-                    "al cual se verian expuestos → al que se verían expuestos",
-                    "tipo: preposición/rección"
+                    "vacunarse, el cual ha reducido → vacunarse, lo cual ha reducido",
+                    "tipo: conector-inadecuado"
                 ],
                 "error_5": [
-                    "sino que también, las interacciones laborales → sino también las interacciones laborales",
-                    "tipo: conector-inadecuado"
-                ],
-                "error_6": [
-                    "como las autoridades y la sociedad han enfrentado esta situación → cómo las autoridades y la sociedad han enfrentado esta situación",
-                    "tipo: conector-inadecuado"
+                    "incorporar estos nuevos proptocolos de vida en niños y adolescentes → incorporar estos nuevos protocolos de vida a los niños y adolescentes",
+                    "tipo: preposición/rección"
                 ]
             }
         }
@@ -90,27 +70,11 @@
                     "tipo: locución-preposicional"
                 ],
                 "error_2": [
-                    "y el uso de mascarillas → y a usar mascarillas",
-                    "tipo: preposición/rección"
-                ],
-                "error_3": [
-                    "Si bien ... a pesar de → eliminar 'a pesar de' (usar solo uno)",
-                    "tipo: conector-inadecuado"
-                ],
-                "error_4": [
-                    "personas quienes → personas que",
-                    "tipo: conector-inadecuado"
-                ],
-                "error_5": [
-                    ", análisis de comportamiento → , sin embargo, los análisis de comportamiento",
+                    "incentivando a dejar de fumar y el uso de mascarillas → incentivando a dejar de fumar y a usar mascarillas",
                     "tipo: conector-ausente"
                 ],
-                "error_6": [
-                    "si bien ... pero → si bien ... (eliminar 'pero' o 'si bien')",
-                    "tipo: conector-inadecuado"
-                ],
-                "error_7": [
-                    "tanto en el medio ambiente ,como en la salud → tanto en el medio ambiente como en la salud",
+                "error_3": [
+                    "si bien algunos individuos efectivamente continuarán con su actuar, pero la mayoría → si bien algunos individuos efectivamente continuarán con su actuar, la mayoría",
                     "tipo: conector-inadecuado"
                 ]
             }
@@ -121,11 +85,11 @@
         "resultado": {
             "errores_cohesion_conexion": {
                 "error_1": [
-                    "debe ser en manos de → debe estar en manos de / debe corresponder a",
+                    "de las cuales se encuentra viviendo nuestra salud → en las cuales vive nuestra salud",
                     "tipo: preposición/rección"
                 ],
                 "error_2": [
-                    "de las cuales se encuentra viviendo → en las cuales vive",
+                    "dentro de la sociedad → en la sociedad",
                     "tipo: preposición/rección"
                 ],
                 "error_3": [
@@ -133,36 +97,16 @@
                     "tipo: preposición/rección"
                 ],
                 "error_4": [
-                    "como los hace que → como hace que / como cuando",
-                    "tipo: conector-inadecuado"
-                ],
-                "error_5": [
                     "ayuda que se disminuyan → ayuda a que se disminuyan",
                     "tipo: preposición/rección"
                 ],
-                "error_6": [
-                    "son necesarias que las practicas → son necesarias las prácticas",
-                    "tipo: preposición/rección"
-                ],
-                "error_7": [
+                "error_5": [
                     "Esto ayuda que realmente se vean → Esto ayuda a que realmente se vean",
                     "tipo: preposición/rección"
                 ],
-                "error_8": [
-                    "en cualquier parte tendríamos → en cualquier parte, (entonces) tendríamos",
-                    "tipo: conector-ausente"
-                ],
-                "error_9": [
-                    "o un colectivo que cree → o a un colectivo que cree / o que un colectivo cree",
-                    "tipo: preposición/rección"
-                ],
-                "error_10": [
-                    "debe estar en mano de → debe estar en manos de",
-                    "tipo: preposición/rección"
-                ],
-                "error_11": [
-                    "De alguna forma, crear esos verdaderos cambios → (falta conector/verbo principal: p. ej.,) De alguna forma, se crearán/tenemos que crear",
-                    "tipo: conector-ausente"
+                "error_6": [
+                    "como los hace que toda una población deje de ocupar estas → como cuando toda una población deja de usarlas",
+                    "tipo: conector-inadecuado"
                 ]
             }
         }
@@ -170,26 +114,30 @@
     {
         "id_texto": 5,
         "resultado": {
-            "errores_cohesion_conexion": {}
+            "errores_cohesion_conexion": {
+                "error_1": [
+                    "capacidad de otros de poder decir → capacidad de otros para decir",
+                    "tipo: preposición/rección"
+                ],
+                "error_2": [
+                    "juzgar sobre ellos → juzgarlos",
+                    "tipo: preposición/rección"
+                ],
+                "error_3": [
+                    "Con todo, y dado que → Dado que",
+                    "tipo: conector-inadecuado"
+                ],
+                "error_4": [
+                    "sociedad democrática liberal, ella constituye → sociedad democrática liberal; ella constituye",
+                    "tipo: conector-ausente"
+                ]
+            }
         }
     },
     {
         "id_texto": 6,
         "resultado": {
-            "errores_cohesion_conexion": {
-                "error_1": [
-                    "cumpliendo con las demandas laborales → cumpliendo las demandas laborales",
-                    "tipo: preposición/rección"
-                ],
-                "error_2": [
-                    "cuarentenas evitando → cuarentenas y evitando",
-                    "tipo: conector-ausente"
-                ],
-                "error_3": [
-                    "el encierro junto con la sobrecarga laboral → el encierro y la sobrecarga laboral",
-                    "tipo: locución-preposicional"
-                ]
-            }
+            "errores_cohesion_conexion": {}
         }
     },
     {
@@ -197,44 +145,36 @@
         "resultado": {
             "errores_cohesion_conexion": {
                 "error_1": [
-                    "incluídas dentro de → incluidas en",
-                    "tipo: preposición/rección"
+                    "poner gran esfuerzo en querer que → esforzarse por lograr que",
+                    "tipo: conector-inadecuado"
                 ],
                 "error_2": [
-                    "de la población (a los cuales → de la población (a la cual / al que)",
+                    "a los cuales → a quienes",
                     "tipo: preposición/rección"
                 ],
                 "error_3": [
-                    "pérdida cultural, los valores → pérdida cultural de los valores",
-                    "tipo: preposición/rección"
+                    "a pesar de que las políticas educativas norman respecto de la inclusión. → a pesar de que las políticas educativas norman la inclusión, esta inclusión suele...",
+                    "tipo: conector-ausente"
                 ],
                 "error_4": [
-                    "norman respecto de la inclusión → norman la inclusión / norman respecto a la inclusión",
-                    "tipo: preposición/rección"
-                ],
-                "error_5": [
-                    "No obstante, ... a pesar de que → usar solo 'No obstante' o 'A pesar de que'",
-                    "tipo: conector-inadecuado"
-                ],
-                "error_6": [
                     "participar de las actividades → participar en las actividades",
                     "tipo: preposición/rección"
                 ],
-                "error_7": [
-                    "Ya que, → (no iniciar oración independiente con 'Ya que'; usar 'Por ello/Así')",
+                "error_5": [
+                    "Ya que, de esta manera, se podrían adquirir → De esta manera se podrían adquirir",
                     "tipo: conector-inadecuado"
                 ],
-                "error_8": [
-                    "De manera de que → De manera que / Para que",
+                "error_6": [
+                    "De manera de que → De manera que",
                     "tipo: locución-preposicional"
                 ],
-                "error_9": [
-                    "poblaciones por la cual está compuesta → poblaciones por las cuales / de las cuales está compuesta",
+                "error_7": [
+                    "por la cual → por las cuales",
                     "tipo: preposición/rección"
                 ],
-                "error_10": [
-                    "Sino que por el contrario, que el ejercicio → usar 'Sin embargo/En cambio, el ejercicio...' (evitar 'Sino que' sin negación previa)",
-                    "tipo: conector-inadecuado"
+                "error_8": [
+                    "Sino que por el contrario, que el ejercicio → Sino que, por el contrario, el ejercicio",
+                    "tipo: dequeísmo"
                 ]
             }
         }
@@ -244,23 +184,23 @@
         "resultado": {
             "errores_cohesion_conexion": {
                 "error_1": [
-                    "escape para la realidad → escape de la realidad",
+                    "consecuencias que puede tener en la salud mental → consecuencias que puede tener para la salud mental",
                     "tipo: preposición/rección"
                 ],
                 "error_2": [
-                    "Sin dejar que → sin que (integrarlo a la oración anterior o usar 'y sin que')",
+                    "y es un escape → y que es un escape",
                     "tipo: conector-ausente"
                 ],
                 "error_3": [
-                    "Causando que → lo que causa que / provocando que",
-                    "tipo: conector-inadecuado"
+                    "Sin dejar que este nuevo lugar de trabajo se vuelva un ambiente estresante. → sin que este nuevo lugar de trabajo se vuelva un ambiente estresante.",
+                    "tipo: conector-ausente"
                 ],
                 "error_4": [
-                    "por que → porque",
+                    "Causando que estos contacten a los empleados fuera del horario laboral → Lo que causa que estos contacten a los empleados fuera del horario laboral",
                     "tipo: conector-inadecuado"
                 ],
                 "error_5": [
-                    "y es un escape → y servir de escape / y constituir un escape",
+                    "por que → porque",
                     "tipo: conector-inadecuado"
                 ]
             }
@@ -271,19 +211,15 @@
         "resultado": {
             "errores_cohesion_conexion": {
                 "error_1": [
-                    "pone en peligro al hogar → poner en peligro el hogar",
+                    "despreocupación de los temas laborales → despreocupación por los temas laborales",
                     "tipo: preposición/rección"
                 ],
                 "error_2": [
-                    "dejando de forma separada el resto de la casa → dejando el resto de la casa separado",
+                    "sin perjuicios a la salud → sin perjuicios para la salud",
                     "tipo: preposición/rección"
                 ],
                 "error_3": [
-                    "Para el caso que se vive → En el caso que se vive",
-                    "tipo: conector-inadecuado"
-                ],
-                "error_4": [
-                    "sin perjuicios a la salud → sin perjuicio para la salud",
+                    "pensamientos de asuntos laborales → pensamientos sobre asuntos laborales",
                     "tipo: preposición/rección"
                 ]
             }
@@ -298,27 +234,31 @@
                     "tipo: preposición/rección"
                 ],
                 "error_2": [
-                    "por el cual → en que / que",
+                    "por el cual → en el que",
                     "tipo: preposición/rección"
                 ],
                 "error_3": [
-                    "Dando como resultado → lo que ha dado como resultado",
-                    "tipo: conector-inadecuado"
-                ],
-                "error_4": [
                     "muestras que → muestras de que",
                     "tipo: queísmo"
                 ],
+                "error_4": [
+                    "A razón de lo anterior → A raíz de lo anterior",
+                    "tipo: locución-preposicional"
+                ],
                 "error_5": [
-                    "realizando así → para así / de este modo",
-                    "tipo: conector-inadecuado"
+                    "a razón de las clases virtuales → a raíz de las clases virtuales",
+                    "tipo: locución-preposicional"
                 ],
                 "error_6": [
-                    "es por ello, que → es por ello que",
-                    "tipo: conector-inadecuado"
+                    "a razón del contacto → debido al contacto",
+                    "tipo: locución-preposicional"
                 ],
                 "error_7": [
-                    "así también, → así como / también",
+                    "Dando como resultado → lo que da como resultado",
+                    "tipo: conector-ausente"
+                ],
+                "error_8": [
+                    "así también → así como",
                     "tipo: conector-inadecuado"
                 ]
             }
@@ -329,28 +269,12 @@
         "resultado": {
             "errores_cohesion_conexion": {
                 "error_1": [
-                    "promueve, en vez, un cambio → promueve, en cambio, un cambio",
-                    "tipo: locución-preposicional"
+                    "en vez → en cambio",
+                    "tipo: conector-inadecuado"
                 ],
                 "error_2": [
-                    "por sobre las utilidades económicas → por encima de las utilidades económicas",
+                    "sobretodo → sobre todo",
                     "tipo: locución-preposicional"
-                ],
-                "error_3": [
-                    "se preocupa de invitar → se preocupa por invitar",
-                    "tipo: preposición/rección"
-                ],
-                "error_4": [
-                    "no se queda solo ..., no busca → no se queda solo ...; ni busca",
-                    "tipo: conector-ausente"
-                ],
-                "error_5": [
-                    "no se queda ... , no se queda → no se queda ...; ni se queda",
-                    "tipo: conector-ausente"
-                ],
-                "error_6": [
-                    "tiránica  El pontífice → tiránica. El pontífice",
-                    "tipo: conector-ausente"
                 ]
             }
         }
@@ -360,44 +284,28 @@
         "resultado": {
             "errores_cohesion_conexion": {
                 "error_1": [
-                    "la capacidad respiratoria → a la capacidad respiratoria",
-                    "tipo: preposición/rección"
+                    "desarrollo muscular, o el peso correcto → desarrollo muscular y el peso correcto",
+                    "tipo: conector-inadecuado"
                 ],
                 "error_2": [
-                    "desarrollo muscular → al desarrollo muscular",
-                    "tipo: preposición/rección"
+                    "régimen o la incorporación → régimen y la incorporación",
+                    "tipo: conector-inadecuado"
                 ],
                 "error_3": [
-                    "o el peso correcto → o al peso correcto",
+                    "sino en cambios de políticas → sino mediante cambios en las políticas",
                     "tipo: preposición/rección"
                 ],
                 "error_4": [
-                    "o la incorporación de probióticos → y la incorporación de probióticos",
-                    "tipo: conector-inadecuado"
-                ],
-                "error_5": [
-                    "entre ello → entre ellas",
-                    "tipo: locución-preposicional"
-                ],
-                "error_6": [
-                    "a pesar de en efecto ser → a pesar de ser en efecto / a pesar de que en efecto es",
-                    "tipo: preposición/rección"
-                ],
-                "error_7": [
-                    "sino en cambios de políticas → sino con cambios en las políticas",
-                    "tipo: preposición/rección"
-                ],
-                "error_8": [
                     "traspasado hacia la población → traspasado a la población",
                     "tipo: preposición/rección"
                 ],
-                "error_9": [
-                    "en función de otro → en función de otros intereses / en función de otro(s) propósito(s)",
+                "error_5": [
+                    "sobre la mesa → en la agenda",
                     "tipo: locución-preposicional"
                 ],
-                "error_10": [
-                    "llevan a la medicina a postura → llevan a la medicina a una postura",
-                    "tipo: preposición/rección"
+                "error_6": [
+                    "a pesar de en efecto ser algo positivo → a pesar de ser en efecto algo positivo",
+                    "tipo: locución-preposicional"
                 ]
             }
         }
@@ -407,44 +315,36 @@
         "resultado": {
             "errores_cohesion_conexion": {
                 "error_1": [
-                    "con el fin que → con el fin de que",
-                    "tipo: queísmo"
-                ],
-                "error_2": [
-                    "dudas si → dudas sobre si",
+                    "se frente a una pandemia mundial → se encontró ante una pandemia mundial",
                     "tipo: preposición/rección"
                 ],
+                "error_2": [
+                    "con el fin que se modifique → con el fin de que se modifique",
+                    "tipo: queísmo"
+                ],
                 "error_3": [
-                    "por esto → por ello / por eso",
-                    "tipo: conector-inadecuado"
+                    "surgen muchas dudas si es correcto → surgen muchas dudas sobre si es correcto",
+                    "tipo: preposición/rección"
                 ],
                 "error_4": [
-                    "presente el virus asintomático → presente el virus de forma asintomática",
+                    "en el derecho en su derecho a voto → tienen derecho a voto",
                     "tipo: preposición/rección"
                 ],
                 "error_5": [
-                    "participar del plebiscito → participar en el plebiscito",
+                    "presentar el virus asintomático → presentar el virus de forma asintomática",
                     "tipo: preposición/rección"
                 ],
                 "error_6": [
-                    "porque todos el voto → porque el voto de uno",
-                    "tipo: conector-inadecuado"
+                    "participar del plebiscito → participar en el plebiscito",
+                    "tipo: preposición/rección"
                 ],
                 "error_7": [
-                    "en el casos de → en el caso de",
+                    "en el casos de los contagiados → en el caso de los contagiados",
                     "tipo: preposición/rección"
                 ],
                 "error_8": [
-                    "discriminación a su parte → discriminación hacia ellos / hacia su grupo",
+                    "a su parte negandoles su participación → en su contra, negándoles su participación",
                     "tipo: preposición/rección"
-                ],
-                "error_9": [
-                    "en el derecho en su derecho a voto → tener derecho al voto / derecho al voto",
-                    "tipo: preposición/rección"
-                ],
-                "error_10": [
-                    "Ahora bien en conclusión → En conclusión / Ahora bien",
-                    "tipo: conector-inadecuado"
                 ]
             }
         }
@@ -460,28 +360,32 @@
         "resultado": {
             "errores_cohesion_conexion": {
                 "error_1": [
-                    "a consecuencia del estar → a consecuencia de estar",
+                    "generadas debido a la pandemia → generadas por la pandemia",
                     "tipo: preposición/rección"
                 ],
                 "error_2": [
-                    "interactuar el resto → interactuar con el resto",
+                    "a consecuencia del estar \"encerrados\" → como consecuencia de estar \"encerrados\"",
                     "tipo: preposición/rección"
                 ],
                 "error_3": [
-                    "población, lo que busca → población. Lo que busca",
-                    "tipo: conector-ausente"
+                    "interactuar el resto del personal → interactuar con el resto del personal",
+                    "tipo: preposición/rección"
                 ],
                 "error_4": [
-                    "COVID- 19, sin embargo → COVID-19. Sin embargo",
+                    "generando asi que las dinamicas sociales → generando así alteraciones en las dinámicas sociales",
                     "tipo: conector-inadecuado"
                 ],
                 "error_5": [
-                    "generando asi que las dinamicas sociales → generando así las dinámicas sociales",
-                    "tipo: conector-inadecuado"
+                    ", el uso de medicamentos ansioliticos se vio aumentado → , y el uso de medicamentos ansiolíticos ha aumentado",
+                    "tipo: conector-ausente"
                 ],
                 "error_6": [
-                    ", el uso de medicamentos ansioliticos se vio aumentado → y el uso de medicamentos ansioliticos se vio aumentado",
-                    "tipo: conector-ausente"
+                    "Por otro lado el confinamiento → Por otro lado, el confinamiento",
+                    "tipo: conector-inadecuado"
+                ],
+                "error_7": [
+                    "sin embargo con la pandemia → sin embargo, con la pandemia",
+                    "tipo: conector-inadecuado"
                 ]
             }
         }
@@ -491,32 +395,12 @@
         "resultado": {
             "errores_cohesion_conexion": {
                 "error_1": [
-                    "en que estamos → en el que estamos",
+                    "completar satisfactoriamente con los requerimientos educativos → cumplir satisfactoriamente con los requerimientos educativos",
                     "tipo: preposición/rección"
                 ],
                 "error_2": [
-                    "volver a clases → volver a las clases / volver a clase",
-                    "tipo: preposición/rección"
-                ],
-                "error_3": [
-                    "completar ... con los requerimientos → cumplir/satisfacer los requerimientos",
-                    "tipo: preposición/rección"
-                ],
-                "error_4": [
-                    "producido debido a → producido por / se debe a",
+                    "y además de generar igualdad en la accesibilidad a esta última → y además generar igualdad en la accesibilidad a esta última",
                     "tipo: locución-preposicional"
-                ],
-                "error_5": [
-                    "para sus alumnos, resguardar → para sus alumnos y resguardar",
-                    "tipo: conector-ausente"
-                ],
-                "error_6": [
-                    "y además de generar → y generar / además generan",
-                    "tipo: conector-inadecuado"
-                ],
-                "error_7": [
-                    "En el mismo contexto, debido a → (usar solo uno: \"En el mismo contexto\" o \"Debido a\")",
-                    "tipo: conector-inadecuado"
                 ]
             }
         }
@@ -534,10 +418,6 @@
                     "tipo: conector-inadecuado"
                 ],
                 "error_3": [
-                    "es muy importante, para que → es muy importante para que",
-                    "tipo: conector-inadecuado"
-                ],
-                "error_4": [
                     "como al no tenerlo → como si no lo tuviéramos",
                     "tipo: conector-inadecuado"
                 ]
@@ -549,7 +429,7 @@
         "resultado": {
             "errores_cohesion_conexion": {
                 "error_1": [
-                    "desde las consecuencias → en las consecuencias",
+                    "se visibiliza desde las consecuencias → se visibiliza en las consecuencias",
                     "tipo: preposición/rección"
                 ],
                 "error_2": [
@@ -561,23 +441,19 @@
                     "tipo: preposición/rección"
                 ],
                 "error_4": [
-                    "en el acceso de alimentos → en el acceso a alimentos",
+                    "acceso de alimentos → acceso a alimentos",
                     "tipo: preposición/rección"
                 ],
                 "error_5": [
-                    "en esa medida → en ese sentido",
+                    "En ese contexto, es que → En ese contexto se plantea",
                     "tipo: conector-inadecuado"
                 ],
                 "error_6": [
-                    "Duda que no representaría → Esta duda no representaría",
-                    "tipo: conector-ausente"
+                    "sino que también en → sino también en",
+                    "tipo: conector-inadecuado"
                 ],
                 "error_7": [
                     "Es por ello, que → Es por ello que",
-                    "tipo: conector-inadecuado"
-                ],
-                "error_8": [
-                    "como se presentaría → que se presentaría",
                     "tipo: conector-inadecuado"
                 ]
             }
@@ -588,8 +464,8 @@
         "resultado": {
             "errores_cohesion_conexion": {
                 "error_1": [
-                    "que evidenciaron → como evidenciaron",
-                    "tipo: conector-ausente"
+                    "que evidenciaron la mayoria de los paises y estados del mundo → que se evidenciaron en la mayoría de los países y estados del mundo",
+                    "tipo: preposición/rección"
                 ]
             }
         }
@@ -599,52 +475,36 @@
         "resultado": {
             "errores_cohesion_conexion": {
                 "error_1": [
-                    "además de una crisis sanitaria, una que afecta → además de ser una crisis sanitaria, también afecta",
+                    "se ha vuelto además de una crisis sanitaria → se ha vuelto, además de una crisis sanitaria, una crisis",
                     "tipo: locución-preposicional"
                 ],
                 "error_2": [
-                    "descontento de estos sectores → descontento en estos sectores / por parte de estos sectores",
+                    "descontento de estos sectores → descontento en estos sectores",
                     "tipo: preposición/rección"
                 ],
                 "error_3": [
-                    "críticas de expertos en la salud pública → críticas por parte de expertos en salud pública",
+                    "es más riesgosa a nuevos contagios → es más propensa a nuevos contagios",
                     "tipo: preposición/rección"
                 ],
                 "error_4": [
-                    "personas que residen → personas que residen en esos sectores",
+                    "desde las casas → desde sus casas",
                     "tipo: preposición/rección"
                 ],
                 "error_5": [
-                    "más riesgosa a nuevos contagios → más vulnerable/propensa a nuevos contagios",
+                    "más riesgosas de contagios → con mayor riesgo de contagio",
                     "tipo: preposición/rección"
                 ],
                 "error_6": [
-                    "desde las casas → desde sus casas / desde casa",
+                    "necesita del dinero → necesita el dinero",
                     "tipo: preposición/rección"
                 ],
                 "error_7": [
-                    "y que sectores no → y qué sectores no",
-                    "tipo: conector-ausente"
+                    "tanto por impedir el contagio de las personas, pero también pensando en → tanto impidiendo el contagio de las personas como pensando en",
+                    "tipo: conector-inadecuado"
                 ],
                 "error_8": [
                     "reconocer que personas son → reconocer qué personas son",
                     "tipo: conector-ausente"
-                ],
-                "error_9": [
-                    "más riesgosas de contagios → con mayor riesgo de contagio",
-                    "tipo: preposición/rección"
-                ],
-                "error_10": [
-                    "necesita del dinero → necesita el dinero",
-                    "tipo: preposición/rección"
-                ],
-                "error_11": [
-                    "aún que sea → aunque sea",
-                    "tipo: conector-inadecuado"
-                ],
-                "error_12": [
-                    "tanto por impedir ... pero también → tanto en impedir ... como en",
-                    "tipo: conector-inadecuado"
                 ]
             }
         }
