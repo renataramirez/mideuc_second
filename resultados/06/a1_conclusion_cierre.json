@@ -1,0 +1,182 @@
+[
+    {
+        "id_texto": 1,
+        "resultado": {
+            "conclusion_cierre": {
+                "nivel": 4,
+                "justificacion": "El texto culmina con un párrafo final que resume la postura (necesidad de estructurar el trabajo remoto) y propone medidas concretas (cybercafés, bloqueo de llamadas), funcionando como cierre y proyección de la tesis."
+            }
+        }
+    },
+    {
+        "id_texto": 2,
+        "resultado": {
+            "conclusion_cierre": {
+                "nivel": 4,
+                "justificacion": "El texto culmina con un párrafo conclusivo que proyecta la tesis en forma de recomendación práctica a las familias para incentivar protocolos y promover el desarrollo social y del aprendizaje."
+            }
+        }
+    },
+    {
+        "id_texto": 3,
+        "resultado": {
+            "conclusion_cierre": {
+                "nivel": 4,
+                "justificacion": "Hay un párrafo final explícito que comienza con 'Así, podemos concluir' y resume la tesis proyectando que las medidas gubernamentales provocarán cambios positivos en la contaminación y la salud."
+            }
+        }
+    },
+    {
+        "id_texto": 4,
+        "resultado": {
+            "conclusion_cierre": {
+                "nivel": 4,
+                "justificacion": "El texto incluye un cierre explícito que comienza con \"En conclusión\" y retoma la tesis principal (la necesidad de acciones colectivas y políticas públicas) además de matizarla con la importancia de los cambios individuales, por lo que se distingue una conclusión clara."
+            }
+        }
+    },
+    {
+        "id_texto": 5,
+        "resultado": {
+            "conclusion_cierre": {
+                "nivel": 4,
+                "justificacion": "El texto incluye un párrafo final encabezado 'En conclusión' que resume la tesis, formula una recomendación normativa (limites ex post) y proyecta la importancia del tema, constituyendo un cierre claro y concluyente."
+            }
+        }
+    },
+    {
+        "id_texto": 6,
+        "resultado": {
+            "conclusion_cierre": {
+                "nivel": 3,
+                "justificacion": "El texto finaliza con una oración que resume y comenta el efecto negativo del teletrabajo en la salud mental, actuando como cierre a modo de comentario pero sin desarrollar ni proyectar una conclusión más amplia."
+            }
+        }
+    },
+    {
+        "id_texto": 7,
+        "resultado": {
+            "conclusion_cierre": {
+                "nivel": 4,
+                "justificacion": "El texto incluye un párrafo final introducido con 'Para ir finalizando' que resume la postura y proyecta la tesis sobre la función de la educación, por lo que se identifica un cierre claro."
+            }
+        }
+    },
+    {
+        "id_texto": 8,
+        "resultado": {
+            "conclusion_cierre": {
+                "nivel": 4,
+                "justificacion": "El texto presenta un párrafo final introducido con 'Para finalizar' que resume la tesis y proyecta acciones (normas y regulaciones), por lo que hay un cierre que concluye y proyecta la idea central."
+            }
+        }
+    },
+    {
+        "id_texto": 9,
+        "resultado": {
+            "conclusion_cierre": {
+                "nivel": 4,
+                "justificacion": "El texto incluye un párrafo final que comienza con 'En conclusión' y resume la tesis, además de proyectarla mediante una recomendación a los gobiernos, por lo que se distingue un cierre claro que concluye y proyecta la idea principal."
+            }
+        }
+    },
+    {
+        "id_texto": 10,
+        "resultado": {
+            "conclusion_cierre": {
+                "nivel": 4,
+                "justificacion": "El texto presenta un cierre explícito en el último párrafo que reafirma y concluye la tesis (que las clases presenciales son la solución) y resume la posición sostenida a lo largo del texto."
+            }
+        }
+    },
+    {
+        "id_texto": 11,
+        "resultado": {
+            "conclusion_cierre": {
+                "nivel": 4,
+                "justificacion": "El texto presenta un párrafo final que resume la tesis (la propuesta social del Papa Francisco) y proyecta su finalidad y acción —alinear la vida de las personas para lograr un mundo mejor—, funcionando como un cierre concluyente."
+            }
+        }
+    },
+    {
+        "id_texto": 12,
+        "resultado": {
+            "conclusion_cierre": {
+                "nivel": 4,
+                "justificacion": "El texto tiene un cierre claro en los últimos párrafos que retoma y concluye la tesis principal (las prácticas individuales no solucionan problemas estructurales) y ofrece una recomendación final sobre la honestidad y el propósito de la promoción."
+            }
+        }
+    },
+    {
+        "id_texto": 13,
+        "resultado": {
+            "conclusion_cierre": {
+                "nivel": 4,
+                "justificacion": "El texto contiene un párrafo final introducido como \"en conclusión\" que resume la postura (derecho y deber de votar, tensión con personas contagiadas) y proyecta la tesis al valorar la medida gubernamental, por lo que se distingue un cierre claro."
+            }
+        }
+    },
+    {
+        "id_texto": 14,
+        "resultado": {
+            "conclusion_cierre": {
+                "nivel": 1,
+                "justificacion": "El texto termina en una pregunta abierta y no ofrece una síntesis, proyección ni cierre de la idea presentada, por lo que no se identifica una conclusión."
+            }
+        }
+    },
+    {
+        "id_texto": 15,
+        "resultado": {
+            "conclusion_cierre": {
+                "nivel": 2,
+                "justificacion": "No hay un cierre explícito que sintetice o proyecte la tesis; el último párrafo repite y reitera ideas previas, por lo que solo puede inferirse un cierre implícito amalgamado con el resto del texto."
+            }
+        }
+    },
+    {
+        "id_texto": 16,
+        "resultado": {
+            "conclusion_cierre": {
+                "nivel": 4,
+                "justificacion": "El texto incorpora un párrafo final encabezado por 'En conclusión,' que resume la tesis y proyecta sus implicaciones, constituyendo un cierre claro."
+            }
+        }
+    },
+    {
+        "id_texto": 17,
+        "resultado": {
+            "conclusion_cierre": {
+                "nivel": 4,
+                "justificacion": "El texto presenta un párrafo final introducido con 'En conclusión' que resume la tesis y proyecta acciones concretas (llamado al gobierno a fomentar el deporte), por lo que se distingue un cierre que concluye y proyecta la tesis."
+            }
+        }
+    },
+    {
+        "id_texto": 18,
+        "resultado": {
+            "conclusion_cierre": {
+                "nivel": 4,
+                "justificacion": "El texto ofrece un párrafo final que proyecta la tesis y plantea la necesidad de actualizar políticas públicas centradas en la dignidad y la calidad de vida, funcionando como cierre/proyección, aunque la última oración queda incompleta."
+            }
+        }
+    },
+    {
+        "id_texto": 19,
+        "resultado": {
+            "conclusion_cierre": {
+                "nivel": 4,
+                "justificacion": "La oración única funciona como cierre: concluye y proyecta la tesis sobre el impacto de la pandemia en pérdidas humanas y económicas."
+            }
+        }
+    },
+    {
+        "id_texto": 20,
+        "resultado": {
+            "conclusion_cierre": {
+                "nivel": 4,
+                "justificacion": "El texto presenta un párrafo final encabezado 'Para concluir' que resume la tesis y proyecta recomendaciones, por lo que se distingue un cierre claro que concluye la argumentación."
+            }
+        }
+    }
+]

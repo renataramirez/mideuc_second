@@ -1,0 +1,342 @@
+[
+    {
+        "id_texto": 1,
+        "resultado": {
+            "introduccion": {
+                "nivel": 3,
+                "justificacion": "Existe un párrafo inicial que menciona la pandemia y el tema central (salud mental y trabajo), pero la contextualización (quiénes, dónde, cuándo) es imprecisa y la redacción confusa."
+            },
+            "conclusion_cierre": {
+                "nivel": 4,
+                "justificacion": "Hay un cierre claro que plantea una conclusión/recomendación (estructurar y centrar el trabajo remoto) que proyecta la tesis del texto."
+            },
+            "progresion_textual": {
+                "nivel": 3,
+                "justificacion": "Se distinguen párrafos con información principal, pero al menos un párrafo repite ideas ya tratadas (comodidad/flexibilidad impuesta), por lo que no todos aportan información nueva."
+            }
+        }
+    },
+    {
+        "id_texto": 2,
+        "resultado": {
+            "introduccion": {
+                "nivel": 4,
+                "justificacion": "Hay una introducción clara que contextualiza el tema (pandemia, impacto global) y plantea la pregunta sobre el aprendizaje virtual en niños y adolescentes."
+            },
+            "conclusion_cierre": {
+                "nivel": 4,
+                "justificacion": "El texto cierra con una recomendación concreta al núcleo familiar que proyecta la tesis y ofrece una conclusión práctica."
+            },
+            "progresion_textual": {
+                "nivel": 2,
+                "justificacion": "Hay párrafos claramente identificables, pero se producen redundancias en al menos dos párrafos que repiten información sobre la influencia familiar y social en el aprendizaje."
+            }
+        }
+    },
+    {
+        "id_texto": 3,
+        "resultado": {
+            "introduccion": {
+                "nivel": 4,
+                "justificacion": "Hay un párrafo inicial claro que presenta y contextualiza el tema (historia, problema actual de contaminación) y formula la tesis sobre medidas gubernamentales."
+            },
+            "conclusion_cierre": {
+                "nivel": 4,
+                "justificacion": "Existe un cierre explícito que concluye y proyecta la tesis, señalando efectos esperados de las medidas gubernamentales en la reducción de la contaminación y la salud."
+            },
+            "progresion_textual": {
+                "nivel": 4,
+                "justificacion": "Se observan párrafos diferenciados (introducción, dos argumentos, refutación y conclusión), cada uno con una idea principal distinta y sin repeticiones relevantes."
+            }
+        }
+    },
+    {
+        "id_texto": 4,
+        "resultado": {
+            "introduccion": {
+                "nivel": 4,
+                "justificacion": "La primera oración plantea la tesis y contextualiza el tema (salud, grandes ciudades, contaminación), identificándose claramente una introducción."
+            },
+            "conclusion_cierre": {
+                "nivel": 4,
+                "justificacion": "Existe un cierre explícito introducido por 'En conclusión' que retoma la tesis y sintetiza la propuesta (políticas públicas y colectivos)."
+            },
+            "progresion_textual": {
+                "nivel": 3,
+                "justificacion": "Se aprecian secciones diferenciadas (primer punto, segundo punto, contraargumento, conclusión), pero hay repetición de ideas (importancia de políticas/colectivos/acciones individuales) entre párrafos."
+            }
+        }
+    },
+    {
+        "id_texto": 5,
+        "resultado": {
+            "introduccion": {
+                "nivel": 4,
+                "justificacion": "El primer párrafo presenta y contextualiza el tema: las actividades del colectivo Las Tesis, la controversia suscitada y el problema sobre los límites de la libertad de expresión."
+            },
+            "conclusion_cierre": {
+                "nivel": 4,
+                "justificacion": "El texto cierra con un párrafo explícito ('En conclusión') que resume la tesis (preferencia por límites ex post) y proyecta la importancia de la postura para la democracia y el caso referido."
+            },
+            "progresion_textual": {
+                "nivel": 4,
+                "justificacion": "Hay párrafos claramente diferenciados: introducción, tres argumentos distintos (censura, voz disidente, crítica de Popper) y conclusión, sin repeticiones relevantes entre ellos."
+            }
+        }
+    },
+    {
+        "id_texto": 6,
+        "resultado": {
+            "introduccion": {
+                "nivel": 4,
+                "justificacion": "Presenta una introducción clara y contextualizada que identifica la pandemia (covid-19), el alcance ('muchas personas en todo el mundo'), el cambio de estilo de vida y la adopción del teletrabajo como respuesta."
+            },
+            "conclusion_cierre": {
+                "nivel": 4,
+                "justificacion": "Se distingue un cierre que concluye la idea principal al señalar la consecuencia directa: el encierro y la sobrecarga laboral han impactado la salud mental de quienes trabajan desde casa."
+            },
+            "progresion_textual": {
+                "nivel": 4,
+                "justificacion": "Hay párrafos identificables (contextualización en el primero y consecuencia en el segundo), cada uno aporta información distinta y no se repite contenido entre ellos."
+            }
+        }
+    },
+    {
+        "id_texto": 7,
+        "resultado": {
+            "introduccion": {
+                "nivel": 4,
+                "justificacion": "Hay una introducción clara que contextualiza el tema (políticas educativas, currículum actual, 'nuestro país') y enmarca el propósito del ensayo."
+            },
+            "conclusion_cierre": {
+                "nivel": 4,
+                "justificacion": "Se distingue un cierre que concluye y proyecta la tesis sobre cómo debería concebirse la educación (colaboración, comprensión y respeto)."
+            },
+            "progresion_textual": {
+                "nivel": 4,
+                "justificacion": "El texto presenta párrafos claramente identificables y cada uno desarrolla una idea principal distinta (contexto, postura contraria, limitaciones de la inclusión, propuesta de integración, importancia de tradiciones, cierre)."
+            }
+        }
+    },
+    {
+        "id_texto": 8,
+        "resultado": {
+            "introduccion": {
+                "nivel": 4,
+                "justificacion": "Hay una introducción clara que contextualiza el tema (teletrabajo en Chile, pandemia) y presenta la tesis central sobre la amenaza a la integridad psicológica."
+            },
+            "conclusion_cierre": {
+                "nivel": 4,
+                "justificacion": "Existe un cierre identificable que resume la posición, proyecta la tesis y propone medidas (normas y regulaciones)."
+            },
+            "progresion_textual": {
+                "nivel": 3,
+                "justificacion": "Se reconocen párrafos claramente diferenciados con ideas principales distintas, aunque hay repetición de la idea del estrés y su impacto familiar entre al menos un párrafo."
+            }
+        }
+    },
+    {
+        "id_texto": 9,
+        "resultado": {
+            "introduccion": {
+                "nivel": 4,
+                "justificacion": "Hay un párrafo inicial claro que presenta y contextualiza el tema (pandemia, covid-19, teletrabajo y la controversia sobre el hogar)."
+            },
+            "conclusion_cierre": {
+                "nivel": 4,
+                "justificacion": "Existe un cierre explícito iniciado con 'En conclusión' que sintetiza la tesis y propone acciones (campañas gubernamentales)."
+            },
+            "progresion_textual": {
+                "nivel": 4,
+                "justificacion": "El texto está organizado en párrafos reconocibles; cada uno desarrolla una idea distinta (espacio, horarios, ritual de cierre, conclusión)."
+            }
+        }
+    },
+    {
+        "id_texto": 10,
+        "resultado": {
+            "introduccion": {
+                "nivel": 4,
+                "justificacion": "Hay una introducción claramente identificable que presenta y contextualiza el tema (sistema de enseñanza postpandemia, referencia temporal y población chilena)."
+            },
+            "conclusion_cierre": {
+                "nivel": 4,
+                "justificacion": "Existe un cierre nítido que reafirma la tesis y proyecta la solución propuesta (vuelta a clases presenciales)."
+            },
+            "progresion_textual": {
+                "nivel": 4,
+                "justificacion": "El texto está dividido en párrafos reconocibles y cada uno desarrolla una idea principal distinta (introducción, aprendizaje, salud, objeciones, conclusión)."
+            }
+        }
+    },
+    {
+        "id_texto": 11,
+        "resultado": {
+            "introduccion": {
+                "nivel": 4,
+                "justificacion": "El texto inicia claramente presentando y contextualizando el tema (la encíclica Fratelli Tutti, el Papa Francisco, y el contraste entre individualismo y bien común), cumpliendo los elementos de qué, quién y propósito."
+            },
+            "conclusion_cierre": {
+                "nivel": 4,
+                "justificacion": "El último párrafo funciona como cierre que reafirma y proyecta la tesis sobre la propuesta social del pontífice y su intención de alinear la forma de vida para lograr un mundo mejor."
+            },
+            "progresion_textual": {
+                "nivel": 4,
+                "justificacion": "El texto presenta párrafos claramente diferenciados: introducción del tema, desarrollo sobre la solidaridad, tratamiento de la tradición y la propuesta concreta del Papa, cada uno con una idea principal distinta."
+            }
+        }
+    },
+    {
+        "id_texto": 12,
+        "resultado": {
+            "introduccion": {
+                "nivel": 3,
+                "justificacion": "Presenta claramente el tema central (prácticas de autocuidado frente a factores ambientales) pero aporta escasa contextualización sobre quiénes, dónde o cuándo."
+            },
+            "conclusion_cierre": {
+                "nivel": 4,
+                "justificacion": "Hay un cierre explícito que concluye y proyecta la tesis: pide mayor honestidad informativa y priorizar la integridad sobre intereses políticos o económicos."
+            },
+            "progresion_textual": {
+                "nivel": 4,
+                "justificacion": "Se distinguen párrafos claros y cada uno desarrolla una idea distinta (introducción, cuestionamiento, beneficios, impacto institucional, crítica y cierre) sin repeticiones relevantes."
+            }
+        }
+    },
+    {
+        "id_texto": 13,
+        "resultado": {
+            "introduccion": {
+                "nivel": 4,
+                "justificacion": "Hay una introducción identificable que presenta y contextualiza el tema (propagación de COVID-19, origen en China, llegada a Chile y temporalidad)."
+            },
+            "conclusion_cierre": {
+                "nivel": 4,
+                "justificacion": "Existe un cierre explícito ('en conclusión') que resume la postura sobre la participación en el plebiscito y proyecta la tesis del autor."
+            },
+            "progresion_textual": {
+                "nivel": 2,
+                "justificacion": "Se reconocen párrafos distintos, pero hay repetición de información en al menos dos párrafos (riesgo de contagio y dificultades para votar), lo que afecta la progresión."
+            }
+        }
+    },
+    {
+        "id_texto": 14,
+        "resultado": {
+            "introduccion": {
+                "nivel": 4,
+                "justificacion": "El texto presenta y contextualiza el tema: qué (rebaja de la indemnización), quién (Julio Ponce Lerou) y el marco (Caso Soquimich, historia reciente de Chile)."
+            },
+            "conclusion_cierre": {
+                "nivel": 1,
+                "justificacion": "No se identifica un cierre o conclusión; el texto termina en una pregunta sin sintetizar ni proyectar la tesis."
+            },
+            "progresion_textual": {
+                "nivel": 1,
+                "justificacion": "Texto muy breve y de una sola unidad; no hay párrafos claramente diferenciados ni desarrollo con información principal distinta."
+            }
+        }
+    },
+    {
+        "id_texto": 15,
+        "resultado": {
+            "introduccion": {
+                "nivel": 4,
+                "justificacion": "Hay un primer párrafo claramente identificable que presenta y contextualiza el tema (pandemia, confinamiento, lugares afectados y teletrabajo) y sitúa el problema principal."
+            },
+            "conclusion_cierre": {
+                "nivel": 2,
+                "justificacion": "No hay un cierre explícito; se puede inferir una idea final sobre la afectación de la calidad de vida, pero no funciona como una conclusión diferenciada y cerrada."
+            },
+            "progresion_textual": {
+                "nivel": 2,
+                "justificacion": "Se distinguen párrafos con enfoques distintos, pero al menos dos párrafos repiten información central (aumento de la ansiedad y efectos en la salud mental), lo que debilita la progresión."
+            }
+        }
+    },
+    {
+        "id_texto": 16,
+        "resultado": {
+            "introduccion": {
+                "nivel": 4,
+                "justificacion": "Hay una introducción clara que contextualiza el tema (contexto sanitario, medidas y cierre de colegios) y presenta la tesis (no volver a clases presenciales)."
+            },
+            "conclusion_cierre": {
+                "nivel": 4,
+                "justificacion": "Se distingue un cierre explícito encabezado por 'En conclusión' que recapitula y reafirma la tesis y las razones principales."
+            },
+            "progresion_textual": {
+                "nivel": 4,
+                "justificacion": "El texto tiene párrafos identificables y cada uno desarrolla una idea distinta (contexto y tesis; salud/contagio; accesibilidad; objeción y refutación; conclusión)."
+            }
+        }
+    },
+    {
+        "id_texto": 17,
+        "resultado": {
+            "introduccion": {
+                "nivel": 4,
+                "justificacion": "El primer párrafo identifica y contextualiza el tema (contaminación en grandes ciudades, actores como grandes empresas, cuándo: 'En el último tiempo') y plantea la tesis sobre cambiar la educación para fomentar deporte."
+            },
+            "conclusion_cierre": {
+                "nivel": 4,
+                "justificacion": "El último párrafo marcado 'En conclusión' resume la idea central y proyecta una acción concreta (campaña o ley gubernamental), funcionando como cierre y propuesta."
+            },
+            "progresion_textual": {
+                "nivel": 4,
+                "justificacion": "Hay párrafos claramente diferenciados con ideas principales distintas (beneficios del deporte, situación en establecimientos, refutación de objeciones), sin repeticiones significativas entre ellos."
+            }
+        }
+    },
+    {
+        "id_texto": 18,
+        "resultado": {
+            "introduccion": {
+                "nivel": 4,
+                "justificacion": "Existe una introducción clara que presenta y contextualiza el tema (pandemia, diferencias entre países, impactos y mención específica de Chile) y plantea la tesis del ensayo."
+            },
+            "conclusion_cierre": {
+                "nivel": 3,
+                "justificacion": "Se distingue un cierre que proyecta la tesis (desafío para políticas públicas y preocupación por la dignidad), pero funciona más como un comentario final y además el párrafo está incompleto."
+            },
+            "progresion_textual": {
+                "nivel": 3,
+                "justificacion": "Hay párrafos claramente identificables, pero el segundo retoma y repite aspectos ya mencionados (necesidad de políticas y calidad de vida), generando repetición en un párrafo."
+            }
+        }
+    },
+    {
+        "id_texto": 19,
+        "resultado": {
+            "introduccion": {
+                "nivel": 4,
+                "justificacion": "La oración presenta y contextualiza el tema indicando qué (pandemia del COVID-19), cuándo (año 2020) y dónde (la mayoría de países/estados), cumpliendo la función de introducción."
+            },
+            "conclusion_cierre": {
+                "nivel": 3,
+                "justificacion": "El enunciado puede leerse como un comentario de cierre sobre el impacto, pero no ofrece una conclusión desarrollada ni una proyección de tesis clara."
+            },
+            "progresion_textual": {
+                "nivel": 4,
+                "justificacion": "El texto es una única frase que constituye un párrafo con una idea principal clara y sin repetición; no hay solapamiento de información entre párrafos."
+            }
+        }
+    },
+    {
+        "id_texto": 20,
+        "resultado": {
+            "introduccion": {
+                "nivel": 4,
+                "justificacion": "Existe un párrafo inicial claro que presenta y contextualiza el tema (covid-19, impacto global y medidas de cuarentena) indicando qué ocurre y quiénes intervienen."
+            },
+            "conclusion_cierre": {
+                "nivel": 4,
+                "justificacion": "Hay un cierre explícito introducido con 'Para concluir' que resume la postura y proyecta la tesis sobre abordar el covid-19 de manera integral."
+            },
+            "progresion_textual": {
+                "nivel": 3,
+                "justificacion": "Se identifican párrafos con ideas principales distintas, pero hay repetición de contenidos (p. ej. que los sectores más pobres son más afectados y la discusión sobre teletrabajo) entre al menos un párrafo y otro."
+            }
+        }
+    }
+]

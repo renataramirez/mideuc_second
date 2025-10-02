@@ -1,0 +1,182 @@
+[
+    {
+        "id_texto": 1,
+        "resultado": {
+            "progresion_textual": {
+                "nivel": 3,
+                "justificacion": "El texto presenta párrafos claramente identificables (5). Solo un párrafo (el cuarto) repite y resume ideas ya expuestas en párrafos anteriores; los demás contienen información principal distinta."
+            }
+        }
+    },
+    {
+        "id_texto": 2,
+        "resultado": {
+            "progresion_textual": {
+                "nivel": 3,
+                "justificacion": "El texto presenta párrafos claramente identificables (7 en total), pero en al menos un párrafo (el quinto) se repite información ya expuesta en el cuarto sobre la influencia de la dinámica familiar y las relaciones en el aprendizaje."
+            }
+        }
+    },
+    {
+        "id_texto": 3,
+        "resultado": {
+            "progresion_textual": {
+                "nivel": 3,
+                "justificacion": "El texto presenta párrafos claramente diferenciables con información principal en cada uno; sin embargo, el último párrafo repite la idea central ya expuesta en el párrafo anterior (que las medidas gubernamentales inducirán cambios de comportamiento), por lo que hay una repetición en un párrafo."
+            }
+        }
+    },
+    {
+        "id_texto": 4,
+        "resultado": {
+            "progresion_textual": {
+                "nivel": 2,
+                "justificacion": "El texto presenta párrafos claramente identificables (políticas públicas, prácticas colectivas, ampliación sobre consecuencias sanitarias, contraargumento sobre cambios individuales y conclusión). Sin embargo, el tercer párrafo repite y amplía información ya expuesta en el segundo (efectos de tirar basura/condiciones sanitarias) y la conclusión rehace la tesis y los mismos elementos ya presentados, por lo que hay repetición en dos párrafos."
+            }
+        }
+    },
+    {
+        "id_texto": 5,
+        "resultado": {
+            "progresion_textual": {
+                "nivel": 2,
+                "justificacion": "El texto presenta párrafos claramente identificables. No obstante, al menos dos párrafos repiten información ya expuesta: el cuarto retoma la crítica al control ex ante y el riesgo de arbitrariedad ya discutido en el segundo párrafo; además, la conclusión reitera la tesis central sobre la primacía de la libertad de expresión y la preferencia por límites ex post."
+            }
+        }
+    },
+    {
+        "id_texto": 6,
+        "resultado": {
+            "progresion_textual": {
+                "nivel": 4,
+                "justificacion": "Presenta dos párrafos claramente diferenciados; el primero aborda la adaptación al teletrabajo por la pandemia y el segundo describe el impacto en la salud mental por el encierro y la sobrecarga laboral."
+            }
+        }
+    },
+    {
+        "id_texto": 7,
+        "resultado": {
+            "progresion_textual": {
+                "nivel": 4,
+                "justificacion": "El texto tiene párrafos claramente identificables y en cada uno se plantea una idea principal distinta (descripción de las políticas educativas, oposición conservadora, crítica a la implementación de la inclusión, beneficios de una integración efectiva, defensa de tradiciones y propuesta final sobre la función de la educación)."
+            }
+        }
+    },
+    {
+        "id_texto": 8,
+        "resultado": {
+            "progresion_textual": {
+                "nivel": 2,
+                "justificacion": "El texto presenta párrafos claramente identificables, pero dos párrafos repiten información previa: el párrafo 4 retoma la idea de que el teletrabajo genera estrés y afecta el ambiente familiar (ya aludido en el párrafo 2) y el párrafo final repite la tesis sobre la amenaza al bienestar psicológico presentada al inicio."
+            }
+        }
+    },
+    {
+        "id_texto": 9,
+        "resultado": {
+            "progresion_textual": {
+                "nivel": 3,
+                "justificacion": "El texto presenta párrafos claramente identificables; sin embargo, el párrafo final repite la información principal expuesta en párrafos anteriores (resume las estrategias ya mencionadas)."
+            }
+        }
+    },
+    {
+        "id_texto": 10,
+        "resultado": {
+            "progresion_textual": {
+                "nivel": 2,
+                "justificacion": "Presenta párrafos claramente identificables, pero en varios párrafos se repite la idea central de que las clases presenciales son la solución (al menos en los párrafos 2, 4 y 5), por lo que corresponde Nivel 2."
+            }
+        }
+    },
+    {
+        "id_texto": 11,
+        "resultado": {
+            "progresion_textual": {
+                "nivel": 3,
+                "justificacion": "El texto presenta párrafos claramente identificables y cada uno desarrolla un aspecto distinto (tesis general, solidaridad como medio, metodología del Papa, llamado y propósito). Sin embargo, el último párrafo repite en gran medida ideas ya expuestas (condena del individualismo y promoción del bien común/solidaridad), por lo que corresponde el nivel 3."
+            }
+        }
+    },
+    {
+        "id_texto": 12,
+        "resultado": {
+            "progresion_textual": {
+                "nivel": 2,
+                "justificacion": "Presenta párrafos claramente identificables. Sin embargo, en al menos dos párrafos se repite información ya expresada anteriormente: el párrafo 5 retoma la idea del párrafo 1 sobre la insuficiencia de acciones individuales y el párrafo 6 repite la crítica sobre la promoción interesada señalada en el 5."
+            }
+        }
+    },
+    {
+        "id_texto": 13,
+        "resultado": {
+            "progresion_textual": {
+                "nivel": 2,
+                "justificacion": "El texto presenta párrafos claramente identificables, pero en dos párrafos se repite información previa. Los párrafos 4 y 6 reiteran ideas ya expuestas (riesgo de contagio, personas que no votarán o serán excluidas/discriminadas), mientras que los demás párrafos aportan información distinta (cronología y consecuencias, convocatoria y cambio de fecha del plebiscito, dudas sobre realizar la votación, transmisión asintomática)."
+            }
+        }
+    },
+    {
+        "id_texto": 14,
+        "resultado": {
+            "progresion_textual": {
+                "nivel": 4,
+                "justificacion": "El texto consta de un único párrafo claramente identificable que presenta una idea principal (la rebaja de la indemnización y su cuestionamiento), por lo que no hay repetición de información entre párrafos."
+            }
+        }
+    },
+    {
+        "id_texto": 15,
+        "resultado": {
+            "progresion_textual": {
+                "nivel": 4,
+                "justificacion": "El texto presenta cuatro párrafos claramente identificables. Cada párrafo desarrolla una idea principal distinta: 1) confinamiento y teletrabajo como medida y primeros efectos en salud mental; 2) alteración de la dinámica laboral y pérdida de interacción social por el teletrabajo; 3) el confinamiento como factor estresor en espacios reducidos y el aumento de consultas/medicación; 4) impacto en la calidad de vida de la población en edad laboral y agravamiento de la ansiedad por la falta de ocio. Si bien el tema de la salud mental se repite, las ideas principales son diferenciables."
+            }
+        }
+    },
+    {
+        "id_texto": 16,
+        "resultado": {
+            "progresion_textual": {
+                "nivel": 3,
+                "justificacion": "El texto presenta párrafos claramente identificables (introducción, desarrollo en tres párrafos y conclusión). Sin embargo, la conclusión repite información ya expuesta en párrafos anteriores (salud, seguridad y accesibilidad), por lo que hay al menos un párrafo con contenido redundante."
+            }
+        }
+    },
+    {
+        "id_texto": 17,
+        "resultado": {
+            "progresion_textual": {
+                "nivel": 2,
+                "justificacion": "Los párrafos están claramente identificables. Sin embargo, al menos dos párrafos repiten información ya presentada: el párrafo 3 retoma la idea del párrafo 1 sobre cambiar la educación para fomentar el deporte, y el párrafo final repite las mismas conclusiones sobre la contaminación y la necesidad de incentivar la actividad física."
+            }
+        }
+    },
+    {
+        "id_texto": 18,
+        "resultado": {
+            "progresion_textual": {
+                "nivel": 3,
+                "justificacion": "El texto tiene dos párrafos claramente identificables; el segundo retoma y repite parte de la idea central del primero (la necesidad de políticas públicas frente a consecuencias y desigualdades), aunque añade nuevos matices sobre la sociabilidad y la virtualidad, por lo que corresponde Nivel 3."
+            }
+        }
+    },
+    {
+        "id_texto": 19,
+        "resultado": {
+            "progresion_textual": {
+                "nivel": 1,
+                "justificacion": "El texto consiste en una única oración sin saltos de párrafo, por lo que no hay párrafos claramente identificables ni información principal distinta por párrafo."
+            }
+        }
+    },
+    {
+        "id_texto": 20,
+        "resultado": {
+            "progresion_textual": {
+                "nivel": 4,
+                "justificacion": "El texto presenta párrafos claramente identificables y cada uno desarrolla una idea principal distinta (introducción, impactos económicos/psicológicos, segunda ola y efectos en los más pobres, criterio de cuarentena y riesgo, teletrabajo y responsabilidad gubernamental, salud mental y priorización, y conclusión)."
+            }
+        }
+    }
+]

@@ -1,0 +1,182 @@
+[
+    {
+        "id_texto": 1,
+        "resultado": {
+            "introduccion": {
+                "nivel": 4,
+                "justificacion": "El primer párrafo presenta claramente el tema (salud mental y realidad del trabajo) y lo contextualiza temporalmente ('nuestra actual pandemia'), añade antecedentes históricos y plantea la pregunta central que guía el texto."
+            }
+        }
+    },
+    {
+        "id_texto": 2,
+        "resultado": {
+            "introduccion": {
+                "nivel": 4,
+                "justificacion": "El primer párrafo actúa claramente como introducción: presenta y contextualiza el tema (la pandemia de COVID-19, su impacto global) y señala el foco poblacional (niños y adolescentes), además de plantear la pregunta central sobre el aprendizaje virtual."
+            }
+        }
+    },
+    {
+        "id_texto": 3,
+        "resultado": {
+            "introduccion": {
+                "nivel": 4,
+                "justificacion": "La primera sección funciona como introducción: presenta el tema (contaminación ambiental), lo contextualiza históricamente y en la actualidad y expone la tesis central (que el gobierno debe implementar medidas)."
+            }
+        }
+    },
+    {
+        "id_texto": 4,
+        "resultado": {
+            "introduccion": {
+                "nivel": 4,
+                "justificacion": "El texto abre con una oración que presenta y contextualiza el tema: la salud en las grandes ciudades y la necesidad de acciones colectivas (políticas públicas y colectivos), señalando actores y ámbito; cumple los criterios de una introducción clara."
+            }
+        }
+    },
+    {
+        "id_texto": 5,
+        "resultado": {
+            "introduccion": {
+                "nivel": 4,
+                "justificacion": "Existe un párrafo inicial claramente identificable que presenta y contextualiza el tema: qué ocurre (controversia por las actividades), quiénes (el colectivo Las Tesis y menciones a instituciones como Carabineros) y los problemas de fondo (límites de la libertad de expresión), estableciendo el marco del texto."
+            }
+        }
+    },
+    {
+        "id_texto": 6,
+        "resultado": {
+            "introduccion": {
+                "nivel": 4,
+                "justificacion": "Presenta y contextualiza claramente el tema: la pandemia de COVID-19, el impacto en personas en todo el mundo y la introducción del teletrabajo como respuesta al contexto actual."
+            }
+        }
+    },
+    {
+        "id_texto": 7,
+        "resultado": {
+            "introduccion": {
+                "nivel": 4,
+                "justificacion": "El texto comienza con un párrafo que presenta y contextualiza el tema: las políticas educativas y el currículo en 'nuestro país', menciona actores relevantes (instituciones educativas, comunidades inmigrantes) y el contexto actual, cumpliendo los criterios de una introducción clara."
+            }
+        }
+    },
+    {
+        "id_texto": 8,
+        "resultado": {
+            "introduccion": {
+                "nivel": 4,
+                "justificacion": "El primer párrafo funciona claramente como introducción: presenta el tema (teletrabajo), el contexto (situación actual en Chile y la pandemia) y expone la tesis del ensayo sobre la amenaza a la salud mental."
+            }
+        }
+    },
+    {
+        "id_texto": 9,
+        "resultado": {
+            "introduccion": {
+                "nivel": 4,
+                "justificacion": "El texto inicia con una introducción clara que contextualiza el tema (pandemia por COVID-19), presenta el foco (salud mental y teletrabajo), menciona a las personas afectadas y plantea la controversia y la tesis central."
+            }
+        }
+    },
+    {
+        "id_texto": 10,
+        "resultado": {
+            "introduccion": {
+                "nivel": 4,
+                "justificacion": "El primer párrafo funciona claramente como introducción: presenta el tema (sistema de enseñanza post-pandemia), contextualiza temporalmente y geográficamente (a raíz de la pandemia, población chilena) y plantea la tesis central."
+            }
+        }
+    },
+    {
+        "id_texto": 11,
+        "resultado": {
+            "introduccion": {
+                "nivel": 4,
+                "justificacion": "El primer párrafo funciona como introducción: presenta la encíclica Fratelli Tutti y al Papa Francisco, expone el tema central (reclamos de justicia social, condena del individualismo) y lo contextualiza respecto a su actualidad y propósito."
+            }
+        }
+    },
+    {
+        "id_texto": 12,
+        "resultado": {
+            "introduccion": {
+                "nivel": 4,
+                "justificacion": "Los primeros párrafos identifican claramente el tema (prácticas de autocuidado frente a factores ambientales), plantean el problema central (las acciones individuales son insuficientes) y lo contextualizan con referencias a medios e investigaciones, por lo que cumple la función de introducción."
+            }
+        }
+    },
+    {
+        "id_texto": 13,
+        "resultado": {
+            "introduccion": {
+                "nivel": 4,
+                "justificacion": "El primer párrafo funciona claramente como introducción: presenta el tema (COVID-19), su origen y llegada a Chile, y contextualiza temporal y geográficamente la situación además de mencionar consecuencias inmediatas."
+            }
+        }
+    },
+    {
+        "id_texto": 14,
+        "resultado": {
+            "introduccion": {
+                "nivel": 4,
+                "justificacion": "Presenta claramente el tema (rebaja de la indemnización), identifica al implicado (Julio Ponce Lerou) y lo sitúa en el contexto de irregularidades en la historia reciente de Chile, además plantea una cuestión sobre la legitimidad de la medida."
+            }
+        }
+    },
+    {
+        "id_texto": 15,
+        "resultado": {
+            "introduccion": {
+                "nivel": 4,
+                "justificacion": "El primer párrafo funciona claramente como introducción: presenta y contextualiza el tema (confinamiento por la pandemia), indica qué ocurre y por qué, menciona ámbitos afectados (oficinas, escuelas, transporte) y alude a consecuencias generales."
+            }
+        }
+    },
+    {
+        "id_texto": 16,
+        "resultado": {
+            "introduccion": {
+                "nivel": 4,
+                "justificacion": "El texto inicia con una sección clara que presenta y contextualiza el tema (contexto sanitario actual, medidas del gobierno, cierre de colegios), identifica actores (gobierno, colegios, estudiantes) y plantea la tesis principal (los colegios no deben volver a clases presenciales)."
+            }
+        }
+    },
+    {
+        "id_texto": 17,
+        "resultado": {
+            "introduccion": {
+                "nivel": 4,
+                "justificacion": "El primer párrafo funciona claramente como introducción: presenta el tema (contaminación del aire), aporta contexto temporal y espacial ('en el último tiempo', 'las grandes ciudades'), menciona actores ('las grandes empresas') y plantea la tesis (fomentar la actividad física desde la educación escolar)."
+            }
+        }
+    },
+    {
+        "id_texto": 18,
+        "resultado": {
+            "introduccion": {
+                "nivel": 4,
+                "justificacion": "El primer párrafo funciona como introducción: presenta el tema (la pandemia de COVID-19), contextualiza su alcance global y las diferencias entre países, menciona el caso de Chile y expone claramente la tesis y el propósito del ensayo sobre la necesidad de políticas públicas."
+            }
+        }
+    },
+    {
+        "id_texto": 19,
+        "resultado": {
+            "introduccion": {
+                "nivel": 4,
+                "justificacion": "Frase inicial que presenta y contextualiza el tema: qué (pandemia), cuándo (2020) y alcance geográfico (la mayoría de los países), además de las consecuencias."
+            }
+        }
+    },
+    {
+        "id_texto": 20,
+        "resultado": {
+            "introduccion": {
+                "nivel": 4,
+                "justificacion": "El primer párrafo funciona como introducción: presenta el tema (COVID-19), su alcance y contexto temporal ('actualmente', 'con el pasar de los meses') y menciona actores relevantes (organizaciones sanitarias)."
+            }
+        }
+    }
+]
