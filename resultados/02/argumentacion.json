@@ -1,0 +1,342 @@
+[
+    {
+        "id_texto": 1,
+        "resultado": {
+            "argumentos_solidos": [
+                "La escasa regulación del trabajo remoto facilita la explotación laboral y la violación de derechos, porque sin normas claras se pueden vulnerar la seguridad y el tiempo de los trabajadores.",
+                "La modalidad remota dificulta la supervisión (es un 'campo abierto') y eso hace sencillo desentenderse del maltrato o presionar al trabajador para que entregue más tiempo y esfuerzo.",
+                "El trabajo remoto puede alterar ciclos de sueño, rutinas recreativas y tiempo en familia, dañando la salud mental y física y, por ende, la eficiencia y vitalidad del trabajador."
+            ],
+            "argumentos_debiles": [
+                "La comodidad y la flexibilidad del trabajo remoto son 'mentiras' impuestas (primero por el virus, ahora por los empleadores), una generalización sin datos que presenta la realidad como uniformemente impuesta.",
+                "«Un trabajador contento es un buen trabajador», enunciado apelativo y generalizador que funciona más como lema que como evidencia argumental.",
+                "Afirmación histórica genérica sobre que 'poco más de cien años han pasado desde la última revuelta que cambiara ese status quo', que no se relaciona directamente con pruebas concretas para sustentar la tesis."
+            ],
+            "argumentos_afectivo_persuasivos": [],
+            "nivel_logro_argumentacion": 3,
+            "justificación": "El texto presenta al menos tres argumentos de carácter causal y lógico (sobre regulación/explotación, dificultad de supervisión y perjuicios para la salud y la eficiencia) que se relacionan con la tesis; las observaciones emotivas se integran en razonamientos y no se clasifican aquí como afectivo-persuasivas, por lo que corresponde el nivel máximo."
+        }
+    },
+    {
+        "id_texto": 2,
+        "resultado": {
+            "argumentos_solidos": [
+                "Cada una de las cuatro áreas de aprendizaje no puede desarrollarse sin la interacción de las demás (argumento causal sobre la interdependencia de aprendizajes).",
+                "Los niños que no desarrollan alguna de estas habilidades son un 80% más propensos a tener problemas en sus capacidades de aprendizaje, llegando hasta un 95% cuando se ven afectas 2 o más de estas (afirmación con cifras).",
+                "Las medidas sanitarias como uso de mascarillas, alcohol gel, protocolos de sanitización y vacunarse han reducido casi en 75% las complicaciones del Covid-19 (afirmación con cifra sobre eficacia de la vacunación)."
+            ],
+            "argumentos_debiles": [
+                "En la actualidad, se cree que el área más afectada es a nivel social con pares del niño (generalización vaga: 'se cree').",
+                "Según un estudio realizado en Chile el año 2010 por la Pontificia Universidad Católica de Chile, 'Impactos en el aprendizaje', lo que mayormente afecta el aprendizaje del niño es la dinámica familiar (argumento de autoridad).",
+                "Según los dichos del profesor Sebastian Torres, académico de la PUC, esto 'limita el desarrollo... también las interacciones laborales...' (cita de autoridad/experto)."
+            ],
+            "argumentos_afectivo_persuasivos": [],
+            "nivel_logro_argumentacion": 3,
+            "justificación": "El texto presenta al menos tres argumentos con carácter causal o numérico (interdependencia de aprendizajes; porcentajes 80%/95%; reducción del 75% por vacunación), y no incluye argumentos de tipo afectivo-persuasivo; hay además argumentos de autoridad y generalizaciones que se clasifican como débiles."
+        }
+    },
+    {
+        "id_texto": 3,
+        "resultado": {
+            "argumentos_solidos": [
+                "La acción individual (por ejemplo elegir el bus en vez del auto) puede influir en otros y, acumulada, causar un gran impacto en la reducción de la contaminación; por eso el gobierno debería disminuir la tarifa del bus para incentivarlo.",
+                "Existen estudios que demuestran que los habitantes de grandes ciudades inhalan tanta contaminación como alguien que fuma 4 cigarrillos al día, lo que conlleva repercusiones para la salud; por ello el gobierno podría promover campañas para reducir el tabaquismo urbano y fomentar medidas como el uso de mascarillas para filtrar el aire.",
+                "Análisis del comportamiento indican que, aunque algunos individuos no cambiarán, la mayoría, al recibir incentivos, modificará su conducta y ayudará a mitigar los efectos de la contaminación."
+            ],
+            "argumentos_debiles": [
+                "La afirmación general de que la actividad física ha sido pilar fundamental en la supervivencia humana frente a cualquier dificultad (generalización sin evidencia en el texto).",
+                "La afirmación de que la contaminación es producida en su mayoría por nosotros mismos (afirmación general sin datos específicos en el texto)."
+            ],
+            "argumentos_afectivo_persuasivos": [],
+            "nivel_logro_argumentacion": 3,
+            "justificación": "Se identificaron al menos tres argumentos sólidos de carácter causal/empírico directamente relacionados con la tesis (incentivos al transporte público, estudios sobre exposición equivalente a fumar y evidencia conductual sobre incentivos). No aparecen argumentos afectivo‑persuasivos; las únicas debilidades son generalizaciones iniciales que carecen de respaldo en el texto."
+        }
+    },
+    {
+        "id_texto": 4,
+        "resultado": {
+            "argumentos_solidos": [
+                "Las políticas públicas son necesarias para generar grandes cambios sociales que mejoren la salud urbana; como ejemplo se menciona la eliminación de bolsas plásticas en el comercio que, según el texto, contribuye a disminuir gases de efecto invernadero y mejora la salud y el medio ambiente.",
+                "Las prácticas colectivas y la creación de una cultura social (por ejemplo, el hábito en Chile de tirar la basura en basureros) generan cambios profundos que permiten una vida digna y mejor salud; en contraste, prácticas generalizadas de arrojar basura (como se ejemplifica con India) empeoran la salud pública.",
+                "Los cambios individuales pueden provocar efecto demostración y contagio social: cuando varias personas adoptan prácticas saludables, esto puede incentivar a más personas y facilitar la creación de políticas públicas o colectivos que institucionalicen el cambio («las acciones arrastran»)."
+            ],
+            "argumentos_debiles": [
+                "La afirmación de que una sola persona que deje de usar bolsas no puede hacer cambios necesarios, en contraposición a toda una población, se presenta como una generalización sin evidencia concreta.",
+                "El ejemplo hipotético de que si Chile tuviera la cultura de tirar basura como en India tendríamos una salud bastante más precaria carece de datos o cifras que sustenten la magnitud del efecto (es una proyección generalizada)."
+            ],
+            "argumentos_afectivo_persuasivos": [],
+            "nivel_logro_argumentacion": 3,
+            "justificación": "Se identificaron al menos tres argumentos de carácter causal/inductivo bien relacionados con la tesis (importancia de políticas públicas, importancia del colectivo/cultura social, y el efecto de contagio de acciones individuales) y no hay argumentos basados en apelaciones emotivas; por tanto corresponde el nivel máximo (3 puntos)."
+        }
+    },
+    {
+        "id_texto": 5,
+        "resultado": {
+            "argumentos_solidos": [
+                "Imponer límites a la libertad de expresión puede constituir censura, pues implica que alguien determine previamente lo socialmente aceptable, lo que otorga demasiado poder y genera un alto riesgo de arbitrariedad y abuso en una democracia.",
+                "La garantía de la libertad de expresión permite la existencia de voces disidentes y la pluralidad de miradas; si se permitiera limitarla, ciertos grupos podrían ser excluidos de la comunidad, lo que hace preferible defender la libertad antes que acotarla.",
+                "Es mejor permitir que quienes aboguen por limitar la libertad de expresión lo hagan públicamente (ex post), porque así el juicio social puede valorar y reprobar, mientras que el control previo por una autoridad impediría ese escrutinio y facilitaría la imposición arbitraria de límites."
+            ],
+            "argumentos_debiles": [],
+            "argumentos_afectivo_persuasivos": [],
+            "nivel_logro_argumentacion": 3,
+            "justificación": "Se identifican tres argumentos bien fundamentados y de carácter causal/normativo directamente vinculados con la tesis (riesgo de censura y arbitrariedad; protección de voces disidentes; preferencia por límites ex post), y no aparecen apelaciones emocionales ni recursos poco fundados."
+        }
+    },
+    {
+        "id_texto": 6,
+        "resultado": {
+            "argumentos_solidos": [
+                "Debido a la pandemia provocada por el covid-19, son muchas las personas en todo el mundo que se han tenido que adecuar a este nuevo escenario, cambiando completamente su estilo de vida.",
+                "Se introdujo el teletrabajo como un mecanismo para poder seguir cumpliendo con las demandas laborales y al mismo tiempo respetar las debidas cuarentenas evitando la propagación del virus."
+            ],
+            "argumentos_debiles": [
+                "El encierro junto con la sobrecarga laboral han generado un alto impacto en la salud mental de las personas que trabajan desde sus casas."
+            ],
+            "argumentos_afectivo_persuasivos": [],
+            "nivel_logro_argumentacion": 2,
+            "justificación": "El texto presenta dos enunciados de carácter factual/causal que funcionan como argumentos sólidos (pandemia → adaptación y adopción del teletrabajo). La afirmación sobre el alto impacto en la salud mental es una generalización no fundamentada en datos ni evidencia en el texto, por lo que se considera un argumento débil. No hay apelaciones emotivas."
+        }
+    },
+    {
+        "id_texto": 7,
+        "resultado": {
+            "argumentos_solidos": [
+                "El currículum actual pone gran esfuerzo en querer que las instituciones educativas sean espacios de gran diversidad cultural y sean espacios seguros y respetuosos con las poblaciones incluidas.",
+                "Aunque las políticas norman la inclusión de comunidades inmigrantes en la planificación, esa inclusión suele ser una invitación a participar y no una integración real de las diversidades culturales.",
+                "Una integración efectiva permitiría adquirir nuevas costumbres y construir relaciones interpersonales más nutritivas con las comunidades que nos rodean.",
+                "Es fundamental, sobre todo en los primeros años, otorgar importancia a los valores, costumbres y tradiciones para que las nuevas generaciones entiendan sus orígenes.",
+                "Realizar el mismo ejercicio con las comunidades inmigrantes permite utilizar la instancia para ver similitudes y diferencias entre las poblaciones que componen la comunidad educativa."
+            ],
+            "argumentos_debiles": [
+                "Hay un gran porcentaje de la población que opina que el mestizaje cultural en las comunidades educativas repercutirá en un desconocimiento y pérdida cultural, de los valores y tradiciones del país (generalización sin datos).",
+                "Asociar a quienes se oponen con pensamientos conservadores y extremadamente nacionalistas, 'al límite de considerarles fascistas' (caracterización ad hominem y valorativa)."
+            ],
+            "argumentos_afectivo_persuasivos": [
+                "Es importante dejar de concebir la educación como una herramienta para perpetuar la competencia, individualidad y soberbia, y que el ejercicio de educar sea a través de la colaboración, comprensión y respeto por sobre todos los seres humanos y todas las cosas (apela a valores y emotividad)."
+            ],
+            "nivel_logro_argumentacion": 0,
+            "justificación": "Aunque el texto ofrece varios argumentos lógicos relacionados con la tesis (referencia a la política curricular, crítica a la inclusión superficial, beneficios de la integración, y la importancia de conservar tradiciones), contiene al menos un argumento afectivo-persuasivo —la apelación normativa y emocional a que la educación sea vía 'colaboración, comprensión y respeto'— que se relaciona con la tesis; según las definiciones dadas, la presencia de un argumento afectivo-persuasivo implica nivel 0."
+        }
+    },
+    {
+        "id_texto": 8,
+        "resultado": {
+            "argumentos_solidos": [
+                "El hogar es un espacio clave para el descanso y la salud mental; si el teletrabajo convierte el hogar en lugar de trabajo, puede volverlo estresante y afectar la salud psicológica.",
+                "El teletrabajo difumina las fronteras horarias: empleadores contactan a empleados fuera del horario laboral y la incapacidad del trabajador para negar esas solicitudes puede generar problemas interpersonales y estrés.",
+                "El estrés laboral derivado del teletrabajo puede manifestarse en actitudes desagradables y malos tratos hacia la pareja e hijos, deteriorando el ambiente familiar y la integridad psicológica."
+            ],
+            "argumentos_debiles": [
+                "Como modalidad nueva, no se han determinado las consecuencias en la salud mental (apelación a la incertidumbre sin datos que prueben la amenaza).",
+                "A la vista de los empleadores, el teletrabajo es menos exigente laboralmente (generalización sobre la actitud de los empleadores sin evidencia).",
+                "El trabajador no tiene la confianza para decirle a su jefe que no se encuentra en horario laboral (afirmación generalizada sobre la conducta de todos los trabajadores sin respaldo empírico)."
+            ],
+            "argumentos_afectivo_persuasivos": [],
+            "nivel_logro_argumentacion": 3,
+            "justificación": "Se identificaron tres argumentos causales y lógicamente relacionados con la tesis (hogar convertido en espacio estresante; difuminación de horarios e impacto interpersonal; estrés que provoca malos tratos familiares). No aparecen apelaciones emotivas infundadas; hay además varias afirmaciones generalizadas clasificadas como débiles, pero no afectivo-persuasivas, por lo que corresponde el nivel máximo (3)."
+        }
+    },
+    {
+        "id_texto": 9,
+        "resultado": {
+            "argumentos_solidos": [
+                "Crear un espacio definido en el hogar para realizar el trabajo permite asociar solo ese lugar a las tareas diarias, separando el resto de la casa y disminuyendo la sensación de cansancio al poder usar otras áreas como descanso.",
+                "Cumplir con los horarios de oficina y no quedarse más allá de lo necesario en el espacio designado evita la extensión del tiempo laboral y así disminuye la ansiedad al eliminar la sensación de trabajo permanente.",
+                "Tener un ritual de cierre y realizar actividades luego de trabajar (deporte, cocinar u otro hobby) ayuda a evitar continuar pensando en asuntos laborales y por tanto protege la salud mental."
+            ],
+            "argumentos_debiles": [
+                "Los gobiernos deberían promover campañas que enseñaran estas estrategias para mantener la sanidad mental mientras dure el trabajo desde el hogar (recomendación normativa sin evidencia presentada)."
+            ],
+            "argumentos_afectivo_persuasivos": [],
+            "nivel_logro_argumentacion": 3,
+            "justificación": "Se identificaron tres argumentos causales/explicativos relacionados lógicamente con la tesis (espacio definido, respeto de horarios y ritual de cierre) y no aparecen apelaciones emotivas ni afectivo-persuasivas; la recomendación gubernamental se considera un argumento débil por carecer de evidencia en el texto."
+        }
+    },
+    {
+        "id_texto": 10,
+        "resultado": {
+            "argumentos_solidos": [
+                "Según el Ministerio de Educación, aproximadamente un 60% de los estudiantes de enseñanza media no cumplen con el aprendizaje según malla curricular, por lo que volver a clases presenciales corregiría las alteraciones en el aprendizaje.",
+                "Diversos estudios de salud indican un déficit en la nutrición y en la salud mental de los estudiantes a causa de las clases virtuales, lo que sugiere que la salud de los estudiantes está en riesgo y requiere retorno a la presencialidad.",
+                "Las estadísticas muestran un nivel de contagio casi despreciable en torno a las clases presenciales y el Covid-19 afecta en menor medida a los menores, por lo tanto el riesgo sanitario sería bajo para justificar la integración de clases presenciales."
+            ],
+            "argumentos_debiles": [
+                "Las clases presenciales son el desafío planteado por el Ministerio de Educación, quienes han impulsado dicho sistema (argumento de autoridad).",
+                "La casa no es un lugar adecuado para enfrentar los desafíos educacionales (generalización sin evidencia detallada)."
+            ],
+            "argumentos_afectivo_persuasivos": [],
+            "nivel_logro_argumentacion": 3,
+            "justificación": "Se identifican al menos tres argumentos sólidos: un dato estadístico oficial sobre déficit de aprendizaje, estudios de salud que señalan problemas nutricionales y de salud mental por la educación virtual, y estadísticas que minimizan el contagio en aulas junto con menor afectación del Covid-19 en menores. No se detectaron argumentos afectivo-persuasivos; hay además dos argumentos débiles (autoridad y generalización) pero no impiden alcanzar el nivel máximo."
+        }
+    },
+    {
+        "id_texto": 11,
+        "resultado": {
+            "argumentos_solidos": [
+                "La solidaridad cristiana es crucial para crear el cambio social y no se limita a los cristianos, pues, basada en valores de amor al prójimo y justicia, puede y debe ser practicada por todos para vivir en una sociedad buena y justa.",
+                "Quien practica la solidaridad dirige sus esfuerzos hacia un cambio estructural en la sociedad que garantice la justicia y la caridad, lo que posibilita el bienestar integral de las personas.",
+                "El amor al prójimo obliga a dar incluso más de lo que estrictamente corresponde para asegurar el bienestar integral y una vida digna, lo que justifica la superación del individualismo explotador.",
+                "El Papa elabora y reelabora la tradición filosófica política cristiana, usando el mensaje de Cristo para crear, promover y practicar una propuesta social actual orientada al bien común."
+            ],
+            "argumentos_debiles": [
+                "Todos los pontífices trabajan para hacer del mundo un lugar mejor para todos y más cristiano (generalización sin prueba concreta).",
+                "El Papa Francisco se ha caracterizado por su trabajo para lograrlo (apelan a la autoridad y valoración personal sin evidencia concreta en el texto).",
+                "La descripción de la propuesta como \"revolucionaria\" y la afirmación de que se encarga de incentivar y promoverla son valoraciones con carga retórica más que argumentos probatorios."
+            ],
+            "argumentos_afectivo_persuasivos": [],
+            "nivel_logro_argumentacion": 3,
+            "justificación": "Se identificaron al menos tres argumentos sólidos (causales y normativos fundados en la lógica del texto) que respaldan la tesis y no hay argumentos claramente afectivo‑persuasivos; por tanto corresponde el nivel máximo."
+        }
+    },
+    {
+        "id_texto": 12,
+        "resultado": {
+            "argumentos_solidos": [
+                "Se ha demostrado la incidencia positiva de las prácticas de autocuidado y hábitos saludables frente a factores ambientales perjudiciales para la salud.",
+                "Las acciones individuales son sólo una salida rápida que no erradican el problema (no abordan las causas estructurales).",
+                "La actividad física regular y una alimentación balanceada producen beneficios fisiológicos concretos (regulación hormonal, capacidad respiratoria, fortalecimiento del sistema inmune, desarrollo muscular, control de peso).",
+                "La actividad física no solucionará los problemas respiratorios de la población, ni los sellos eliminarán la obesidad; por tanto, los problemas a escala poblacional requieren cambios de políticas y legislación."
+            ],
+            "argumentos_debiles": [
+                "La masificación de esta información es promovida por instituciones y marcas como manera de desviar la atención y ofrecer soluciones parche (atribución de motivos sin evidencia).",
+                "La información debiese ser más honesta y no guiada por intereses políticos o económicos (afirmación normativa y de conflicto de intereses sin prueba detallada).",
+                "La promoción de las prácticas de autocuidado debería estar en función de la integridad personal y no en función de otro (apelo valorativo sin fundamentación empírica)."
+            ],
+            "argumentos_afectivo_persuasivos": [],
+            "nivel_logro_argumentacion": 3,
+            "justificación": "El texto plantea al menos tres argumentos sólidos (evidencia de efectos positivos de autocuidado, razonamiento causal sobre la insuficiencia de acciones individuales frente a causas estructurales, y ejemplos concretos que muestran la limitación de medidas individuales), y no incluye argumentos afectivo‑persuasivos. Existen además argumentos de carácter débil que atribuyen motivos a instituciones y hacen apelaciones normativas sin pruebas, pero eso no impide alcanzar el nivel 3."
+        }
+    },
+    {
+        "id_texto": 13,
+        "resultado": {
+            "argumentos_solidos": [
+                "La pandemia y la existencia de muchos casos y personas internadas pueden impedir que muchas personas ejerzan su derecho a voto.",
+                "Realizar las votaciones implica la reunión de muchas personas en espacios cerrados, lo que aumenta el riesgo de contagio por la alta contagiosidad del virus.",
+                "Personas vulnerables (adultos mayores o con enfermedades respiratorias) pueden no querer o no poder votar por el riesgo que implica salir a sufragar.",
+                "Muchas personas ya contagiadas no podrán realizar su voto, lo que limita efectivamente su participación en el plebiscito.",
+                "El virus puede presentarse de forma asintomática, por lo que personas sin síntomas pueden transmitirlo y poner en riesgo la salud de los presentes.",
+                "Proteger la vida humana como primer derecho justifica medidas sanitarias que limitan la participación presencial si esta pone en peligro la salud colectiva."
+            ],
+            "argumentos_debiles": [
+                "La pandemia trajo consecuencias aún más graves que las ocurridas en el estallido social (afirmación comparativa sin evidencia en el texto).",
+                "El voto de uno puede hacer el cambio (generalización persuasiva sin datos que la respalden).",
+                "Negar la participación a los contagiados se presenta como discriminación (afirmación evaluativa sin demostración específica en el texto)."
+            ],
+            "argumentos_afectivo_persuasivos": [],
+            "nivel_logro_argumentacion": 3,
+            "justificación": "El texto presenta al menos tres argumentos sólidos de carácter causal y factual relacionados con la tesis (riesgo de contagio en votaciones, casos y hospitalizaciones que impiden votar, asintomáticos, vulnerables y contagiados que no pueden participar). No se identificaron argumentos de tipo afectivo-persuasivo, por lo que corresponde nivel 3."
+        }
+    },
+    {
+        "id_texto": 14,
+        "resultado": {
+            "argumentos_solidos": [],
+            "argumentos_debiles": [],
+            "argumentos_afectivo_persuasivos": [],
+            "nivel_logro_argumentacion": 0,
+            "justificación": "No se presentan argumentos en el texto: solo se repite la tesis y se plantea una pregunta retórica, por lo que no hay argumentos sólidos, débiles ni afectivo-persuasivos."
+        }
+    },
+    {
+        "id_texto": 15,
+        "resultado": {
+            "argumentos_solidos": [
+                "Se observó un aumento de trastornos ansiosos y depresivos en gran parte del mundo debido a los cambios en las rutinas de miles de personas.",
+                "El teletrabajo altera la dinámica laboral: los horarios se ven alterados y no existen límites claros, por lo que las personas pasan más tiempo frente al computador entregando trabajos o respondiendo mails, lo que repercute negativamente en la salud mental.",
+                "La falta de interacción con el resto del personal impide el apoyo social que muchas veces es clave para el desempeño y el bienestar, afectando las dinámicas sociales y, por ende, la salud mental de los trabajadores.",
+                "El confinamiento en espacios muy pequeños obliga a familias a compaginar tareas escolares y laborales junto con actividades básicas, aumentando el estrés; en muchas partes del mundo aumentaron las consultas psiquiátricas y el uso de ansiolíticos, lo que indica un deterioro de la salud mental."
+            ],
+            "argumentos_debiles": [],
+            "argumentos_afectivo_persuasivos": [],
+            "nivel_logro_argumentacion": 3,
+            "justificación": "El texto presenta al menos tres argumentos de carácter causal y basado en hechos (aumento de trastornos, condiciones laborales y aislamiento social, incremento de consultas y uso de ansiolíticos) que se relacionan lógicamente con la tesis; no aparecen apelaciones emotivas ni argumentos afectivo-persuasivos."
+        }
+    },
+    {
+        "id_texto": 16,
+        "resultado": {
+            "argumentos_solidos": [
+                "Las clases virtuales protegen la salud de los estudiantes y sus familiares porque pueden evitar contagios provocados por profesores o funcionarios que transporten el virus sin saberlo.",
+                "A pesar de la existencia de protocolos sanitarios revisados por el ministerio de salud, la zona no está exenta del virus, por lo que la presencialidad implica un riesgo residual de contagio.",
+                "Las clases virtuales garantizan igualdad de acceso a la educación para alumnos que no tienen acceso a un medio de transporte seguro, en un contexto donde mucha gente sigue usando transporte público.",
+                "El vacío de conocimiento atribuido al aprendizaje virtual se explica por métodos de enseñanza y evaluación inadecuados, los cuales pueden modificarse para cumplir los requerimientos educativos, de modo que la educación virtual puede ser efectiva."
+            ],
+            "argumentos_debiles": [
+                "El aprendizaje virtual no genera los mismos resultados que las clases presenciales, produciendo un vacío de conocimiento en las generaciones que se encuentran en el colegio."
+            ],
+            "argumentos_afectivo_persuasivos": [],
+            "nivel_logro_argumentacion": 3,
+            "justificación": "Se asigna 3 porque el texto presenta al menos tres argumentos sólidos (riesgo de contagio por personal asintomático, protocolos insuficientes frente al virus, accesibilidad por transporte y la posibilidad de corregir déficits mediante nuevos métodos) relacionados con la tesis y no incluye apelaciones afectivo-persuasivas; existe además un argumento débil sobre la eficacia del aprendizaje virtual."
+        }
+    },
+    {
+        "id_texto": 17,
+        "resultado": {
+            "argumentos_solidos": [
+                "Hacer algún tipo de actividad física constantemente mejora la vida útil de nuestros pulmones.",
+                "Incentivar a los niños desde pequeños a hacer deportes favorece que sigan haciéndolo a medida que vayan creciendo (formación de hábito).",
+                "Mantener un organismo bien cuidado realizando actividad física frecuentemente reduce el impacto negativo del aire contaminado en la salud."
+            ],
+            "argumentos_debiles": [
+                "Los expertos aseguran que realizando lo anterior, nuestros pulmones se mantendrán sanos. (argumento de autoridad sin evidencia concreta)",
+                "Es muy recomendable practicar cualquier tipo de actividad física por lo menos tres veces a la semana. (recomendación sin datos que la sustenten)",
+                "Actualmente en los establecimientos educacionales no se está haciendo la cantidad necesaria de deporte. (afirmación general sin pruebas citadas)",
+                "Los expertos en este tema nos confirman que incentivar a los niños desde pequeños a hacer deportes es muy importante. (argumento de autoridad sin fuentes)",
+                "Por esto el gobierno debe lanzar alguna campaña o ley que fomente el deporte en la población desde que son pequeños. (propuesta normativa presentada sin justificación detallada)"
+            ],
+            "argumentos_afectivo_persuasivos": [],
+            "nivel_logro_argumentacion": 3,
+            "justificación": "El texto presenta al menos tres argumentos causales relacionados con la tesis (mejora de la salud pulmonar por ejercicio, formación de hábito desde la infancia y disminución del impacto de la contaminación gracias al estado físico), y no incluye argumentos afectivo‑persuasivos. Hay además varias afirmaciones basadas en autoridad y recomendaciones sin evidencia, las cuales se clasifican como débiles, pero no impiden asignar 3 puntos según los criterios."
+        }
+    },
+    {
+        "id_texto": 18,
+        "resultado": {
+            "argumentos_solidos": [
+                "Las profundas diferencias en las medidas adoptadas por cada país han derivado en distintas consecuencias en el abordaje del virus y en las condiciones de vida de las personas (argumento causal que vincula gestión de la pandemia con desigualdades en resultados).",
+                "La condición gregaria del ser humano y su capacidad de socialización implican que el encierro prolongado produce consecuencias psicológicas y emocionales que deben ser atendidas por las políticas públicas.",
+                "El COVID-19 representa un desafío que obliga a actualizar programas y normativas gubernamentales para proteger la dignidad y la calidad de vida, por ejemplo garantizando acceso a alimentos y mejores condiciones laborales (argumento normativo con relación lógica a la tesis)."
+            ],
+            "argumentos_debiles": [
+                "Se apela a 'muchos autores' sin citar evidencia concreta, lo que constituye una apelación de autoridad genérica para sostener la idea de la sociabilidad humana.",
+                "Se plantean preguntas retóricas sobre la factibilidad de la socialización virtual y se afirma que no es necesario exponer matices, lo cual es una generalización poco fundamentada.",
+                "Se propone que una mejor calidad de vida resultará de mejores políticas públicas sin aportar datos ni ejemplos empíricos que lo sustenten en el contexto chileno."
+            ],
+            "argumentos_afectivo_persuasivos": [],
+            "nivel_logro_argumentacion": 3,
+            "justificación": "El texto presenta al menos tres argumentos sólidos que se relacionan lógicamente con la tesis (causalidad entre medidas y desigualdades; la dimensión gregaria y sus efectos psicológicos; la necesidad de actualizar políticas para proteger dignidad y acceso), y no incluye argumentos afectivo‑persuasivos. Existen además argumentos débiles (apelaciones genéricas a autores y generalizaciones), pero no invalidan el cumplimiento del nivel más alto."
+        }
+    },
+    {
+        "id_texto": 19,
+        "resultado": {
+            "argumentos_solidos": [],
+            "argumentos_debiles": [],
+            "argumentos_afectivo_persuasivos": [],
+            "nivel_logro_argumentacion": 0,
+            "justificación": "El texto es idéntico a la tesis y no presenta argumentos de apoyo; no hay datos, hechos ni razonamientos, por lo que corresponde nivel 0 (ausencia de argumentos)."
+        }
+    },
+    {
+        "id_texto": 20,
+        "resultado": {
+            "argumentos_solidos": [
+                "La gente más pobre es más riesgosa a nuevos contagios porque usan el sistema de transporte público mucho más que la gente con mayores recursos, donde el contacto entre personas es inevitable y muy frecuente (argumento causal).",
+                "La gente de mayores recursos generalmente puede hacer su trabajo desde sus casas, mientras que la gente más pobre usualmente trabaja como mano de obra, por lo que quienes pueden teletrabajar deberían hacerlo para reducir el riesgo (argumento sobre capacidad de teletrabajo).",
+                "Debe ser responsabilidad del gobierno hacer que las empresas que pueden trabajar con teletrabajo así lo hagan, para dar espacio a quienes no pueden trabajar desde casa (argumento de política pública/causal)."
+            ],
+            "argumentos_debiles": [
+                "Las personas más pobres son las que se encuentran más afectadas por estas cuarentenas, generando un fuerte descontento y ocasionando críticas de expertos en salud pública (generalización sin datos concretos).",
+                "Es muy complicado determinar qué sectores pueden trabajar desde sus casas ya que probablemente en todos los sectores haya personas en ambas situaciones (afirmación general y vaga sobre la dificultad de segmentar)."
+            ],
+            "argumentos_afectivo_persuasivos": [
+                "Se debe tomar con seriedad la salud mental porque luego de tantos meses encerrados temas como la violencia intrafamiliar, los divorcios e intentos de suicidio han empezado a salir a la luz; no es lógico mantener a una persona encerrada si está tan desesperada por trabajar que piense en suicidarse (apelación emotiva).",
+                "Es mejor dejar salir a trabajar a un jardinero que necesita del dinero y no tiene contrato de trabajo que a un empresario que puede trabajar desde su casa, aun que sea un poco más riesgoso dejar salir al jardinero (apelación a la compasión y situación personal)."
+            ],
+            "nivel_logro_argumentacion": 0,
+            "justificación": "Aunque el texto presenta varios argumentos causales y de política que pueden considerarse sólidos, incluye además argumentos afectivo-persuasivos (salud mental, suicidio, apelación a la compasión por el jardinero). Según las reglas dadas, la presencia de al menos un argumento afectivo-persuasivo relacionado con la tesis obliga a asignar nivel 0."
+        }
+    }
+]

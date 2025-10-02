@@ -1,0 +1,182 @@
+[
+    {
+        "id_texto": 1,
+        "resultado": {
+            "tesis_o_postura": "El retorno a los trabajos ubicados en tus propios barrios no es un progreso en materia de bienestar laboral.",
+            "clasificación": "tesis explícita",
+            "nivel_logro": 3,
+            "justificación": "El autor responde de forma directa a la pregunta planteada con 'La verdad es que no', expresando claramente la posición central del texto. Es una afirmación explícita y subrayable que guía la argumentación y contiene verbo conjugado, por lo que cumple los requisitos de tesis explícita."
+        }
+    },
+    {
+        "id_texto": 2,
+        "resultado": {
+            "tesis_o_postura": "mientras no se consiga una inmunidad de \"revaño\", no seria recomendable la interacción entre pares de niños y adolescetes debido al alto riesgo de contagio al cual se verian expuestos.",
+            "clasificación": "postura explícita",
+            "nivel_logro": 2,
+            "justificación": "El texto contiene enunciados aislables y subrayables que expresan una recomendación/posición claramente formulada (p. ej. la frase indicada), pero no presenta una tesis argumentativa central desarrollada y explícita; por tanto corresponde a postura explícita."
+        }
+    },
+    {
+        "id_texto": 3,
+        "resultado": {
+            "tesis_o_postura": "Es por esto que en el presente ensayo se argumentará que el gobierno debe implementar medidas, en torno al medio ambiente y la salud, que incentiven a las personas a actuar de manera que disminuya la contaminación ambiental.",
+            "clasificación": "tesis explícita",
+            "nivel_logro": 3,
+            "justificación": "El enunciado es una afirmación central y explícita, con verbo principal conjugado ('debe implementar'), expresa una posición defendible y es aislable/subrayable en el texto como la tesis que guía la argumentación."
+        }
+    },
+    {
+        "id_texto": 4,
+        "resultado": {
+            "tesis_o_postura": "Para poder tener cambios reales y significativos que mejoren la salud de las personas en las grandes ciudades debe estar en mano de algo más grande que una persona en particular; debe haber apoyo de políticas públicas y de un colectivo.",
+            "clasificación": "tesis explícita",
+            "nivel_logro": 3,
+            "justificación": "El autor formula explícitamente en la conclusión una afirmación central y defendible con verbos conjugados ('debe estar', 'debe haber'), que puede subrayarse y guía toda la argumentación sobre políticas públicas y acción colectiva."
+        }
+    },
+    {
+        "id_texto": 5,
+        "resultado": {
+            "tesis_o_postura": "En conclusión, la libertad de expresión es uno de los bienes esenciales en una sociedad democrática liberal, ella constituye la garantía del ejercicio de todo otro derecho, por lo que sus limitaciones deben estar fundadas en razones singularmente relevantes, y es preferible que el límite a la expresión sea impuesto siempre ex post, nunca antes.",
+            "clasificación": "tesis explícita",
+            "nivel_logro": 3,
+            "justificación": "El texto contiene una afirmación central y explícita formulada en la conclusión, con verbos conjugados ('es', 'deben estar', 'es preferible') y expresable de forma subrayable; esa proposición guía la argumentación sobre por qué y cómo deben establecerse los límites a la libertad de expresión."
+        }
+    },
+    {
+        "id_texto": 6,
+        "resultado": {
+            "tesis_o_postura": "El encierro junto con la sobrecarga laboral han generado un alto impacto en la salud mental de las personas que trabajan desde sus casas.",
+            "clasificación": "tesis explícita",
+            "nivel_logro": 3,
+            "justificación": "El texto contiene una afirmación central y explícita sobre el tema, formulada como oración completa con verbo principal conjugado ('han generado'), que puede subrayarse y representa la idea defendida."
+        }
+    },
+    {
+        "id_texto": 7,
+        "resultado": {
+            "tesis_o_postura": "Creo que si se logra una integración realmente efectiva en los sistemas educativos, el resultado sería extremadamente enriquecedor para todas las culturas presentes.",
+            "clasificación": "tesis explícita",
+            "nivel_logro": 3,
+            "justificación": "El enunciado es una afirmación central y explícita con verbo conjugado ('creo' y 'sería'), expresa una posición defendible sobre la integración cultural en la educación y es aislable/subrayable como la idea que guía la argumentación del texto."
+        }
+    },
+    {
+        "id_texto": 8,
+        "resultado": {
+            "tesis_o_postura": "En este ensayo se sostiene que el teletrabajo amenaza la integridad psicológica de los trabajadores.",
+            "clasificación": "tesis explícita",
+            "nivel_logro": 3,
+            "justificación": "La oración citada es una afirmación central y explícita del autor, contiene un verbo principal conjugado ('amenaza') y se puede aislar/subrayar como la tesis que guía la argumentación."
+        }
+    },
+    {
+        "id_texto": 9,
+        "resultado": {
+            "tesis_o_postura": "Es posible realizar teletrabajo de manera sana.",
+            "clasificación": "tesis explícita",
+            "nivel_logro": 3,
+            "justificación": "El enunciado 'Al respecto, es preciso destacar que es posible realizar teletrabajo de manera sana' expresa de forma clara y aislable la afirmación central del autor; es una oración completa con verbo conjugado que defiende una posición sobre el tema, por lo que cumple los requisitos de tesis explícita."
+        }
+    },
+    {
+        "id_texto": 10,
+        "resultado": {
+            "tesis_o_postura": "Las clases presenciales son la solución para las problemáticas expresadas por la población chilena.",
+            "clasificación": "tesis explícita",
+            "nivel_logro": 3,
+            "justificación": "La frase es una afirmación central, explícita y aislable en el texto, con verbo principal conjugado ('son') que expresa la posición defendida por el autor; además se reitera a lo largo del texto como idea guía."
+        }
+    },
+    {
+        "id_texto": 11,
+        "resultado": {
+            "tesis_o_postura": "En su encíclica Fratelli Tutti el Papa Francisco condena la forma de vida individualista y explotadora y promueve un cambio hacia una forma de vida orientada al bien común, el bienestar integral de las personas y la protección del pobre.",
+            "clasificación": "tesis explícita",
+            "nivel_logro": 3,
+            "justificación": "La idea central aparece explícita en el primer párrafo, es subrayable y contiene verbos principales conjugados ('condena', 'promueve'), por lo que constituye una tesis clara y comprobable que guía la argumentación."
+        }
+    },
+    {
+        "id_texto": 12,
+        "resultado": {
+            "tesis_o_postura": "Los problemas efectivos no se solucionan con cambios individuales, sino en cambios de políticas y en la legislación frente a los factores nocivos que se ponen en cuestión.",
+            "clasificación": "tesis explícita",
+            "nivel_logro": 3,
+            "justificación": "El autor formula de forma explícita y subrayable una afirmación central con verbo conjugado que sostiene la posición del texto: las acciones individuales son insuficientes y se requieren cambios de políticas y legislación."
+        }
+    },
+    {
+        "id_texto": 13,
+        "resultado": {
+            "tesis_o_postura": "todos tenemos el derecho y deber de participar del plebiscito de este octubre",
+            "clasificación": "tesis explícita",
+            "nivel_logro": 3,
+            "justificación": "En la conclusión el autor expresa de forma directa y subrayable la afirmación central ('tenemos'), es una proposición con verbo conjugado que guía la argumentación sobre si realizar el plebiscito, por lo que constituye una tesis explícita."
+        }
+    },
+    {
+        "id_texto": 14,
+        "resultado": {
+            "tesis_o_postura": "La rebaja de la indeminzación que debe pagar Julio Ponce Lerou debido a su participación en lo que se conoce como el Caso Soquimich es parte de una serie de irregularidades que se han dado en la historia reciente de Chile.",
+            "clasificación": "tesis explícita",
+            "nivel_logro": 3,
+            "justificación": "El texto contiene una afirmación central y explícita formulada enunciativamente con verbo conjugado ('es') que defiende una posición sobre el tema: que la rebaja de la indemnización constituye parte de una serie de irregularidades. La pregunta posterior plantea una duda pero no reemplaza ni disimula la tesis identificada."
+        }
+    },
+    {
+        "id_texto": 15,
+        "resultado": {
+            "tesis_o_postura": "El teletrabajo repercute negativamente en la salud mental de miles de personas.",
+            "clasificación": "tesis explícita",
+            "nivel_logro": 3,
+            "justificación": "El texto contiene una afirmación clara y aislable (especialmente en el segundo párrafo: '...el estar trabajando de manera remota se ven severamente afectadas repercutiendo negativamente en la salud mental de miles de personas'), con verbo conjugado y que expresa la posición central que el autor defiende sobre el tema."
+        }
+    },
+    {
+        "id_texto": 16,
+        "resultado": {
+            "tesis_o_postura": "Por esto, los colegios no deben volver a clases presenciales.",
+            "clasificación": "tesis explícita",
+            "nivel_logro": 3,
+            "justificación": "El texto contiene una afirmación central y explícita ('Por esto, los colegios no deben volver a clases presenciales.') que es un enunciado completo con verbo principal conjugado y expresa claramente la posición que el autor defiende, por lo que cumple los requisitos de tesis explícita."
+        }
+    },
+    {
+        "id_texto": 17,
+        "resultado": {
+            "tesis_o_postura": "En mi opinión, se debe hacer un cambio en la educación escolar, el cual fomente la actividad física en los niños desde pequeños.",
+            "clasificación": "tesis explícita",
+            "nivel_logro": 3,
+            "justificación": "El enunciado incluye la marca explícita de opinión («en mi opinión»), contiene un verbo principal conjugado («se debe hacer») y expresa una posición defendible y central sobre el tema, por lo que cumple los requisitos de tesis explícita."
+        }
+    },
+    {
+        "id_texto": 18,
+        "resultado": {
+            "tesis_o_postura": "La pandemia del COVID-19 se instaura como un hito importante en las trayectorias vitales de los individuos y, por ende, es necesario que las políticas públicas actúen frente a las consecuencias laborales, psicológicas y sociales del encierro prolongado y consideren la desigualdad de acceso y de recursos que experimentan las personas en Chile.",
+            "clasificación": "tesis explícita",
+            "nivel_logro": 3,
+            "justificación": "El texto señala explícitamente 'se plantea la tesis del presente ensayo' y formula una afirmación con verbos conjugados ('se instaura', 'es necesario') que puede aislarse y subrayarse como la idea central defendida."
+        }
+    },
+    {
+        "id_texto": 19,
+        "resultado": {
+            "tesis_o_postura": "La pandemia del covid-19 del año 2020 será recordada por las pérdidas humanas y económicas que evidenciaron la mayoría de los países y estados del mundo",
+            "clasificación": "tesis explícita",
+            "nivel_logro": 3,
+            "justificación": "Es una afirmación central, explícita y subrayable con verbo principal conjugado ('será recordada') que expresa la posición que guía el texto; cumple los requisitos de tesis explícita."
+        }
+    },
+    {
+        "id_texto": 20,
+        "resultado": {
+            "tesis_o_postura": "Los sectores que se encuentren en cuarentena deben ser determinados no por el nivel socioeconómico de las personas que residen, sino por el riesgo de nuevos contagios que genera dejarlos salir con normalidad.",
+            "clasificación": "tesis explícita",
+            "nivel_logro": 3,
+            "justificación": "La oración citada es una afirmación central y prescriptiva, está formulada explícitamente, contiene un verbo principal conjugado ('deben ser determinados') y puede subrayarse como la idea que guía la argumentación del texto."
+        }
+    }
+]

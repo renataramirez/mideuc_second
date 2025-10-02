@@ -1,0 +1,306 @@
+[
+    {
+        "id_texto": 1,
+        "resultado": {
+            "contrargumentos": [
+                {
+                    "texto": "La comodidad y flexibilidad del trabajo remoto (flexibilidad temporal y no tener que viajar)",
+                    "mencionado": true,
+                    "desarrollado": true,
+                    "rebatido": true
+                },
+                {
+                    "texto": "\"Un trabajador contento es un buen trabajador\": la idea de que la libertad, conectividad y poder hacer lo que quieras cuando quieras mejora la salud laboral y la productividad",
+                    "mencionado": true,
+                    "desarrollado": true,
+                    "rebatido": true
+                }
+            ],
+            "nivel_logro_contraargumentacion": 3,
+            "justificación": "El texto identifica expresamente al menos dos argumentos contrarios (comodidad/flexibilidad y que la felicidad/productividad aumentan con la libertad remota), los explica o reconoce (menciona la tentación de la flexibilidad y la comodidad, y la base psicológica de la felicidad laboral) y luego los rebate señalando que fueron impuestos, que reducen la disposición, que dañan rutinas y salud mental y que no equivalen a verdadera mejora regulatoria o de bienestar."
+        }
+    },
+    {
+        "id_texto": 2,
+        "resultado": {
+            "contrargumentos": [
+                {
+                    "texto": "En este aspecto, las medidas sanitarias como uso de mascarillas, alcohol gel, protocolos de sanitización y actualmente, vacunarse, el cual ha reducido casi en 75% las complicaciones del Covid-19, han dado una esperanza para volver a la vida normal.",
+                    "mencionado": true,
+                    "desarrollado": true,
+                    "rebatido": true
+                }
+            ],
+            "nivel_logro_contraargumentacion": 3,
+            "justificación": "El texto menciona y aporta desarrollo (datos del 75% de reducción) sobre la postura contraria (que las medidas y la vacunación permiten volver a la normalidad) y acto seguido la rebate al afirmar que, pese a ello, no sería recomendable la interacción entre pares hasta conseguir inmunidad de rebaño por el alto riesgo de contagio."
+        }
+    },
+    {
+        "id_texto": 3,
+        "resultado": {
+            "contrargumentos": [
+                {
+                    "texto": "Si bien pueden haber personas quienes afirman que a pesar de las medidas que pudiese implementar el gobierno, las personas igual seguirían actuando de la misma manera",
+                    "mencionado": true,
+                    "desarrollado": false,
+                    "rebatido": true
+                }
+            ],
+            "nivel_logro_contraargumentacion": 2,
+            "justificación": "El texto presenta explícitamente un contraargumento y luego lo rebate señalando que la mayoría cambiaría con incentivos; sin embargo no desarrolla o fundamenta desde la postura opuesta (no explica razones por las que la gente seguiría igual), por eso corresponde el nivel 2."
+        }
+    },
+    {
+        "id_texto": 4,
+        "resultado": {
+            "contrargumentos": [
+                {
+                    "texto": "Pero un contraargumento a esta situación es que de igual forma es necesario que las personas hagan cambios individuales muchas veces. Esos cambios que muchas personas hacen diariamente para poder mejorar su salud, puede provocar que más personas quieran hacer lo mismo que ella y de alguna forma puede generar que se creen políticas públicas que lo apoyen o un colectivo que cree una cultura social que incentive ese cambio. Como muchos dicen \"las acciones arrastran\".",
+                    "mencionado": true,
+                    "desarrollado": true,
+                    "rebatido": false
+                }
+            ],
+            "nivel_logro_contraargumentacion": 1,
+            "justificación": "Se menciona y se explica un contraargumento (la importancia de los cambios individuales y su efecto multiplicador), pero el texto no lo rebate: más bien lo reconoce y lo integra sin presentar argumentos que lo refuten."
+        }
+    },
+    {
+        "id_texto": 5,
+        "resultado": {
+            "contrargumentos": [
+                {
+                    "texto": "Otros podrían sostener que permitir una libertad de expresión en términos tan amplios permitiría que personas que quieren limitarla pudieran abogar por dicha posición. Es decir, usar su libertad de expresión para limitar la de otros. Esta crítica, formulada entre otros por Popper, presenta un punto que no puede ser obviado en la discusión. Entonces, debe hacerse un juicio de ponderación. ¿Qué sería más riesgoso? Por un lado, se podría permitir que una persona, la autoridad, pueda decidir ex ante qué es lo que puede ser libremente expresado y qué no. Por otro, se podría permitir que una persona abogue por limitar la libertad de expresión ajena. En esa disyuntiva, es mejor esta última, pues permite que el juicio de reproche sea socialmente valorado, puesto que ya todos habrían conocido lo que se pretende sancionar, en cambio, la primera posibilidad lo impide. Si el control es previo y no posterior, solo la autoridad impondría el control.",
+                    "mencionado": true,
+                    "desarrollado": true,
+                    "rebatido": true
+                }
+            ],
+            "nivel_logro_contraargumentacion": 3,
+            "justificación": "El texto menciona explícitamente la objeción (la crítica de Popper sobre la paradoja de la tolerancia), la explica y luego ofrece una refutación argumentando que es preferible permitir la expresión y sancionar ex post para evitar el control previo arbitrario."
+        }
+    },
+    {
+        "id_texto": 6,
+        "resultado": {
+            "contrargumentos": [],
+            "nivel_logro_contraargumentacion": 0,
+            "justificación": "El texto solo presenta antecedentes y la tesis; no menciona ni desarrolla objeciones a la tesis ni las rebate, por lo que no hay contraargumentos identificables."
+        }
+    },
+    {
+        "id_texto": 7,
+        "resultado": {
+            "contrargumentos": [
+                {
+                    "texto": "Sin embargo, hay un gran porcentaje de la población (a los cuales fácilmente se les puede asociar con pensamientos conservadores y extremadamente nacionalistas, al límite de considerarles fascistas) que opinan que realizar un mestizaje cultural en las comunidades educativas repercutirán en un desconocimiento y pérdida cultural, los valores y tradiciones del país.",
+                    "mencionado": true,
+                    "desarrollado": true,
+                    "rebatido": true
+                }
+            ],
+            "nivel_logro_contraargumentacion": 3,
+            "justificación": "El texto incluye explícitamente un contraargumento (miedo a la pérdida cultural), lo desarrolla al describir quiénes lo sostienen y su contenido, y lo rebate al argumentar que una integración efectiva sería enriquecedora, proponiendo además preservar valores y tradiciones en la educación inicial y usar la interacción con comunidades inmigrantes para aprender y comparar, lo que contrapone la idea de pérdida inevitable."
+        }
+    },
+    {
+        "id_texto": 8,
+        "resultado": {
+            "contrargumentos": [
+                {
+                    "texto": "Hay quienes sostienen que el teletrabajo es una maravilla, ya que trabajas desde un sitio cómodo y tranquilo, que es el hogar.",
+                    "mencionado": true,
+                    "desarrollado": true,
+                    "rebatido": true
+                }
+            ],
+            "nivel_logro_contraargumentacion": 3,
+            "justificación": "El texto menciona explícitamente la postura opuesta (que el teletrabajo es una maravilla), la explica brevemente (trabajar desde un sitio cómodo y tranquilo) y luego la rebate al argumentar que el estrés laboral puede causar malas relaciones y un mal ambiente familiar."
+        }
+    },
+    {
+        "id_texto": 9,
+        "resultado": {
+            "contrargumentos": [
+                {
+                    "texto": "Hay quienes sostienen que el teletrabajo impide dejar de pensar en asuntos laborales por el resto del día al no realizar un ritual de cierre.",
+                    "mencionado": true,
+                    "desarrollado": true,
+                    "rebatido": true
+                }
+            ],
+            "nivel_logro_contraargumentacion": 3,
+            "justificación": "El texto presenta explícitamente el contrargumento, lo explica (afirmando que no hay ritual de cierre) y luego lo rebate señalando que también ocurre en oficina, atribuyéndolo al tipo de ritual más que al lugar y proponiendo prácticas para evitarlo."
+        }
+    },
+    {
+        "id_texto": 10,
+        "resultado": {
+            "contrargumentos": [
+                {
+                    "texto": "Existen detractores que apuntan al riesgo de contagio a causa de las clases presenciales, a razón del contacto estrecho que se genera en ellas.",
+                    "mencionado": true,
+                    "desarrollado": true,
+                    "rebatido": true
+                }
+            ],
+            "nivel_logro_contraargumentacion": 3,
+            "justificación": "Se presenta un contrargumento (riesgo de contagio), se explica su fundamento (contacto estrecho) y el texto lo rebate citando estadísticas de bajo contagio y menor afectación del Covid-19 en menores."
+        }
+    },
+    {
+        "id_texto": 11,
+        "resultado": {
+            "contrargumentos": [
+                {
+                    "texto": "Hay que aclarar que esta no se refiere a una solidaridad  practicable solo por cristianos, sino a una solidaridad basada en los valores cristianos de amor al prójimo y justicia, que puede y debe ser practicada por todos los hombres para vivir en una sociedad buena y justa, que respete, cuide y haga crecer a todos sus integrantes.",
+                    "mencionado": true,
+                    "desarrollado": false,
+                    "rebatido": true
+                },
+                {
+                    "texto": "El Papa no se queda solo en una \"revisión bibliográfica\" de la tradición filosófica política cristiana, no busca \"hacer una observación\" sobre ella para luego dar una visión informada sobre los reclamos de los movimientos sociales y el por qué sintoniza con ellos. Si bien esto sí lo hace y es importante, el Papa va más allá. No se queda en el rol pasivo que es aprobar ideas ajenas, no se queda \"balconeando la vida\", sino que elabora y reelabora estas ideas, basándose siempre en el mensaje de Cristo y los valores cristianos, y hace uso de la tradición filosófica política cristiana para crear una propuesta social actual cristiana y revolucionaria, que el pontífice se encarga de incentivar, promover y sobretodo, practicar.",
+                    "mencionado": true,
+                    "desarrollado": true,
+                    "rebatido": true
+                }
+            ],
+            "nivel_logro_contraargumentacion": 3,
+            "justificación": "Se presentan al menos dos objeciones a la tesis (solidaridad solo para cristianos; que el Papa solo hace una revisión bibliográfica), y al menos una de ellas se menciona, se desarrolla desde la postura opuesta y se rebate claramente; la otra se menciona y se refuta, por lo que cumple el criterio máximo."
+        }
+    },
+    {
+        "id_texto": 12,
+        "resultado": {
+            "contrargumentos": [
+                {
+                    "texto": "Desde distintos medios, aparecen constantemente investigaciones y fundamentos que sostienen la importancia de la meditación, la alimentación, la actividad física, el buen descanso, entre otros, pero ¿cuál es la realidad detrás de esto? Las prácticas de autocuidado promueven una relación más sana y consciente con el cuerpo. Mantener actividad física de manera regular ayuda a la regulación hormonal, la capacidad respiratoria, desarrollo muscular, o el peso correcto. La alimentación balanceada como una dieta y no como un régimen o la incorporación de probióticos ayudan a fortalecer el sistema inmune, etc. Todas son prácticas favorables y cada día más populares que llevan a la medicina a postura más preventiva y educativa que asistencialista. La salud integral es un tema que hoy toma más relevacia sobre la mesa, y que ayuda a miles de personas, entre ello a lidiar con las condiciones del ambiente.",
+                    "mencionado": true,
+                    "desarrollado": true,
+                    "rebatido": true
+                }
+            ],
+            "nivel_logro_contraargumentacion": 3,
+            "justificación": "El texto presenta la postura opuesta (la eficacia de prácticas de autocuidado), la desarrolla con ejemplos y beneficios concretos, y posteriormente la rebate afirmando que son soluciones parche, que desvían la atención y no resuelven problemas estructurales, cumpliendo así los tres requisitos."
+        }
+    },
+    {
+        "id_texto": 13,
+        "resultado": {
+            "contrargumentos": [
+                {
+                    "texto": "Frente a esto surgen muchas dudas si es correcto o no realizar las votaciones, puesto que esto implica la reunión de muchas personas en un lugar cerrado, no respetando el distanciamiento social y es un virus super contagioso que con una sola persona contagiada seria sufienciente para contagiar a todos los involucrados.",
+                    "mencionado": true,
+                    "desarrollado": true,
+                    "rebatido": false
+                }
+            ],
+            "nivel_logro_contraargumentacion": 1,
+            "justificación": "El texto menciona y desarrolla un contrargumento claro sobre el riesgo de contagio al realizar el plebiscito (explica escenarios y grupos vulnerables), pero no ofrece una refutación efectiva: la conclusión afirma el deber de votar sin enfrentar ni rebatir directamente las objeciones de seguridad (solo reconoce la medida gubernamental como comprensible), por lo que no hay refutación completa."
+        }
+    },
+    {
+        "id_texto": 14,
+        "resultado": {
+            "contrargumentos": [
+                {
+                    "texto": "¿Qué tan legítima es esta medida tomada por la Corte Suprema?",
+                    "mencionado": true,
+                    "desarrollado": false,
+                    "rebatido": false
+                }
+            ],
+            "nivel_logro_contraargumentacion": 1,
+            "justificación": "El texto menciona una objeción sobre la legitimidad de la medida (pregunta retórica), pero no la desarrolla ni la refuta."
+        }
+    },
+    {
+        "id_texto": 15,
+        "resultado": {
+            "contrargumentos": [
+                {
+                    "texto": "El teletrabajo se ha convertido en la principal forma de protección ante el COVID-19",
+                    "mencionado": true,
+                    "desarrollado": false,
+                    "rebatido": true
+                }
+            ],
+            "nivel_logro_contraargumentacion": 2,
+            "justificación": "El texto menciona un argumento de la postura opuesta (que el teletrabajo protege contra el contagio) y lo rebate señalando problemas de salud mental derivados del teletrabajo, pero no desarrolla ni fundamenta desde la postura contraria dicho argumento, por lo que corresponde el nivel 2."
+        }
+    },
+    {
+        "id_texto": 16,
+        "resultado": {
+            "contrargumentos": [
+                {
+                    "texto": "No obstante, hay personas que dicen que el aprendizaje virtual no genera los mismos resultados que las clases presenciales, lo que produce que haya un vacío de conocimiento en las generaciones que se encuentran en el colegio.",
+                    "mencionado": true,
+                    "desarrollado": true,
+                    "rebatido": true
+                }
+            ],
+            "nivel_logro_contraargumentacion": 3,
+            "justificación": "El texto presenta explícitamente un contrargumento (que el aprendizaje virtual no genera los mismos resultados y provoca un vacío de conocimiento), lo desarrolla al explicar el efecto sobre las generaciones escolares y lo rebate señalando que dicho vacío se debe a los métodos de enseñanza y evaluación usados y proponiendo que los colegios adopten nuevos métodos para compensarlo."
+        }
+    },
+    {
+        "id_texto": 17,
+        "resultado": {
+            "contrargumentos": [
+                {
+                    "texto": "Algunos declaran que, a pesar de que hagamos una gran cantidad de ejercicio físico cada semana, es inevitable que nuestra salud se vea afectada negativamente debido a la enorme cantidad de contaminación que hay actualmente en las grandes ciudades.",
+                    "mencionado": true,
+                    "desarrollado": true,
+                    "rebatido": true
+                }
+            ],
+            "nivel_logro_contraargumentacion": 3,
+            "justificación": "El texto presenta explícitamente un contrargumento (la contaminación anula los beneficios del ejercicio), lo explica como postura opuesta y a continuación ofrece una refutación afirmando que el ejercicio frecuente protege la salud frente a la contaminación."
+        }
+    },
+    {
+        "id_texto": 18,
+        "resultado": {
+            "contrargumentos": [
+                {
+                    "texto": "¿Es factible que los postulados anteriores se apliquen al contexto actual? y en esa medida ¿Es posible mantener la socialización desde un plano virtual?",
+                    "mencionado": true,
+                    "desarrollado": false,
+                    "rebatido": false
+                }
+            ],
+            "nivel_logro_contraargumentacion": 1,
+            "justificación": "El texto plantea preguntas que aluden a una postura opuesta (la posibilidad de mantener la socialización de forma virtual), por lo que sí menciona un contrargumento, pero no lo desarrolla desde la postura contraria ni ofrece una refutación."
+        }
+    },
+    {
+        "id_texto": 19,
+        "resultado": {
+            "contrargumentos": [],
+            "nivel_logro_contraargumentacion": 0,
+            "justificación": "El texto es idéntico a la tesis y no presenta ninguna referencia, desarrollo ni refutación de argumentos de la postura opuesta; por tanto no hay contraargumentación."
+        }
+    },
+    {
+        "id_texto": 20,
+        "resultado": {
+            "contrargumentos": [
+                {
+                    "texto": "El mayor problema es que las personas más pobres son las que se encuentran más afectadas por estas cuarentenas, generando un fuerte descontento de estos sectores y ocacionando críticas de expertos en la salud pública.",
+                    "mencionado": true,
+                    "desarrollado": true,
+                    "rebatido": true
+                },
+                {
+                    "texto": "Además, se debe tomar con seriedad el tema de la salud mental de las familias, ya que luego de tantos meses encerrados temas como la violencia intrafamiliar, los divorcios e intentos de suicidio han empezado a salir a la luz. No es lógico mantener a una persona encerrada en su casa para evitar que se contagie y así \"cuidar su salud\" mientras esté tan desesperado por trabajar y traer comida para su familia que piense en suicidarse.",
+                    "mencionado": true,
+                    "desarrollado": true,
+                    "rebatido": false
+                }
+            ],
+            "nivel_logro_contraargumentacion": 3,
+            "justificación": "Se identifican al menos dos contraargumentos; uno (sobre el perjuicio a los pobres) es mencionado, desarrollado y efectivamente rebatido por el autor (argumenta que los pobres generan mayor riesgo por uso de transporte público, por lo que corresponde un criterio de riesgo). El otro (salud mental y necesidad extrema) está mencionado y desarrollado pero no es rebatido: el autor lo acepta y propone excepciones."
+        }
+    }
+]

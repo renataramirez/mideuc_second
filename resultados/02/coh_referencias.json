@@ -4,15 +4,11 @@
         "resultado": {
             "errores_cohesion_referencia": {
                 "error_1": [
-                    "Con lo que → Con el hecho de que han pasado poco más de cien años desde la última revuelta",
+                    "sus propios asociados → los propios asociados de esas organizaciones",
                     "tipo: pronombre-sin-referencia"
                 ],
                 "error_2": [
-                    "eso → esa falta de regulación",
-                    "tipo: pronombre-sin-referencia"
-                ],
-                "error_3": [
-                    "lo anterior tratado → los argumentos previos sobre la supuesta comodidad y flexibilidad del trabajo remoto",
+                    "su propiedad sobre ellos → la consideración de los trabajadores como propiedad por parte del empleador",
                     "tipo: pronombre-sin-referencia"
                 ]
             }
@@ -23,23 +19,7 @@
         "resultado": {
             "errores_cohesion_referencia": {
                 "error_1": [
-                    "esto → la afectación de la dinámica con sus pares",
-                    "tipo: pronombre-sin-referencia"
-                ],
-                "error_2": [
-                    "lo anteriormente expuesto → lo expuesto en los párrafos anteriores",
-                    "tipo: pronombre-sin-referencia"
-                ],
-                "error_3": [
-                    "el cual → lo cual (la vacunación ha reducido casi en 75% las complicaciones del Covid-19)",
-                    "tipo: pronombre-sin-referencia"
-                ],
-                "error_4": [
-                    "con esto → con la incorporación de estos protocolos de vida",
-                    "tipo: pronombre-sin-referencia"
-                ],
-                "error_5": [
-                    "esta situación → la situación sanitaria derivada de la pandemia",
+                    "vacunarse, el cual → la vacunación, la cual",
                     "tipo: pronombre-sin-referencia"
                 ]
             }
@@ -48,16 +28,7 @@
     {
         "id_texto": 3,
         "resultado": {
-            "errores_cohesion_referencia": {
-                "error_1": [
-                    "esto → la situación antes expuesta (que la contaminación perjudica la salud pese a la actividad física)",
-                    "tipo: pronombre-sin-referencia"
-                ],
-                "error_2": [
-                    "ésta → la salud",
-                    "tipo: pronombre-sin-referencia"
-                ]
-            }
+            "errores_cohesion_referencia": {}
         }
     },
     {
@@ -65,7 +36,7 @@
         "resultado": {
             "errores_cohesion_referencia": {
                 "error_1": [
-                    "ella → la persona que adoptó esa práctica",
+                    "ella → ellas",
                     "tipo: pronombre-sin-referencia"
                 ]
             }
@@ -88,7 +59,11 @@
         "resultado": {
             "errores_cohesion_referencia": {
                 "error_1": [
-                    "lo → la propia palabra",
+                    "le → eliminar 'le' (escribir: 'el otorgar la importancia necesaria a los valores...')",
+                    "tipo: pronombre-sin-referencia"
+                ],
+                "error_2": [
+                    "por la cual → por las cuales",
                     "tipo: pronombre-sin-referencia"
                 ]
             }
@@ -97,12 +72,7 @@
     {
         "id_texto": 8,
         "resultado": {
-            "errores_cohesion_referencia": {
-                "error_1": [
-                    "esto → la generalización del trabajo online",
-                    "tipo: pronombre-sin-referencia"
-                ]
-            }
+            "errores_cohesion_referencia": {}
         }
     },
     {
@@ -114,51 +84,13 @@
     {
         "id_texto": 10,
         "resultado": {
-            "errores_cohesion_referencia": {
-                "error_1": [
-                    "En esta misma línea → En esta misma línea respecto al sistema de enseñanza implementado a raíz de la pandemia",
-                    "tipo: pronombre-sin-referencia"
-                ],
-                "error_2": [
-                    "Al respecto → Con respecto a las variables involucradas en el sistema de enseñanza",
-                    "tipo: pronombre-sin-referencia"
-                ],
-                "error_3": [
-                    "A razón de lo anterior → Dado que aproximadamente un 60% de los estudiantes de enseñanza media no cumple con la malla curricular",
-                    "tipo: pronombre-sin-referencia"
-                ],
-                "error_4": [
-                    "En virtud de lo anterior → Considerando el déficit en nutrición y la alteración de la salud mental señalados por los estudios",
-                    "tipo: pronombre-sin-referencia"
-                ],
-                "error_5": [
-                    "anteriormente mencionados → los problemas de aprendizaje y de salud descritos anteriormente",
-                    "tipo: pronombre-sin-referencia"
-                ]
-            }
+            "errores_cohesion_referencia": {}
         }
     },
     {
         "id_texto": 11,
         "resultado": {
-            "errores_cohesion_referencia": {
-                "error_1": [
-                    "lo anterior → el bienestar integral y la protección del pobre",
-                    "tipo: pronombre-sin-referencia"
-                ],
-                "error_2": [
-                    "esto → ese cambio social",
-                    "tipo: pronombre-sin-referencia"
-                ],
-                "error_3": [
-                    "esto → hacer una observación sobre la tradición filosófica política cristiana",
-                    "tipo: pronombre-sin-referencia"
-                ],
-                "error_4": [
-                    "esta idea → su propuesta social",
-                    "tipo: pronombre-sin-referencia"
-                ]
-            }
+            "errores_cohesion_referencia": {}
         }
     },
     {
@@ -166,19 +98,11 @@
         "resultado": {
             "errores_cohesion_referencia": {
                 "error_1": [
-                    "esto → la importancia de las prácticas mencionadas (meditación, alimentación, actividad física, descanso)",
+                    "entre ello → entre ellas",
                     "tipo: pronombre-sin-referencia"
                 ],
                 "error_2": [
-                    "ello → ellas (refiriéndose a las personas)",
-                    "tipo: pronombre-sin-referencia"
-                ],
-                "error_3": [
-                    "al respecto → sobre la masificación de la información y sus promotores (instituciones y marcas)",
-                    "tipo: pronombre-sin-referencia"
-                ],
-                "error_4": [
-                    "otro → otros intereses (p. ej. políticos o económicos)",
+                    "otro → otros intereses",
                     "tipo: pronombre-sin-referencia"
                 ]
             }
@@ -189,15 +113,15 @@
         "resultado": {
             "errores_cohesion_referencia": {
                 "error_1": [
-                    "esto ultimo → el estallido social (las consecuencias mencionadas)",
+                    "con esto ultimo → con lo anterior (el estallido social)",
                     "tipo: pronombre-sin-referencia"
                 ],
                 "error_2": [
-                    "Frente a esto → Frente a la posibilidad de que muchos no puedan ejercer su derecho a voto por la pandemia",
+                    "esto no quiere decir → esta reprogramación no garantiza",
                     "tipo: pronombre-sin-referencia"
                 ],
                 "error_3": [
-                    "esto → esa discriminación (la negación de participación a las personas contagiadas)",
+                    "Frente a esto → Frente a la pandemia",
                     "tipo: pronombre-sin-referencia"
                 ]
             }
@@ -206,35 +130,13 @@
     {
         "id_texto": 14,
         "resultado": {
-            "errores_cohesion_referencia": {
-                "error_1": [
-                    "lo que → el Caso Soquimich",
-                    "tipo: pronombre-sin-referencia"
-                ]
-            }
+            "errores_cohesion_referencia": {}
         }
     },
     {
         "id_texto": 15,
         "resultado": {
-            "errores_cohesion_referencia": {
-                "error_1": [
-                    "lo que → su objetivo",
-                    "tipo: pronombre-sin-referencia"
-                ],
-                "error_2": [
-                    "esto → esta falta de interacción entre el personal",
-                    "tipo: pronombre-sin-referencia"
-                ],
-                "error_3": [
-                    "estos → las personas",
-                    "tipo: pronombre-sin-referencia"
-                ],
-                "error_4": [
-                    "algo → la situación de salud mental de la población",
-                    "tipo: pronombre-sin-referencia"
-                ]
-            }
+            "errores_cohesion_referencia": {}
         }
     },
     {
@@ -253,10 +155,6 @@
         "resultado": {
             "errores_cohesion_referencia": {
                 "error_1": [
-                    "lo anterior → practicar actividad física regularmente",
-                    "tipo: pronombre-sin-referencia"
-                ],
-                "error_2": [
                     "no tenerlo → no tener un organismo bien cuidado",
                     "tipo: pronombre-sin-referencia"
                 ]
@@ -268,11 +166,11 @@
         "resultado": {
             "errores_cohesion_referencia": {
                 "error_1": [
-                    "objetivo anterior → la tesis planteada anteriormente",
+                    "objetivo anterior → lo planteado anteriormente / la tesis planteada previamente",
                     "tipo: pronombre-sin-referencia"
                 ],
                 "error_2": [
-                    "en esa medida → a ese respecto (en relación con la pregunta anterior)",
+                    "sus miembros → los miembros de la sociedad / la población afectada",
                     "tipo: pronombre-sin-referencia"
                 ]
             }
@@ -287,7 +185,12 @@
     {
         "id_texto": 20,
         "resultado": {
-            "errores_cohesion_referencia": {}
+            "errores_cohesion_referencia": {
+                "error_1": [
+                    "dejarlos → permitir que salgan con normalidad",
+                    "tipo: pronombre-sin-referencia"
+                ]
+            }
         }
     }
 ]
