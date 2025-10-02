@@ -5,50 +5,47 @@ error_3: y, además → y además
 error_4: menores, por → menores; por
 error_5: aprendizaje, así → aprendizaje así
 error_6: también, para → también para
-error_7: ello, que → ello que","parrafo_2 - aprendizaje: 3 veces
-parrafo_2 - estudiante: 2 veces
-parrafo_2 - ser: 2 veces
+error_7: ello, que → ello que","parrafo_1 - respecto: 2 veces
+parrafo_2 - aprendizaje: 3 veces
+parrafo_2 - estudiantes: 2 veces
 parrafo_3 - salud: 3 veces
-parrafo_3 - estudiante: 2 veces
-parrafo_3 - ser: 2 veces
+parrafo_3 - estudiantes: 2 veces
+parrafo_4 - contagio: 2 veces
 parrafo_4 - clases: 3 veces
 parrafo_4 - presenciales: 3 veces
-parrafo_4 - contagio: 2 veces
-parrafo_4 - existen: 2 veces
-parrafo_5 - clase: 2 veces
-parrafo_5 - presencial: 2 veces
-parrafo_5 - sistema: 2 veces
-parrafo_5 - ser: 3 veces",,,error_1: quienes han impusado → que ha impulsado [tipo: pronombre-relativo],"error_1: de acuerdo al → de acuerdo con [tipo: preposición/rección]
+parrafo_5 - clases: 2 veces
+parrafo_5 - sistema: 2 veces",,,error_1: quienes han impusado → que ha impulsado [tipo: pronombre-relativo],"error_1: de acuerdo al → de acuerdo con [tipo: preposición/rección]
 error_2: por el cual → en el que [tipo: preposición/rección]
 error_3: muestras que → muestras de que [tipo: queísmo]
 error_4: A razón de lo anterior → A raíz de lo anterior [tipo: locución-preposicional]
 error_5: a razón de las clases virtuales → a raíz de las clases virtuales [tipo: locución-preposicional]
 error_6: a razón del contacto → debido al contacto [tipo: locución-preposicional]
 error_7: Dando como resultado → lo que da como resultado [tipo: conector-ausente]
-error_8: así también → así como [tipo: conector-inadecuado]",
+error_8: así también → así como [tipo: conector-inadecuado]","error_1: En esta misma línea → En esta misma línea respecto al sistema de enseñanza implementado a raíz de la pandemia [tipo: pronombre-sin-referencia]
+error_2: Al respecto → Con respecto a las variables involucradas en el sistema de enseñanza [tipo: pronombre-sin-referencia]
+error_3: A razón de lo anterior → Dado que aproximadamente un 60% de los estudiantes de enseñanza media no cumple con la malla curricular [tipo: pronombre-sin-referencia]
+error_4: En virtud de lo anterior → Considerando el déficit en nutrición y la alteración de la salud mental señalados por los estudios [tipo: pronombre-sin-referencia]
+error_5: anteriormente mencionados → los problemas de aprendizaje y de salud descritos anteriormente [tipo: pronombre-sin-referencia]"
 11,error_1: sobretodo → sobre todo,error_1: alínee → alinee,"error_1: Fratelli Tutti el → Fratelli Tutti, el
 error_2: cristiana, no → cristiana. No
 error_3: ajenas, no → ajenas. No
 error_4: sobretodo, practicar → sobretodo practicar
-error_5: tiránica El → tiránica. El","parrafo_1 - reclamo: 2 veces
+error_5: tiránica El → tiránica. El","parrafo_1 - reclamos: 2 veces
 parrafo_1 - forma: 2 veces
 parrafo_1 - vida: 2 veces
 parrafo_2 - solidaridad: 5 veces
 parrafo_2 - cristiano: 4 veces
-parrafo_2 - hacer: 3 veces
-parrafo_2 - dar: 3 veces
 parrafo_2 - no: 3 veces
 parrafo_2 - solo: 3 veces
-parrafo_2 - crear: 2 veces
+parrafo_2 - valor: 2 veces
 parrafo_2 - cambio: 2 veces
 parrafo_2 - social: 2 veces
 parrafo_2 - sociedad: 2 veces
-parrafo_2 - practicar: 2 veces
 parrafo_2 - justicia: 2 veces
 parrafo_2 - amor: 2 veces
 parrafo_2 - prójimo: 2 veces
-parrafo_2 - valor: 2 veces
-parrafo_3 - papa: 2 veces
+parrafo_2 - crear: 2 veces
+parrafo_3 - Papa: 2 veces
 parrafo_3 - tradición: 2 veces
 parrafo_3 - filosófica: 2 veces
 parrafo_3 - política: 2 veces
@@ -57,19 +54,19 @@ parrafo_3 - social: 2 veces
 parrafo_3 - quedar: 3 veces
 parrafo_3 - hacer: 3 veces
 parrafo_3 - ideas: 2 veces
-parrafo_4 - pontífice: 2 veces
-parrafo_4 - mundo: 2 veces
-parrafo_4 - mejor: 2 veces
 parrafo_4 - propuesta: 2 veces
 parrafo_4 - social: 2 veces
-parrafo_4 - lograr: 2 veces
-parrafo_4 - practicar: 2 veces
-parrafo_4 - hacer: 2 veces
+parrafo_4 - mundo: 2 veces
+parrafo_4 - mejor: 2 veces
 parrafo_4 - forma: 2 veces
-parrafo_4 - vida: 2 veces",,"error_1: balconeando → limitándose a observar [COLOQUIALISMOS]
+parrafo_4 - vida: 2 veces
+parrafo_4 - pontífice: 2 veces",,"error_1: balconeando → limitándose a observar [COLOQUIALISMOS]
 error_2: lo chico → los asuntos menores [COLOQUIALISMOS]","error_1: explotación actual → la explotación actual [tipo: sustantivo-adjetivo]
 error_2: la personas → las personas [tipo: sustantivo-adjetivo]","error_1: en vez → en cambio [tipo: conector-inadecuado]
-error_2: sobretodo → sobre todo [tipo: locución-preposicional]",
+error_2: sobretodo → sobre todo [tipo: locución-preposicional]","error_1: lo anterior → el bienestar integral y la protección del pobre [tipo: pronombre-sin-referencia]
+error_2: esto → ese cambio social [tipo: pronombre-sin-referencia]
+error_3: esto → hacer una observación sobre la tradición filosófica política cristiana [tipo: pronombre-sin-referencia]
+error_4: esta idea → su propuesta social [tipo: pronombre-sin-referencia]"
 12,"error_1: relevacia → relevancia
 error_2: ello → ellos
 error_3: parche → parches","error_1: sólo → solo
@@ -80,11 +77,9 @@ error_4: de en → de, en
 error_5: efecto ser → efecto, ser
 error_6: efectivos, no → efectivos no
 error_7: población, ni → población ni
-error_8: honesta, y → honesta y","parrafo_1 - ser: 2 veces
-parrafo_3 - ayudar: 2 veces
-parrafo_4 - más: 3 veces
-parrafo_5 - problema: 3 veces
-parrafo_5 - cambio: 2 veces
+error_8: honesta, y → honesta y","parrafo_4 - más: 3 veces
+parrafo_5 - problemas: 2 veces
+parrafo_5 - cambios: 2 veces
 parrafo_5 - población: 2 veces
 parrafo_5 - poner: 2 veces
 parrafo_5 - solucionar: 2 veces
@@ -99,8 +94,10 @@ error_2: régimen o la incorporación → régimen y la incorporación [tipo: co
 error_3: sino en cambios de políticas → sino mediante cambios en las políticas [tipo: preposición/rección]
 error_4: traspasado hacia la población → traspasado a la población [tipo: preposición/rección]
 error_5: sobre la mesa → en la agenda [tipo: locución-preposicional]
-error_6: a pesar de en efecto ser algo positivo → a pesar de ser en efecto algo positivo [tipo: locución-preposicional]","error_1: entre ello → entre ellas [tipo: pronombre-sin-referencia]
-error_2: otro → otros intereses [tipo: pronombre-sin-referencia]"
+error_6: a pesar de en efecto ser algo positivo → a pesar de ser en efecto algo positivo [tipo: locución-preposicional]","error_1: esto → la importancia de las prácticas mencionadas (meditación, alimentación, actividad física, descanso) [tipo: pronombre-sin-referencia]
+error_2: ello → ellas (refiriéndose a las personas) [tipo: pronombre-sin-referencia]
+error_3: al respecto → sobre la masificación de la información y sus promotores (instituciones y marcas) [tipo: pronombre-sin-referencia]
+error_4: otro → otros intereses (p. ej. políticos o económicos) [tipo: pronombre-sin-referencia]"
 13,"error_1: se frente a → se enfrenta a
 error_2: sufienciente → suficiente
 error_3: prodran → podran","error_1: llego → llegó
@@ -138,12 +135,9 @@ error_19: forma, puede → forma. Puede
 error_20: Ahora bien en → Ahora bien, en
 error_21: conclusión todos → conclusión, todos
 error_22: octubre, porque → octubre porque
-error_23: cambio, en → cambio. En","parrafo_1 - salir: 3 veces
-parrafo_1 - comenzar: 2 veces
-parrafo_1 - final: 2 veces
+error_23: cambio, en → cambio. En","parrafo_1 - finales: 2 veces
 parrafo_1 - virus: 2 veces
 parrafo_1 - chile: 2 veces
-parrafo_1 - pandemia: 2 veces
 parrafo_1 - cuarentena: 2 veces
 parrafo_1 - consecuencia: 2 veces
 parrafo_2 - plebiscito: 2 veces
@@ -158,19 +152,9 @@ parrafo_4 - derecho: 2 veces
 parrafo_4 - realizar: 2 veces
 parrafo_4 - ser: 2 veces
 parrafo_4 - posible: 2 veces
-parrafo_4 - no: 2 veces
 parrafo_5 - virus: 3 veces
-parrafo_5 - presentar: 5 veces
-parrafo_5 - asintomático: 2 veces
-parrafo_5 - persona: 2 veces
-parrafo_5 - síntoma: 2 veces
-parrafo_5 - quiere: 2 veces
-parrafo_5 - decir: 2 veces
 parrafo_5 - demás: 2 veces
-parrafo_5 - es: 2 veces
-parrafo_6 - plebiscito: 2 veces
-parrafo_6 - contagiado: 2 veces
-parrafo_6 - su: 2 veces",,"error_1: super contagioso → altamente contagioso [COLOQUIALISMOS]
+parrafo_6 - plebiscito: 2 veces",,"error_1: super contagioso → altamente contagioso [COLOQUIALISMOS]
 error_2: todo el rato → de forma constante [COLOQUIALISMOS]","error_1: todos el voto de uno puede → el voto de uno puede [tipo: sujeto-predicado]
 error_2: su derecho a voto que no prodran realizar → su derecho a voto que no podrán realizar [tipo: pronombre-relativo]","error_1: se frente a una pandemia mundial → se encontró ante una pandemia mundial [tipo: preposición/rección]
 error_2: con el fin que se modifique → con el fin de que se modifique [tipo: queísmo]
@@ -179,11 +163,11 @@ error_4: en el derecho en su derecho a voto → tienen derecho a voto [tipo: pre
 error_5: presentar el virus asintomático → presentar el virus de forma asintomática [tipo: preposición/rección]
 error_6: participar del plebiscito → participar en el plebiscito [tipo: preposición/rección]
 error_7: en el casos de los contagiados → en el caso de los contagiados [tipo: preposición/rección]
-error_8: a su parte negandoles su participación → en su contra, negándoles su participación [tipo: preposición/rección]","error_1: con esto ultimo → con lo anterior (el estallido social) [tipo: pronombre-sin-referencia]
-error_2: esto no quiere decir → esta reprogramación no garantiza [tipo: pronombre-sin-referencia]
-error_3: Frente a esto → Frente a la pandemia [tipo: pronombre-sin-referencia]"
+error_8: a su parte negandoles su participación → en su contra, negándoles su participación [tipo: preposición/rección]","error_1: esto ultimo → el estallido social (las consecuencias mencionadas) [tipo: pronombre-sin-referencia]
+error_2: Frente a esto → Frente a la posibilidad de que muchos no puedan ejercer su derecho a voto por la pandemia [tipo: pronombre-sin-referencia]
+error_3: esto → esa discriminación (la negación de participación a las personas contagiadas) [tipo: pronombre-sin-referencia]"
 14,error_1: indeminzación → indemnización,,"error_1: Pero, ¿Qué → Pero ¿Qué
-error_2: Suprema?,¿ → Suprema?",parrafo_1 - es: 2 veces,,,,,
+error_2: Suprema?,¿ → Suprema?",,,,,,error_1: lo que → el Caso Soquimich [tipo: pronombre-sin-referencia]
 15,"error_1: oficianas → oficinas
 error_2: COVID- 19 → COVID-19
 error_3: peronas → personas
@@ -211,24 +195,17 @@ error_6: personas el → personas. El
 error_7: salud ya → salud, ya
 error_8: laboral sin → laboral. Sin
 error_9: Sin embargo con → Sin embargo, con","parrafo_1 - población: 2 veces
-parrafo_1 - lugar: 2 veces
-parrafo_1 - ser: 3 veces
-parrafo_1 - ver: 2 veces
+parrafo_1 - lugares: 2 veces
 parrafo_1 - debido: 2 veces
-parrafo_2 - dinámica: 2 veces
+parrafo_2 - muchas: 3 veces
+parrafo_2 - trabajadores: 2 veces
 parrafo_2 - laboral: 2 veces
-parrafo_2 - trabajador: 2 veces
-parrafo_2 - persona: 3 veces
 parrafo_2 - miles: 2 veces
 parrafo_2 - mucho: 3 veces
 parrafo_2 - existir: 2 veces
 parrafo_2 - alterar: 2 veces
 parrafo_3 - mundo: 2 veces
-parrafo_3 - aumentar: 2 veces
-parrafo_3 - ver: 2 veces
-parrafo_4 - persona: 3 veces
-parrafo_4 - lugar: 2 veces
-parrafo_4 - ver: 2 veces","error_1: mails → correos electrónicos [EXTRANJERISMO]
+parrafo_4 - personas: 3 veces","error_1: mails → correos electrónicos [EXTRANJERISMO]
 error_2: como por ejemplo → por ejemplo [REDUNDANCIA]
 error_3: altera ... se ve alterado → altera ... se ven afectados [REDUNDANCIA]",error_1: mails → correos electrónicos [ABREVIACIONES],"error_1: los horarios de los trabajadores se ve alterado → los horarios de los trabajadores se ven alterados [tipo: sujeto-predicado]
 error_2: el estar trabajando de manera remota se ven severamente afectadas → el estar trabajando de manera remota se ve severamente afectado [tipo: sujeto-predicado]","error_1: generadas debido a la pandemia → generadas por la pandemia [tipo: preposición/rección]
@@ -237,7 +214,10 @@ error_3: interactuar el resto del personal → interactuar con el resto del pers
 error_4: generando asi que las dinamicas sociales → generando así alteraciones en las dinámicas sociales [tipo: conector-inadecuado]
 error_5: , el uso de medicamentos ansioliticos se vio aumentado → , y el uso de medicamentos ansiolíticos ha aumentado [tipo: conector-ausente]
 error_6: Por otro lado el confinamiento → Por otro lado, el confinamiento [tipo: conector-inadecuado]
-error_7: sin embargo con la pandemia → sin embargo, con la pandemia [tipo: conector-inadecuado]",
+error_7: sin embargo con la pandemia → sin embargo, con la pandemia [tipo: conector-inadecuado]","error_1: lo que → su objetivo [tipo: pronombre-sin-referencia]
+error_2: esto → esta falta de interacción entre el personal [tipo: pronombre-sin-referencia]
+error_3: estos → las personas [tipo: pronombre-sin-referencia]
+error_4: algo → la situación de salud mental de la población [tipo: pronombre-sin-referencia]"
 16,"error_1: activdades → actividades
 error_2: escenciales → esenciales
 error_3: disminur → disminuir
@@ -246,22 +226,16 @@ error_5: ministerio de salud → Ministerio de Salud
 error_6: ocpuar → ocupar
 error_7: evalución → evaluación
 error_8: comeinzo → comienzo","error_1: continuen → continúen
-error_2: si → sí","error_1: virtuales, permiten → virtuales permiten","parrafo_1 - realizar: 2 veces
-parrafo_1 - colegios: 2 veces
+error_2: si → sí","error_1: virtuales, permiten → virtuales permiten","parrafo_1 - colegios: 2 veces
 parrafo_1 - clases: 2 veces
 parrafo_1 - manera: 2 veces
 parrafo_2 - salud: 2 veces
 parrafo_2 - realizar: 2 veces
 parrafo_3 - ocupar: 2 veces
 parrafo_3 - transporte: 2 veces
-parrafo_3 - aquellos: 2 veces
-parrafo_3 - tener: 2 veces
-parrafo_3 - mismo: 2 veces
-parrafo_4 - colegio: 3 veces
 parrafo_4 - vacío: 2 veces
-parrafo_4 - método: 2 veces
-parrafo_4 - producir: 2 veces
-parrafo_4 - este: 2 veces",,,"error_1: su puertas → sus puertas [tipo: sustantivo-adjetivo]
+parrafo_4 - colegio: 3 veces
+parrafo_4 - métodos: 2 veces",,,"error_1: su puertas → sus puertas [tipo: sustantivo-adjetivo]
 error_2: resguardar la salud de estos y de sus familias y además de generar igualdad → resguardar la salud de estos y de sus familias y generar igualdad [tipo: A]","error_1: completar satisfactoriamente con los requerimientos educativos → cumplir satisfactoriamente con los requerimientos educativos [tipo: preposición/rección]
 error_2: y además de generar igualdad en la accesibilidad a esta última → y además generar igualdad en la accesibilidad a esta última [tipo: locución-preposicional]",error_1: esta última → la educación [tipo: pronombre-sin-referencia]
 17,,,"error_1: que en → que, en
@@ -277,23 +251,20 @@ error_10: esto, es → esto es
 error_11: tipo, para → tipo para","parrafo_1 - grande: 3 veces
 parrafo_1 - aire: 2 veces
 parrafo_1 - muy: 2 veces
-parrafo_1 - día: 2 veces
 parrafo_2 - tipo: 2 veces
 parrafo_2 - pulmones: 2 veces
-parrafo_3 - hacer: 3 veces
+parrafo_2 - nuestros: 2 veces
 parrafo_3 - deporte: 2 veces
 parrafo_4 - cantidad: 2 veces
 parrafo_4 - físico: 2 veces
 parrafo_4 - hacer: 2 veces
 parrafo_4 - afectar: 2 veces
 parrafo_4 - no: 2 veces
-parrafo_5 - es: 2 veces
-parrafo_5 - muy: 2 veces
-parrafo_5 - importante: 2 veces
 parrafo_5 - alguna: 2 veces",,error_1: la gente → la población [COLOQUIALISMOS],"error_1: el cual → la cual [tipo: pronombre-relativo]
 error_2: la población ... son pequeños → la población ... es pequeña [tipo: sujeto-predicado]","error_1: suciedad al aire → suciedad en el aire [tipo: preposición/rección]
 error_2: Por lo que es muy recomendable → Por ello es muy recomendable [tipo: conector-inadecuado]
-error_3: como al no tenerlo → como si no lo tuviéramos [tipo: conector-inadecuado]",error_1: no tenerlo → no tener un organismo bien cuidado [tipo: pronombre-sin-referencia]
+error_3: como al no tenerlo → como si no lo tuviéramos [tipo: conector-inadecuado]","error_1: lo anterior → practicar actividad física regularmente [tipo: pronombre-sin-referencia]
+error_2: no tenerlo → no tener un organismo bien cuidado [tipo: pronombre-sin-referencia]"
 18,"error_1: virsus → virus
 error_2: individuo → individuos
 error_3: antes → ante
@@ -306,31 +277,29 @@ error_4: y especificamente → y, especificamente
 error_5: y por → y, por
 error_6: ello, que → ello que
 error_7: laborales q → laborales q.","parrafo_1 - pandemia: 2 veces
-parrafo_1 - covid-19: 2 veces
-parrafo_1 - consecuencia: 2 veces
+parrafo_1 - COVID-19: 2 veces
+parrafo_1 - cada: 3 veces
+parrafo_1 - consecuencias: 2 veces
 parrafo_1 - abordaje: 2 veces
 parrafo_1 - virus: 2 veces
-parrafo_1 - ser: 2 veces
 parrafo_1 - antes: 2 veces
-parrafo_2 - anterior: 2 veces
-parrafo_2 - diverso: 2 veces
-parrafo_2 - disciplina: 2 veces
 parrafo_2 - socialización: 2 veces
-parrafo_2 - matiz: 2 veces
 parrafo_2 - calidad: 3 veces
 parrafo_2 - mejor: 2 veces
 parrafo_2 - vida: 2 veces
+parrafo_2 - matices: 2 veces
+parrafo_2 - disciplina: 2 veces
+parrafo_2 - desarrollo: 2 veces
+parrafo_2 - mejor: 2 veces
 parrafo_2 - laboral: 2 veces
-parrafo_2 - presentar: 2 veces
-parrafo_2 - plantear: 2 veces
-parrafo_2 - expresar: 2 veces",,error_1: q → que [CÓDIGO ESCRITO NO FORMAL],,"error_1: se visibiliza desde las consecuencias → se visibiliza en las consecuencias [tipo: preposición/rección]
+parrafo_2 - anterior: 2 veces",,error_1: q → que [CÓDIGO ESCRITO NO FORMAL],,"error_1: se visibiliza desde las consecuencias → se visibiliza en las consecuencias [tipo: preposición/rección]
 error_2: actúen antes las consecuencias → actúen ante las consecuencias [tipo: preposición/rección]
 error_3: campo y/o disciplina que se adscriba → campo y/o disciplina a la que se adscriba [tipo: preposición/rección]
 error_4: acceso de alimentos → acceso a alimentos [tipo: preposición/rección]
 error_5: En ese contexto, es que → En ese contexto se plantea [tipo: conector-inadecuado]
 error_6: sino que también en → sino también en [tipo: conector-inadecuado]
-error_7: Es por ello, que → Es por ello que [tipo: conector-inadecuado]","error_1: objetivo anterior → lo planteado anteriormente / la tesis planteada previamente [tipo: pronombre-sin-referencia]
-error_2: sus miembros → los miembros de la sociedad / la población afectada [tipo: pronombre-sin-referencia]"
+error_7: Es por ello, que → Es por ello que [tipo: conector-inadecuado]","error_1: objetivo anterior → la tesis planteada anteriormente [tipo: pronombre-sin-referencia]
+error_2: en esa medida → a ese respecto (en relación con la pregunta anterior) [tipo: pronombre-sin-referencia]"
 19,error_1: covid-19 → Covid-19,"error_1: mayoria → mayoría
 error_2: paises → países",error_1: mundo → mundo.,,,,,error_1: que evidenciaron la mayoria de los paises y estados del mundo → que se evidenciaron en la mayoría de los países y estados del mundo [tipo: preposición/rección],
 20,"error_1: covid-19 → Covid-19
@@ -347,13 +316,12 @@ error_5: lamentablemente es → lamentablemente, es
 error_6: recursos, y → recursos y
 error_7: En cambio la → En cambio, la
 error_8: santiario, y → santiario y
-error_9: encerrados temas → encerrados, temas","parrafo_3 - más: 2 veces
-parrafo_3 - ser: 2 veces
-parrafo_3 - generar: 2 veces
-parrafo_4 - persona: 2 veces
-parrafo_4 - contagio: 2 veces
-parrafo_4 - nuevo: 2 veces
+error_9: encerrados temas → encerrados, temas","parrafo_1 - así: 2 veces
+parrafo_3 - más: 2 veces
+parrafo_4 - contagios: 2 veces
 parrafo_4 - gente: 2 veces
+parrafo_4 - personas: 2 veces
+parrafo_4 - nuevos: 2 veces
 parrafo_4 - más: 3 veces
 parrafo_4 - ser: 3 veces
 parrafo_5 - trabajar: 5 veces
@@ -363,26 +331,27 @@ parrafo_5 - casa: 3 veces
 parrafo_5 - persona: 3 veces
 parrafo_5 - sector: 3 veces
 parrafo_5 - gente: 2 veces
-parrafo_5 - trabajo: 2 veces
-parrafo_5 - mano: 2 veces
+parrafo_5 - casas: 3 veces
+parrafo_5 - personas: 3 veces
 parrafo_5 - comodidad: 2 veces
+parrafo_5 - mano: 2 veces
+parrafo_5 - sectores: 3 veces
+parrafo_5 - trabajo: 2 veces
+parrafo_5 - trabajar: 2 veces
+parrafo_5 - hacer: 2 veces
 parrafo_5 - más: 2 veces
-parrafo_6 - salir: 4 veces
-parrafo_6 - trabajar: 4 veces
-parrafo_6 - persona: 3 veces
-parrafo_6 - más: 3 veces
-parrafo_6 - familia: 2 veces
-parrafo_6 - tema: 2 veces
+parrafo_5 - así: 2 veces
 parrafo_6 - salud: 2 veces
-parrafo_6 - casa: 2 veces
-parrafo_6 - jardinero: 2 veces
+parrafo_6 - trabajar: 3 veces
+parrafo_6 - salir: 3 veces
 parrafo_6 - dejar: 2 veces
-parrafo_6 - tener: 2 veces
+parrafo_6 - casa: 2 veces
+parrafo_6 - familia: 2 veces
+parrafo_6 - persona: 3 veces
+parrafo_6 - jardinero: 2 veces
 parrafo_6 - riesgoso: 2 veces
-parrafo_6 - ser: 2 veces
-parrafo_6 - haber: 2 veces
 parrafo_6 - encerrado: 2 veces
-parrafo_7 - ver: 2 veces
+parrafo_6 - más: 3 veces
 parrafo_7 - personas: 2 veces
 parrafo_7 - bienestar: 2 veces","error_1: más riesgosa a nuevos contagios → más propensa a nuevos contagios [USO INCORRECTO DE SIGNIFICADOS]
 error_2: más riesgosas de contagios → con mayor riesgo de contagio [USO INCORRECTO DE SIGNIFICADOS]
@@ -397,4 +366,4 @@ error_4: desde las casas → desde sus casas [tipo: preposición/rección]
 error_5: más riesgosas de contagios → con mayor riesgo de contagio [tipo: preposición/rección]
 error_6: necesita del dinero → necesita el dinero [tipo: preposición/rección]
 error_7: tanto por impedir el contagio de las personas, pero también pensando en → tanto impidiendo el contagio de las personas como pensando en [tipo: conector-inadecuado]
-error_8: reconocer que personas son → reconocer qué personas son [tipo: conector-ausente]",error_1: dejarlos → permitir que salgan con normalidad [tipo: pronombre-sin-referencia]
+error_8: reconocer que personas son → reconocer qué personas son [tipo: conector-ausente]",
