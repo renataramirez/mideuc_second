@@ -1,0 +1,464 @@
+[
+    {
+        "id_texto": 1,
+        "resultado": {
+            "errores": {
+                "argumentos_solidos": [
+                    "Una escasa regulación da cabida a dos tipos de males: la mala ejecución de un proyecto por no limitarse sobre sus capacidades y eficiencias, y la mala práctica de explotar a tus trabajadores al no limitarse su propiedad sobre ellos, su seguridad, su tiempo.",
+                    "El trabajo de modalidad remota pone a trabajadores en un 'campo abierto', espacio público demasiado grande para patrullar, lo que dificulta la protección y supervisión de derechos laborales.",
+                    "Los ciclos de sueño, las rutinas recreativas y el tiempo en familia son necesarios para la salud mental, y esa salud es requerida por el cuerpo para funcionar correctamente; su alteración puede producir malos resultados en eficacia y vitalidad."
+                ],
+                "argumentos_debiles": [
+                    "Los ánimos en nuestra actual pandemia no se hallan errados, la salud mental... no está enfrentando nada nuevo (afirmación general sin evidencia ni matices).",
+                    "Poco más de cien años han pasado desde que se diera a luz la última revuelta que cambiara ese status quo (afirmación histórica vaga y no sustentada).",
+                    "¿Es el retorno a los trabajos ubicados en tus propios barrios... un progreso? La verdad es que no (conclusión tajante sin datos ni contraargumentos).",
+                    "«Un trabajador contento es un buen trabajador» (eslogan/afirmación simplificadora y generalizadora sin prueba empírica presentada).",
+                    "La base psicológica ha sido central los últimos treinta años en lo que respecta a las posibilidades de la globalización y fin de las dictaduras (conexión histórica y causal ambigua y sin sustento).",
+                    "Si te obligan a algo la disposición se reduce; ahora pongámonos en el caso de que no hubiera COVID-19, pasaría igual (generalización y contrafactual especulativo sin evidencia)."
+                ],
+                "argumentos_afectivos": [
+                    "Los ánimos en nuestra actual pandemia... (apela a sentimiento colectivo de malestar).",
+                    "victimas de vuestras propias pretenciones (lenguaje que busca provocar victimización y carga emocional).",
+                    "Es muy sencillo desentenderse del claro maltrato... y pedirles sin tanta amenaza pero clara presión algo más de su tiempo (apela a indignación y temor).",
+                    "oficinas claustrofóbicas (uso de adjetivo emocional para influir sobre la percepción).",
+                    "nos la impusieron, primero el virus, ahora nuestros empleadores (apela a sensación de conspiración/imposición).",
+                    "evidentes mentiras si nos ponemos a pensar (lenguaje acusatorio y persuasivo que busca desacreditar sin evidencias)."
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 2,
+        "resultado": {
+            "errores": {
+                "argumentos_solidos": [
+                    "Según un estudio realizado en Chile el año 2010 por la Potificia Universidad Católica de Chile, \"Impactos en el aprendizaje\", lo que mayormente afecta el aprendizaje del niño es la dinámica familiar con la que viene integrado",
+                    "Mientras no se consiga una inmunidad de \"revaño\", no seria recomendable la interacción entre pares de niños y adolescetes debido al alto riesgo de contagio al cual se verian expuestos.",
+                    "Como núcleo familiar, se debe incentivar y ayudar a incorporar estos nuevos proptocolos de vida en niños y adolescentes, para que a la hora de interactuar entre ellos, puedan realizarlo de la manera más segura y adecuada, alentando sus capacidades sociales, y con esto un correcto desarollo en su aprendizaje."
+                ],
+                "argumentos_debiles": [
+                    "La pandemia provocada por el virus Covid-19 ha generado profundos cambios a nivel social y cultural en todo el mundo. Sin duda, ha sido un impacto en todos los parámetros de la vida diaria, siendo uno el más preocupantes, el proceso de aprendizaje de niños y adoloscentes.",
+                    "En estudios realizados en paises de latinoamérica, se conoce que las habilidades de aprendizaje de un niño, se dividen en 4 grandes áreas. Uno, aprendizaje familiar... aprendizaje cognitivo... aprendizaje selectivo... aprendizaje social (citación vaga, sin fuentes específicas).",
+                    "Los niños que no desarrollan alguna de estas habilidades, ya sea, a nivel familiar, cognitiva, selectiva o social, son un 80% mas propensos a tener problemas en sus capacidades de aprendizaje, llegando hasta un 95% cuando se ven afectas 2 o más de estas. (porcentajes presentados sin fuente ni metodología).",
+                    "Esto se debe, a que cada una de ellas no puede desarrollarse sin la interacción de las demás. (afirmación causal sin evidencia presentada).",
+                    "El aprendizaje virtual, limita las capacidades de aprendizaje del los niños y adolescentes sometidos a este sistema. (tesis central expuesta sin evidencias empíricas en el texto).",
+                    "Si la dinámica con sus pares se ve afectada, y según los dichos del profesor Sebastian Torres, académico de la PUC, esto \"limita el desarrollo... también, las interacciones laborales...\" (argumento apoyado en autoridad individual y citado de forma vaga).",
+                    "el cual ha reducido casi en 75% las complicaciones del Covid-19 (afirmación numérica sobre vacunas sin referencia ni contexto)."
+                ],
+                "argumentos_afectivos": [
+                    "Sin duda, ha sido un impacto en todos los parámetros de la vida diaria (apelo enfático, emocional).",
+                    "han dado una esperanza para volver a la vida normal. (apelo a la esperanza/optimismo).",
+                    "lo cual nos deja en evidencia la importancia de este nivel social. (lenguaje emotivo que enfatiza la importancia sin evidencia adicional)."
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 3,
+        "resultado": {
+            "errores": {
+                "argumentos_solidos": [
+                    "Aunque la actividad física mejore nuestra salud, ésta siempre se verá perjudicada por la contaminación.",
+                    "Existen estudios que demuestran que los habitantes de las grandes ciudades, en conjunto, inhalan tanta contaminación como una persona fuera de la ciudad que fuma 4 cigarros al día; lo cual, en consecuencia, trae consigo fuertes repercusiones para la salud a futuro."
+                ],
+                "argumentos_debiles": [
+                    "La acción de una persona que decida tomar el bus en vez de ir en auto... puede influir en otros y así, a la larga, causar un gran imparto en la reducción de la contaminación en las grandes ciudades. Por esto el gobierno debiese disminuir la tarifa del bus y asi incentivar a las personas a preferir este transporte.",
+                    "El gobierno podria poner mayores anuncios incentivando a dejar de fumar dentro de las ciudades y el uso de mascarillas para filtrar el aire que inhalan.",
+                    "Si bien pueden haber personas quienes afirman que a pesar de las medidas que pudiese implementar el gobierno, las personas igual seguirían actuando de la misma manera, análisis de comportamiento de los individuos en las grandes ciudados nos dicen que si bien algunos individuos efectivamente continuarán con su actuar, pero la mayoría, al tener incentivos, cambiará su actuar y ayudarán a apalear efectos de la contaminación aunque no se estén dando cuenta.",
+                    "Así, podemos concluir... el aporte de cada \"granito de arena\", al juntarse, progresivamente disminuirán la contaminación ambiental y tendrá efectos positivos, tanto en el medio ambiente, como en la salud de las personas."
+                ],
+                "argumentos_afectivos": [
+                    "A lo largo de la historia del ser humano, la actividad física ha sido pilar fundamental en relación a la supervivencia de este, frente a cualquier dificultad o evento que ponga en peligro su vida.",
+                    "la actividad física mejore nuestra salud, ésta siempre se verá perjudicada por la contaminación.",
+                    "el aporte de cada \"granito de arena\" (metáfora apelativa a la solidaridad colectiva).",
+                    "serán en su mayoría para bien (afirmación optimista y valorativa sin evidencia)."
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 4,
+        "resultado": {
+            "errores": {
+                "argumentos_solidos": [
+                    "Las políticas públicas son las encargadas de crear esos grandes cambios sociales que afectan a nuestra salud, de forma específica el vivir en un espacio libre de contaminación.",
+                    "La práctica colectiva y la creación de una cultura social (por ejemplo, en Chile la costumbre de tirar la basura a los basureros) genera cambios profundos que ayudan a mejorar la salud pública.",
+                    "Los cambios individuales pueden provocar que otras personas imiten esas prácticas y eventualmente se creen políticas públicas o colectivos que apoyen ese cambio ('las acciones arrastran')."
+                ],
+                "argumentos_debiles": [
+                    "Antes podía haber una persona que dejara de ocupar bolsas, pero realmente no iba hacer los cambios necesarios como los hace que toda una población deje de ocupar estas.",
+                    "El fin de esta acción creada por el gobierno ayuda que se disminuyan los gases inevernaderos que afectan tanto a la salud de las mismas personas como al medio ambiente.",
+                    "Pongo el caso de que Chile no tuviera esa cultura y fuera similar a lo que pasa en India en donde gran parte de las personas tiran toda la basura en cualquier parte tendríamos una salud bastante más precaria a la que tenemos actualmente como sociedad.",
+                    "Muchas de esas personas viven rodeadas de basura dentro y afuera de sus casas, también varios toman agua de la cual muchas veces está contaminada, provocando graves consecuencias sanitarias.",
+                    "Debe estar en mano de algo más grande que una persona en particular."
+                ],
+                "argumentos_afectivos": [
+                    "Para que se eliminen las condiciones deplorables de las cuales se encuentra viviendo diariamente nuestra salud al estar dentro de las grandes ciudades",
+                    "para que toda persona pueda vivir una vida digna y una buena salud",
+                    "\"las acciones arrastran\"",
+                    "graves consecuencias sanitarias"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 5,
+        "resultado": {
+            "errores": {
+                "argumentos_solidos": [
+                    "La garantía de la libertad de expresión permite la existencia de voces disidentes y la pluralidad de miradas en asuntos públicos.",
+                    "Permitir controles ex ante aumenta el riesgo de arbitrariedad y abuso por parte de quien decide lo socialmente aceptable (argumento sobre la concentración de poder).",
+                    "Es preferible imponer límites ex post porque permite que el juicio social sobre lo reprochable sea conocido y valorado públicamente (razonamiento práctico y democrático, referido a la paradoja de la tolerancia de Popper).",
+                    "La libertad de expresión es un bien esencial en una democracia liberal y constituye la garantía del ejercicio de otros derechos (premisa normativa fundada en la estructura de derechos democráticos)."
+                ],
+                "argumentos_debiles": [
+                    "El riesgo de la arbitrariedad y el abuso es demasiado alto para ser aceptado por una democracia (generalización categórica sin evidencia empírica ni consideración de salvaguardas).",
+                    "Dado que esa posibilidad es tan peligrosa, es mejor defender la libertad de expresión antes que limitarla (valoración normativa absoluta que no pondera costos concretos ni casos límite).",
+                    "Si el control es previo y no posterior, solo la autoridad impondría el control (simplificación que ignora mecanismos de control democrático o judicial).",
+                    "Esta crítica, formulada entre otros por Popper, presenta un punto que no puede ser obviado (uso de autoridad intelectual sin desarrollar plenamente el argumento ni presentar contraargumentos empíricos)."
+                ],
+                "argumentos_afectivos": [
+                    "Dar demasiado poder (formular el problema en términos de ‘demasiado poder’ apela a la alarma y el temor).",
+                    "El riesgo ... es demasiado alto para ser aceptado (lenguaje emotivo que busca provocar rechazo sin matices).",
+                    "Piedra angular de una democracia (metáfora reverencial que apela al orgullo cívico).",
+                    "Una democracia que se precia de defender los derechos de sus ciudadanos (apelación a la identidad y honor democrático para persuadir)."
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 6,
+        "resultado": {
+            "errores": {
+                "argumentos_solidos": [
+                    "El teletrabajo se introdujo como un mecanismo para poder seguir cumpliendo con las demandas laborales y al mismo tiempo respetar las cuarentenas evitando la propagación del virus."
+                ],
+                "argumentos_debiles": [
+                    "Son muchas las personas en todo el mundo que se han tenido que adecuar a este nuevo escenario (afirmación general sin datos cuantitativos).",
+                    "El encierro junto con la sobrecarga laboral han generado un alto impacto en la salud mental de las personas que trabajan desde sus casas (afirmación categórica sin evidencia ni cifras)."
+                ],
+                "argumentos_afectivos": []
+            }
+        }
+    },
+    {
+        "id_texto": 7,
+        "resultado": {
+            "errores": {
+                "argumentos_solidos": [
+                    "Es necesario tener conocimiento de las políticas educativas actuales para abordar el tema.",
+                    "El currículum actual enfatiza la diversidad cultural y busca crear espacios seguros y respetuosos.",
+                    "Es importante en los primeros años otorgar prioridad a valores, costumbres y tradiciones para que las nuevas generaciones conozcan sus orígenes.",
+                    "Realizar el mismo ejercicio con comunidades inmigrantes permite identificar similitudes y diferencias entre las poblaciones de la comunidad educativa."
+                ],
+                "argumentos_debiles": [
+                    "Se generaliza que un gran porcentaje de la población (descrita como conservadora, nacionalista o 'fascista') opina que el mestizaje cultural provocará pérdida de cultura y valores (generalización y lenguaje ad hominem).",
+                    "Afirmar que las políticas de inclusión suelen ser solo una 'invitación' y no una integración real de las diversidades culturales sin aportar evidencia.",
+                    "Asegurar que la inclusión efectiva será enriquecedora para todas las culturas sin datos que respalden ese resultado (afirmación causal especulativa)."
+                ],
+                "argumentos_afectivos": [
+                    "Asociar a quienes se oponen a la inclusión con términos emotivos y descalificadores como 'fascistas' para desacreditarlos.",
+                    "Describir la integración como 'extremadamente enriquecedora' y las relaciones como 'mucho más nutritivas' apelando a emociones positivas sin evidencia.",
+                    "Apelar a valores y sentimientos al afirmar que la educación debe dejar de perpetuar 'competencia, individualidad y soberbia' y pasar a 'colaboración, comprensión y respeto' sin argumentación empírica."
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 8,
+        "resultado": {
+            "errores": {
+                "argumentos_solidos": [
+                    "El teletrabajo ha sido una forma de continuar realizando las actividades productivas durante la pandemia en Chile."
+                ],
+                "argumentos_debiles": [
+                    "Siendo esta una nueva modalidad, no se han determinado las consecuencias que puede tener en la salud mental de las personas (argumento por ignorancia, sin evidencias concretas).",
+                    "Dado que el hogar es un lugar clave para la salud mental, se debe educar a los trabajadores para que puedan compatibilizar el trabajo con el hogar (prescripción sin datos que la respalden ni análisis de efectividad).",
+                    "Esta nueva modalidad... es menos exigente laboralmente. Causando que estos contacten a los empleados fuera del horario laboral para pedir que realicen ciertas funciones (generalización y cadena causal sin evidencia).",
+                    "El trabajador no tiene la confianza para decirle a su jefe que no se encuentra en horario laboral, lo que podría causar problemas interpersonales (afirmación generalizada sobre conducta y relaciones laborales sin apoyo empírico).",
+                    "Se deben realizar normas y regulaciones para el trabajo online, considerando que esto podría significar una nueva normalidad por mucho tiempo más (recomendación normativa que carece de justificación empírica en el texto)."
+                ],
+                "argumentos_afectivos": [
+                    "Por una parte, el hogar es uno de los lugares donde las personas pueden descansar... es un escape para la realidad un tanto estresante en la que vivimos (apelación al confort y al alivio emocional).",
+                    "En este ensayo se sostiene que el teletrabajo amenaza la integridad psicológica de los trabajadores (afirmación alarmista sin evidencias, apelación al miedo).",
+                    "El estrés del trabajo puede causar que tengas actitudes desagradables con la familia... puede desencadenar malos tratos con la pareja e hijos, generando un mal ambiente familiar (apela al miedo y a la emotividad familiar sin pruebas).",
+                    "Aunque debe tratarse con mucho cuidado, por que amenaza al bienestar psicológico de los trabajadores y del ambiente familiar (lenguaje preventivo y emocional que busca persuadir por preocupación)."
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 9,
+        "resultado": {
+            "errores": {
+                "argumentos_solidos": [
+                    "Al crear un espacio definido en el hogar para la realización del trabajo se logra asociar solo ese lugar a las tareas diarias dejando de forma separada el resto de la casa.",
+                    "Una práctica habitual es quedarse trabajando más de las horas establecidas debido a que no existen cierres de oficina ni la necesidad de traslado.",
+                    "Existen diferentes prácticas que pueden ayudar a evitar que esto ocurra, como la realización de deporte, cocinar u otro \"hobby\" luego de terminar de trabajar."
+                ],
+                "argumentos_debiles": [
+                    "Es preciso destacar que es posible realizar teletrabajo de manera sana.",
+                    "Es necesario cumplir con los horarios de oficina y no quedarse más allá de lo necesario en el espacio designado para el trabajo (afirmación sin evidencia empírica presentada).",
+                    "Esta situación también se vive en el trabajo de oficina y tiene mayor relación con el tipo de ritual de cierre que con el lugar donde se trabaja (generalización sin soporte).",
+                    "De esta forma, los gobiernos deberían promover campañas que enseñaran estas estrategias para mantener la sanidad mental de las personas mientras dure el trabajo desde el hogar (recomendación política sin justificación sobre eficacia)."
+                ],
+                "argumentos_afectivos": [
+                    "Existe una controversia sobre si esta práctia pone en peligro al hogar como espacio seguro, de descanso y tranquilidad.",
+                    "De esta forma, se disminuye la sensación de cansancio al poder utilizar el resto de las áreas como lugar de descanso y despreocupación de los temas laborales.",
+                    "El mantener los horarios designados logra disminuir la ansiedad al eliminar la sensación de trabajo permanente.",
+                    "Mantener la sanidad mental de las personas mientras dure el trabajo desde el hogar (apelación a la preocupación emocional colectiva)."
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 10,
+        "resultado": {
+            "errores": {
+                "argumentos_solidos": [
+                    "Según los datos entregados por el Ministerio de Educación, aproximadamente un 60% de los estudiantes de enseñanza media no cumplen con el aprendizaje según malla curricular."
+                ],
+                "argumentos_debiles": [
+                    "Es lógico que la solución sea volver a clases presenciales, con tal de corregir las alteraciones en el aprendizaje.",
+                    "Diversos estudios de salud han surgido a razón de las clases virtuales, dando como resultado un déficit en la nutrición de los estudiantes y una salud mental que difiere de lo saludable, siendo la causa la permanente convivencia familiar.",
+                    "La casa no es un lugar adecuado para enfrentar los desafíos educacionales.",
+                    "Esta aseveración carece de sustento, ya que las estadísticas nos muestran un nivel de contagio casi despreciable en torno a las clases presenciales.",
+                    "Asimismo, el Covid-19 afecta en menor medida a los menores, por lo tanto, existen claras muestras que las clases presenciales deben integrarse con mayor fuerza.",
+                    "Llevar a cabo este sistema presencial es el desafío planteado por el Ministerio de Educación, quienes han impusado dicho sistema.",
+                    "De esta manera, es posible afirmar que las clases presenciales son la solución para rectificar el déficit en el aprendizaje y para los problemas de salud que han presentado los estudiantes a causa de las clases virtuales."
+                ],
+                "argumentos_afectivos": [
+                    "Es necesario insistir en que la salud de los estudiantes se encuentra en riesgo.",
+                    "La permanente convivencia familiar (como causa de problemas de salud mental) apelando a la imagen negativa del hogar.",
+                    "Las clases presenciales son la solución (repetida como afirmación categórica sin mayor evidencia), presentada como consuelo o certezas emocionales.",
+                    "Realizar así una respuesta asertiva de acuerdo al contexto por el cual estamos viviendo (apelación al contexto emocional compartido)."
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 11,
+        "resultado": {
+            "errores": {
+                "argumentos_solidos": [],
+                "argumentos_debiles": [
+                    "El texto apela a la autoridad de la encíclica y del Papa (\"En su encíclica Fratelli Tutti el Papa Francisco... sintoniza con los reclamos...\"), sin aportar datos o evidencias que sostengan la interpretación.",
+                    "Afirmación causal no demostrada: que condenar el individualismo y proteger al pobre \"incentiva y asegura\" el bienestar integral y el bien común (se presenta como consecuencia segura sin pruebas).",
+                    "Generalización normativa: \"esta solidaridad... puede y debe ser practicada por todos los hombres\" (se impone una obligación universal sin justificar por qué sería aplicable a todos en contextos diversos).",
+                    "Afirmación vaga y no sustentada: \"la solidaridad es un modo de hacer historia\" (metáfora/afirmación histórica sin evidencia empírica ni razonamiento detallado).",
+                    "Relación causal débil: \"Quien practica la solidaridad... dirige sus esfuerzos... a crear un cambio estructural\" (se asume que la práctica de solidaridad conduce a cambios estructurales como hacen los movimientos sociales, sin mostrar mecanismos ni casos).",
+                    "Argumento moral prescriptivo sin justificación: \"el amor al prójimo... nos obliga a darle incluso más\" (se asume una obligación normativa absoluta sin fundamento filosófico o empírico explícito).",
+                    "Argumento por autoridad sobre la originalidad y radicalidad del Papa: se afirma que va más allá de la tradición y crea una propuesta \"cristiana y revolucionaria\" sin evidenciar en qué consiste la novedad ni contrastar con otras posiciones.",
+                    "Generalización histórica sin soporte: \"Todos los pontífices trabajan para hacer del mundo un lugar mejor...\" (afirmación amplia y no demostrada sobre la acción y motivaciones de todos los pontífices).",
+                    "Afirmación categórica y falaz: presentar la forma de vida actual como \"tiránica\" e incompatibilidad absoluta con el desarrollo integral, sin matices ni evidencias que sostengan la imposibilidad."
+                ],
+                "argumentos_afectivos": [
+                    "Apelación al sentimiento de justicia y protección del pobre: \"la protección del pobre\" como fundamento moral central.",
+                    "Apelación al amor y valores religiosos: \"solidaridad cristiana\", \"amor al prójimo\" para justificar prácticas sociales.",
+                    "Llamados emotivos a la dignidad humana: \"bienestar integral\", \"vida digna\" como razones principales sin respaldo empírico.",
+                    "Frases persuasivas/normativas con carga emocional: \"hacer un mundo mejor para todos\", \"hombres de buena voluntad\".",
+                    "Lenguaje valorativo y cargado: describir la forma de vida actual como \"individualista y explotadora\" y \"tiránica\" para provocar rechazo emocional."
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 12,
+        "resultado": {
+            "errores": {
+                "argumentos_solidos": [
+                    "Las prácticas de autocuidado promueven una relación más sana y consciente con el cuerpo.",
+                    "Mantener actividad física de manera regular ayuda a la regulación hormonal, la capacidad respiratoria, desarrollo muscular, o el peso correcto.",
+                    "La alimentación balanceada como una dieta y no como un régimen o la incorporación de probióticos ayudan a fortalecer el sistema inmune.",
+                    "Todas son prácticas favorables que llevan a la medicina a una postura más preventiva y educativa que asistencialista.",
+                    "Los problemas efectivos no se solucionan con cambios individuales, sino con cambios de políticas y en la legislación frente a los factores nocivos."
+                ],
+                "argumentos_debiles": [
+                    "\"Se ha demostrado la incidencia positiva de las prácticas de autocuidado...\": afirmación vaga sin datos ni fuentes concretas.",
+                    "\"Desde distintos medios, aparecen constantemente investigaciones...\": generalización sobre la cantidad y calidad de la evidencia sin respaldo.",
+                    "La masificación de esta información ... es una manera de desviar la atención y poner soluciones parche: atribuye intencionalidad a instituciones y marcas sin pruebas (posible falacia ad hominem/conspirativa).",
+                    "La actividad física no solucionará los problemas respiratorios de la población, ni los sellos eliminarán la obesidad, pero siempre el problema es traspasado hacia la población.: formulación categórica ('siempre') y generalización excesiva.",
+                    "La información al respecto debiese ser más honesta, y no guiada por intereses políticos o económicos: acusación de sesgo sin evidenciar casos concretos."
+                ],
+                "argumentos_afectivos": [
+                    "Es evidente que las acciones individuales son sólo una salida rápida, pues no erradican el problema.: apelación a la certeza y tono enfático.",
+                    "La promoción de las prácticas de autocuidado son importantes, pero en función de la integridad personal y no en función de otro.: apelación a valores morales (integridad) más que a evidencia.",
+                    "La información al respecto debiese ser más honesta ... hablando las cosas como son y no con segundas intenciones.: apelación emocional a la honestidad y desconfianza.",
+                    "Poner soluciones parche: lenguaje peyorativo diseñado para generar rechazo emocional hacia la promoción del autocuidado.",
+                    "Que a pesar de en efecto ser algo positivo para nuestra sociedad, es una manera de desviar la atención: framing que apela a sospecha y desconfianza."
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 13,
+        "resultado": {
+            "errores": {
+                "argumentos_solidos": [
+                    "El virus COVID-19 llegó a Chile a finales de febrero o comienzo de marzo.",
+                    "La llegada del virus provocó cuarentenas regionales y medidas como uso de mascarillas y lavado de manos.",
+                    "El presidente convocó un plebiscito para modificar o sustituir la constitución de 1980 y la fecha fue postergada a octubre debido a la pandemia.",
+                    "El virus puede presentarse de forma asintomática, lo que complica la salud de otras personas.",
+                    "Un contagiado pone en peligro la salud de otras personas, justificando medidas para evitar contagios."
+                ],
+                "argumentos_debiles": [
+                    "La pandemia trajo consecuencias aun mas graves que las ocurridas en el estallido social.",
+                    "No todos vamos a poder tener nuestro derecho a voto porque aún hay muchos casos de contagios y mucha gente internada por este virus.",
+                    "Realizar las votaciones implica la reunión de muchas personas en un lugar cerrado, no respetando el distanciamiento social (se asume inevitabilidad sin considerar medidas organizativas).",
+                    "Es un virus super contagioso que con una sola persona contagiada seria sufienciente para contagiar a todos los involucrados (exageración).",
+                    "Muchas personas ya contagiadas con el virus tambien estan en el derecho en su derecho a voto que no prodran realizar (afirmación vaga y sin evidencia sobre impedimentos prácticos)."
+                ],
+                "argumentos_afectivos": [
+                    "La vida humana es el primer derecho que claramente se ve afectado en estos casos.",
+                    "Todos tenemos el derecho y deber de participar del plebiscito de este octubre, porque todos el voto de uno puede hacer el cambio.",
+                    "En el caso de los contagiados claramente se ve una discriminación negándoles su participación en el plebiscito."
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 14,
+        "resultado": {
+            "errores": {
+                "argumentos_solidos": [],
+                "argumentos_debiles": [
+                    "La afirmación de que la rebaja de la indemnización de Julio Ponce Lerou 'es parte de una serie de irregularidades en la historia reciente de Chile' — generalización sin evidencias, datos ni razonamientos que la respalden.",
+                    "Ausencia de contexto y pruebas que vinculen ese caso concreto con otras supuestas irregularidades; falta de hechos, cifras o desarrollo lógico."
+                ],
+                "argumentos_afectivos": [
+                    "La pregunta retórica '¿Qué tan legítima es esta medida tomada por la Corte Suprema?' induce a la desconfianza sin aportar argumentos ni evidencia, apelando implícitamente a creencias o emociones."
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 15,
+        "resultado": {
+            "errores": {
+                "argumentos_solidos": [
+                    "El confinamiento busca prevenir los riesgos de contagio en lugares cerrados (oficinas, escuelas, transporte público), por lo que el teletrabajo se ha convertido en la principal forma de protección ante el COVID-19.",
+                    "El confinamiento impide respetar la distancia social en espacios cerrados, lo que justifica evitar el desplazamiento de la población.",
+                    "El confinamiento es un factor estresor en espacios muy pequeños donde familias deben compatibilizar tareas escolares, laborales y necesidades básicas, lo que puede generar tensión y malestar."
+                ],
+                "argumentos_debiles": [
+                    "Se vio un aumento de trastornos ansiosos y depresivos en gran parte del mundo debido a los cambios en las rutinas (afirmación general sin datos ni fuentes).",
+                    "El teletrabajo altera la dinámica laboral porque no existen límites para el tiempo que una persona está frente al computador, afectando negativamente la salud mental de miles de personas (generalización y salto causal sin evidencia).",
+                    "No existe la posibilidad de interactuar con el resto del personal, lo que reduce el desempeño laboral (afirmación absoluta que omite matices y evidencia).",
+                    "En muchas partes del mundo han aumentado las consultas a psiquiatría y el uso de medicamentos ansiolíticos en todo el mundo (afirmación global sin referencias ni cifras).",
+                    "La calidad de vida se ha visto afectada de manera considerable y la imposibilidad de salir a plazas o playas aumenta los signos ansiosos (vinculación causal presentada sin respaldo empírico).",
+                    "Muchos estudios en años anteriores sugerían que el estrés es una de las principales patologías en personas en edad laboral (mención vaga de estudios sin especificar ni contextualizar)."
+                ],
+                "argumentos_afectivos": [
+                    "Se han visto otras problemáticas a consecuencia del estar \"encerrados\" (uso de lenguaje emotivo y apelación a la sensación de encierro).",
+                    "Es una señal de alarma para el sistema de salud ya que señala que algo no anda bien en la población (apela al miedo y a la alarma social).",
+                    "Afectando negativamente en la salud mental de miles de personas (uso repetido de \"miles de personas\" para generar impacto emocional)."
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 16,
+        "resultado": {
+            "errores": {
+                "argumentos_solidos": [
+                    "Las clases virtuales resguardan la salud de estudiantes y familiares y permiten la continuidad educativa, por lo que no deben volver las clases presenciales (argumento causal sobre reducción de riesgo).",
+                    "El teletrabajo escolar reduce el riesgo de contagio porque un profesor o funcionario podría transportar el virus y contagiar a alumnos, incluso si existen protocolos (argumento de riesgo residual).",
+                    "Las clases virtuales permiten igualdad de acceso para alumnos que no disponen de un medio de transporte seguro, reduciendo desigualdades relacionadas con el uso del transporte público."
+                ],
+                "argumentos_debiles": [
+                    "Afirmación de que el vacío de conocimiento se debe exclusivamente a los métodos de enseñanza y evaluación utilizados, y que basta con cambiarlos para resolver el problema (afirmación causal sin evidencia).",
+                    "Presentar que el aprendizaje virtual no genera los mismos resultados que las clases presenciales como una objeción generalizada, sin aportar datos que respalden la magnitud o causas de ese supuesto déficit.",
+                    "Generalizaciones sobre 'la gran mayoría de los colegios' que han cerrado y sobre la 'gran cantidad de personas' que usan transporte público, sin cifras ni fuentes que sostengan esas afirmaciones.",
+                    "Sugestión de que, transcurrido aproximadamente un año, simplemente adoptando nuevos métodos los colegios podrían completar satisfactoriamente los requerimientos educativos (optimismo normativo sin respaldo empírico)."
+                ],
+                "argumentos_afectivos": []
+            }
+        }
+    },
+    {
+        "id_texto": 17,
+        "resultado": {
+            "errores": {
+                "argumentos_solidos": [],
+                "argumentos_debiles": [
+                    "Las grandes empresas generan una enorme cantidad de suciedad al aire que respiramos día a día. (afirmación general sin evidencia ni datos)",
+                    "Practicar deporte es muy beneficioso para nuestro organismo; por lo menos tres veces a la semana. (recomendación cuantitativa sin respaldo empírico)",
+                    "Los expertos aseguran que realizando lo anterior, nuestros pulmones se mantendrán sanos. (apelación a la autoridad sin citar estudios ni datos)",
+                    "En los establecimientos educacionales no se está haciendo la cantidad necesaria de deporte. (afirmación sobre la realidad escolar sin pruebas ni estadísticas)",
+                    "Incentivar a los niños desde pequeños a hacer deportes es muy importante para que sigan haciéndolo a medida que vayan creciendo. (generalización sobre formación de hábitos sin evidencia específica)",
+                    "Si se mantiene un organismo bien cuidado haciendo actividad física frecuentemente, este aire contaminado no nos afectará tanto. (afirmación causal fuerte e infundada; posible falacia de exceso de generalización)",
+                    "Por esto el gobierno debe lanzar alguna campaña o ley que fomente el deporte en la población desde que son pequeños. (conclusión normativa basada en vínculos no demostrados entre deporte y mitigación de efectos de la contaminación)"
+                ],
+                "argumentos_afectivos": [
+                    "La contaminación del aire se ha convertido en un gran problema para las grandes ciudades. (uso de lenguaje que apela a la preocupación/alarma sin datos concretos)",
+                    "Practicar deporte es muy beneficioso para nuestro organismo, por lo que en mi opinión, se debe hacer un cambio en la educación escolar. (apela a la opinión personal como fundamento)",
+                    "Se ha vuelto muy difícil detener esto, pues las grandes empresas generan una enorme cantidad de suciedad... (tono emotivo y acusatorio)",
+                    "Ellos se equivocan, pues si se mantiene un organismo bien cuidado... (descalificación emotiva de la postura contraria)",
+                    "Para así combatir de alguna forma este gran problema que tenemos con el aire. (apelación emocional a 'combatir' un problema sin especificar mecanismos)"
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 18,
+        "resultado": {
+            "errores": {
+                "argumentos_solidos": [],
+                "argumentos_debiles": [
+                    "La pandemia del COVID-19 ha generado una serie de cuestionamientos sobre la importancia del cuidado y el mantenimiento de la salud entre los diferentes habitantes del mundo.",
+                    "Existen profundas diferencias en las medidas adoptadas por cada país y en las condiciones de vida iniciales de sus integrantes, lo que se visibiliza en las consecuencias del abordaje del virus.",
+                    "La pandemia del COVID-19 se instaura como un hito importante dentro de las trayectorias vitales de cada individuo.",
+                    "Es necesario que las políticas públicas actúen ante las consecuencias laborales, psicológicas y sociales del encierro prolongado y consideren la desigualdad de acceso y de recursos que experimentan las personas en Chile.",
+                    "Muchos autores de diversas disciplinas han planteado que el ser humano es gregario y desarrolla su emocionalidad y socialización con los demás; por tanto, esos postulados deberían aplicarse al contexto actual.",
+                    "Se puede plantear como horizonte el desarrollo de una mejor calidad de vida y, por ello, una mejor calidad de políticas públicas en ámbitos laboral, educacional, social, salud y legal."
+                ],
+                "argumentos_afectivos": [
+                    "El COVID-19 representa un desafío para la actualización de programas y normativas gobernamentales cuya base sea la preocupación por la 'dignidad' y la calidad de vida de cada uno de sus miembros.",
+                    "La apelación a la 'dignidad' y a la calidad de vida (por ejemplo en el acceso a alimentos y en las condiciones laborales) como fundamento moral para la acción pública."
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 19,
+        "resultado": {
+            "errores": {
+                "argumentos_solidos": [],
+                "argumentos_debiles": [
+                    "Predicción sin respaldo: 'será recordada' no aporta evidencia ni razonamiento que sostenga la afirmación.",
+                    "Afirmación factual sin datos: 'pérdidas humanas y económicas' se presenta sin cifras, fuentes ni ejemplos que la fundamenten.",
+                    "Generalización: 'la mayoría de los países y estados del mundo' es una extrapolación amplia sin datos que la justifiquen."
+                ],
+                "argumentos_afectivos": [
+                    "Apelación emocional implícita: el empleo de 'pérdidas humanas' apela al sentimiento de pérdida y puede buscar conmover sin ofrecer justificación."
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 20,
+        "resultado": {
+            "errores": {
+                "argumentos_solidos": [
+                    "Las distintas organizaciones sanitarias han determinado cuarentenas para evitar el contacto entre las personas, y así reducir los contagios.",
+                    "Con el pasar de los meses la pandemia se ha vuelto además de una crisis sanitaria, una que afecta la economía, psicología y muchas otras disciplinas.",
+                    "Todas las personas que puedan hacer su trabajo desde la comodidad de sus casas deberían hacerlo... para así poder dar espacio a las personas que no tienen esta comodidad y necesitan salir a trabajar.",
+                    "Luego de algunos meses siguiendo esta estrategia, se ha podido observar en Europa el surgimiento de una 'segunda ola', la cual ha generado nuevos desafíos de gestión."
+                ],
+                "argumentos_debiles": [
+                    "El covid-19 es un virus mortal que actualmente ha afectado a todos los paises, convirtiéndose así en una de las pandemias que más ha asotado a nuestra civilización.",
+                    "La gente más pobre lamentablemente es más riesgosa a nuevos contagios, ya que usan el sistema de transporte público mucho más que la gente con mayores recursos, y es en esta situación donde el contacto entre personas es inevitable y muy frecuente.",
+                    "La gente de mayores recursos generalemente son los más aptos para hacer su trabajo desde las casas. En cambio la gente más pobre usualmente trabajan como mano de obra, usando sus manos para trabajar.",
+                    "Es muy complicado determinar qué sectores son los que pueden trabajar desde sus casas y que sectores no, ya que probablemente en todos los sectores se encuentren personas en ambas situaciones.",
+                    "Es mejor dejar salir a trabajar a un jardinero que necesita del dinero y no tiene contrato de trabajo que a un empresario que puede trabajar desde su casa, aún que sea un poco más riesgoso dejar salir al jardinero."
+                ],
+                "argumentos_afectivos": [
+                    "El mayor problema es que las personas más pobres son las que se encuentran más afectadas por estas cuarentenas, generando un fuerte descontento de estos sectores.",
+                    "Además, se debe tomar con seriedad el tema de la salud mental de las familias, ya que luego de tantos meses encerrados temas como la violencia intrafamiliar, los divorcios e intentos de suicidio han empezado a salir a la luz.",
+                    "No es lógico mantener a una persona encerrada en su casa para evitar que se contagie y así 'cuidar su salud' mientras esté tan desesperado por trabajar y traer comida para su familia que piense en suicidarse.",
+                    "Para concluir, creo que es muy importante dejar de ver al covid-19 solo como un problema santiario, y debemos comenzar a ver de manera panorámica todos los efectos sobre las personas."
+                ]
+            }
+        }
+    }
+]
