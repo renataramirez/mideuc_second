@@ -3,16 +3,16 @@
         "id_texto": 1,
         "resultado": {
             "introduccion": {
-                "nivel": 3,
-                "justificacion": "Existe un párrafo inicial que menciona la pandemia y el tema central (salud mental y trabajo), pero la contextualización (quiénes, dónde, cuándo) es imprecisa y la redacción confusa."
+                "nivel": 2,
+                "justificacion": "La primera sección no cumple una introducción clara con los cuatro elementos exigidos. Sí aparece el 'qué' (salud mental y trabajo permanente) pero de forma imprecisa y difusa; el 'cuándo' solo se alude vagamente a \"nuestra actual pandemia\" (periodo general, no un marco temporal preciso). No se identifican 'quiénes' concretos (no hay actores nombrados; solo referencias genéricas a \"asociados\" o lectores) ni un 'dónde' geográfico o contexto espacial explícito. Además la oración inicial es larga y discursiva, no constituye una introducción clara de 1–2 oraciones específicas."
             },
             "conclusion_cierre": {
-                "nivel": 4,
-                "justificacion": "Hay un cierre claro que plantea una conclusión/recomendación (estructurar y centrar el trabajo remoto) que proyecta la tesis del texto."
+                "nivel": 2,
+                "justificacion": "El texto termina con recomendaciones prácticas (estructura semipersonalizada, cybercafés, bloqueo de llamadas) pero no ofrece una síntesis reformulada de la idea principal ni una proyección explícita de consecuencias o escenarios futuros. Hay un intento de cierre práctico, pero carece de una reformulación clara del argumento central y de implicaciones desarrolladas; por tanto es un cierre abrupto que solo intenta concluir."
             },
             "progresion_textual": {
-                "nivel": 3,
-                "justificacion": "Se distinguen párrafos con información principal, pero al menos un párrafo repite ideas ya tratadas (comodidad/flexibilidad impuesta), por lo que no todos aportan información nueva."
+                "nivel": 2,
+                "justificacion": "Hay redundancia temática en varios párrafos: el segundo y el cuarto repiten la crítica a la falta de regulación y explotación laboral; el tercero retoma argumentos sobre efectos en rutina/sueño que ya se insinúan en el primer párrafo; el quinto repite la necesidad de estructurar el teletrabajo sin aportar un subtema nuevo. Faltan conectores lógicos claros entre párrafos y la división de ideas es pobre (cambios abruptos, frases desorganizadas), por lo que existen al menos dos párrafos que resultan redundantes y la progresión no es coherente."
             }
         }
     },
@@ -20,16 +20,16 @@
         "id_texto": 2,
         "resultado": {
             "introduccion": {
-                "nivel": 4,
-                "justificacion": "Hay una introducción clara que contextualiza el tema (pandemia, impacto global) y plantea la pregunta sobre el aprendizaje virtual en niños y adolescentes."
+                "nivel": 2,
+                "justificacion": "El texto presenta un 'qué' general (impacto de la pandemia y aprendizaje virtual) y menciona grupos afectados ('niños y adolescentes'), pero ambos son poco específicos. No contiene un 'dónde' (ubicación geográfica o contexto espacial preciso en la introducción) ni un 'cuándo' concreto (periodo o fecha). Además la exposición inicial es amplia y poco acotada en 1-2 oraciones claramente definidas, por lo que faltan elementos exigidos para un nivel 4."
             },
             "conclusion_cierre": {
-                "nivel": 4,
-                "justificacion": "El texto cierra con una recomendación concreta al núcleo familiar que proyecta la tesis y ofrece una conclusión práctica."
+                "nivel": 3,
+                "justificacion": "El cierre ofrece una recomendación concreta (familias deben incentivar protocolos) y por tanto proyecta una acción futura, pero no sintetiza de forma clara la idea principal en nuevas palabras ni desarrolla implicaciones o escenarios futuros más amplios. Es más prescriptivo que analítico; falta una reformulación explícita de la tesis y una proyección bien desarrollada."
             },
             "progresion_textual": {
                 "nivel": 2,
-                "justificacion": "Hay párrafos claramente identificables, pero se producen redundancias en al menos dos párrafos que repiten información sobre la influencia familiar y social en el aprendizaje."
+                "justificacion": "Aunque el texto está dividido en párrafos, hay redundancia y solapamiento de subtemas: por ejemplo, los párrafos que introducen las cuatro áreas de aprendizaje y el siguiente que cuantifica su impacto repiten y rehacen la misma información; los pasajes sobre la importancia del ámbito social (cita de estudio en Chile y cita del profesor Sebastián Torres) vuelven a enfatizar el mismo punto sin aportar subtemas nuevos; y los dos últimos párrafos (medidas sanitarias y rol del núcleo familiar) se solapan en la idea de prevención y actuación familiar. Faltan conectores lógicos que articulen transiciones temáticas claras y varios párrafos combinan más de un subtema, lo que impide que cada párrafo aporte información estrictamente nueva."
             }
         }
     },
@@ -37,16 +37,16 @@
         "id_texto": 3,
         "resultado": {
             "introduccion": {
-                "nivel": 4,
-                "justificacion": "Hay un párrafo inicial claro que presenta y contextualiza el tema (historia, problema actual de contaminación) y formula la tesis sobre medidas gubernamentales."
+                "nivel": 2,
+                "justificacion": "Solo hay un elemento claramente presente: el «qué» (tema: actividad física y contaminación). El «cuándo» aparece de forma vaga ('A lo largo de la historia', 'Actualmente') pero no es un periodo temporal preciso. No se identifican actores concretos en la introducción (aunque luego aparece 'el gobierno', no está en la introducción) ni hay una ubicación geográfica específica (solo más adelante se menciona 'grandes ciudades'). En resumen: 1 elemento claro + 1 vago = nivel 2."
             },
             "conclusion_cierre": {
-                "nivel": 4,
-                "justificacion": "Existe un cierre explícito que concluye y proyecta la tesis, señalando efectos esperados de las medidas gubernamentales en la reducción de la contaminación y la salud."
+                "nivel": 3,
+                "justificacion": "Hay una tentativa de síntesis (repite la idea de que las medidas gubernamentales cambiarán actitudes) y una proyección general (disminución progresiva de la contaminación y efectos positivos). Sin embargo, la síntesis es mayormente reiterativa y no reformula la tesis con mayor precisión ni aporta conclusiones analíticas nuevas; la proyección es vaga, sin horizonte temporal, magnitud ni consecuencias concretas. Cumple parcialmente pero no alcanza la exigencia de síntesis y proyección claras y explícitas."
             },
             "progresion_textual": {
-                "nivel": 4,
-                "justificacion": "Se observan párrafos diferenciados (introducción, dos argumentos, refutación y conclusión), cada uno con una idea principal distinta y sin repeticiones relevantes."
+                "nivel": 3,
+                "justificacion": "Hay avance temático (introducción, medidas individuales, evidencia, objeción, cierre), pero existen repeticiones parciales: el párrafo 2 (incentivar uso de bus) y el párrafo 4 (incentivos y cambio de conducta) repiten la misma idea central sobre incentivos que modifican comportamientos; además el cierre reitera argumentos previos sin aportar información nueva. Los conectores lógicos son débiles y las transiciones pobres, por lo que la progresión no es totalmente nítida. Según el criterio, una repetición parcial entre párrafos sitúa el texto en nivel 3."
             }
         }
     },
@@ -54,16 +54,16 @@
         "id_texto": 4,
         "resultado": {
             "introduccion": {
-                "nivel": 4,
-                "justificacion": "La primera oración plantea la tesis y contextualiza el tema (salud, grandes ciudades, contaminación), identificándose claramente una introducción."
+                "nivel": 2,
+                "justificacion": "Aparece el “qué” (mejorar condiciones de salud frente a la contaminación) y un “dónde” genérico («las grandes ciudades»), pero faltan actores concretos por nombre («quiénes») y no hay referencia temporal («cuándo»). Además el “dónde” es vago (no se especifica ciudad, región ni contexto espacial preciso)."
             },
             "conclusion_cierre": {
-                "nivel": 4,
-                "justificacion": "Existe un cierre explícito introducido por 'En conclusión' que retoma la tesis y sintetiza la propuesta (políticas públicas y colectivos)."
+                "nivel": 3,
+                "justificacion": "Existe una reformulación de la idea principal (síntesis), pero la conclusión no proyecta consecuencias, recomendaciones claras ni escenarios futuros. Predomina la repetición de lo ya dicho en lugar de plantear implicaciones explícitas o pasos futuros."
             },
             "progresion_textual": {
                 "nivel": 3,
-                "justificacion": "Se aprecian secciones diferenciadas (primer punto, segundo punto, contraargumento, conclusión), pero hay repetición de ideas (importancia de políticas/colectivos/acciones individuales) entre párrafos."
+                "justificacion": "Hay organización por párrafos y algunos conectores («En primer lugar», «En segundo lugar», «En conclusión»), pero hay repetición temática: el papel de las políticas públicas y del colectivo se repite en distintos párrafos y de nuevo en la conclusión. El ejemplo de Chile/India y el párrafo siguiente sobre consecuencias sanitarias reiteran la misma idea sin aportar subtemas claramente distintos; además varios párrafos mezclan ideas (políticas, cultura y ejemplo) en vez de desarrollar subtemas únicos y bien diferenciados."
             }
         }
     },
@@ -71,16 +71,16 @@
         "id_texto": 5,
         "resultado": {
             "introduccion": {
-                "nivel": 4,
-                "justificacion": "El primer párrafo presenta y contextualiza el tema: las actividades del colectivo Las Tesis, la controversia suscitada y el problema sobre los límites de la libertad de expresión."
+                "nivel": 2,
+                "justificacion": "El texto introduce claramente el qué (límite entre expresión artística y respeto a la autoridad) y quiénes (el colectivo Las Tesis y menciona a Carabineros), pero no ofrece un dónde geográfico específico ni un cuándo temporal. La introducción ocupa más de una oración y plantea el problema, pero faltan los elementos espaciales y temporales exigidos para un nivel superior."
             },
             "conclusion_cierre": {
-                "nivel": 4,
-                "justificacion": "El texto cierra con un párrafo explícito ('En conclusión') que resume la tesis (preferencia por límites ex post) y proyecta la importancia de la postura para la democracia y el caso referido."
+                "nivel": 3,
+                "justificacion": "La conclusión reformula la idea central (síntesis) y afirma una preferencia normativa (límite ex post), pero la proyección es débil y vaga: no plantea consecuencias concretas, escenarios futuros ni implicaciones operativas claras. Es más un cierre normativo que una proyección explícita y fundamentada."
             },
             "progresion_textual": {
-                "nivel": 4,
-                "justificacion": "Hay párrafos claramente diferenciados: introducción, tres argumentos distintos (censura, voz disidente, crítica de Popper) y conclusión, sin repeticiones relevantes entre ellos."
+                "nivel": 3,
+                "justificacion": "La estructura en párrafos está señalada con conectores ('En primer lugar', 'En segundo lugar', 'Otros podrían...'), y cada párrafo intenta un subtema, pero hay repetición parcial. El segundo y el tercer párrafo replican la misma línea argumental sobre el peligro de excluir voces y el poder arbitrario de limitar la expresión; el cuarto retoma la disyuntiva autoridad/libertad que ya estaba implícita, sin aportar evidencia o desarrollo claramente nuevo. Existe progresión lógica, pero al menos un párrafo repite ideas ya tratadas."
             }
         }
     },
@@ -88,16 +88,16 @@
         "id_texto": 6,
         "resultado": {
             "introduccion": {
-                "nivel": 4,
-                "justificacion": "Presenta una introducción clara y contextualizada que identifica la pandemia (covid-19), el alcance ('muchas personas en todo el mundo'), el cambio de estilo de vida y la adopción del teletrabajo como respuesta."
+                "nivel": 3,
+                "justificacion": "El texto presenta el 'qué' (teletrabajo y pandemia) y alude al 'dónde' (en todo el mundo) y al 'cuándo' (la pandemia actual), pero estos elementos son generales y poco específicos. No identifica 'quiénes' de forma concreta (solo 'muchas las personas' sin grupos, instituciones o actores nombrados). Según las reglas estrictas, varios elementos son vagos, por lo que no alcanza el nivel 4."
             },
             "conclusion_cierre": {
-                "nivel": 4,
-                "justificacion": "Se distingue un cierre que concluye la idea principal al señalar la consecuencia directa: el encierro y la sobrecarga laboral han impactado la salud mental de quienes trabajan desde casa."
+                "nivel": 2,
+                "justificacion": "El texto termina con una afirmación sobre el impacto en la salud mental pero no ofrece una síntesis reformulada de la idea principal ni plantea implicaciones o proyecciones futuras. Existe una última oración que intenta cerrar, pero es un cierre abrupto y no cumple los requisitos de síntesis + proyección."
             },
             "progresion_textual": {
-                "nivel": 4,
-                "justificacion": "Hay párrafos identificables (contextualización en el primero y consecuencia en el segundo), cada uno aporta información distinta y no se repite contenido entre ellos."
+                "nivel": 2,
+                "justificacion": "No hay una estructura de párrafos claramente desarrollada: las ideas (adaptación al teletrabajo y efecto en la salud mental) aparecen en oraciones muy breves dentro del mismo bloque sin subtemas bien separados ni desarrollo. Falta separación clara de párrafos y desarrollo lógico sucesivo; la progresión es mínima y no se aportan nuevos niveles de información."
             }
         }
     },
@@ -105,16 +105,16 @@
         "id_texto": 7,
         "resultado": {
             "introduccion": {
-                "nivel": 4,
-                "justificacion": "Hay una introducción clara que contextualiza el tema (políticas educativas, currículum actual, 'nuestro país') y enmarca el propósito del ensayo."
+                "nivel": 2,
+                "justificacion": "El primer párrafo identifica el tema general (políticas educativas e inclusión cultural) —es decir, el 'qué'— pero falla en los otros elementos exigidos con especificidad. No menciona actores concretos por nombre (solo términos generales como 'instituciones educativas' o 'poblaciones incluidas'), la localización es vaga ('nuestro país' sin precisar qué país) y el marco temporal es ambiguo ('actualmente' sin periodo o fecha). Según el criterio estricto, hay solo 1-2 elementos identificables y el resto están ausentes o demasiado generales."
             },
             "conclusion_cierre": {
-                "nivel": 4,
-                "justificacion": "Se distingue un cierre que concluye y proyecta la tesis sobre cómo debería concebirse la educación (colaboración, comprensión y respeto)."
+                "nivel": 3,
+                "justificacion": "El cierre ofrece una formulación normativa que retoma la idea central (proponer una educación basada en colaboración, comprensión y respeto), lo que cumple parcialmente la función de síntesis. Sin embargo, carece de una proyección clara: no plantea consecuencias concretas, escenarios futuros ni implicaciones operativas derivadas de esa posición. Es una reformulación final más que una conclusión que sintetice y proyecte simultáneamente."
             },
             "progresion_textual": {
-                "nivel": 4,
-                "justificacion": "El texto presenta párrafos claramente identificables y cada uno desarrolla una idea principal distinta (contexto, postura contraria, limitaciones de la inclusión, propuesta de integración, importancia de tradiciones, cierre)."
+                "nivel": 2,
+                "justificacion": "El texto tiene varios párrafos que se solapan en contenidos: el párrafo inicial y el tercero repiten la discusión sobre políticas educativas e inclusión; el segundo (resistencia conservadora) y el quinto (defensa de valores/tradiciones) abordan la preservación cultural desde ángulos muy cercanos, generando redundancia. Además hay transiciones débiles y conectores lógicos insuficientes; algunas ideas aparecen fragmentadas o reiteradas en distintos párrafos en vez de desarrollarse de forma claramente diferenciada. Esto indica 2 o más párrafos con contenido redundante y una progresión pobre."
             }
         }
     },
@@ -122,16 +122,16 @@
         "id_texto": 8,
         "resultado": {
             "introduccion": {
-                "nivel": 4,
-                "justificacion": "Hay una introducción clara que contextualiza el tema (teletrabajo en Chile, pandemia) y presenta la tesis central sobre la amenaza a la integridad psicológica."
+                "nivel": 2,
+                "justificacion": "Sólo aparecen claramente el 'qué' (teletrabajo y su impacto en la salud mental) y el 'dónde' (Chile). No se identifican actores concretos por nombre: el texto usa términos genéricos ('trabajadores') que, según el criterio exigente, no son suficientes. Tampoco hay un 'cuándo' preciso: 'situación actual' es vago y no fija periodo/fecha ni alude explícitamente a la pandemia como marco temporal."
             },
             "conclusion_cierre": {
-                "nivel": 4,
-                "justificacion": "Existe un cierre identificable que resume la posición, proyecta la tesis y propone medidas (normas y regulaciones)."
+                "nivel": 3,
+                "justificacion": "Hay proyección (menciona la necesidad de normas y la posibilidad de una 'nueva normalidad'), pero la síntesis es débil: la conclusión repite la tesis de forma redundante en lugar de reformularla con nuevas palabras y mayor integración de argumentos. La proyección es genérica y no desarrolla implicaciones concretas."
             },
             "progresion_textual": {
-                "nivel": 3,
-                "justificacion": "Se reconocen párrafos claramente diferenciados con ideas principales distintas, aunque hay repetición de la idea del estrés y su impacto familiar entre al menos un párrafo."
+                "nivel": 2,
+                "justificacion": "Existen párrafos (especialmente el segundo y el cuarto) que repiten la misma idea central: el hogar como refugio que se vuelve estresante y produce conflictos familiares, por lo que hay redundancia en 2 o más párrafos. Además faltan conectores y transiciones claras entre ideas; los párrafos no presentan subtemas suficientemente diferenciados ni avance lógico consistente."
             }
         }
     },
@@ -139,16 +139,16 @@
         "id_texto": 9,
         "resultado": {
             "introduccion": {
-                "nivel": 4,
-                "justificacion": "Hay un párrafo inicial claro que presenta y contextualiza el tema (pandemia, covid-19, teletrabajo y la controversia sobre el hogar)."
+                "nivel": 2,
+                "justificacion": "Sólo presenta claramente el 'qué' (teletrabajo y salud mental) y un 'cuándo' genérico (la pandemia por COVID-19). No identifica actores concretos por nombre ni grupos específicos (el texto usa expresiones vagas como \"quienes están expuestos al teletrabajo\"), y no indica un 'dónde' espacial concreto (no hay país, región o contexto geográfico explícito)."
             },
             "conclusion_cierre": {
-                "nivel": 4,
-                "justificacion": "Existe un cierre explícito iniciado con 'En conclusión' que sintetiza la tesis y propone acciones (campañas gubernamentales)."
+                "nivel": 3,
+                "justificacion": "Incluye una síntesis (reformula la idea principal y enumera las estrategias) y una proyección (recomienda que los gobiernos promuevan campañas). Sin embargo, la síntesis es formulaica y repetitiva respecto al cuerpo del texto, y la proyección es muy vaga: no precisa actores, plazos, mecanismos ni consecuencias concretas, por lo que carece de la profundidad esperada para un nivel excepcional."
             },
             "progresion_textual": {
-                "nivel": 4,
-                "justificacion": "El texto está organizado en párrafos reconocibles; cada uno desarrolla una idea distinta (espacio, horarios, ritual de cierre, conclusión)."
+                "nivel": 3,
+                "justificacion": "Hay organización por párrafos y conectores ('En primer lugar', 'Por otro lado'), pero existe repetición parcial: el párrafo sobre respetar horarios (párrafo 3) y el de ritual de cierre (párrafo 4) abordan el mismo problema —evitar la permanencia mental en lo laboral— con solapamiento de ideas. Los subtemas no están totalmente diferenciados y algunos argumentos quedan breves y reiterativos."
             }
         }
     },
@@ -156,16 +156,16 @@
         "id_texto": 10,
         "resultado": {
             "introduccion": {
-                "nivel": 4,
-                "justificacion": "Hay una introducción claramente identificable que presenta y contextualiza el tema (sistema de enseñanza postpandemia, referencia temporal y población chilena)."
+                "nivel": 3,
+                "justificacion": "La introducción menciona el tema (sistema de enseñanza tras la pandemia) y un actor grupal ('la población chilena'), e indirectamente sitúa el contexto geográfico (Chile) y temporal ('a raíz de la pandemia'), pero falla en especificidad. No hay fecha o periodo preciso (p. ej. 2020-2021), ni actores concretos nombrados en la apertura (se menciona el Ministerio solo al final del texto, no en la introducción). El 'qué' es formulado de manera vaga y general, no en 1-2 oraciones concretas que delimiten claramente el foco del ensayo."
             },
             "conclusion_cierre": {
-                "nivel": 4,
-                "justificacion": "Existe un cierre nítido que reafirma la tesis y proyecta la solución propuesta (vuelta a clases presenciales)."
+                "nivel": 2,
+                "justificacion": "El cierre repite literalmente la tesis principal (las clases presenciales son la solución) sin reformularla de modo sintético ni aportar una síntesis en términos nuevos. Tampoco proyecta consecuencias, escenarios futuros ni recomendaciones concretas: la única ‘proyección’ vaga es calificar la presencialidad como un desafío planteado por el Ministerio, pero no se exploran implicaciones, pasos siguientes ni contexto futuro. Es, en suma, cierre reiterativo y sin proyección."
             },
             "progresion_textual": {
-                "nivel": 4,
-                "justificacion": "El texto está dividido en párrafos reconocibles y cada uno desarrolla una idea principal distinta (introducción, aprendizaje, salud, objeciones, conclusión)."
+                "nivel": 2,
+                "justificacion": "Aunque hay marcadores ('Por una parte', 'Por otra parte', 'Existen detractores') los párrafos no aportan progresión suficiente y existe redundancia en más de un lugar. La conclusión repite argumentos ya expuestos (afirmación de que la presencialidad es la solución) casi palabra por palabra; el primer párrafo (tesis) y el último (conclusión) duplican la misma afirmación. Además, los desarrollos sobre aprendizaje, salud nutricional/mental y contagio están poco integrados: algunos datos se presentan sin conectar lógicamente con las soluciones propuestas, y no hay párrafos que introduzcan subtemas claramente distintos y secuenciados; por tanto hay al menos dos instancias de repetición y falta de avance temático."
             }
         }
     },
@@ -173,16 +173,16 @@
         "id_texto": 11,
         "resultado": {
             "introduccion": {
-                "nivel": 4,
-                "justificacion": "El texto inicia claramente presentando y contextualizando el tema (la encíclica Fratelli Tutti, el Papa Francisco, y el contraste entre individualismo y bien común), cumpliendo los elementos de qué, quién y propósito."
+                "nivel": 2,
+                "justificacion": "La introducción identifica claramente el 'qué' (la tesis sobre Fratelli Tutti y la justicia social) y el 'quién' (Papa Francisco). Sin embargo faltan dos elementos obligatorios: no hay un 'dónde' geográfico o contexto espacial específico y no hay un 'cuándo' preciso (aparece solo la frase vaga 'en el último tiempo'). Además la formulación es general y no sitúa el tema en un marco temporal o espacial concreto."
             },
             "conclusion_cierre": {
-                "nivel": 4,
-                "justificacion": "El último párrafo funciona como cierre que reafirma y proyecta la tesis sobre la propuesta social del pontífice y su intención de alinear la forma de vida para lograr un mundo mejor."
+                "nivel": 3,
+                "justificacion": "El cierre sintetiza la idea principal al reiterar que Francisco promueve una propuesta social contra el individualismo y a favor del bien común, por lo que cumple parcialmente la síntesis. No obstante, carece de una proyección explícita: no plantea consecuencias concretas, escenarios futuros, recomendaciones políticas o implicaciones prácticas bien definidas, limitándose a una apelación general a la alineación de comportamientos."
             },
             "progresion_textual": {
-                "nivel": 4,
-                "justificacion": "El texto presenta párrafos claramente diferenciados: introducción del tema, desarrollo sobre la solidaridad, tratamiento de la tradición y la propuesta concreta del Papa, cada uno con una idea principal distinta."
+                "nivel": 2,
+                "justificacion": "El texto tiene párrafos diferenciados pero varios aportan ideas redundantes. Párrafos 1 y 4 repiten la misma tesis sobre la condena del individualismo y la propuesta del Papa; párrafos 2 y 3 repiten la función de la 'solidaridad cristiana' y el uso de la tradición religiosa para justificar la propuesta. Faltan subtemas claramente distintos y conectores que mostraran una progresión lógica definida; hay repetición temática en más de dos párrafos."
             }
         }
     },
@@ -190,16 +190,16 @@
         "id_texto": 12,
         "resultado": {
             "introduccion": {
-                "nivel": 3,
-                "justificacion": "Presenta claramente el tema central (prácticas de autocuidado frente a factores ambientales) pero aporta escasa contextualización sobre quiénes, dónde o cuándo."
+                "nivel": 2,
+                "justificacion": "Sólo cumple parcialmente el elemento 'qué' (tema: autocuidado y su efecto frente a factores ambientales). No identifica actores concretos ('quiénes'), ni ubicación geográfica ('dónde') ni periodo temporal ('cuándo'). La apertura es general y no contiene los cuatro elementos exigidos."
             },
             "conclusion_cierre": {
-                "nivel": 4,
-                "justificacion": "Hay un cierre explícito que concluye y proyecta la tesis: pide mayor honestidad informativa y priorizar la integridad sobre intereses políticos o económicos."
+                "nivel": 2,
+                "justificacion": "Existe una oración final que intenta cerrar (petición de honestidad y propósito de la promoción), pero falta una síntesis explícita que reformule la idea principal en nuevas palabras y no hay proyección clara de implicaciones futuras o consecuencias concretas. Predomina la recomendación normativa sin integración analítica ni proyección."
             },
             "progresion_textual": {
-                "nivel": 4,
-                "justificacion": "Se distinguen párrafos claros y cada uno desarrolla una idea distinta (introducción, cuestionamiento, beneficios, impacto institucional, crítica y cierre) sin repeticiones relevantes."
+                "nivel": 3,
+                "justificacion": "La secuencia tiene orden lógico (afirmación general, preguntas, beneficios, crítica, llamado final) pero hay repetición parcial: el primer párrafo repite la afirmación general que se desarrolla otra vez en los párrafos 3 y 4 (beneficios y enfoque preventivo). Faltan conectores explicativos que articulen transiciones y evitar redundancias; al menos un párrafo repite información ya presentada."
             }
         }
     },
@@ -207,16 +207,16 @@
         "id_texto": 13,
         "resultado": {
             "introduccion": {
-                "nivel": 4,
-                "justificacion": "Hay una introducción identificable que presenta y contextualiza el tema (propagación de COVID-19, origen en China, llegada a Chile y temporalidad)."
+                "nivel": 3,
+                "justificacion": "Contiene qué (la pandemia/COVID-19), dónde (Chile) y cuándo (finales de febrero/comienzo de marzo), pero NO identifica quiénes (no menciona actores concretos por nombre en la introducción) y algunos elementos son vagos ('finales del semestre pasado'). Además la presentación está dispersa en varias oraciones en lugar de una introducción concisa de 1-2 oraciones que reúna explícitamente los cuatro elementos requeridos."
             },
             "conclusion_cierre": {
-                "nivel": 4,
-                "justificacion": "Existe un cierre explícito ('en conclusión') que resume la postura sobre la participación en el plebiscito y proyecta la tesis del autor."
+                "nivel": 2,
+                "justificacion": "Tiene una oración final que intenta cerrar, pero no realiza una síntesis clara ni reformula la idea principal en otras palabras; además carece totalmente de proyección o implicaciones futuras. El cierre es contradictorio (defiende el derecho a votar y a la vez justifica la exclusión) y resulta abrupto y poco fundamentado."
             },
             "progresion_textual": {
                 "nivel": 2,
-                "justificacion": "Se reconocen párrafos distintos, pero hay repetición de información en al menos dos párrafos (riesgo de contagio y dificultades para votar), lo que afecta la progresión."
+                "justificacion": "El texto está dividido en párrafos, pero varios repiten la misma idea: los párrafos 3 y 4 repiten el riesgo de contagio y la imposibilidad/desincentivo de votar; el párrafo 1 y el 5 vuelven sobre consecuencias sanitarias y comparación con el estallido social. Falta subtematización clara por párrafo, transiciones lógicas pobres y repetición de argumentos en distintos apartados."
             }
         }
     },
@@ -224,16 +224,16 @@
         "id_texto": 14,
         "resultado": {
             "introduccion": {
-                "nivel": 4,
-                "justificacion": "El texto presenta y contextualiza el tema: qué (rebaja de la indemnización), quién (Julio Ponce Lerou) y el marco (Caso Soquimich, historia reciente de Chile)."
+                "nivel": 3,
+                "justificacion": "Presenta claramente el 'qué' (rebaja de la indemnización / Caso Soquimich) y el 'quién' (Julio Ponce Lerou); indica además el 'dónde' de forma genérica ('historia reciente de Chile'). No cumple el requisito temporal preciso: no hay un 'cuándo' concreto (fecha, periodo específico) sino solo una expresión vaga ('historia reciente'), por lo que falta uno de los cuatro elementos exigidos."
             },
             "conclusion_cierre": {
                 "nivel": 1,
-                "justificacion": "No se identifica un cierre o conclusión; el texto termina en una pregunta sin sintetizar ni proyectar la tesis."
+                "justificacion": "No existe cierre ni síntesis: el texto termina abruptamente con una pregunta introductoria ('¿Qué tan legítima...?)' y está truncado. No reformula la idea principal ni plantea proyecciones, implicaciones o consecuencias futuras; por tanto no cumple ninguna de las condiciones de cierre."
             },
             "progresion_textual": {
                 "nivel": 1,
-                "justificacion": "Texto muy breve y de una sola unidad; no hay párrafos claramente diferenciados ni desarrollo con información principal distinta."
+                "justificacion": "No hay desarrollo en párrafos con subtemas: el texto es un fragmento único y truncado sin estructura de párrafos, sin conectores que articulen ideas ni avance lógico. No se identifican párrafos distintos que aporten información nueva; además contiene errores (por ejemplo 'indeminzación') y puntuación confusa, lo que impide evaluar progresión."
             }
         }
     },
@@ -241,16 +241,16 @@
         "id_texto": 15,
         "resultado": {
             "introduccion": {
-                "nivel": 4,
-                "justificacion": "Hay un primer párrafo claramente identificable que presenta y contextualiza el tema (pandemia, confinamiento, lugares afectados y teletrabajo) y sitúa el problema principal."
+                "nivel": 2,
+                "justificacion": "Solo presenta claramente el 'qué' (confinamiento/teletrabajo y repercusiones en salud mental). No identifica actores concretos por nombre: utiliza colectivos vagos ('la población', 'trabajadores', 'familias') en lugar de grupos específicos. La 'dónde' es imprecisa: menciona 'gran parte del mundo' y 'lugares cerrados' pero no una ubicación geográfica concreta o contexto espacial definido. La 'cuándo' es vaga: alude a 'la pandemia' sin periodo, fechas o marco temporal preciso. En conjunto la introducción no ofrece los cuatro elementos explícitos y específicos exigidos."
             },
             "conclusion_cierre": {
                 "nivel": 2,
-                "justificacion": "No hay un cierre explícito; se puede inferir una idea final sobre la afectación de la calidad de vida, pero no funciona como una conclusión diferenciada y cerrada."
+                "justificacion": "El texto termina con afirmaciones sobre empeoramiento de la calidad de vida y aumento de signos ansiosos, pero no reformula la idea principal en nuevas palabras (falta síntesis clara) ni plantea implicaciones o proyecciones futuras explícitas. Existe una última oración que intenta cerrar, pero el cierre es abrupto y no cumple con síntesis + proyección requeridas para nivel superior."
             },
             "progresion_textual": {
                 "nivel": 2,
-                "justificacion": "Se distinguen párrafos con enfoques distintos, pero al menos dos párrafos repiten información central (aumento de la ansiedad y efectos en la salud mental), lo que debilita la progresión."
+                "justificacion": "Hay repetición temática entre párrafos: el primer párrafo introduce aumento de ansiedad/depresión; el segundo repite el impacto en salud mental por alteración de horarios e falta de interacción; el cuarto vuelve a reiterar pérdida de desconexión y aumento de ansiedad. Solo el tercer párrafo aborda en parte otro subtema (estrés por espacio reducido y aumento de consultas/medicación), pero aun así solapa con la idea general del deterioro mental. Faltan conectores claros entre párrafos y oraciones topic bien definidos; varios párrafos no aportan información claramente distinta, por lo que la progresión es redundante."
             }
         }
     },
@@ -258,16 +258,16 @@
         "id_texto": 16,
         "resultado": {
             "introduccion": {
-                "nivel": 4,
-                "justificacion": "Hay una introducción clara que contextualiza el tema (contexto sanitario, medidas y cierre de colegios) y presenta la tesis (no volver a clases presenciales)."
+                "nivel": 2,
+                "justificacion": "Solo está claramente presente el 'qué' (cierre de colegios y clases virtuales). Los 'quiénes' aparecen de forma genérica ('el gobierno', 'los colegios', 'escolares') pero no son actores concretos por nombre; el 'dónde' (ubicación geográfica o contexto espacial específico) no se menciona; el 'cuándo' se limita a expresiones vagas ('actual contexto sanitario') sin periodo ni fechas precisas."
             },
             "conclusion_cierre": {
-                "nivel": 4,
-                "justificacion": "Se distingue un cierre explícito encabezado por 'En conclusión' que recapitula y reafirma la tesis y las razones principales."
+                "nivel": 3,
+                "justificacion": "Contiene una reformulación de la idea principal (síntesis) pero carece de proyección: no plantea implicaciones futuras, consecuencias concretas, recomendaciones ni escenarios prospectivos. Es una oración final que resume pero no avanza hacia el futuro."
             },
             "progresion_textual": {
-                "nivel": 4,
-                "justificacion": "El texto tiene párrafos identificables y cada uno desarrolla una idea distinta (contexto y tesis; salud/contagio; accesibilidad; objeción y refutación; conclusión)."
+                "nivel": 3,
+                "justificacion": "Hay párrafos con subtemas distintos (salud/riesgo de contagio; accesibilidad y transporte; calidad educativa y métodos), pero existe repetición: el párrafo 1 y el párrafo 2 repiten la idea de resguardar la salud de los escolares. Los conectores son mínimos ('En el mismo contexto', 'No obstante') y no evitan la redundancia entre esos párrafos; por tanto no se cumple la exigencia de aportar información completamente nueva en cada párrafo."
             }
         }
     },
@@ -275,16 +275,16 @@
         "id_texto": 17,
         "resultado": {
             "introduccion": {
-                "nivel": 4,
-                "justificacion": "El primer párrafo identifica y contextualiza el tema (contaminación en grandes ciudades, actores como grandes empresas, cuándo: 'En el último tiempo') y plantea la tesis sobre cambiar la educación para fomentar deporte."
+                "nivel": 2,
+                "justificacion": "El texto identifica el qué (contaminación del aire) y el dónde (las grandes ciudades), pero no ofrece un cuándo específico (\"En el último tiempo\" es vago) ni menciona actores concretos por nombre (no hay quiénes identificables). Faltan 2 de los 4 elementos obligatorios para nivel 4."
             },
             "conclusion_cierre": {
-                "nivel": 4,
-                "justificacion": "El último párrafo marcado 'En conclusión' resume la idea central y proyecta una acción concreta (campaña o ley gubernamental), funcionando como cierre y propuesta."
+                "nivel": 3,
+                "justificacion": "La conclusión repite la idea principal y propone una acción (campaña o ley gubernamental), por lo que existe síntesis y una proyección básica. Sin embargo, la síntesis es superficial y poco reformulada (se limita a repetir lo ya dicho) y la proyección es vaga y no desarrolla implicaciones o consecuencias claras, lo que impide un nivel 4."
             },
             "progresion_textual": {
-                "nivel": 4,
-                "justificacion": "Hay párrafos claramente diferenciados con ideas principales distintas (beneficios del deporte, situación en establecimientos, refutación de objeciones), sin repeticiones significativas entre ellos."
+                "nivel": 2,
+                "justificacion": "Los párrafos no aportan subtemas claramente distintos: el Párrafo 2 (beneficios del ejercicio) se solapa con el Párrafo 4 (defensa de que el ejercicio protege frente a la contaminación), y el Párrafo 1 (propuesta educativa) se repite en el Párrafo 3 (falta de deporte en establecimientos y necesidad de incentivar a niños). La conclusión vuelve a reiterar lo mismo. Hay conectores simples pero la información es redundante en múltiples párrafos."
             }
         }
     },
@@ -292,16 +292,16 @@
         "id_texto": 18,
         "resultado": {
             "introduccion": {
-                "nivel": 4,
-                "justificacion": "Existe una introducción clara que presenta y contextualiza el tema (pandemia, diferencias entre países, impactos y mención específica de Chile) y plantea la tesis del ensayo."
+                "nivel": 2,
+                "justificacion": "El texto presenta el 'qué' (la pandemia del COVID-19 y una tesis sobre su impacto) y un 'dónde' específico ocasional (mención a 'personas en Chile'), pero no cumple los cuatro elementos exigidos: no se identifican actores concretos por nombre ('quiénes' aparecen sólo como grupos genéricos como 'muchos autores' o 'ser humano') y no se especifica un 'cuándo' preciso (fechas o periodo histórico). Además, la definición del tema es vaga y general, más que una introducción explícita y acotada."
             },
             "conclusion_cierre": {
-                "nivel": 3,
-                "justificacion": "Se distingue un cierre que proyecta la tesis (desafío para políticas públicas y preocupación por la dignidad), pero funciona más como un comentario final y además el párrafo está incompleto."
+                "nivel": 2,
+                "justificacion": "No hay una conclusión cerrada y coherente: el cierre es abrupto y el texto termina truncado ('q'), por lo que falta una síntesis reformulada de la idea principal en nuevas palabras. Hay indicios de proyección (la afirmación de que el COVID-19 'representa un desafío para la actualización de los programas y normativas'), pero esa proyección no se desarrolla ni articula con una implicación futura clara; en conjunto no cumple con sintetizar y proyectar como exige nivel 4."
             },
             "progresion_textual": {
                 "nivel": 3,
-                "justificacion": "Hay párrafos claramente identificables, pero el segundo retoma y repite aspectos ya mencionados (necesidad de políticas y calidad de vida), generando repetición en un párrafo."
+                "justificacion": "Hay cierta estructura en dos párrafos, pero el segundo repite parcialmente el eje central del primero (la necesidad de políticas públicas y la mejora de la calidad de vida), por lo que no todos los párrafos aportan información nueva. Faltan conectores lógicos claros entre párrafos y transiciones que marquen subtemas distintos; además las preguntas retóricas del segundo párrafo no se desarrollan ni conducen a nuevos argumentos, lo que refuerza la redundancia."
             }
         }
     },
@@ -309,16 +309,16 @@
         "id_texto": 19,
         "resultado": {
             "introduccion": {
-                "nivel": 4,
-                "justificacion": "La oración presenta y contextualiza el tema indicando qué (pandemia del COVID-19), cuándo (año 2020) y dónde (la mayoría de países/estados), cumpliendo la función de introducción."
+                "nivel": 3,
+                "justificacion": "Presenta explícitamente el 'qué' (la pandemia del covid-19) y el 'cuándo' (año 2020). Sin embargo, los 'quiénes' y el 'dónde' son vagos: dice «la mayoría de los países y estados del mundo», que es un grupo general no nombrado de forma concreta, y «del mundo» es una ubicación demasiado amplia y no específica según el criterio. Además, la frase es breve y no desarrolla una introducción con los cuatro elementos claros y específicos exigidos."
             },
             "conclusion_cierre": {
-                "nivel": 3,
-                "justificacion": "El enunciado puede leerse como un comentario de cierre sobre el impacto, pero no ofrece una conclusión desarrollada ni una proyección de tesis clara."
+                "nivel": 2,
+                "justificacion": "El texto termina con una oración enunciativa que intenta cerrar la idea, pero no realiza una síntesis reformulada de la idea principal ni plantea proyecciones o implicaciones futuras. Es un cierre abrupto y meramente afirmativo, sin proyección explícita."
             },
             "progresion_textual": {
-                "nivel": 4,
-                "justificacion": "El texto es una única frase que constituye un párrafo con una idea principal clara y sin repetición; no hay solapamiento de información entre párrafos."
+                "nivel": 1,
+                "justificacion": "El texto es una única oración sin estructura de párrafos; por tanto no hay progresión textual, ni subtemas diferenciados ni conectores entre párrafos. No es posible identificar aporte de información nueva entre párrafos porque no existen párrafos separados."
             }
         }
     },
@@ -326,16 +326,16 @@
         "id_texto": 20,
         "resultado": {
             "introduccion": {
-                "nivel": 4,
-                "justificacion": "Existe un párrafo inicial claro que presenta y contextualiza el tema (covid-19, impacto global y medidas de cuarentena) indicando qué ocurre y quiénes intervienen."
+                "nivel": 2,
+                "justificacion": "La introducción solo ofrece el 'qué' de manera genérica (la pandemia) y emplea términos vagos como 'actualmente' y 'todos los paises'. No identifica 'quiénes' (actores concretos por nombre), no aporta un 'cuándo' preciso (fechas o periodo histórico) y el 'dónde' específico solo aparece más adelante ('Europa') pero no en la entrada inicial. En suma: 1 elemento claro (tema) y los demás ausentes o demasiado generales."
             },
             "conclusion_cierre": {
-                "nivel": 4,
-                "justificacion": "Hay un cierre explícito introducido con 'Para concluir' que resume la postura y proyecta la tesis sobre abordar el covid-19 de manera integral."
+                "nivel": 3,
+                "justificacion": "El párrafo final intenta sintetizar la idea central (no ver la pandemia solo como problema sanitario) y ofrece una recomendación general para las organizaciones de salud, pero la síntesis es superficial y no reformula la tesis de modo claro. Falla en la proyección: no plantea consecuencias futuras concretas, escenarios ni implicaciones políticas o sociales desarrolladas; queda en una recomendación vaga en vez de una proyección explícita."
             },
             "progresion_textual": {
-                "nivel": 3,
-                "justificacion": "Se identifican párrafos con ideas principales distintas, pero hay repetición de contenidos (p. ej. que los sectores más pobres son más afectados y la discusión sobre teletrabajo) entre al menos un párrafo y otro."
+                "nivel": 2,
+                "justificacion": "Hay redundancias y transiciones débiles. El segundo y tercer párrafo repiten ideas generales sobre efectos socioeconómicos y la 'segunda ola'; los párrafos cuarto y quinto solapan completamente el argumento sobre quién puede teletrabajar y por qué los pobres son más expuestos (misma idea repetida con distinto wording). Faltan conectores lógicos que articulen la progresión; algunos párrafos mezclan subtemas (riesgo epidemiológico, justicia social, teletrabajo, salud mental) sin separación clara. Además hay saltos argumentales (ejemplo del jardinero) poco justificados."
             }
         }
     }

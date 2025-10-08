@@ -3,8 +3,8 @@
         "id_texto": 1,
         "resultado": {
             "introduccion": {
-                "nivel": 4,
-                "justificacion": "El primer párrafo presenta claramente el tema (salud mental y realidad del trabajo) y lo contextualiza temporalmente ('nuestra actual pandemia'), añade antecedentes históricos y plantea la pregunta central que guía el texto."
+                "nivel": 3,
+                "justificacion": "La introducción contiene de forma vaga el 'qué' (alude a la salud mental y a la 'realidad del trabajo permanente') y un indicio de 'cuándo' al mencionar 'nuestra actual pandemia', pero ambos son imprecisos: no se enuncia explícitamente el teletrabajo ni el hogar como objeto central del reactivo. No se identifican 'quiénes' concretos (no nombra actores específicos como trabajadores, empleadores o autoridades sanitarias) y falta un 'dónde' geográfico o contextual preciso (país, ciudad o indicación explícita 'a nivel mundial'). En conjunto hay 2 elementos presentes pero de forma general, y la introducción no responde con la precisión requerida al planteamiento sobre covid‑19 y teletrabajo."
             }
         }
     },
@@ -12,8 +12,8 @@
         "id_texto": 2,
         "resultado": {
             "introduccion": {
-                "nivel": 4,
-                "justificacion": "El primer párrafo actúa claramente como introducción: presenta y contextualiza el tema (la pandemia de COVID-19, su impacto global) y señala el foco poblacional (niños y adolescentes), además de plantear la pregunta central sobre el aprendizaje virtual."
+                "nivel": 3,
+                "justificacion": "El elemento Qué está presente y relativamente específico: el texto plantea el impacto de la pandemia de Covid-19 en el proceso de aprendizaje de niños y adolescentes y pregunta si el aprendizaje virtual limita sus capacidades. Sin embargo, los demás elementos son vagos. Quiénes: sólo aparecen grupos genéricos («niños y adolescentes»); no se identifican actores concretos relevantes al reactivo (p. ej. estudiantes, padres, docentes, autoridades educativas) ni nombres institucionales claros. Dónde: se usa un marco muy general («todo el mundo», «países de Latinoamérica») y aunque se cita un estudio en Chile, la introducción no define el ámbito geográfico del análisis. Cuándo: se menciona la pandemia pero no hay un periodo o fechas precisas (p. ej. desde marzo de 2020 o curso 2020–2021). Además, la introducción no expone explícitamente las dos posiciones del reactivo (quedarse en casa vs reabrir por salud mental), lo que reduce su pertinencia directa. Para alcanzar Nivel 4, basta con ajustes breves y realistas: 1) en 1–2 oraciones iniciales mantener el tema central; 2) añadir una frase que identifique los actores concretos estudiados (ej.: “estudiantes de educación básica, sus padres y docentes”); 3) precisar el ámbito geográfico (ej.: “en Chile” o “en países de Latinoamérica”) y 4) indicar el periodo temporal exacto o acotado (ej.: “desde marzo de 2020 hasta 2021”)."
             }
         }
     },
@@ -21,8 +21,8 @@
         "id_texto": 3,
         "resultado": {
             "introduccion": {
-                "nivel": 4,
-                "justificacion": "La primera sección funciona como introducción: presenta el tema (contaminación ambiental), lo contextualiza históricamente y en la actualidad y expone la tesis central (que el gobierno debe implementar medidas)."
+                "nivel": 3,
+                "justificacion": "Qué: presente (actividad física y contaminación) pero formulado de manera general. Quiénes: se menciona al “gobierno” y a “las personas”, lo cual identifica actores pero de forma genérica y sin referencia a los especialistas en medicina señalados en el reactivo. Dónde: vaga (\"las grandes ciudades\") — falta una ubicación geográfica concreta (país o ciudad). Cuándo: ausente (no hay periodo temporal preciso). Pertinencia al reactivo: la introducción propone medidas gubernamentales y reconoce el papel de la actividad física, pero no cita a los especialistas ni afirma claramente la idea central del reactivo sobre la insuficiencia de las medidas individuales frente a las causas ambientales. Para alcanzar Nivel 4, se necesita añadir un referente temporal concreto, especificar la ubicación (p. ej. ciudades de X país o una ciudad concreta) y nombrar actores concretos (p. ej. Ministerio de Salud, especialistas en medicina) sin inventar datos ajenos al texto."
             }
         }
     },
@@ -30,8 +30,8 @@
         "id_texto": 4,
         "resultado": {
             "introduccion": {
-                "nivel": 4,
-                "justificacion": "El texto abre con una oración que presenta y contextualiza el tema: la salud en las grandes ciudades y la necesidad de acciones colectivas (políticas públicas y colectivos), señalando actores y ámbito; cumple los criterios de una introducción clara."
+                "nivel": 3,
+                "justificacion": "La introducción presenta el tema central (qué) —la necesidad de acciones colectivas y políticas públicas para mejorar la salud frente a la contaminación en las grandes ciudades— pero no lo articula en 1–2 oraciones claras y concisas. Los quiénes aparecen de forma genérica («gobierno», «personas», «colectivo», «una población»), sin identificar actores concretos por nombre o instancia (p. ej. gobierno municipal de X, residentes de Y). El dónde está mencionado de modo general («grandes ciudades») aunque se usan ejemplos puntuales (Chile e India) no integrados como contexto principal, por lo que la localización es parcialmente vaga. El cuándo no aparece: no hay periodo, fecha o marco temporal preciso. En cuanto al reactivo, la introducción es pertinente en contenido pero falta precisión en actores y tiempo. Para alcanzar NIVEL 4 conviene condensar el qué en 1–2 oraciones, nombrar explícitamente los actores responsables o afectados y fijar un contexto espacial y temporal claro (p. ej. «en las ciudades mexicanas en la última década»)."
             }
         }
     },
@@ -39,8 +39,8 @@
         "id_texto": 5,
         "resultado": {
             "introduccion": {
-                "nivel": 4,
-                "justificacion": "Existe un párrafo inicial claramente identificable que presenta y contextualiza el tema: qué ocurre (controversia por las actividades), quiénes (el colectivo Las Tesis y menciones a instituciones como Carabineros) y los problemas de fondo (límites de la libertad de expresión), estableciendo el marco del texto."
+                "nivel": 2,
+                "justificacion": "Solo están presentes 2 de los 4 elementos exigidos. Qué: sí (tema claro: el límite entre la expresión artística y la autoridad / los límites de la libertad de expresión). Quiénes: sí (se nombran al colectivo Las Tesis y a Carabineros). Dónde: ausente (no se indica explícitamente la ubicación geográfica; el reactivo trata el caso en Chile, pero el texto solo dice “Carabineros” sin precisar). Cuándo: ausente (no hay periodo temporal, fecha ni marcador histórico preciso). Pertinencia al reactivo: el planteamiento es coherente con el reactivo pero carece del contexto espacial y temporal exigidos. Corrección mínima recomendada (no inventar datos): añadir en la primera(s) oración(es) la ubicación explícita —p.ej. “en Chile” o “ante Carabineros de Chile”— y especificar un indicador temporal preciso (mes/año o “la denuncia de [mes/año]”) tomado de la información disponible para que queden presentes los cuatro elementos."
             }
         }
     },
@@ -48,8 +48,8 @@
         "id_texto": 6,
         "resultado": {
             "introduccion": {
-                "nivel": 4,
-                "justificacion": "Presenta y contextualiza claramente el tema: la pandemia de COVID-19, el impacto en personas en todo el mundo y la introducción del teletrabajo como respuesta al contexto actual."
+                "nivel": 3,
+                "justificacion": "Qué: presente y claro (impacto en la salud mental del teletrabajo). Quiénes: vago — se dice “muchas personas”/“personas que trabajan desde sus casas” pero no identifica grupos concretos (ej., docentes, trabajadores del sector servicios, padres con hijos). Dónde: demasiado general — “en todo el mundo” es una localización global imprecisa; falta un contexto espacial más específico (país, ciudad o ámbito doméstico concreto). Cuándo: vago — “hoy en día” y “pandemia por covid-19” aluden al periodo, pero no precisan marco temporal (p. ej., desde marzo 2020, ola X, periodo de confinamiento 2020–2021). Además, respecto al reactivo, la introducción no menciona la idea central propuesta allí sobre el riesgo para el propio hogar como refugio (la “salud del lugar llamado hogar”), que es pertinente. Por estos motivos corresponde Nivel 3 (elementos presentes pero algunos generales y falta referencia clave del reactivo)."
             }
         }
     },
@@ -57,8 +57,8 @@
         "id_texto": 7,
         "resultado": {
             "introduccion": {
-                "nivel": 4,
-                "justificacion": "El texto comienza con un párrafo que presenta y contextualiza el tema: las políticas educativas y el currículo en 'nuestro país', menciona actores relevantes (instituciones educativas, comunidades inmigrantes) y el contexto actual, cumpliendo los criterios de una introducción clara."
+                "nivel": 2,
+                "justificacion": "La introducción contiene el 'Qué' de forma general (la tensión entre políticas educativas inclusivas y la preservación de valores nacionales) pero los otros tres elementos son vagos o están ausentes. 'Quiénes': aparecen expresiones imprecisas como \"un gran porcentaje de la población\" y \"comunidades inmigrantes\" sin identificar actores concretos (por ejemplo, padres conservadores, partidos o autoridades educativas, o especificar a los estudiantes inmigrantes como sujeto). 'Dónde': se dice \"nuestro país\" sin precisar el país o contexto geográfico. 'Cuándo': se usa \"actualmente\" y \"primeros años\" sin periodo o fechas concretas. Además falta una tesis clara en 1-2 oraciones que responda directamente al reactivo. Para alcanzar NIVEL 4 corrija mínimamente: sustituya \"nuestro país\" por el nombre del país objeto de estudio, nombre los actores relevantes de forma concreta, precise el periodo temporal (año o lapso) y replantee 1-2 oraciones iniciales que expongan explícitamente la pregunta o la tesis en relación con el reactivo (por ejemplo, empezar por una frase tipo: este ensayo analiza si los estudiantes inmigrantes que ingresan al sistema escolar de [país] deben adaptarse a las pautas culturales locales frente a la postura de sectores X)."
             }
         }
     },
@@ -66,8 +66,8 @@
         "id_texto": 8,
         "resultado": {
             "introduccion": {
-                "nivel": 4,
-                "justificacion": "El primer párrafo funciona claramente como introducción: presenta el tema (teletrabajo), el contexto (situación actual en Chile y la pandemia) y expone la tesis del ensayo sobre la amenaza a la salud mental."
+                "nivel": 3,
+                "justificacion": "La introducción contiene el 'qué' (teletrabajo y su amenaza a la integridad psicológica) y el 'dónde' (Chile) de forma relativamente clara. Sin embargo, el 'quiénes' está planteado de modo genérico ('los trabajadores', 'las personas') y no identifica actores concretos o colectivos específicos; y el 'cuándo' es vago ('situación actual', 'antes de la pandemia') sin mencionar explícitamente la pandemia de COVID-19 ni un periodo temporal preciso. Para alcanzar NIVEL 4 sería necesario nombrar actores concretos (por ejemplo, «trabajadores chilenos del sector público/privado», «trabajadores con cuidado de hijos», etc.) y precisar el periodo («pandemia de COVID-19, desde marzo de 2020» u otro intervalo claro)."
             }
         }
     },
@@ -75,8 +75,8 @@
         "id_texto": 9,
         "resultado": {
             "introduccion": {
-                "nivel": 4,
-                "justificacion": "El texto inicia con una introducción clara que contextualiza el tema (pandemia por COVID-19), presenta el foco (salud mental y teletrabajo), menciona a las personas afectadas y plantea la controversia y la tesis central."
+                "nivel": 3,
+                "justificacion": "Nivel 3: la introducción contiene 3 de los 4 elementos exigidos. 'Qué' está presente y específico (tema: teletrabajo y salud mental, planteado en 1–2 oraciones). 'Cuándo' está presente (se menciona la pandemia por COVID-19). 'Dónde' está presente en cuanto al contexto espacial doméstico ('hogar' como espacio). Sin embargo, falta 'Quiénes' identificado de forma concreta: no se nombran actores, grupos o personas específicos (solo aparece el pronombre general 'quienes'), por lo que el elemento 'Quiénes' es inexistente/es demasiado vago. El texto además es pertinente al reactivo, pero para alcanzar NIVEL 4 sería necesario especificar al menos un actor o grupo concreto (por ejemplo: trabajadores/as de X sector, empleados remotos, autoridades sanitarias, familias, etc.) sin introducir información ajena al enunciado."
             }
         }
     },
@@ -84,8 +84,8 @@
         "id_texto": 10,
         "resultado": {
             "introduccion": {
-                "nivel": 4,
-                "justificacion": "El primer párrafo funciona claramente como introducción: presenta el tema (sistema de enseñanza post-pandemia), contextualiza temporalmente y geográficamente (a raíz de la pandemia, población chilena) y plantea la tesis central."
+                "nivel": 3,
+                "justificacion": "El texto presenta claramente el qué (el sistema de enseñanza implementado a raíz de la pandemia y la postura a favor de la presencialidad) y sugiere un quién (\"la población chilena\") y un dónde (implícito: Chile). Sin embargo, esos elementos son vagos: \"población chilena\" es un actor muy general (no identifica a los actores clave como estudiantes, familias, docentes o el Ministerio de Educación) y el cuándo solo aparece como expresiones generales (\"en la actualidad\", \"a raíz de la pandemia\") sin un periodo concreto (p. ej. desde marzo de 2020). Para alcanzar NIVEL 4 se debe precisar: nombrar explícitamente a los actores relevantes (por ejemplo, estudiantes de enseñanza media, familias, docentes, Ministerio de Educación), indicar claramente el lugar (Chile) si se mantiene ese ámbito, y aportar un marco temporal específico (fecha o periodo de la pandemia)."
             }
         }
     },
@@ -93,8 +93,8 @@
         "id_texto": 11,
         "resultado": {
             "introduccion": {
-                "nivel": 4,
-                "justificacion": "El primer párrafo funciona como introducción: presenta la encíclica Fratelli Tutti y al Papa Francisco, expone el tema central (reclamos de justicia social, condena del individualismo) y lo contextualiza respecto a su actualidad y propósito."
+                "nivel": 2,
+                "justificacion": "La introducción contiene claramente el 'Qué' (tema: la encíclica Fratelli Tutti y la promoción de solidaridad frente al individualismo/explotación) y un 'Quién' específico (el Papa Francisco, además de la mención genérica a 'movimientos sociales'). Sin embargo, carece de 'Dónde' (no indica ubicación geográfica o contexto espacial preciso: ni Vaticano, ni país o región concreta) y de un 'Cuándo' preciso (solo usa expresiones vagas como 'en el último tiempo' sin fecha, periodo o momento histórico). También faltan actores opuestos o tradiciones nombradas de forma concreta (por ejemplo, autores, órdenes o debates medievales citados por nombre). Por esas deficiencias la introducción sólo cumple 1–2 elementos identificables → NIVEL 2. Para alcanzar NIVEL 4 habría que añadir una ubicación espacial concreta y un periodo/fecha precisos, y nombrar de forma específica los demás actores relevantes."
             }
         }
     },
@@ -102,8 +102,8 @@
         "id_texto": 12,
         "resultado": {
             "introduccion": {
-                "nivel": 4,
-                "justificacion": "Los primeros párrafos identifican claramente el tema (prácticas de autocuidado frente a factores ambientales), plantean el problema central (las acciones individuales son insuficientes) y lo contextualizan con referencias a medios e investigaciones, por lo que cumple la función de introducción."
+                "nivel": 2,
+                "justificacion": "Solo cumple parcialmente el elemento 'Qué': el texto menciona el tema general (prácticas de autocuidado frente a factores ambientales perjudiciales) pero de forma amplia y sin concretar el tipo de factor (p. ej. contaminación del aire) ni en 1–2 oraciones claras. Faltan o son vagos los demás elementos exigidos: 'Quiénes' (no se nombran actores específicos; aparecen referencias genéricas como \"la medicina\" o \"instituciones y marcas\"), 'Dónde' (no hay ubicación geográfica; no se menciona que el problema ocurre en las grandes ciudades) y 'Cuándo' (no se indica periodo temporal; solo generalidades). Además, la introducción no responde de forma explícita al reactivo que alude a especialistas en medicina y a la contaminación del aire en grandes ciudades. Para alcanzar NIVEL 4 se requiere una introducción breve (1–2 oraciones) que incluya explícitamente: (1) el tema concreto (autocuidado y su efecto frente a la contaminación del aire), (2) los actores (especialistas en medicina), (3) el lugar (las grandes ciudades) y (4) el tiempo (actualidad). Ejemplo mínimo de corrección realista (1–2 oraciones): \"Especialistas en medicina sostienen que prácticas de autocuidado —como la actividad física regular— ayudan al organismo a resistir mejor la contaminación del aire en las grandes ciudades; sin embargo, advierten que estas medidas individuales, en la actualidad, no modifican las condiciones estructurales que generan ese ambiente hostil.\""
             }
         }
     },
@@ -111,8 +111,8 @@
         "id_texto": 13,
         "resultado": {
             "introduccion": {
-                "nivel": 4,
-                "justificacion": "El primer párrafo funciona claramente como introducción: presenta el tema (COVID-19), su origen y llegada a Chile, y contextualiza temporal y geográficamente la situación además de mencionar consecuencias inmediatas."
+                "nivel": 3,
+                "justificacion": "Se otorga NIVEL 3 porque hay 3 elementos presentes de forma parcial pero con deficiencias: \n- Qué: aparece el tema general (la pandemia y sus efectos sobre la votación), pero está difuso; no hay una oración clara y específica que enuncie el problema central (la exclusión de personas con PCR positivo del plebiscito). \n- Quiénes: ausentes como elementos concretos por nombre; el texto usa términos genéricos («el presidente», «muchas personas») en vez de identificar actores relevantes (p. ej. Presidente Sebastián Piñera, el Servicio Electoral —Servel—, los electores con PCR positivo). \n- Dónde: presente y específico (Chile). \n- Cuándo: hay referencias temporales generales (febrero-marzo, «este octubre») pero falta precisión; debe indicarse la fecha del plebiscito (25 de octubre de 2020) o al menos «octubre de 2020». \nPara alcanzar NIVEL 4, redacte 1–2 oraciones iniciales que contengan explícitamente: 1) el tema central en una frase (p. ej. la exclusión de contagiados con PCR positivo del plebiscito), 2) los actores nombrados (Presidente Sebastián Piñera y/o el Servel y los electores afectados), 3) la ubicación (Chile) y 4) el momento exacto (25 de octubre de 2020 o «octubre de 2020»)."
             }
         }
     },
@@ -120,8 +120,8 @@
         "id_texto": 14,
         "resultado": {
             "introduccion": {
-                "nivel": 4,
-                "justificacion": "Presenta claramente el tema (rebaja de la indemnización), identifica al implicado (Julio Ponce Lerou) y lo sitúa en el contexto de irregularidades en la historia reciente de Chile, además plantea una cuestión sobre la legitimidad de la medida."
+                "nivel": 3,
+                "justificacion": "La introducción contiene tres elementos específicos: Qué (la rebaja de la indemnización en el Caso Soquimich), Quiénes (Julio Ponce Lerou y la Corte Suprema) y Dónde (Chile). Sin embargo, el elemento Cuándo está ausente/ambiguo: la expresión «historia reciente de Chile» es vaga y no aporta un periodo temporal preciso exigido por los criterios. Además el texto termina de forma abrupta con una pregunta y presenta una falta ortográfica («indeminzación»), aunque responde de manera pertinente al reactivo sobre la legitimidad de la medida."
             }
         }
     },
@@ -129,8 +129,8 @@
         "id_texto": 15,
         "resultado": {
             "introduccion": {
-                "nivel": 4,
-                "justificacion": "El primer párrafo funciona claramente como introducción: presenta y contextualiza el tema (confinamiento por la pandemia), indica qué ocurre y por qué, menciona ámbitos afectados (oficinas, escuelas, transporte) y alude a consecuencias generales."
+                "nivel": 3,
+                "justificacion": "La introducción identifica el tema central (qué: teletrabajo y salud mental durante la pandemia) y el momento histórico (cuándo: pandemia/COVID-19), por lo que esos dos elementos están presentes de forma aceptable. Sin embargo, falla en dos requisitos por ser vagos: (1) Quiénes: solo aparecen referencias generales (“la población”, “trabajadores”, “familias”) pero no actores concretos o grupos claramente identificables; (2) Dónde: se habla de “gran parte del mundo” o “muchas partes del mundo”, es decir, un alcance geográfico impreciso. Para alcanzar NIVEL 4 haga una introducción más breve (1–2 oraciones) que incluya los cuatro elementos de forma específica. Ejemplo minimal y editable: Esta investigación analiza el impacto del teletrabajo en la salud mental de trabajadores de oficina y sus familias (qué; quiénes) en [indicar país o ciudad concreta] (dónde) durante la pandemia de COVID‑19 (marzo de 2020–presente) (cuándo). Reemplace el corchete por el contexto geográfico real del estudio y, si procede, precise los subgrupos de trabajadores afectados."
             }
         }
     },
@@ -138,8 +138,8 @@
         "id_texto": 16,
         "resultado": {
             "introduccion": {
-                "nivel": 4,
-                "justificacion": "El texto inicia con una sección clara que presenta y contextualiza el tema (contexto sanitario actual, medidas del gobierno, cierre de colegios), identifica actores (gobierno, colegios, estudiantes) y plantea la tesis principal (los colegios no deben volver a clases presenciales)."
+                "nivel": 2,
+                "justificacion": "La introducción contiene el 'qué' (cierre de colegios y transición a clases virtuales) y menciona actores generales ('el gobierno', 'la gran mayoría de los colegios'), pero falla en los otros elementos exigidos: no especifica 'dónde' (no indica país, región o contexto espacial concreto) y no precisa 'cuándo' (se limita a 'actual contexto sanitario' sin periodo o fechas, p. ej. pandemia de COVID‑19 y años). Además, los 'quiénes' están expresados de forma demasiado genérica (no se nombran entidades o grupos concretos), lo que impide considerar esos actores como suficientemente específicos. Aunque la introducción responde al reactivo en términos de postura, la ausencia de ubicación y periodo claros y la vaguedad en los actores justifican un nivel 2."
             }
         }
     },
@@ -147,8 +147,8 @@
         "id_texto": 17,
         "resultado": {
             "introduccion": {
-                "nivel": 4,
-                "justificacion": "El primer párrafo funciona claramente como introducción: presenta el tema (contaminación del aire), aporta contexto temporal y espacial ('en el último tiempo', 'las grandes ciudades'), menciona actores ('las grandes empresas') y plantea la tesis (fomentar la actividad física desde la educación escolar)."
+                "nivel": 2,
+                "justificacion": "La introducción solo presenta claramente el 'qué' (la contaminación del aire y la propuesta de fomentar la actividad física en la escuela), aunque de forma mezclada y general. No cumple 'quiénes': los actores mencionados ('las grandes empresas', 'los niños') son genéricos y no se identifican instituciones, expertos o grupos concretos por nombre. No cumple 'dónde': aparece 'las grandes ciudades' sin precisar país, ciudad o contexto espacial específico. No cumple 'cuándo': 'en el último tiempo' es impreciso y no proporciona periodo, fecha ni marco temporal concreto. Además, no responde plenamente al reactivo: no se hace referencia a los especialistas en medicina ni a la idea central de que las medidas individuales no modifican las condiciones ambientales que causan la contaminación. Por tanto, solo 1 elemento identificable → NIVEL 2."
             }
         }
     },
@@ -156,8 +156,8 @@
         "id_texto": 18,
         "resultado": {
             "introduccion": {
-                "nivel": 4,
-                "justificacion": "El primer párrafo funciona como introducción: presenta el tema (la pandemia de COVID-19), contextualiza su alcance global y las diferencias entre países, menciona el caso de Chile y expone claramente la tesis y el propósito del ensayo sobre la necesidad de políticas públicas."
+                "nivel": 2,
+                "justificacion": "La introducción sólo cumple parcialmente los elementos exigidos. Qué: aparece (la pandemia y la necesidad de políticas públicas) pero es general y no se focaliza en el reactivo (segunda ola en Europa y cuarentenas sectorizadas). Dónde: hay una ubicación explícita ('personas en Chile'), pero no coincide con el contexto solicitado (Europa/Madrid). Quiénes: vagos o ausentes (‘‘habitantes del mundo’’, ‘‘muchos autores’’; no hay actores concretos como gobiernos locales, comunidades afectadas o grupos nombrados). Cuándo: inexistente (no se menciona la segunda ola, periodo ni fechas). En suma faltan precisión temporal, actores específicos y adecuación geográfica al reactivo."
             }
         }
     },
@@ -165,8 +165,8 @@
         "id_texto": 19,
         "resultado": {
             "introduccion": {
-                "nivel": 4,
-                "justificacion": "Frase inicial que presenta y contextualiza el tema: qué (pandemia), cuándo (2020) y alcance geográfico (la mayoría de los países), además de las consecuencias."
+                "nivel": 2,
+                "justificacion": "Presenta el 'qué' (la pandemia del COVID-19 como tema) y el 'cuándo' (año 2020) de forma clara. Carece de 'quiénes' específicos: emplea la expresión vaga 'la mayoría de los países y estados del mundo' en lugar de actores nombrados. También carece de 'dónde' preciso: 'del mundo' es demasiado general y no cumple la exigencia de ubicación concreta. Además, la oración no responde al reactivo: no menciona Venecia, los canales, los delfines ni la discusión sobre el ecosistema o el modelo productivo global, por lo que no sitúa el enfoque que pide el enunciado."
             }
         }
     },
@@ -174,8 +174,8 @@
         "id_texto": 20,
         "resultado": {
             "introduccion": {
-                "nivel": 4,
-                "justificacion": "El primer párrafo funciona como introducción: presenta el tema (COVID-19), su alcance y contexto temporal ('actualmente', 'con el pasar de los meses') y menciona actores relevantes (organizaciones sanitarias)."
+                "nivel": 3,
+                "justificacion": "La introducción contiene el 'qué' (la pandemia y las cuarentenas) y el 'dónde' (se menciona explícitamente 'Europa') y ofrece un 'cuándo' implícito al referirse a la 'segunda ola'/'luego de algunos meses'. Sin embargo, carece del 'quiénes' exigido: los actores aparecen solo como referencias generales ('distintas organizaciones sanitarias', 'personas más pobres', 'expertos en salud pública') y no se nombra a ningún actor concreto (p. ej. autoridades o instituciones específicas como la Comunidad de Madrid o autoridades sanitarias). Además, los marcadores temporales ('actualmente', 'luego de algunos meses') son vagos. Para alcanzar Nivel 4 es necesario nombrar al menos un actor concreto y precisar el periodo temporal de manera explícita."
             }
         }
     }
