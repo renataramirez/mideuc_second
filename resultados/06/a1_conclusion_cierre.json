@@ -4,7 +4,7 @@
         "resultado": {
             "conclusion_cierre": {
                 "nivel": 3,
-                "justificacion": "El cierre del texto funciona como un comentario final con propuestas (estructurar el teletrabajo, opciones como cybercafés y bloqueo de llamadas), pero no ofrece una síntesis clara de la idea principal del texto: que el hogar como refugio está en riesgo y cómo ello afecta la salud mental. Las recomendaciones aparecen sueltas y algo vagas, introduciendo ejemplos nuevos (cybercafés, Japón) sin conectarlos explícitamente con los argumentos previos ni desarrollar consecuencias políticas, sociales o futuras. Para alcanzar un nivel superior debería reformularse la tesis central en nuevas palabras y articular las implicaciones y posibles medidas de manera más concreta y vinculada al análisis previo."
+                "justificacion": "Hay un cierre reconocible en forma de comentario y recomendaciones (necesidad de estructurar el trabajo remoto; propuestas como cybercafés y bloqueo de llamadas), por eso no puede ser nivel 1 o 2. Sin embargo, falta una síntesis clara: la conclusión no reformula en nuevas palabras la idea principal del texto (que el hogar como refugio frente al trabajo permanente está en riesgo). La proyección existe pero es limitada y práctica (medidas puntuales) y no desarrolla consecuencias más amplias ni conecta explícitamente con el reactivo (p. ej. implicaciones para la salud del hogar, políticas públicas o cambios sociales futuros). Para mejorar: añadir 1–2 oraciones que reexpresen la tesis central sobre el peligro para el hogar y ampliar la proyección hacia consecuencias y posibles políticas o reflexiones futuras."
             }
         }
     },
@@ -13,7 +13,7 @@
         "resultado": {
             "conclusion_cierre": {
                 "nivel": 3,
-                "justificacion": "El cierre existe pero funciona más como un comentario final que como una conclusión académica completa. Falta una síntesis clara que reformule la idea principal del texto (no resume en nuevas palabras la tensión entre aprendizaje virtual vs. presencial ni la relevancia de las cuatro áreas de aprendizaje). Si bien hay una proyección práctica dirigida al núcleo familiar (incorporar protocolos para favorecer la interacción segura), esta es limitada y no aborda consecuencias más amplias (políticas educativas, criterios para la reapertura, impacto a largo plazo) ni ofrece una postura concluida respecto al reactivo. Además, la conclusión contiene imprecisiones y errores que debilitan su fuerza (p. ej. 'inmunidad de \"revaño\"', errores ortográficos), lo que reduce su claridad y autoridad."
+                "justificacion": "El cierre ofrece una proyección (recomienda evitar la interacción hasta alcanzar inmunidad colectiva y pide que la familia incorpore protocolos), por lo que hay comentario final. Sin embargo carece de una síntesis clara que reformule la idea central del texto en nuevas palabras; tampoco responde de manera explícita y equilibrada al reactivo (no valora suficientemente el dilema presencialidad vs salud mental ni ofrece consecuencias o tiempos claros). En resumen: hay proyección parcial pero falla la síntesis y la resolución explícita del problema planteado."
             }
         }
     },
@@ -21,8 +21,8 @@
         "id_texto": 3,
         "resultado": {
             "conclusion_cierre": {
-                "nivel": 3,
-                "justificacion": "La conclusión sí reformula la idea principal (el cambio de actitud impulsado por medidas gubernamentales reducirá la contaminación y beneficiará la salud), pero lo hace de forma general y repetitiva, más como un comentario final que como un cierre argumentativo sólido. No integra de manera explícita la matiz del reactivo (que las medidas individuales por sí solas no modifican las condiciones estructurales) ni plantea consecuencias concretas, límites, plazos o propuestas claras de política; usa lenguaje vago («en su mayoría para bien», «granito de arena») en vez de proyecciones precisas. Por ello corresponde un cierre de tipo comentarial y no un cierre proyectivo-excepcional (nivel 4)."
+                "nivel": 4,
+                "justificacion": "La conclusión reformula la idea principal (que las medidas gubernamentales inducirán un cambio de actitud que reducirá la contaminación) y plantea una proyección clara sobre consecuencias positivas para el ambiente y la salud, por lo que cumple síntesis y proyección y responde al reactivo al priorizar acciones estructurales sobre el autocuidado individual. Deficiencias: formulación repetitiva y vaga («granito de arena»), faltan referencias explícitas a los argumentos de especialistas y precisión sobre qué medidas y plazos, además de errores de redacción que afectan la claridad."
             }
         }
     },
@@ -31,7 +31,7 @@
         "resultado": {
             "conclusion_cierre": {
                 "nivel": 3,
-                "justificacion": "El texto contiene un cierre identificable que reitera la tesis central (que se requieren políticas públicas y acción colectiva, sin excluir el papel individual), por eso no es inexistente. Sin embargo, la síntesis es mayormente repetitiva del cuerpo y está formulada con vaguedades; la proyección es tenue y genérica (menciona que las prácticas individuales pueden contagiarse, pero no plantea consecuencias, recomendaciones o escenarios futuros concretos ni enfatiza con claridad que las medidas individuales no bastan para cambiar las condiciones ambientales, como pide el reactivo). En resumen: cierre presente y pertinente pero insuficientemente desarrollado y poco preciso, más comentario que proyección sólida."
+                "justificacion": "El texto presenta un cierre a modo de comentario que retoma la tesis central (que las soluciones deben trascender la acción individual y requerir políticas públicas y cultura colectiva) por lo que responde al reactivo de forma general. Sin embargo, la síntesis es débil: no reformula la idea principal con palabras significativamente nuevas, sino que repite y amalgama información ya expuesta. La proyección también es insuficiente: ofrece afirmaciones generales (las acciones individuales pueden inspirar políticas o cultura) pero carece de implicaciones concretas, consecuencias futuras o escenarios relevantes que profundicen la reflexión. En conjunto, funciona como cierre comentario (nivel 3) pero falla en aportar una síntesis renovada y una proyección sólida."
             }
         }
     },
@@ -40,7 +40,7 @@
         "resultado": {
             "conclusion_cierre": {
                 "nivel": 4,
-                "justificacion": "La conclusión cumple con Síntesis y Proyección: reformula con claridad la idea principal (la libertad de expresión como bien esencial, límites sólo por razones singularmente relevantes y preferencia por controles ex post) y añade una proyección normativa (la sociedad debe volver a valorar esa libertad y se plantea la reconciliación entre garantías democráticas y la prevención de la arbitrariedad). Deficiencias: el cierre es algo general y reiterativo (repite el enunciado central sin detallar medidas concretas ni consecuencias precisas sobre el caso Las Tesis ni sobre criterios jurídicos aplicables), por lo que la proyección carece de concreción práctica aunque sí existe en términos normativos."
+                "justificacion": "La conclusión reformula con claridad la idea central (la libertad de expresión como bien esencial y la preferencia por límites ex post) cumpliendo la síntesis exigida, y además plantea proyección al señalar las implicaciones democráticas y la necesidad social de revalorar la libertad ante intervenciones artísticas como las de Las Tesis. Es pertinente respecto al reactivo porque aborda directamente el conflicto entre expresión artística y restricción preventiva. Observaciones menores: la proyección queda algo general y podría beneficiarse de implicaciones más concretas (p. ej. criterios normativos o consecuencias jurídicas), y el último enunciado resulta algo redundante."
             }
         }
     },
@@ -49,7 +49,7 @@
         "resultado": {
             "conclusion_cierre": {
                 "nivel": 3,
-                "justificacion": "El texto presenta una oración final que funciona como cierre a modo de comentario sobre el impacto en la salud mental; por ello corresponde a un cierre reconocible pero elemental (nivel 3). Deficiencias específicas: 1) No hay una síntesis robusta de la tesis central del reactivo: apenas repite en términos generales que el encierro y la sobrecarga afectan la salud mental, sin reformular en nuevas palabras la idea principal relacionada con la pérdida del hogar como refugio. 2) No cumple la proyección exigida: no plantea implicaciones, consecuencias futuras, reflexiones ni escenarios prospectivos sobre cómo dicha situación podría evolucionar o requerir respuestas (políticas, organizacionales o personales). 3) El cierre es breve y descriptivo, más parecido a un comentario final que a una conclusión integrada que cierre el argumento planteado en el reactivo. Para elevarlo a nivel 4 sería necesario sintetizar la tesis sobre el hogar como último refugio en nuevas palabras y añadir una proyección concreta (consecuencias, recomendaciones o contextos futuros)."
+                "justificacion": "El fragmento ofrece un cierre a modo de comentario y resume de forma general la situación (síntesis superficial), pero no plantea proyecciones, implicaciones ni reflexiones futuras. Además no atiende con precisión el núcleo del reactivo: la amenaza al hogar como último refugio; el cierre es descriptivo y escaso, sin análisis prospectivo."
             }
         }
     },
@@ -58,7 +58,7 @@
         "resultado": {
             "conclusion_cierre": {
                 "nivel": 3,
-                "justificacion": "El cierre del texto contiene comentarios finales y posiciones personales que remiten a la tesis (favor de una integración efectiva y a la vez preservación de tradiciones), pero carece de una síntesis clara y reformulada de la idea principal en pocas palabras: las afirmaciones están dispersas en varias oraciones y a menudo reintroducen nuevas valoraciones en vez de resumir el argumento central. Asimismo, la proyección es vaga y descriptiva (beneficios generales de la integración, necesidad de preservar valores en primeros años) pero no plantea consecuencias concretas, implicaciones prácticas ni escenarios futuros bien desarrollados que respondan de forma contundente al reactivo. En conjunto, funciona como un comentario de cierre más que como una conclusión sintética y proyectiva de nivel excepcional."
+                "justificacion": "El cierre del texto funciona como comentario y reflexión (proyección): propone consecuencias y prácticas educativas (integración enriquecedora, preservar tradiciones en primeros años, promover colaboración). Sin embargo, falla en la síntesis: no reformula de manera clara y concisa la idea principal del ensayo sobre el debate entre asimilación e inclusión; la conclusión está dispersa en varios párrafos y ofrece recomendaciones más que una conclusión que recoja y reformule la tesis. Aunque pertinente al reactivo, la falta de una reformulación explícita de la tesis impide un nivel superior."
             }
         }
     },
@@ -67,7 +67,7 @@
         "resultado": {
             "conclusion_cierre": {
                 "nivel": 3,
-                "justificacion": "El texto presenta un cierre reconocible que retoma la tesis y emite una recomendación general (normas y regulaciones), por lo que existe un comentario final pertinente al reactivo. Sin embargo, la síntesis es superficial y poco reformulada: repite la idea central sin elaborar ni ofrecer una reformulación clara y académica. La proyección es vaga y genérica («debe tratarse con mucho cuidado», «Se deben realizar normas y regulaciones», «podría significar una nueva normalidad») y no desarrolla consecuencias concretas, agentes responsables, ni escenarios futuros detallados. Además contiene imprecisiones formales y léxicas que afectan la solidez académica (p. ej. «por que» en lugar de «porque»). En conjunto, esto constituye un cierre a modo de comentario más que una conclusión-proyección completa y fundamentada, por lo que corresponde Nivel 3."
+                "justificacion": "Existe un cierre identificable que retoma la tesis (el teletrabajo como solución del confinamiento pero con riesgo para la salud mental) y propone una proyección vaga (necesidad de normas/regulaciones y posible 'nueva normalidad'). Sin embargo, la síntesis es débil y en gran parte repetitiva (no reformula con claridad ni añade una conclusión integradora sobre la idea principal) y la proyección es genérica y poco desarrollada (no plantea consecuencias concretas, medidas precisas ni escenarios futuros relevantes). Además hay errores formales ('por que') y falta de precisión que convierten el párrafo final en un comentario con recomendaciones superficiales más que en un cierre analítico y proyectivo completo, por lo que corresponde nivel 3."
             }
         }
     },
@@ -76,7 +76,7 @@
         "resultado": {
             "conclusion_cierre": {
                 "nivel": 4,
-                "justificacion": "La conclusión cumple ambos criterios: sintetiza la tesis principal reformulando la idea de que el teletrabajo puede realizarse sin daño si se aplican estrategias concretas (espacio definido, horarios, ritual de cierre) y proyecta una implicación concreta al recomendar que los gobiernos promuevan campañas de difusión. Deficiencias: el enunciado es algo repetitivo respecto al cuerpo del texto y usa un modo verbal impreciso ('enseñaran' resulta poco apropiado; sería mejor 'enseñen' o 'para enseñar'), y la proyección es genérica y carece de precisión sobre alcance, mecanismos o evaluación de esas campañas. Aun así, estructura un cierre claro que concluye y proyecta la tesis, por lo que alcanza nivel 4."
+                "justificacion": "La conclusión reformula de manera clara la idea principal: el teletrabajo puede realizarse sin perjuicio de la salud si se aplican estrategias concretas (síntesis). Además plantea una proyección concreta y pertinente al reactivo al recomendar que los gobiernos promuevan campañas para difundir dichas estrategias (proyección). Deficiencias: lenguaje algo redundante y una imprecisión menor en la redacción final (p. ej. 'enseñaran' debería ser 'enseñen'); la proyección podría precisarse más (qué tipo de campañas, alcance), pero cumple los dos requisitos exigidos."
             }
         }
     },
@@ -85,7 +85,7 @@
         "resultado": {
             "conclusion_cierre": {
                 "nivel": 3,
-                "justificacion": "La conclusión se aprecia como un comentario final que reafirma la tesis (\"las clases presenciales son la solución\"), pero es redundante y reproduce ideas ya dichas en el cuerpo sin reformular la idea principal en palabras nuevas ni ofrecer una síntesis clara y novedosa. Hay una tentativa de proyección limitada al señalar que es un \"desafío planteado por el Ministerio\", pero carece de implicaciones concretas, consecuencias futuras, recomendaciones o condiciones para la reapertura (p. ej. medidas sanitarias, cronograma, evaluación de riesgos). En conjunto, cumple como cierre comentarial pero no alcanza una proyección desarrollada ni una síntesis reformulada que justificaría un nivel 4."
+                "justificacion": "El texto presenta un cierre identificable que reafirma la tesis (las clases presenciales como solución), por lo que existe un comentario conclusivo; sin embargo falla en la síntesis porque repite literalmente la idea principal en lugar de reformularla con nuevas palabras y mayor precisión. Tampoco ofrece una proyección adecuada: no plantea implicaciones concretas, consecuencias operativas ni contexto futuro (la mención vaga de un “desafío planteado” por el Ministerio es insuficiente). Responde al reactivo de forma afirmativa pero de manera superficial y reiterativa, sin el cierre prospectivo exigido."
             }
         }
     },
@@ -93,8 +93,8 @@
         "id_texto": 11,
         "resultado": {
             "conclusion_cierre": {
-                "nivel": 4,
-                "justificacion": "El texto presenta un cierre reconocible que reitera la tesis central (que Francisco va más allá de la tradición y propone una alternativa social basada en la solidaridad) y plantea una proyección: si las vidas se alinean con esa propuesta se logrará un mundo mejor. Cumple ambos criterios (síntesis en palabras nuevas y proyección/consecuencia). Sin embargo, la conclusión adolece de vaguedades y repeticiones: la reformulación es algo redundante respecto del cuerpo del texto y la proyección queda muy general y retórica (no especifica actores, mecanismos concretos, pasos prácticos ni escenarios temporales). Para fortalecerla habría que precisar consecuencias más concretas o indicar vías y agentes para la implementación de la propuesta."
+                "nivel": 3,
+                "justificacion": "El texto presenta un cierre reconocible que resume la postura central (que Francisco propone una alternativa social que condena el individualismo y promueve la solidaridad), por lo que existe un comentario conclusivo. Sin embargo, falla en la SÍNTESIS exigida: predominan la repetición y la reiteración de ideas ya expuestas en lugar de una reformulación clara y novedosa de la tesis. Asimismo, la PROYECCIÓN es débil y vaga: el cierre alude a la intención del pontífice de ‘hacer un mundo mejor’, pero no plantea consecuencias concretas, implicaciones claras ni escenarios o reflexiones futuras relevantes sobre cómo se traduciría esa propuesta en cambios sociales o políticos. Por eso no alcanza el nivel 4."
             }
         }
     },
@@ -102,8 +102,8 @@
         "id_texto": 12,
         "resultado": {
             "conclusion_cierre": {
-                "nivel": 4,
-                "justificacion": "El texto reformula con claridad la idea central: las prácticas de autocuidado benefician la salud pero son soluciones parciales que no erradican las causas ambientales, y proyecta consecuencias relevantes (necesidad de cambios de políticas/legislación y de información más honesta). Estas dos funciones (síntesis y proyección) están presentes y concluyen la tesis del reactivo. Debilidades: el cierre aparece distribuido en varios párrafos y carece de una oración final más contundente y concreta (p. ej. propuestas políticas específicas o escenarios futuros claros), además de leves repeticiones que reducen su contundencia."
+                "nivel": 3,
+                "justificacion": "El cierre cumple como comentario final pero falla en la síntesis exigida: no reformula con claridad la idea principal (que el autocuidado ayuda pero no sustituye cambios estructurales frente a la contaminación) sino que ofrece una recomendación puntual sobre honestidad en la difusión. La proyección existe pero es superficial y limitada a una apelación ética (promoción honesta, integridad), sin plantear implicaciones, consecuencias o escenarios futuros concretos (políticas públicas, reformas regulatorias, impacto social). Responde parcialmente al reactivo, pero no integra ni sintetiza la tesis ni desarrolla una proyección sólida; por ello no alcanza nivel 4."
             }
         }
     },
@@ -112,7 +112,7 @@
         "resultado": {
             "conclusion_cierre": {
                 "nivel": 3,
-                "justificacion": "El texto presenta un cierre reconocible a modo de comentario: afirma el derecho y deber de votar y señala que la exclusión de contagiados parece discriminatoria, pero a la vez defiende la medida por razones sanitarias. No constituye una síntesis clara de la idea principal en nuevas palabras, sino una reiteración ambigua y contradictoria de puntos ya expuestos. Tampoco ofrece proyección: no plantea consecuencias futuras, implicaciones legales o políticas, ni sugerencias alternativas (p. ej. medidas para garantizar el sufragio de contagiados), lo que debilita su pertinencia respecto al reactivo que exige evaluar la exclusión de votantes con PCR positivo. Además, la falta de precisión y la contradicción interna reducen la claridad y fuerza del cierre."
+                "justificacion": "El texto tiene un cierre reconocible («Ahora bien en conclusión...») que comenta sobre el derecho a voto y la supuesta discriminación de contagiados, por lo que funciona como un comentario final. No cumple una síntesis rigurosa: no reformula con claridad y en nuevas palabras la idea principal del texto, sino que repite afirmaciones dispersas sobre derechos y riesgos. Tampoco ofrece proyección: no plantea consecuencias concretas, reflexiones profundas, escenarios futuros ni propuestas relacionadas con el reactivo. Además presenta una contradicción no resuelta (denuncia discriminación pero al mismo tiempo justifica la medida por salud pública) sin analizar sus implicaciones. Por todo ello corresponde Nivel 3."
             }
         }
     },
@@ -120,8 +120,8 @@
         "id_texto": 14,
         "resultado": {
             "conclusion_cierre": {
-                "nivel": 1,
-                "justificacion": "No hay una conclusión ni cierre identificable. El fragmento es una oración introductoria que plantea una pregunta retórica, no reformula la idea principal ni sintetiza el argumento del texto: falta una reelaboración clara de la tesis sobre la rebaja de la multa y sus implicaciones. Tampoco ofrece proyección alguna (consecuencias legales, impacto en los fondos de pensiones, implicaciones éticas o políticas), por lo que no cumple el criterio de proyección. Además presenta deficiencias formales que impiden considerarlo cierre: palabra mal escrita ('indeminzación'), puntuación y signos de interrogación incorrectos y una estructura incompleta que parece un corte abrupto y no un cierre deliberado. En conjunto, el fragmento no responde al reactivo ni cumple síntesis ni proyección exigidas."
+                "nivel": 2,
+                "justificacion": "Hay una tentativa de síntesis al afirmar que la rebaja forma parte de una serie de irregularidades en la historia reciente de Chile, pero la formulación es vaga y en buena medida repetitiva respecto al reactivo. Además presenta errores y falta de cierre (p. ej., 'indeminzación' mal escrito y una interrogación final incompleta). No cumple la proyección: no plantea consecuencias, implicaciones ni reflexión futura sobre la legitimidad del fallo ni su impacto en los fondos de pensiones. La conclusión está amalgamada y no cierra claramente el texto."
             }
         }
     },
@@ -130,7 +130,7 @@
         "resultado": {
             "conclusion_cierre": {
                 "nivel": 3,
-                "justificacion": "El texto presenta un cierre a modo de comentario: el último párrafo resume que el teletrabajo y el confinamiento aumentan el estrés y reducen la calidad de vida, por tanto funciona como una conclusión informal. Sin embargo, carece de una síntesis explícita y ordenada de la idea principal planteada en el reactivo (la noción del hogar como refugio amenazado por el teletrabajo) y no ofrece proyección alguna —no plantea implicaciones claras, consecuencias futuras, recomendaciones ni reflexiones sobre cómo atender el problema—. Además el cierre está integrado y poco diferenciado del cuerpo (con ideas repetitivas y vagas), por lo que no alcanza el nivel de una conclusión que cierre y proyecte la tesis."
+                "justificacion": "El texto presenta un cierre reconocible a modo de comentario que resume consecuencias (síntesis parcial: el teletrabajo impide desconectarse y ha afectado la calidad de vida), por lo que sí existe una conclusión breve. Sin embargo, la proyección es débil: sólo enumera efectos inmediatos (aumento de ansiedad) y no plantea implicaciones futuras, recomendaciones ni reflexiona sobre la idea específica del reactivo (el hogar como último refugio). Además, la síntesis es general y poco elaborada, sin cerrar con una reflexión prospectiva; por ello corresponde nivel 3."
             }
         }
     },
@@ -139,7 +139,7 @@
         "resultado": {
             "conclusion_cierre": {
                 "nivel": 3,
-                "justificacion": "El cierre actúa como un comentario final que resume la postura a favor de la continuidad de la enseñanza virtual (síntesis presente), pero no cumple la proyección exigida: no plantea implicaciones futuras, consecuencias concretas, ni reflexiones sobre el equilibrio con la salud mental y la reapertura escolar señaladas en el reactivo. Además la oración final repite argumentos previos en vez de reformular la tesis en nuevas palabras y ofrecer recomendaciones o escenarios futuros, por lo que no alcanza el nivel 4."
+                "justificacion": "Existe un cierre identificable que vuelve a afirmar la tesis y los argumentos centrales (seguridad sanitaria, protección de la salud, igualdad de acceso), por lo que hay síntesis aunque resulta repetitiva y poco reformulada. Sin embargo, falta proyección: no plantea implicaciones, consecuencias, recomendaciones ni perspectivas futuras, ni aborda el contraargumento relevante sobre la salud mental y emocional de los estudiantes. En conjunto, es un cierre tipo comentario que no cumple la proyección exigida por el reactivo."
             }
         }
     },
@@ -148,7 +148,7 @@
         "resultado": {
             "conclusion_cierre": {
                 "nivel": 3,
-                "justificacion": "Hay un cierre identificable pero corresponde más a un comentario que a una síntesis y proyección robustas. La conclusión repite la idea central con lenguaje muy cercano al ya expuesto (no la reformula en términos nuevos) y contiene una proyección vaga («alguna campaña o ley») sin detallar consecuencias o mecanismos. Además introduce una afirmación equívoca (que la actividad física «combate» la contaminación) que confunde la diferencia señalada en el reactivo entre mejorar la resistencia individual y cambiar las condiciones ambientales. Por todo ello cumple como cierre comentario pero no alcanza la calidad requerida para un nivel 4."
+                "justificacion": "La conclusión funciona como un cierre a modo de comentario: repite la idea principal (contaminación y la importancia del deporte) pero la síntesis es débil y poco reformulada, limitándose a reiterar lo ya dicho. Sí presenta una proyección (propone campañas o leyes gubernamentales), pero es vaga (“alguna campaña o ley”) y no aborda correctamente el reactivo: no reconoce la limitación señalada por especialistas de que las medidas individuales no modifican las causas ambientales y, además, contradice implícitamente esa advertencia al afirmar que el ejercicio ‘combate’ el problema. En conjunto, hay cierre comentativo pero falta una síntesis clara y una proyección precisa y coherente con el reactivo."
             }
         }
     },
@@ -156,8 +156,8 @@
         "id_texto": 18,
         "resultado": {
             "conclusion_cierre": {
-                "nivel": 1,
-                "justificacion": "No se identifica una conclusión o cierre: el texto termina de forma abrupta y truncada (palabra incompleta 'q'), sin reformular la idea principal en nuevas palabras ni ofrecer proyecciones. Lo que hay son preguntas retóricas y afirmaciones abiertas que pertenecen al desarrollo, no una síntesis final. Tampoco plantea implicaciones, consecuencias ni contextos futuros relevantes respecto al reactivo (segunda ola en Europa, cuarentenas sectorizadas y discriminación); además, el enfoque geográfico del texto (Chile) no responde específicamente al caso planteado. En conjunto, faltan síntesis clara, cierre explícito y proyección, y existe además falta de coherencia y errores formales que impiden identificar un cierre académico."
+                "nivel": 2,
+                "justificacion": "La sección final no presenta una síntesis clara: no reformula de forma concisa la idea principal del texto en nuevas palabras, sino que repite en tono general la necesidad de políticas públicas. Existe una proyección tentativa (actualizar programas y normativas orientadas a la dignidad, acceso a alimentos y condiciones laborales), pero es superficial, desordenada y además el cierre está truncado, por lo que la proyección no se desarrolla ni concreta consecuencias futuras. Tampoco se vincula explícitamente y con pertinencia al reactivo (segunda ola europea, cuarentenas sectorizadas y discriminación), por lo que la estructura no es clara y sólo permite inferir una conclusión mezclada con el cuerpo del texto."
             }
         }
     },
@@ -165,8 +165,8 @@
         "id_texto": 19,
         "resultado": {
             "conclusion_cierre": {
-                "nivel": 3,
-                "justificacion": "La oración cumple solo como un cierre muy breve a modo de comentario, pero presenta deficiencias claras: no reforma la idea central del reactivo (no retoma ni sintetiza las imágenes de Venecia, la cuestión de la incapacidad humana para integrarse al ecosistema ni la crítica al modelo productivo), no ofrece proyección (no plantea consecuencias, implicaciones ni reflexiones futuras relevantes) y resulta demasiado genérica y desconectada del cuerpo argumental. Además tiene un error formal ('mayoria' sin tilde) y carece de precisión y alcance exigibles para un cierre académico riguroso."
+                "nivel": 2,
+                "justificacion": "El enunciado final funciona como cierre tenue pero insuficiente: se limita a una afirmación general sobre pérdidas humanas y económicas (no ofrece una reformulación clara y sustancial de la idea principal del texto, por tanto falta síntesis). Tampoco plantea implicaciones, consecuencias ni proyecciones futuras relevantes sobre la tensión ecosistema/actividad humana ni sobre el modelo productivo global expuesto en el reactivo (falta proyección). En consecuencia, existe una conclusión implícita pero poco desarrollada y que no responde adecuadamente al reactivo."
             }
         }
     },
@@ -175,7 +175,7 @@
         "resultado": {
             "conclusion_cierre": {
                 "nivel": 3,
-                "justificacion": "La conclusión funciona como un comentario final: reformula de manera muy general que el COVID‑19 no es solo un problema sanitario y llama a una visión panorámica, y sugiere que las organizaciones de salud deben equilibrar control de contagios y bienestar mental. Sin embargo, falla en ofrecer una síntesis precisa y renovada de la tesis central del texto (no retoma con claridad la problemática de la segunda ola, la selectividad de los confinamientos ni la discriminación hacia barrios pobres o inmigrantes). Tampoco plantea proyecciones concretas, consecuencias claras ni medidas futuras específicas (son recomendaciones vagas y en primera persona), por lo que carece del desarrollo prospectivo requerido para alcanzar el nivel más alto."
+                "justificacion": "La conclusión constituye un cierre a modo de comentario general (nivel 3): sí plantea una idea global (ver el COVID‑19 de forma panorámica y la tarea de las organizaciones sanitarias) pero no realiza una síntesis clara y reformulada de la tesis central del texto (p. ej., la crítica a los confinamientos sectorizados, la discriminación sobre barrios pobres, y las recomendaciones concretas sobre teletrabajo y responsabilidad gubernamental no se reelaboran). Tampoco ofrece una proyección concreta: faltan implicaciones, consecuencias, recomendaciones de política o escenarios futuros vinculados al reactivo (segunda ola en Europa, críticas de expertos y ejemplos como Madrid). Además, la conclusión es genérica y no responde de forma específica al problema planteado en el reactivo, por lo que no alcanza el nivel 4."
             }
         }
     }

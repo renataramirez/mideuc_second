@@ -4,7 +4,7 @@
         "resultado": {
             "progresion_textual": {
                 "nivel": 3,
-                "justificacion": "Hay párrafos claramente identificables (5). Sin embargo, el cuarto párrafo repite información ya tratada sobre la supuesta comodidad/flexibilidad impuesta por el virus y los empleadores; los demás párrafos presentan ideas principales distintas (tesis general, regulación y explotación, efectos sobre la salud, y propuestas)."
+                "justificacion": "Se identifican cinco párrafos claramente distinguibles, pero existe repetición de ideas en al menos un párrafo, por lo que no alcanza el nivel máximo. Específicamente, el párrafo 4 (“Se comenta mucho...estas bajo contrato.”) recicla la misma tesis principal ya tratada en los párrafos 2 y 3 (que la flexibilidad/comodidad del teletrabajo es en realidad una imposición y fuente de perjuicio), por lo que hay solapamiento temático. Los párrafos 2 y 3, en cambio, desarrollan subtemas distintos y pertinentes (2 = déficit de regulación/explotación; 3 = efectos psicológicos sobre sueño y rutinas). Además, faltan conectores lógicos claros entre párrafos: las transiciones son débiles o inexistentes, lo que dificulta la progresión argumental. En cuanto a pertinencia respecto al reactivo, el texto aborda el peligro para la salud mental y la pérdida del hogar como refugio, pero contiene digresiones (ej. la referencia histórica tangencial en el primer párrafo) que merman la coherencia. Para alcanzar nivel 4 bastaría que el párrafo 4 se reformule para aportar un subtema nuevo (por ejemplo: evidencia empírica, datos estadísticos o propuestas institucionales claras) y que se añadan conectores transicionales breves al inicio de cada párrafo (p. ej. “Además”, “Por ello”, “En contraste”, “En consecuencia”)."
             }
         }
     },
@@ -12,8 +12,8 @@
         "id_texto": 2,
         "resultado": {
             "progresion_textual": {
-                "nivel": 2,
-                "justificacion": "Los párrafos están claramente identificables, pero al menos dos párrafos repiten información ya expuesta (p. ej. el quinto y el séptimo, y en parte el sexto) sobre la influencia de la dinámica familiar/social y la recomendación de limitar interacciones."
+                "nivel": 3,
+                "justificacion": "Los párrafos son identificables y hay conectores lógicos entre ellos, además el texto responde al reactivo (discute efectos del aprendizaje virtual, la dimensión familiar/social y el riesgo sanitario). Sin embargo, existe repetición de ideas: los párrafos 4 y 5 abordan esencialmente el mismo subtema (la influencia de la dinámica familiar y social en el aprendizaje y sus consecuencias) sin aportar información claramente distinta, lo que constituye una repetición de contenido. El resto de los párrafos presenta subtemas distintos (introducción y pregunta, clasificación de áreas de aprendizaje, interacción entre áreas y estadísticas, riesgo sanitario y medidas, y recomendación familiar) y están conectados, por lo que corresponde NIVEL 3."
             }
         }
     },
@@ -21,8 +21,8 @@
         "id_texto": 3,
         "resultado": {
             "progresion_textual": {
-                "nivel": 3,
-                "justificacion": "Los párrafos son claramente identificables y en su mayoría contienen ideas distintas (introducción, propuesta de transporte, propuesta sobre tabaquismo/mascarillas, contraargumento), pero el párrafo final repite la tesis/idea principal ya expuesta, por lo que hay una repetición en un párrafo."
+                "nivel": 2,
+                "justificacion": "El texto tiene párrafos identificables y utiliza conectores lógicos (“En primer lugar”, “En segundo lugar”, “Si bien”, “Así, podemos concluir”), además responde al reactivo al proponer medidas gubernamentales. Sin embargo, presenta repetición en dos párrafos: el párrafo 3 retoma la idea general de la introducción sobre el daño de la contaminación para la salud (ya afirmada en el primer párrafo), y el párrafo 5 (conclusión) repite argumentos e imágenes ya expuestos en los párrafos 2 y 4 acerca del efecto acumulativo de pequeñas acciones y el cambio de conducta por incentivos. Esa repetición en dos párrafos corresponde exactamente al criterio de NIVEL 2."
             }
         }
     },
@@ -30,8 +30,8 @@
         "id_texto": 4,
         "resultado": {
             "progresion_textual": {
-                "nivel": 3,
-                "justificacion": "El texto presenta párrafos identificables con ideas principales distintas (tesis, políticas públicas, prácticas colectivas, contraargumento). Sin embargo, la conclusión repite la idea central ya expresada en párrafos anteriores, por lo que hay al menos un párrafo que repite información previa."
+                "nivel": 1,
+                "justificacion": "Aunque se reconocen párrafos identificables y hay conectores ('En primer lugar', 'En segundo lugar', 'Pero', 'En conclusión'), la progresión es deficiente porque varios párrafos repiten la misma idea central (la necesidad de acciones más allá del individuo) en lugar de desarrollar subtemas distintos. Específicamente: el párrafo 3 (ejemplo/ consecuencias de Chile/India) vuelve a repetir y ampliar lo ya señalado en el párrafo 2 sobre prácticas colectivas; el párrafo 4 (contraargumento sobre acciones individuales que generan cambio) retoma y contradice sin aportar un subtema nuevo lo expuesto en los párrafos 1 y 2; el párrafo 5 (conclusión) reitera la tesis general sin añadir síntesis o implicaciones nuevas. Además, aunque hay conectores, no generan una progresión lógica que avance la argumentación; varias ideas se repiten en más de dos párrafos. Por tanto, según la escala, corresponde NIVEL 1."
             }
         }
     },
@@ -39,8 +39,8 @@
         "id_texto": 5,
         "resultado": {
             "progresion_textual": {
-                "nivel": 4,
-                "justificacion": "El texto presenta párrafos claramente identificables; cada uno aporta una idea principal distinta (introducción y tesis; riesgo de censura; garantía de voces disidentes; contraargumento y ponderación; conclusión), sin repetición de la información central de un párrafo en el siguiente."
+                "nivel": 2,
+                "justificacion": "Los párrafos son claramente identificables y hay conectores lógicos (\"En primer lugar\", \"En segundo lugar\", \"Otros podrían sostener\", \"En conclusión\"). Sin embargo, se detectan repeticiones en dos párrafos: el párrafo 4 (el contraargumento sobre el peligro del control previo y la arbitrariedad de la autoridad, referencia a Popper) repite en esencia la preocupación ya expuesta en el párrafo 2 sobre la arbitrariedad y el riesgo del control previo; y el párrafo 5 (conclusión que defiende límites ex post y resalta la centralidad de la libertad de expresión) rehace la preferencia por el control ex post y la defensa de la libertad que ya se plantea en el párrafo 4 y en pasajes anteriores. El texto sí responde al reactivo (defiende una libertad de expresión artística amplia y la preferencia por límites ex post), pero la redundancia en los párrafos señalados impide una progresión plenamente diferenciada de ideas, por lo que corresponde NIVEL 2."
             }
         }
     },
@@ -48,8 +48,8 @@
         "id_texto": 6,
         "resultado": {
             "progresion_textual": {
-                "nivel": 4,
-                "justificacion": "Presenta dos párrafos claramente diferenciados: el primero describe la adaptación al teletrabajo por la pandemia; el segundo señala el impacto en la salud mental por el encierro y la sobrecarga. No hay repetición de información entre ellos."
+                "nivel": 1,
+                "justificacion": "El texto consta de un único párrafo, por lo que no existe progresión entre párrafos ni conectores interparagraphales; no se cumplen los tres criterios exigidos (no hay párrafos con subtemas distintos, no puede evaluarse ausencia de repetición entre párrafos y falta de conectores). Además, el contenido responde parcialmente al reactivo: habla de teletrabajo y salud mental, pero no aborda la idea central planteada (la amenaza a la noción del hogar como refugio). Por estas deficiencias claras y específicas, corresponde Nivel 1."
             }
         }
     },
@@ -58,7 +58,7 @@
         "resultado": {
             "progresion_textual": {
                 "nivel": 3,
-                "justificacion": "Los párrafos están claramente identificables y cada uno presenta una idea central, pero hay repetición: el tercer párrafo retoma y repite la información sobre las políticas educativas e inclusión ya mencionada en el primer párrafo."
+                "justificacion": "Los párrafos son claramente identificables y hay conectores lógicos entre ellos; además el texto responde al reactivo al presentar políticas educativas, la postura conservadora contraria y argumentos a favor de la integración con cautelas sobre la preservación de tradiciones. Sin embargo existe repetición de ideas: el párrafo 4 (ventajas de una integración realmente efectiva) y el párrafo 5 (defensa de la integración junto con la preservación de tradiciones) comunican esencialmente el mismo argumento sobre los beneficios de la integración intercultural; además el párrafo 3 retoma de forma muy cercana el tema de la inclusión ya mencionado en el párrafo 1 (política curricular), aunque con distinto énfasis en implementación. Por existir al menos un párrafo que repite información de uno anterior, corresponde NIVEL 3."
             }
         }
     },
@@ -67,7 +67,7 @@
         "resultado": {
             "progresion_textual": {
                 "nivel": 2,
-                "justificacion": "El texto presenta párrafos claramente identificables. Sin embargo, hay repetición: el párrafo 4 retoma y repite la idea del impacto en la vida y la familia ya expuesta en el párrafo 2, y el párrafo 5 rehace la tesis del primer párrafo (teletrabajo amenaza la salud psicológica), por lo que dos párrafos repiten información anterior."
+                "justificacion": "El texto presenta párrafos claramente identificables y conectores lógicos ('Por una parte', 'Por otra parte', 'Para finalizar'). Responde al reactivo (pone en cuestión el hogar como refugio y menciona riesgos para la salud mental), pero hay repetición en dos párrafos: el párrafo 4 repite la idea del párrafo 2 sobre cómo el teletrabajo vuelve el hogar un espacio estresante y afecta la convivencia familiar; el párrafo 5 repite la tesis y las recomendaciones ya expuestas (riesgo para el bienestar psicológico y necesidad de normas), replicando información de los párrafos 1–2. Los párrafos 2 y 3 aportan subtemas distintos (protección/educación para compatibilizar hogar-trabajo vs. invasión de tiempo por empleadores), pero la reiteración en 4 y 5 reduce la progresión textual a nivel 2."
             }
         }
     },
@@ -76,7 +76,7 @@
         "resultado": {
             "progresion_textual": {
                 "nivel": 3,
-                "justificacion": "El texto presenta párrafos claramente identificables. Solo el párrafo final repite de forma explícita la tesis y las estrategias ya expuestas en párrafos anteriores (resumen/conclusión), por lo que hay una repetición en un único párrafo."
+                "justificacion": "Los párrafos están claramente identificables y hay conectores lógicos (p. ej. “En primer lugar”, “Por otro lado”), por lo que la estructura básica es adecuada. Sin embargo, existe repetición: el párrafo 5 (conclusión) repite la tesis del párrafo 1 («es posible realizar teletrabajo de manera sana») y además reitera las tres estrategias ya desarrolladas en los párrafos 2–4 (espacio definido, horarios, ritual de cierre). Esa reiteración en un párrafo anterior califica como un caso de repetición en un párrafo, por lo que corresponde NIVEL 3 según la escala. Para alcanzar NIVEL 4 (mínima corrección): reformular el párrafo final para que aporte un subtema distinto (por ejemplo, detallar medidas de política pública concretas, prioridades de intervención gubernamental o limitaciones y ámbitos de investigación futuros) en lugar de volver a enunciar la tesis y las mismas estrategias."
             }
         }
     },
@@ -84,8 +84,10 @@
         "id_texto": 10,
         "resultado": {
             "progresion_textual": {
-                "nivel": 4,
-                "justificacion": "El texto presenta párrafos claramente identificables (introducción, evidencia sobre aprendizaje, evidencia sobre salud, refutación del riesgo de contagio y conclusión). En cada párrafo se reconoce una idea principal distinta a la del párrafo anterior."
+                "nivel": 3,
+                "justificacion": "Los párrafos son claramente identificables y hay conectores lógicos (",
+                "Por una parte,": "Por otra parte,",
+                "Existen detractores,": "De esta manera,\") que ordenan la exposición; además el texto responde al reactivo (defiende la reapertura escolar argumentando déficit de aprendizaje, problemas de salud y refutando el riesgo de contagio). Sin embargo, hay repetición de ideas: el párrafo final (párrafo 5) rehace la tesis y repite enunciados y argumentos ya expuestos en los párrafos 1–3 (déficit de aprendizaje y problemas de salud) por lo que al menos un párrafo repite información anterior. Según la escala, eso corresponde a NIVEL 3."
             }
         }
     },
@@ -93,8 +95,8 @@
         "id_texto": 11,
         "resultado": {
             "progresion_textual": {
-                "nivel": 3,
-                "justificacion": "El texto presenta cuatro párrafos claramente identificables, pero el cuarto párrafo repite información ya expuesta (condena al individualismo, promoción de una propuesta social basada en justicia, caridad y solidaridad), por lo que no todas las unidades aportan información principal distinta."
+                "nivel": 2,
+                "justificacion": "El texto tiene párrafos claramente identificables y responde al reactivo (sitúa a Francisco entre la tradición y una propuesta activa). Sin embargo hay repetición de información en dos párrafos: el párrafo 3 y el párrafo 4 retoman y repiten la misma idea central expuesta en el párrafo 1 (que el Papa no se limita a describir la tradición, sino que elabora, promueve y practica una propuesta social que condena el individualismo). Además el párrafo 4 vuelve a reiterar el objetivo y los destinatarios de la propuesta (invitar a todos, condena del individualismo, alineamiento de la vida con el bien común), información ya presentada en los párrafos 1 y 3. Aunque existen conectores entre párrafos (p. ej. “Para conseguir esto…”, “El Papa no se queda solo…”), la progresión se ve afectada por esas repeticiones, que impiden que cada párrafo presente un subtema claramente distinto sin solapamientos. Para alcanzar Nivel 4 habría que eliminar o reubicar la reiteración del párrafo 4 (concretar allí una conclusión nueva o datos disjuntos) y matizar el párrafo 3 para que aporte un aspecto distinto y no repita el enunciado general del párrafo 1."
             }
         }
     },
@@ -103,7 +105,7 @@
         "resultado": {
             "progresion_textual": {
                 "nivel": 2,
-                "justificacion": "El texto presenta párrafos claramente identificables, pero hay repetición de ideas en dos párrafos: el párrafo 5 retoma la idea del párrafo 1 (que las acciones individuales son insuficientes y no erradican el problema) y el párrafo 6 repite la crítica sobre intereses políticos/económicos y la necesidad de información honesta ya planteada en el párrafo 5. Por ello no alcanza nivel 4."
+                "justificacion": "El texto presenta párrafos claramente identificables y responde al reactivo (reconoce beneficios del autocuidado y su limitación ante problemas estructurales), pero hay repetición de información en varios párrafos. Concretamente: el párrafo 4 repite y amplía lo ya expuesto en el párrafo 3 sobre los beneficios de las prácticas de autocuidado; el párrafo 5 retoma la tesis del párrafo 1 sobre la insuficiencia de las acciones individuales y añade la exigencia de cambios de política (repetición temática); el párrafo 6 vuelve a la crítica sobre intereses y la promoción, que ya aparece en el párrafo 5. Además, los conectores entre párrafos son superficiales y las transiciones resultan abruptas, lo que debilita la progresión textual. Para alcanzar un nivel 4 sería necesario que cada párrafo trate un subtema claramente distinto sin solapamientos y que las transiciones organicen lógicamente el avance del argumento."
             }
         }
     },
@@ -111,8 +113,8 @@
         "id_texto": 13,
         "resultado": {
             "progresion_textual": {
-                "nivel": 2,
-                "justificacion": "El texto presenta párrafos claramente identificables, pero al menos dos párrafos repiten información ya señalada anteriormente: el párrafo 4 repite el riesgo de contagio y la limitación del voto ya discutida en los párrafos previos, y el párrafo 6 retoma en forma de conclusión asuntos (derecho/deber de votar y el peligro para la salud) que ya estaban expresados antes."
+                "nivel": 1,
+                "justificacion": "El texto tiene párrafos identificables, pero la progresión es deficiente porque varios párrafos repiten esencialmente las mismas ideas y carecen de enlaces lógicos claros. Párrafo 1 (origen y ‘nueva realidad’) y párrafo 2 (convocatoria y aplazamiento del plebiscito) presentan subtemas distintos; sin embargo, los párrafos 3, 4, 5 y 6 reiteran de forma redundante la misma preocupación central (riesgo de contagio al votar, personas que no votarán por miedo o por estar enfermas, asintomáticos y la tensión entre derecho al voto y protección de la vida). Es decir: 3 párrafos o más vuelven a la misma información ya expuesta (riesgo de contagio y privación del voto a contagiados), además de concluir con una contradicción no resuelta. Tampoco hay conectores interparrafales que organicen avance argumental (transición, contraste o ejemplificación) y el texto no atiende con precisión el reactivo: no menciona la decisión del Servel ni el criterio de PCR positivo ni el planteamiento jurídico sobre igualdad/discriminación requerido. Por estas razones la repetición generalizada y la ausencia de conectores justifican el NIVEL 1."
             }
         }
     },
@@ -121,7 +123,7 @@
         "resultado": {
             "progresion_textual": {
                 "nivel": 1,
-                "justificacion": "El texto consta de un único párrafo, por lo que no hay progresión entre párrafos ni información principal distinta que permita evaluar variación textual."
+                "justificacion": "El texto consta de un único párrafo muy breve e incompleto, por lo que no hay progresión textual entre párrafos: no se identifican subtemas distintos, ni se desarrollan argumentos sucesivos. El contenido se limita a afirmar que la rebaja es parte de irregularidades y a formular una pregunta retórica sin elaborar; no hay conectores que orienten un avance temático ni separación en párrafos con ideas principales distintas. Además presenta errores formales (p. ej. “indeminzación”) y la pregunta final queda truncada, de modo que no responde ni desarrolla los elementos del reactivo (críticas, defensa del sistema de pensiones, impacto en cotizantes). Según la escala, ante la ausencia de estructura pluripárrafo y la falta de progresión se justifica asignar el nivel más bajo."
             }
         }
     },
@@ -130,7 +132,7 @@
         "resultado": {
             "progresion_textual": {
                 "nivel": 2,
-                "justificacion": "El texto tiene cuatro párrafos claramente identificables, pero al menos dos párrafos (el segundo y el cuarto) repiten información ya presentada sobre el teletrabajo y su impacto en la salud mental/ansiedad, por lo que corresponde nivel 2."
+                "justificacion": "El texto presenta cuatro párrafos claramente identificables, pero en dos de ellos se repite información previa: el párrafo 3 repite la idea general del párrafo 1 (aumento de problemas de ansiedad y demanda de atención psiquiátrica/medicación como efecto del confinamiento) y el párrafo 4 reitera nuevamente la misma consecuencia (empeoramiento de la calidad de vida y aumento de signos ansiosos), solapándose con P1 y P3. El párrafo 2 aporta un subtema distinto (alteración de la dinámica laboral y pérdida de límites), por lo que es novedoso. Además hay conectores escasos y poco coherentes entre párrafos (solo aparece “Por otro lado”; en general faltan transiciones que articulen causa/efecto y jerarquicen las ideas). Finalmente, el texto no aborda con claridad el aspecto central del reactivo sobre la “salud del hogar” como refugio amenazado: menciona efectos sobre la salud mental y la convivencia, pero no desarrolla ni evidencia cómo se pone en peligro la noción de hogar refugio. Estas deficiencias justifican el NIVEL 2."
             }
         }
     },
@@ -139,7 +141,7 @@
         "resultado": {
             "progresion_textual": {
                 "nivel": 2,
-                "justificacion": "Hay párrafos claramente identificables, pero en dos párrafos se repite información ya presentada: el párrafo 2 repite la idea de resguardar la salud expuesta en el párrafo 1, y el párrafo final vuelve a repetir beneficios como salud y accesibilidad ya señalados."
+                "justificacion": "El texto presenta párrafos claramente identificables y responde al reactivo (defiende mantener la enseñanza virtual). Sin embargo hay al menos dos párrafos que repiten información previa: el párrafo 2 repite la idea central del párrafo 1 (las clases virtuales resguardan la salud y permiten la continuidad educativa) y el párrafo final (conclusión) vuelve a enunciar los mismos beneficios (aprendizaje seguro, resguardo de la salud y igualdad de acceso). Los conectores entre párrafos existen (p. ej. \"En este escenario\", \"Al realizar...\", \"En el mismo contexto\", \"No obstante\", \"En conclusión\"), por lo que la coherencia transicional está atendida; la falla es la repetición de contenido en dos párrafos distintos, lo que encaja con NIVEL 2. Sugerencia mínima para alcanzar NIVEL 4: eliminar o reformular el párrafo 2 para que aporte un subtópico distinto (por ejemplo, detallar sólo mecanismos de contagio y evidencia empírica sin reiterar la tesis) y convertir la conclusión en una síntesis breve o una recomendación concreta que no reproduzca frases ni argumentos ya expuestos."
             }
         }
     },
@@ -147,8 +149,8 @@
         "id_texto": 17,
         "resultado": {
             "progresion_textual": {
-                "nivel": 2,
-                "justificacion": "Hay párrafos claramente identificables, pero en varios párrafos se repite información ya presentada: el párrafo 3 retoma la idea de cambiar la educación mencionada al inicio, el 4 repite el argumento sobre los beneficios del ejercicio frente a la contaminación y el 5 vuelve a reiterar la tesis y la propuesta, por lo que más de un párrafo repite contenido anterior."
+                "nivel": 1,
+                "justificacion": "Aunque los párrafos son identificables, el texto presenta repetición sistemática de las mismas ideas y no desarrolla subtemas realmente distintos. Párrafo 1 introduce el problema y propone fomentar la actividad física en la educación; Párrafo 2 vuelve a afirmar el beneficio del ejercicio (repetición del argumento de Párrafo 1, aunque con detalle de frecuencia); Párrafo 3 repite la misma propuesta educativa (idéntica idea central que Párrafo 1); Párrafo 4 retoma otra vez la afirmación de que el ejercicio protege frente a la contaminación y además contradice sin fundamento la postura contraria, por lo que reutiliza la misma noción ya expuesta; Párrafo 5 es una conclusión que resume y repite las propuestas de Párrafos 1 y 3 (nueva repetición). Sí hay conectores parciales ('Por una parte', 'Por otra parte', 'En conclusión'), pero no bastan para crear subtemas diferenciados ni evitar la redundancia. Además el texto no atiende plenamente el reactivo: omite desarrollar la idea clave de que las medidas individuales no modifican las condiciones que generan la contaminación (la solución estructural), limitándose a repetir la promoción del deporte. Por estas deficiencias (repetición en múltiples párrafos y omisión de la segunda parte del reactivo) corresponde Nivel 1."
             }
         }
     },
@@ -157,7 +159,7 @@
         "resultado": {
             "progresion_textual": {
                 "nivel": 3,
-                "justificacion": "El texto presenta párrafos claramente identificables (dos), pero el segundo repite información ya planteada en el primero (necesidad de políticas públicas, calidad de vida/desigualdad), aunque también añade preguntas sobre socialización y virtualidad."
+                "justificacion": "Se asigna NIVEL 3 porque el texto presenta párrafos claramente identificables (dos), existe un conector lógico entre ellos («Conforme al objetivo anterior...») pero en un párrafo se repite información de otro: el segundo párrafo retoma y reitera la necesidad de políticas públicas y la mejora de la calidad de vida ya planteadas en el primer párrafo en lugar de desarrollar un subtema claramente distinto. Deficiencias específicas: (1) repetición temática entre párrafo 1 y párrafo 2 (políticas públicas y calidad de vida aparecen en ambos); (2) el segundo párrafo debía desarrollar un subtema distinto (por ejemplo: evidencia sobre socialización virtual, efectos psicosociales concretos, o propuestas políticas específicas) pero vuelve a exponer la tesis general; (3) el texto termina abruptamente y con errores que afectan la claridad; (4) pertinencia al REACTIVO: el texto no responde adecuadamente al enunciado dado (segunda ola en Europa, confinamientos por sectores y denuncias de discriminación) ya que se centra en Chile y en generalidades sobre políticas y socialización, sin abordar las medidas discriminatorias ni el contexto europeo solicitado."
             }
         }
     },
@@ -166,7 +168,7 @@
         "resultado": {
             "progresion_textual": {
                 "nivel": 1,
-                "justificacion": "El texto es una sola oración sin división en párrafos; no hay párrafos con información principal distinta que permitan evidenciar progresión textual."
+                "justificacion": "El texto consiste en una sola oración/párrafo y por tanto no hay progresión entre párrafos: no se segmentan subtemas distintos, no existen conectores lógicos interparrafales y no puede valorarse continuidad temática. Además no responde al reactivo: no aborda las imágenes de Venecia, la idea de la incapacidad humana para integrarse al ecosistema ni la crítica al modelo productivo global. Deficiencias específicas: 1) ausencia de múltiples párrafos con subtemas diferenciados; 2) ausencia de conectores entre párrafos; 3) falta de pertinencia frente al reactivo."
             }
         }
     },
@@ -174,8 +176,8 @@
         "id_texto": 20,
         "resultado": {
             "progresion_textual": {
-                "nivel": 2,
-                "justificacion": "Hay párrafos claramente identificables, pero al menos dos párrafos repiten información ya expuesta anteriormente: el párrafo 4 retoma y amplía la idea de que los más pobres son los más afectados (ya mencionada en el párrafo 3) y el párrafo 6 vuelve a repetir la necesidad de priorizar quién sale a trabajar/teletrabajo tratada en los párrafos 4-5."
+                "nivel": 1,
+                "justificacion": "Aunque el texto tiene párrafos identificables y conectores (“Con el pasar...”, “Luego de...”, “Por otro lado”, “Además”, “Para concluir”), la progresión textual es deficiente porque múltiples párrafos repiten esencialmente la misma idea central (impacto socioeconómico y quién debe salir a trabajar). Específicamente: los párrafos 3, 4, 5 y 6 reiteran que los pobres son los más afectados y discuten, con variaciones, la misma propuesta de priorizar quién sale a trabajar; el párrafo 7 vuelve a resumir las mismas conclusiones. Además, el texto no responde plenamente al reactivo: omite la dimensión explícita de discriminación señalada por expertos (p. ej. acusaciones públicas como las de la Comunidad de Madrid sobre inmigrantes) y no distingue con claridad subtemas distintos (gestión de la segunda ola; criterio técnico para cuarentenas; evidencia sobre riesgo por transporte público; políticas de teletrabajo; efectos sobre salud mental). Por tanto hay más de dos párrafos que repiten información previa, lo que obliga a calificar con el nivel más bajo según la escala."
             }
         }
     }
