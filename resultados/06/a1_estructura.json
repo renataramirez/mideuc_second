@@ -3,16 +3,16 @@
         "id_texto": 1,
         "resultado": {
             "introduccion": {
-                "nivel": 2,
-                "justificacion": "Aparece el tema general (pandemia y la “realidad del trabajo permanente”) y hay una alusión temporal vaga («nuestra actual pandemia»), pero faltan elementos esenciales: no se nombran actores concretos (solo referencias genéricas a empleados/empleadores), no se especifica un lugar/contexto espacial claro (se habla de casa o barrios de manera imprecisa) y la presentación inicial es confusa y dispersa. Además la introducción no articula claramente el problema del reactivo (la idea del hogar como último refugio en riesgo) ni plantea con precisión la pregunta que guiaría el texto. Sugerencia: redactar 1–2 oraciones precisas que indiquen qué se examina, quiénes son los actores relevantes (ej. trabajadores remotos, empleadores, autoridades sanitarias), dónde (hogares/ambiente doméstico a nivel nacional/internacional) y cuándo (pandemia de COVID‑19, años 2020–2021)."
+                "puntaje": 1,
+                "justificacion": "El texto inicia con una referencia temporal clara («nuestra actual pandemia») y plantea un tema general (salud mental y trabajo permanente), pero falla en los otros elementos exigidos: no identifica actores específicos en la introducción (solo aparece vagamente 'sus propios asociados' y más tarde 'empleados/empleadores'), no señala un lugar o contexto espacial preciso (no hay referencia al 'hogar' como espacio-refugio en la introducción) y el tema está formulado de manera imprecisa. En relación al reactivo, la introducción no sitúa explícitamente la tensión central (la vulneración del hogar como refugio) ni presenta con claridad quiénes y dónde serían afectados."
             },
             "conclusion_cierre": {
-                "nivel": 2,
-                "justificacion": "Hay un intento de cierre en el último párrafo («El trabajo remoto necesita ser estructurado...» y propuestas breves), pero no cumple con una síntesis clara ni con una proyección articulada: no reformula la idea central en términos nuevos ni extrae implicaciones o recomendaciones desarrolladas; las propuestas finales son vagas y el texto termina abruptamente. No se cierra el argumento sobre el hogar como refugio ni se indican consecuencias concretas o pasos futuros. Sugerencia: elaborar una conclusión que reformule la tesis central y presente implicaciones políticas y sociales concretas (regulación, protección del hogar, medidas prácticas) y una frase final que proyecte futuras líneas de acción o investigación."
+                "puntaje": 2,
+                "justificacion": "El cierre ofrece recomendaciones concretas (estructurar el trabajo remoto, uso de cybercafés, bloqueo de llamadas) y por tanto presenta una proyección/práctica, pero carece de una síntesis clara: no reformula la idea principal en palabras nuevas ni integra los argumentos previos en un cierre coherente. La conclusión es más una lista de soluciones sueltas que una reflexión final sobre las implicaciones. Además no articula de forma contundente las consecuencias para el 'hogar' como último refugio, aspecto central del reactivo."
             },
             "progresion_textual": {
-                "nivel": 3,
-                "justificacion": "La progresión muestra párrafos con temas relacionados pero parcial redundancia: el segundo párrafo (regulación/explotación) y el cuarto (comodidad/flexibilidad mal entendida) repiten tesis similares sobre la explotación del trabajador remoto; además faltan conectores lógicos consistentes y las transiciones son abruptas. Algunas ideas (p. ej. la noción del hogar como refugio en riesgo, núcleo del reactivo) no se desarrollan de forma específica y quedan dispersas entre párrafos. La estructura podría mejorar asignando a cada párrafo un subtema único (historia/contexto, regulación y derechos, efectos psicológicos en el hogar, desmitificación de la flexibilidad, propuestas) y usando conectores claros; también corregir problemas de coherencia y redundancia léxica."
+                "puntaje": 2,
+                "justificacion": "El texto está dividido en párrafos que intentan abordar subtemas distintos (introducción, regulación y explotación, efectos psicológicos, crítica a la 'comodidad', propuestas), pero hay repetición temática notable: el cuarto párrafo retoma y repite parcialmente la crítica a la comodidad/flexibilidad ya presente en párrafos anteriores; varias ideas vuelven a formularse sin aportar desarrollo nuevo. Además faltan conectores lógicos consistentes y las transiciones son pobres, lo que dificulta la coherencia global y la lectura. En consecuencia hay redundancia parcial (puntaje 2) y el tratamiento del aspecto central del reactivo (el hogar como refugio) no se desarrolla de forma sistemática en distintos párrafos."
             }
         }
     },
@@ -20,16 +20,16 @@
         "id_texto": 2,
         "resultado": {
             "introduccion": {
-                "nivel": 3,
-                "justificacion": "Presenta el 'qué' (pandemia y aprendizaje virtual) y el 'quién' (niños y adolescentes) y menciona un ámbito general ('en todo el mundo'), pero falla en la especificidad requerida: el 'dónde' es demasiado genérico y el 'cuándo' queda implícito en ‘la pandemia’ sin fechas o periodo claro. Para alcanzar nivel 4 se requiere precisar el contexto espacial (país, región o tipo de sistema educativo) y acotar temporalmente (fecha, año o fase de la pandemia), además de identificar actores concretos relevantes (por ejemplo: estudiantes, docentes, autoridades educativas, familias)."
+                "puntaje": 2,
+                "justificacion": "El texto presenta el tema central (impacto de la pandemia en el aprendizaje) y el ámbito espacial general ('en todo el mundo') y menciona el grupo afectado ('niños y adolescentes'), pero falla en especificidad temporal y en precisión de actores: 'pandemia' no aporta un marco cronológico concreto (fechas o periodo) y no se nombran actores institucionales relevantes (escuelas, autoridades educativas, familias como sujeto activo). Además la apertura termina en una pregunta abrupta y no establece con claridad el enfoque del reactivo (posturas sobre presencialidad vs virtualidad)."
             },
             "conclusion_cierre": {
-                "nivel": 3,
-                "justificacion": "El cierre final contiene proyecciones y recomendaciones (evitar interacción hasta inmunidad de rebaño; responsabilidad familiar para incentivar protocolos), pero no ofrece una síntesis clara que reformule la idea principal con otras palabras. La proyección existe pero es débil y parcialmente justificada; falta una oración que recapitule la tesis sobre el impacto del aprendizaje virtual y vincule explícitamente las recomendaciones con las evidencias presentadas. Para nivel 4 se necesita una reformulación concisa de la conclusión y una proyección más explícita y argumentada."
+                "puntaje": 2,
+                "justificacion": "Existe un intento de cierre en los últimos párrafos (se sugieren medidas sanitarias y que el núcleo familiar incentive protocolos), lo cual constituye una proyección práctica, pero falta una síntesis clara y reformulación de la idea principal en palabras nuevas. El cierre ofrece recomendaciones puntuales pero no resume ni evalúa el argumento central ni contrapone las posiciones del reactivo (quedarse en casa vs reabrir por salud mental), por lo que la función de síntesis está ausente o insuficiente."
             },
             "progresion_textual": {
-                "nivel": 2,
-                "justificacion": "La organización presenta redundancias y saltos temáticos. Párrafos 4 y 5 repiten la misma idea sobre la primacía de la dinámica familiar frente a la interacción con pares (mismas afirmaciones y citas reiteradas). Párrafos 6 y 7 vuelven a tratar medidas sanitarias y recomendaciones familiares con solapamiento de contenido. Además faltan transiciones claras y oraciones temáticas que marquen subtemas distintos; en varios momentos el texto cambia de enfoque sin puente lógico. Para mejorar: consolidar información repetida, asignar a cada párrafo un subtema único con oración temática clara y añadir conectores que relacionen evidencia, interpretación y recomendación."
+                "puntaje": 1,
+                "justificacion": "El texto tiene párrafos con subtemas identificables, pero presenta redundancias y mala conexión entre ellos: el segundo y tercero repiten la clasificación de áreas de aprendizaje; los párrafos cuarto y quinto reiteran la importancia del entorno familiar y social con solapamientos y citas sin integración crítica. Faltan conectores lógicos consistentes que articulen la transición entre antecedentes, evidencia y recomendaciones. Además no responde de forma balanceada al reactivo (las posturas a favor de mantener la virtualidad o de reabrir por salud mental no se confrontan ni se valoran)."
             }
         }
     },
@@ -37,16 +37,16 @@
         "id_texto": 3,
         "resultado": {
             "introduccion": {
-                "nivel": 2,
-                "justificacion": "El texto presenta el 'qué' de forma general (actividad física y contaminación) y menciona el tiempo de forma vaga ('a lo largo de la historia', 'actualmente'), pero falla en identificar actores concretos y el lugar: no menciona a los especialistas en medicina citados en el reactivo ni identifica con precisión quiénes (gobierno, ciudadanos, sectores industriales) y dónde sucede el problema (las 'grandes ciudades' sólo aparecen fuera de la introducción). En suma hay 1–2 elementos claros y el reactivo no se integra en la presentación."
+                "puntaje": 2,
+                "justificacion": "El texto sí identifica el tema central (actividad física y contaminación) y menciona un actor genérico (el ser humano) y el lugar general (grandes ciudades), pero falla en especificidad y en atender el reactivo: no menciona a los especialistas que emiten la afirmación ni sitúa temporalmente el problema de forma concreta (‘‘A lo largo de la historia’’ es vago). Además el actor relevante propuesto en la tesis (el gobierno) aparece solo al final y no queda integrado como parte clara de la introducción. En conjunto faltan especificidad en ‘quiénes’ (debería nombrar actores clave) y en ‘cuándo’ para alcanzar una introducción completa."
             },
             "conclusion_cierre": {
-                "nivel": 3,
-                "justificacion": "Hay una síntesis: se reitera que las medidas gubernamentales provocarían un cambio de actitud y beneficios ambientales y sanitarios. Sin embargo la proyección es genérica y poco desarrollada (no se indican consecuencias concretas, plazos, implicaciones políticas ni cómo se relacionan esas medidas con la limitación del autocuidado señalada en el reactivo). Falta una proyección explícita y fundamentada."
+                "puntaje": 3,
+                "justificacion": "La conclusión resume la tesis principal (que medidas gubernamentales inducirán cambios de actitud y reducirán la contaminación) y plantea una proyección sobre efectos positivos para el medio ambiente y la salud. Sin embargo, es un cierre débilmente argumentado y algo repetitivo: aunque cumple ambas funciones (síntesis y proyección), no aborda limitaciones ni evidencia concreta y no confronta con rigor la idea del reactivo sobre la ineficacia de medidas individuales."
             },
             "progresion_textual": {
-                "nivel": 3,
-                "justificacion": "Los párrafos están separados y proponen medidas distintas, pero hay redundancia: el párrafo sobre incentivos al transporte público y el que refuta la objeción sobre el comportamiento individual repiten la misma afirmación sobre cambio de conducta; además el tercer párrafo (sobre estudios y mascarillas) retoma el mismo objetivo sin un desarrollo diferencial sólido. Faltan conectores lógicos claros y algunas ideas están mal articuladas; se requiere que cada párrafo desarrolle un subtema único y que el texto contraste explícitamente la eficacia del autocuidado frente a medidas estructurales, como exige el reactivo."
+                "puntaje": 2,
+                "justificacion": "El texto tiene párrafos con subtemas (incentivar transporte público, campañas contra el tabaquismo/mascarillas, refutación de escepticismo), pero hay repetición parcial de ideas: la apelación al efecto acumulativo del comportamiento individual aparece tanto en el segundo párrafo como en la refutación posterior, y varias propuestas gubernamentales se repiten sin desarrollo nuevo. Los conectores son básicos pero presentes; falta mayor diferenciación y transición argumental entre párrafos y evidencia que aporte avance real entre ellos."
             }
         }
     },
@@ -54,19 +54,16 @@
         "id_texto": 4,
         "resultado": {
             "introduccion": {
-                "nivel": 3,
-                "justificacion": "El texto introduce el tema central (la necesidad de acciones mayores que las individuales para mejorar la salud frente a la contaminación en grandes ciudades) y menciona actores relevantes (políticas públicas, gobierno, colectivos) y un ámbito espacial general (",
-                "grandes ciudades": "). Sin embargo falta el elemento temporal (¿cuándo?): no se especifica periodo, fecha o contexto histórico; además el indicador espacial es general (“grandes ciudades”) y los actores se nombran de forma genérica sin precisar cuáles instituciones o grupos concretos. Sugerencia: añadir un marco temporal explícito y precisar los actores y el contexto urbano (país/ciudad o periodo reciente) para alcanzar un nivel 4."
+                "puntaje": 2,
+                "justificacion": "Hay presente el qué (la necesidad de eliminar condiciones que afectan la salud en las grandes ciudades) y el dónde (las grandes ciudades) y se mencionan actores generales (políticas públicas, gobierno, colectivos, personas), pero falta el cuándo: no hay periodo temporal ni marco histórico. Además los 'quiénes' son vagos (grupos generales, no actores concretos ni especialistas como plantea el reactivo). La oración inicial es larga y equivoca a una introducción completa."
             },
             "conclusion_cierre": {
-                "nivel": 3,
-                "justificacion": "El cierre contiene una síntesis explícita de la tesis central: que el cambio debe estar en manos de algo mayor que el individuo (políticas públicas y colectivos) y reconoce la importancia de acciones individuales. No obstante, falla en ofrecer una proyección clara: no expone consecuencias concretas, pasos futuros, políticas propuestas ni implicaciones prácticas o temporales. La proyección aparece tenue y repetitiva en forma de deseo general (",
-                "crear esos verdaderos cambios": "). Para mejorar, la conclusión debería incluir implicaciones concretas (por ejemplo, recomendaciones de política, indicadores de impacto, horizonte temporal) para alcanzar nivel 4."
+                "puntaje": 2,
+                "justificacion": "Existe una síntesis: se reitera la idea central (los cambios deben ser colectivos, apoyados por políticas y cultura social). Sin embargo la proyección es débil o inexistente: no ofrece consecuencias claras, recomendaciones concretas ni escenarios futuros; simplemente repite la tesis. Tampoco articula cómo las implicaciones responden al matiz del reactivo sobre el papel del autocuidado frente a las acciones estructurales."
             },
             "progresion_textual": {
-                "nivel": 2,
-                "justificacion": "La estructura textual presenta intentos de organización (",
-                "En primer lugar": "). Sin embargo, hay redundancia reiterada: las mismas ideas sobre la necesidad de políticas y acción colectiva se repiten en múltiples segmentos (introducción, ejemplos, contraargumento y conclusión) sin aportes nuevos. Además el texto carece de párrafos claramente separados y de conectores lógicos efectivos que marquen transición entre idea (ej.: el ejemplo de las bolsas plásticas, el caso de Chile/India y el contraargumento sobre acciones individuales quedan mezclados y vuelven sobre lo mismo). Por ello la progresión es deficiente (más de un bloque repite información) y requiere separar párrafos con una idea central cada uno, eliminar repeticiones y mejorar conectores para alcanzar niveles superiores."
+                "puntaje": 2,
+                "justificacion": "Hay conectores básicos (En primer lugar, En segundo lugar, Pero, En conclusión) y se presentan subtemas (políticas públicas, cultura social, contraargumento individual), pero el texto repite ideas: la necesidad de acción colectiva/políticas aparece en varias secciones y la conclusión vuelve a reiterarla sin aportar nueva información. Algunos párrafos mezclan subtemas (ejemplo de bolsas, gases, salud) y hay redundancia entre párrafos (especialmente tesis inicial, desarrollo sobre políticas y cierre), lo que debilita la progresión."
             }
         }
     },
@@ -74,16 +71,16 @@
         "id_texto": 5,
         "resultado": {
             "introduccion": {
-                "nivel": 2,
-                "justificacion": "El texto identifica claramente el tema central (límites entre expresión artística y respeto a la autoridad) y menciona actores relevantes (el colectivo Las Tesis y, de forma general, Carabineros). Sin embargo falta información espacial específica (no dice que ocurre en Chile ni ubica el conflicto en un contexto geográfico preciso) y no indica un periodo temporal o momento histórico concreto vinculado al reactivo. Es, por tanto, parcial: Qué y Quiénes están presentes; Dónde y Cuándo ausentes."
+                "puntaje": 1,
+                "justificacion": "El texto incluye claramente el \"qué\" (controversia sobre las actividades de Las Tesis) y el \"quiénes\" (el colectivo Las Tesis y Carabineros), pero carece de \"dónde\" y \"cuándo\": no especifica el contexto espacial (no menciona explícitamente Chile ni el ámbito jurisdiccional) ni el periodo o momento temporal de los hechos. Además no incorpora datos concretos del reactivo (la denuncia legal, el video con la consigna citada) que permitirían una introducción completa y situada."
             },
             "conclusion_cierre": {
-                "nivel": 3,
-                "justificacion": "Hay una síntesis clara: reafirma que la libertad de expresión es esencial y que sus límites deben ser excepcionales y ex post. No obstante, la proyección es vaga y genérica: ofrece una recomendación normativa (preferir control ex post) pero no desarrolla consecuencias concretas, implicaciones legales ni acciones futuras específicas relacionadas con el caso citado en el reactivo. Falta concreción y vínculo explícito con medidas o escenarios futuros."
+                "puntaje": 2,
+                "justificacion": "Hay una síntesis clara: se reitera que la libertad de expresión es esencial y que las limitaciones deben ser ex post. También hay una proyección general (la sociedad debe valorar la libertad como piedra angular). Sin embargo, la proyección es vaga y retórica: no ofrece implicaciones concretas, consecuencias normativas ni criterios aplicables al caso (por ejemplo sobre la denuncia penal, la distinción arte/no-arte o requisitos para sancionar). Para alcanzar puntaje máximo debería formular consecuencias precisas y relacionarlas con el caso planteado."
             },
             "progresion_textual": {
-                "nivel": 3,
-                "justificacion": "La estructura en párrafos es clara y hay conectores («En primer lugar», «En segundo lugar», «Otros podrían sostener...»). No obstante, existe redundancia parcial: el párrafo sobre censura y arbitrariedad (párrafo 2) y el que analiza el riesgo de control previo por la autoridad (párrafo 4) reiteran la misma preocupación con argumentos similares; además el desarrollo sobre la función de la libertad de expresión (párrafo 3) repite parcialmente la defensa normativa ya planteada. En conjunto aporta coherencia, pero hay repetición conceptual que impide nivel máximo."
+                "puntaje": 3,
+                "justificacion": "Estructuralmente los párrafos aportan subtemas distintos (presentación del conflicto; argumento contra la censura y riesgo de arbitrariedad; defensa de la disidencia; consideración del contraargumento de Popper y ponderación). Hay conectores lógicos y no hay repetición literal. No obstante, aunque la progresión formal es buena, el texto no desarrolla aspectos centrales del reactivo (ausencia de análisis sobre la denuncia específica, la frase citada, la distinción práctica entre expresión artística y conducta punible y la doctrina del \"peligro\"), por lo que, pese a la buena organización, falta profundizar en los elementos que debería tratar."
             }
         }
     },
@@ -91,16 +88,16 @@
         "id_texto": 6,
         "resultado": {
             "introduccion": {
-                "nivel": 3,
-                "justificacion": "El tema central (teletrabajo y pandemia) y un indicador temporal ('Hoy en día', 'covid-19') están presentes, pero los demás elementos son vagos: los 'quiénes' se limitan a 'muchas personas' sin identificar actores o grupos relevantes por nombre, y el 'dónde' es solo 'en todo el mundo' (contexto demasiado general). Además no conecta explícitamente con el aspecto específico del reactivo (la noción del hogar como refugio en peligro). Se requiere mayor especificidad en actores, contexto espacial y vínculo directo con el problema planteado en el reactivo."
+                "puntaje": 2,
+                "justificacion": "El texto menciona el tema central (pandemia y teletrabajo) y un grupo afectado (\"muchas personas en todo el mundo\") y el marco temporal (la pandemia por covid-19), pero varios elementos son vagos. \"Quiénes\" aparece como un grupo genérico sin actores concretos (no se identifican tipos de trabajadores, instituciones o colectivos), \"dónde\" se limita a \"en todo el mundo\" (contexto demasiado general) y \"cuándo\" usa expresiones vagas como \"Hoy en día\" en lugar de un periodo concreto. Para alcanzar puntaje máximo serían necesarias referencias más específicas sobre actores y un acotamiento espacial y temporal más preciso."
             },
             "conclusion_cierre": {
-                "nivel": 3,
-                "justificacion": "Hay una formulación sintética breve ('el encierro... han generado un alto impacto en la salud mental'), que resume la consecuencia principal, pero falta totalmente proyección: no hay implicaciones, recomendaciones, reflexiones futuras ni cierre conceptual. La síntesis es mínima y no sustituye una conclusión que reformule en otras palabras y proyecte consecuencias o soluciones."
+                "puntaje": 0,
+                "justificacion": "No existe una conclusión ni cierre: el texto termina señalando un problema (impacto en la salud mental) pero no reformula la idea principal ni ofrece proyección, implicaciones o reflexiones futuras. Falta síntesis en términos propios y una proyección sobre consecuencias, recomendaciones o líneas de investigación/acción."
             },
             "progresion_textual": {
-                "nivel": 2,
-                "justificacion": "El texto consta de un solo párrafo corto que combina introducción y consecuencia; no hay desarrollo en párrafos separados ni progreso temático claro. Las dos oraciones aportan información relacionada pero limitada y en parte redundante (teletrabajo por pandemia → impacto en salud mental), faltan conectores que expliquen la transición y no se explora la noción específica del hogar como refugio, por lo que la progresión es insuficiente. Se recomienda dividir en párrafos distintivos (contexto, problema específico, evidencia/ejemplos, cierre) y añadir conectores y desarrollo del aspecto solicitado por el reactivo."
+                "puntaje": 1,
+                "justificacion": "El texto está compuesto por un solo bloque breve y no hay desarrollo de subtemas en párrafos diferenciados. La segunda frase apenas reitera y amplía la primera (encierro y sobrecarga → impacto en salud mental) sin aportar información nueva sustantiva ni conectores que organicen la progresión. Se requieren párrafos distintos (contexto, problema específico, evidencia/ejemplos, implicaciones) y mejores conectores para evitar esta falta de estructura y redundancia."
             }
         }
     },
@@ -108,16 +105,16 @@
         "id_texto": 7,
         "resultado": {
             "introduccion": {
-                "nivel": 2,
-                "justificacion": "El párrafo inicial declara el tema general (políticas educativas y diversidad cultural) y sitúa temporalmente ('actualmente'), pero no cumple los cuatro elementos requeridos: no identifica actores concretos (p. ej. estudiantes inmigrantes, Ministerio de Educación, docentes, familias) ni especifica el lugar más allá de un vago 'nuestro país'. Tampoco menciona explícitamente el sujeto central del reactivo (estudiantes inmigrantes) en la entrada. Para mejorar: incluir en una o dos oraciones el qué (inclusión de estudiantes inmigrantes), quiénes (actores específicos) y el dónde (país/ contexto escolar) con periodo temporal concreto."
+                "puntaje": 1,
+                "justificacion": "La apertura no cumple los cuatro elementos exigidos. Hay una idea general del 'qué' (políticas educativas y diversidad cultural) y una indicación temporal vaga ('actualmente'), pero faltan actores identificados (no se nombran explícitamente 'estudiantes inmigrantes', autoridades, docentes ni grupos opositores por nombre) y el 'dónde' es genérico ('nuestro país') sin especificidad contextual. Además no se enuncia con claridad el problema concreto planteado en el reactivo (si los inmigrantes deben adecuarse o si su inclusión amenaza valores nacionales). Sugiero reescribir la introducción indicando claramente: 1) el tema en una frase precisa vinculada al reactivo, 2) los actores relevantes (estudiantes inmigrantes, comunidad escolar, Estado), 3) el contexto espacial (país o sistema educativo específico) y 4) el periodo temporal (por ejemplo, 'en la actualidad' ampliado con fechas o marco político)."
             },
             "conclusion_cierre": {
-                "nivel": 2,
-                "justificacion": "El cierre ofrece un enunciado normativo general sobre la finalidad de la educación, pero no sintetiza claramente la idea principal del ensayo ni reformula en palabras nuevas el argumento respecto al reactivo (si los inmigrantes deben adecuarse o integrarse). Tampoco plantea proyecciones explícitas, consecuencias políticas o recomendaciones concretas. Hay intento de cierre retórico, pero carece de síntesis estructurada y de implicaciones operativas; se requiere una oración que resuma la posición frente al reactivo y otra que indique consecuencias o pasos futuros."
+                "puntaje": 1,
+                "justificacion": "El cierre es un intento normativo pero no cumple las funciones requeridas: no sintetiza la idea principal del ensayo ni reformula argumentos centrales relativos al reactivo (no resume la posición sobre adaptación versus inclusión cultural), y tampoco ofrece proyecciones claras (consecuencias políticas, educativas o propuestas concretas). En su lugar presenta una afirmación general sobre valores educativos. Para mejorar: incluir una frase que reformule la tesis con nuevas palabras y añadir al menos una proyección concreta (implicaciones para la política curricular, prácticas docentes o investigación futura)."
             },
             "progresion_textual": {
-                "nivel": 3,
-                "justificacion": "La secuencia presenta conectores ('Sin embargo', 'No obstante', 'Por otro lado'), pero hay solapamiento temático: el primer y el tercer párrafo repiten parcialmente la idea sobre políticas educativas y la inclusión (información redundante en distinta formulación). Asimismo, los párrafos que defienden la integración y los que abogan por preservar tradiciones se superponen sin una progresión clara entre argumento y contraargumento. Falta claridad en temas por párrafo y en la delimitación de subtemas; recomendar reorganizar para que cada párrafo desarrolle un único subtema (contexto/políticas, postura conservadora, estado real de la inclusión, argumentos a favor de la integración, argumentos a favor de preservar tradiciones, conclusión)."
+                "puntaje": 1,
+                "justificacion": "La progresión textual es débil y redundante: varios párrafos repiten temas sin desarrollar subtemas distintos (p. ej. la defensa de tradiciones aparece en los párrafos 2 y 5; la diferencia entre 'invitación' e 'integración' aparece en el párrafo 1 y se retoma en el 3; las valoraciones personales 'creo' se repiten en 4 y 5 sin mayor distinción). Faltan conectores lógicos que articulen causa-efecto o contraste de modo claro; la estructura carece de desarrollo secuenciado de argumentos y algunos enunciados son discursivamente aislados. Para corregir: reorganizar para que cada párrafo aborde un subtema único (contexto/políticas; argumentos en contra; prácticas reales; beneficios de la integración; límites y propuestas) y añadir transiciones que muestren la relación entre ellos, eliminando repeticiones."
             }
         }
     },
@@ -125,16 +122,8 @@
         "id_texto": 8,
         "resultado": {
             "introduccion": {
-                "nivel": 3,
-                "justificacion": "La introducción contiene el qué (teletrabajo y salud mental), el dónde (Chile) y una referencia temporal general (la pandemia/«antes de la pandemia»), pero adolece de especificidad: los actores aparecen de forma genérica («los trabajadores», «las personas») en lugar de identificarse con mayor precisión y el marco temporal es vago (no hay fechas ni periodo concreto). Además hay un inicio fraccionado («Siendo esta...») que debilita la presentación. En conjunto, faltan precisión y concreción que evitarían ambigüedades respecto al reactivo."
-            },
-            "conclusion_cierre": {
-                "nivel": 4,
-                "justificacion": "La conclusión sintetiza la idea principal (el teletrabajo como solución temporal pero con riesgos para el bienestar psicológico) y ofrece proyección explícita: llama a crear normas y regulaciones y señala la posibilidad de una «nueva normalidad». Aunque hay errores formales menores («por que»), cumple ambas funciones exigidas: síntesis renovada y proyección/implicaciones."
-            },
-            "progresion_textual": {
-                "nivel": 3,
-                "justificacion": "La estructura usa conectores claros («Por una parte», «Por otra parte», «Sin embargo», «Para finalizar»), pero hay repetición temática: el párrafo 2 (hogar como refugio y necesidad de compatibilizar trabajo/hogar) y el párrafo 4 (estrés del trabajo que afecta a la familia) tratan la misma idea central sobre el hogar y el impacto familiar, con solapamiento de contenidos. El párrafo 3 aporta un subtema distinto (contactos fuera de horario) pero sin suficiente desarrollo. En suma, existe al menos un párrafo que repite parcialmente información de otro, por lo que la progresión no es totalmente eficaz."
+                "puntaje": 2,
+                "justificacion": "El texto presenta el 'qué' (teletrabajo y su efecto en la salud mental) y el 'dónde' (Chile), y alude al 'cuándo' ("
             }
         }
     },
@@ -142,16 +131,16 @@
         "id_texto": 9,
         "resultado": {
             "introduccion": {
-                "nivel": 3,
-                "justificacion": "El texto identifica el qué (salud mental y teletrabajo) y el cuándo (contexto de la pandemia por covid-19) y menciona el lugar en discusión (el hogar), pero falla en especificidad y en la identificación clara de los actores: usa expresiones genéricas («quienes están expuestos al teletrabajo») en lugar de nombrar grupos relevantes (trabajadores, empleadores, autoridades sanitarias, expertos) y no recoge la dimensión señalada en el reactivo de alcance «a nivel mundial». En suma: están presentes los elementos básicos pero son vagos o incompletos."
+                "puntaje": 2,
+                "justificacion": "El texto contiene el 'qué' (salud mental y teletrabajo) y el 'cuándo' ('pandemia por el covid-19'), así como una referencia al 'dónde' ('hogar') y a los 'quiénes' ('quienes están expuestos al teletrabajo'). Sin embargo, varios elementos son vagos: los actores no están especificados (no se nombran grupos precisos como trabajadores por sector, empleadores o autoridades), el 'dónde' se queda en el término genérico 'hogar' sin contextualizar tipos de hogares o contextos nacionales/urbanos, y el 'cuándo' es impreciso (menciona la pandemia sin marco temporal concreto). Por tanto, faltan especificidad y concreción exigidas para puntaje máximo."
             },
             "conclusion_cierre": {
-                "nivel": 3,
-                "justificacion": "La conclusión cumple parcialmente las funciones: ofrece una síntesis (repite las estrategias propuestas) y una proyección normativa (recomienda que los gobiernos promuevan campañas). Sin embargo, la síntesis es poco reformulada y resulta reiterativa respecto del cuerpo del texto, y la proyección es genérica y no especifica agentes, medios, alcance ni justificación empírica, por lo que no alcanza la completitud exigida para nivel 4."
+                "puntaje": 2,
+                "justificacion": "Hay una síntesis explícita de la idea principal (teletrabajo puede realizarse sin perjuicio aplicando estrategias) y una proyección (recomendación a gobiernos de promover campañas). No obstante, la síntesis recicla de forma muy literal las estrategias presentadas y la proyección es vaga: propone una acción gubernamental sin explicitar efectos esperados, destinatarios, condiciones ni pasos concretos. La conclusión es funcional pero insuficientemente desarrollada y poco puntual para alcanzar el puntaje máximo."
             },
             "progresion_textual": {
-                "nivel": 3,
-                "justificacion": "El texto está organizado en párrafos que abordan subtemas (espacio de trabajo, horarios, ritual de cierre) y emplea conectores. No obstante, hay redundancias parciales: varias secciones repiten la misma idea central de reducir la sensación de trabajo permanente/ansiedad; la contraargumentación y las soluciones reaparecen con alto solapamiento, y la conclusión vuelve a enunciar las mismas estrategias sin aportar información nueva. Además, algunos párrafos quedan poco desarrollados y la cohesión se ve afectada por repeticiones léxicas y errores ortográficos que dificultan la progresión plena."
+                "puntaje": 3,
+                "justificacion": "Los párrafos siguen una progresión clara: introducción del problema; desarrollo de tres subtemas diferenciados (espacio definido, respeto de horarios, ritual de cierre) y cierre. Hay conectores (\"En primer lugar\", \"Por otro lado\", \"Si bien...\") que facilitan la coherencia y no hay repetición sustancial entre los párrafos temáticos. La única reiteración notable es la lista de estrategias en la conclusión, que sirve como síntesis y no constituye redundancia entre párrafos temáticos."
             }
         }
     },
@@ -159,16 +148,16 @@
         "id_texto": 10,
         "resultado": {
             "introduccion": {
-                "nivel": 3,
-                "justificacion": "Aunque aparecen los cuatro elementos básicos de forma superficial (qué: el sistema de enseñanza tras la pandemia; quiénes: 'la población chilena' en una mención general; dónde: Chile implícito; cuándo: 'a raíz de la pandemia' / 'en la actualidad'), la introducción es vaga y poco específica. No se identifican actores relevantes por nombre (p. ej. estudiantes, docentes, Ministerio, familias) ni se delimita con precisión el tema (no distingue entre enseñanza virtual y presencial ni el alcance del problema). Además el enunciado de tesis ('las clases presenciales son la solución') se presenta como afirmación sin contextualización ni referencia al debate planteado en el reactivo. Para alcanzar nivel 4 haría falta mayor especificidad en actores y periodo y una formulación clara y justificada del problema."
+                "puntaje": 2,
+                "justificacion": "El primer párrafo identifica el tema (sistema de enseñanza tras la pandemia) y ubica el contexto espacial (población chilena) y temporal de forma general ('en la actualidad', 'a raíz de la pandemia'). Sin embargo, los elementos no son lo suficientemente específicos ni completos: 'quiénes' queda reducido a 'población chilena' sin identificar actores clave (estudiantes, docentes, Ministerio en la introducción), y 'cuándo' es vago (no precisa periodo, etapa de la pandemia ni fechas). Además el párrafo adopta una postura (las clases presenciales son la solución) en lugar de presentar el marco informativo del reactivo, por lo que la introducción no cumple con la función neutral y precisa requerida."
             },
             "conclusion_cierre": {
-                "nivel": 2,
-                "justificacion": "El cierre intenta recapitular la postura (clases presenciales como solución) pero no realiza una síntesis en palabras realmente nuevas: repite las mismas afirmaciones ya expuestas. Tampoco ofrece una proyección con implicaciones, recomendaciones, consecuencias políticas o condiciones para la reapertura; la única mención ('desafío planteado por el Ministerio de Educación') no desarrolla acciones, plazos ni consideraciones prácticas. Hay intento de cierre, pero carece de estructura analítica y prospectiva."
+                "puntaje": 2,
+                "justificacion": "Hay una síntesis explícita: el texto reitera que las clases presenciales son la solución para déficit de aprendizaje y problemas de salud. No obstante, la síntesis es básicamente repetitiva (frases casi idénticas a lo ya dicho) y carece de proyección: no ofrece consecuencias, recomendaciones prácticas, condiciones para la reapertura, ni reflexión sobre riesgos o medidas futuras. Tampoco introduce matices ni evaluación de evidencia, por lo que el cierre es insuficiente para un ensayo argumentativo."
             },
             "progresion_textual": {
-                "nivel": 3,
-                "justificacion": "La progresión es parcial: cada párrafo aborda un subtema distinto (introducción, aprendizaje, salud nutricional/mental, riesgo de contagio, conclusión), y existen conectores («Por una parte», «Por otra parte», «Sin embargo»). Sin embargo hay repetición evidente entre párrafos: el primer y el último párrafo repiten la misma tesis; el párrafo final retoma prácticamente sin variación las conclusiones de los párrafos 2 y 3. Además algunos párrafos están pobremente desarrollados y ofrecen afirmaciones generales o datos sin discusión ni transición analítica, lo que debilita la coherencia global. Según la rúbrica, esa repetición parcial limita el nivel máximo a 3."
+                "puntaje": 2,
+                "justificacion": "La estructura presenta párrafos con subtemas (introducción, aprendizaje, salud nutricional/mental, contrapunto sobre contagio, conclusión) y conectores lógicos ('Por una parte', 'Por otra parte', 'Sin embargo', 'De esta manera'). Aun así, hay redundancia: el párrafo final reproduce ideas y formulaciones ya expuestas (vuelve a afirmar la solución presencial varias veces) y no aporta información nueva ni síntesis profunda; además algunas afirmaciones carecen de enlace analítico entre evidencia y conclusión. En consecuencia, la progresión no es totalmente eficaz: un párrafo (el cierre) repite parcialmente información de los anteriores y debilita el avance argumental."
             }
         }
     },
@@ -176,16 +165,16 @@
         "id_texto": 11,
         "resultado": {
             "introduccion": {
-                "nivel": 3,
-                "justificacion": "Tiene el 'qué' (la encíclica Fratelli Tutti y la postura del Papa) y un 'quién' claro (el Papa Francisco). Sin embargo 'cuándo' aparece solo como una frase vaga ('en el último tiempo') y 'dónde' no se especifica en absoluto (no hay contexto espacial ni institucional preciso). Además no nombra otros actores relevantes por nombre o categoría explícita en la introducción (por ejemplo: movimientos sociales, tradición filosófica católica medieval, órdenes franciscanas), lo que impide situar el tema según el REACTIVO. Corrección sugerida: incluir un marco temporal concreto, un ámbito espacial o institucional y nombrar los actores en conflicto/diálogo desde el inicio."
+                "puntaje": 1,
+                "justificacion": "El texto presenta claramente el qué (la encíclica Fratelli Tutti y su contenido) y el quién (el Papa Francisco). Sin embargo, falla en el dónde y el cuándo: 'en su encíclica' es un contexto genérico (no señala un lugar o ámbito espacial concreto) y la referencia temporal ('en el último tiempo') es vaga. Por tanto solo dos elementos son identificables con claridad; se requiere indicar un marco espacial/contextual más preciso y una periodización explícita (fecha, año de la encíclica o periodo histórico) para alcanzar puntaje mayor."
             },
             "conclusion_cierre": {
-                "nivel": 3,
-                "justificacion": "Hay una reformulación de la idea principal (síntesis) en el último párrafo, pero es repetitiva y no aporta una reformulación sustancial en términos nuevos. La 'proyección' existe solo de manera genérica y retórica ('hacer un mundo mejor', 'invita a practicarla'), sin especificar consecuencias, implicaciones concretas, recomendaciones prácticas o contextos futuros. No hay un cierre analítico que indique qué implicaría aceptar la propuesta del Papa en términos políticos o sociales. Corrección sugerida: añadir proyección explícita (efectos esperables, retos, implicaciones políticas o sociales) y una síntesis en lenguaje distinto al del cuerpo del texto."
+                "puntaje": 1,
+                "justificacion": "Hay un intento de cierre en el último párrafo, pero este consiste mayormente en reiteraciones del contenido anterior sin reformulación clara de la idea central ni enunciados nuevos que sinteticen en palabras distintas. La proyección es mínima y genérica ('hacer un mundo mejor para todos') sin implicaciones, consecuencias concretas ni líneas futuras de acción o reflexión. Es necesario una síntesis novedosa de la tesis y una proyección explícita (consecuencias, escenarios o recomendaciones) para mejorar la conclusión."
             },
             "progresion_textual": {
-                "nivel": 2,
-                "justificacion": "El texto tiene párrafos reconocibles pero presenta redundancias significativas: el primer párrafo y el último repiten la misma tesis central con escasas variantes; además el segundo y cuarto párrafos retoman ideas ya expuestas (solidaridad, condena del individualismo) sin desarrollar subtemas claramente distintos. Los conectores lógicos son limitados y las transiciones entre párrafos son débiles, de modo que no se perciben subtemas autónomos por párrafo ni una sucesión argumentativa bien organizada. También falta un tratamiento equilibrado de la posición contraria mencionada en el REACTIVO (no se presenta ni refuta con detalle el argumento de que la propuesta sanciona una forma de vida explotadora). Corrección sugerida: reestructurar para que cada párrafo trate un subtema distinto (contexto/autoridad, explicación conceptual de solidaridad, relación con la tradición medieval y crítica opuesta, consecuencias/práctica) y evitar la repetición literal de la tesis."
+                "puntaje": 2,
+                "justificacion": "La estructura presenta párrafos con subtemas susceptibles de ser distintos (tesis; definición de solidaridad; papel del Papa frente a la tradición; cierre), pero el último párrafo repite parcial y enunciativamente información ya desarrollada (condena del individualismo, defensa del bien común y la solidaridad, llamado a alinear la vida personal) que solapa con el primer y segundo párrafo. Además, los conectores y transiciones son escasos, lo que reduce la coherencia. Para mejorar: evitar reiteraciones, asignar a cada párrafo un subtema verdaderamente distinto y añadir marcadores discursivos que articulen la progresión argumental."
             }
         }
     },
@@ -193,16 +182,16 @@
         "id_texto": 12,
         "resultado": {
             "introduccion": {
-                "nivel": 2,
-                "justificacion": "Solo cumple el elemento 'qué' (prácticas de autocuidado frente a factores ambientales). Falta identificar 'quiénes' (no nombra especialistas, instituciones concretas ni autores), 'dónde' (no especifica el contexto espacial requerido por el reactivo: p. ej. grandes ciudades o entornos urbanos) y 'cuándo' (no hay periodo temporal ni marco histórico). La apertura es genérica y no enmarca el alcance ni las fuentes del argumento exigido por el reactivo."
+                "puntaje": 1,
+                "justificacion": "Solo identifica de manera general el tema (prácticas de autocuidado frente a factores ambientales), es decir el 'qué'. No aparecen explícitamente el 'quién' (no se mencionan especialistas, instituciones o autores concretos), el 'dónde' (no se alude a las grandes ciudades ni a un contexto espacial preciso del reactivo) ni el 'cuándo' (no hay periodo temporal ni marco histórico). Además el inicio usa una voz pasiva vaga ('Se ha demostrado') que oculta la fuente y reduce la especificidad. Sugerencia: incluir una frase introductoria que nombre a los especialistas o instituciones, precise el contexto urbano (p. ej. 'en las grandes ciudades') y, si procede, un marco temporal o actualidad."
             },
             "conclusion_cierre": {
-                "nivel": 3,
-                "justificacion": "Ofrece una síntesis parcial (pide información más honesta y priorizar la integridad personal frente a intereses) pero carece de proyección explícita: no indica consecuencias concretas, líneas de acción futuras ni implicaciones de política pública en relación con la afirmación del reactivo sobre la ineficacia de medidas individuales ante causas ambientales. Es cierre descriptivo pero sin proyección ni recomendaciones operativas."
+                "puntaje": 2,
+                "justificacion": "Hay un intento de cierre y una proyección (criticar la promoción guiada por intereses, pedir honestidad y orientar la promoción hacia la integridad personal), pero falta una síntesis clara que reformule la idea principal en palabras nuevas: el texto no reexpresa de forma precisa y condensada que las medidas individuales ayudan pero no cambian las condiciones ambientales estructurales (tal como plantea el reactivo). La proyección es algo genérica y no articula consecuencias políticas ni recomendaciones concretas para abordar las causas del problema. Sugerencia: añadir una oración final que sintetice la tesis (beneficios individuales vs. insuficiencia para corregir causas estructurales) y una proyección concreta sobre políticas o acciones colectivas necesarias."
             },
             "progresion_textual": {
-                "nivel": 2,
-                "justificacion": "Hay estructura de párrafos, pero existe redundancia: el primer párrafo (afirmación general) se repite parcialmente en los párrafos 3 y 4 que describen beneficios de las prácticas y reformulan la misma idea; además la transición hacia la crítica sistémica (párrafo 5) resulta algo abrupta. Hay conectores básicos ('pero', 'desde', 'todas'), pero la información no avanza de manera netamente acumulativa ni cada párrafo aporta un subtema claramente distinto. No se responde con precisión al contexto urbano/específico planteado por el reactivo (contaminación en grandes ciudades)."
+                "puntaje": 2,
+                "justificacion": "La estructura en párrafos existe, pero presenta redundancias y conectores débiles. Los párrafos 3 y 4 repiten funciones y beneficios de las prácticas de autocuidado (enumeración de efectos positivos y la idea de enfoque preventivo), por lo que aportan información parcialmente redundante. Hay escasez de conectores que articulen claramente la transición desde los beneficios individuales hacia la crítica de su insuficiencia sistémica; el párrafo 2 plantea una pregunta retórica que no encamina la progresión argumental. Además, la crítica al marketing y la llamada a la honestidad vuelven a ideas ya insinuadas, sin avance temático claro. Sugerencia: condensar los párrafos que enumeran beneficios en uno solo, utilizar conectores explícitos para marcar el giro hacia la crítica sistémica y reordenar para que cada párrafo aporte un subtema distinto y progresivo."
             }
         }
     },
@@ -210,16 +199,16 @@
         "id_texto": 13,
         "resultado": {
             "introduccion": {
-                "nivel": 3,
-                "justificacion": "El texto identifica el qué (pandemia de COVID-19) y el dónde (Chile) y aporta referencias temporales (finales del semestre pasado; finales de febrero/comienzo de marzo; plebiscito en octubre), pero falla en el elemento 'quiénes' exigido: no nombra actores relevantes del reactivo (p. ej. Servel, cifras de electores, autoridades concretas) y algunos marcadores temporales son vagos ('finales del semestre pasado'). Además la introducción no sitúa explícitamente la cuestión central del reactivo (la exclusión de pacientes con PCR positivo del voto) ni contextualiza con los actores e instituciones que toman la decisión."
+                "puntaje": 2,
+                "justificacion": "El texto identifica el tema central (la pandemia de COVID-19) y el lugar (China y Chile) y ofrece referencias temporales vagas («finales del semestre pasado», «finales de febrero y comienzo de marzo»). Sin embargo no nombra actores relevantes (por ejemplo: Servel, el plebiscito del 25 de octubre, autoridades concretas) y las indicaciones temporales son imprecisas. Además no conecta explícitamente la pandemia con la medida concreta descrita en el reactivo (prohibición de votar a pacientes PCR positivos), por lo que la introducción queda incompleta y poco específica."
             },
             "conclusion_cierre": {
-                "nivel": 3,
-                "justificacion": "Hay un intento de síntesis: se reitera el derecho y deber de votar y se plantea que negar el voto a contagiados es discriminatorio; sin embargo la conclusión es contradictoria al aceptar simultáneamente que la medida gubernamental está 'implementada de buena forma' sin desarrollar consecuencias. No hay proyección ni implicaciones futuras claras (no propone medidas, alternativas ni escenarios futuros), por lo que cumple la síntesis de forma tenue pero carece de un cierre prospectivo fundamentado."
+                "puntaje": 1,
+                "justificacion": "Hay un intento de cierre que reitera la idea de derecho al voto y denuncia de discriminación, pero no hay una síntesis reformulada de la idea principal ni una proyección clara (implicaciones, recomendaciones o consecuencias futuras). La conclusión además es contradictoria (afirma discriminación pero también que la medida está bien implementada) y no estructura un cierre argumental."
             },
             "progresion_textual": {
-                "nivel": 2,
-                "justificacion": "La organización es redundante: múltiples párrafos repiten la misma idea sobre el riesgo de contagio y la imposibilidad de votar (párr. 2, 3, 4 y 5 repiten argumentos similares). No hay desarrollo de subtemas diferenciados (antecedentes, marco institucional, argumentos jurídicos, propuestas sanitarias), faltan conectores lógicos y varias ideas se repiten con variaciones léxicas. Además el texto no aborda aspectos claves del reactivo (por ejemplo la mención explícita a Servel, la restricción por PCR positivo y las cifras electorales), lo que evidencia una progresión pobre y desordenada."
+                "puntaje": 1,
+                "justificacion": "El texto presenta varios párrafos que repiten las mismas ideas sobre el riesgo sanitario y la imposibilidad de votar: el segundo, tercero y cuarto párrafo redundan parcialmente. Faltan conectores lógicos que ordenen la argumentación y cada párrafo no desarrolla un subtema distinto ni aporta evidencia nueva. Además omite elementos clave del reactivo (mención explícita de Servel, la fecha del plebiscito 25 de octubre, la medida sobre pacientes PCR positivos), lo que impide una progresión temática coherente."
             }
         }
     },
@@ -227,16 +216,16 @@
         "id_texto": 14,
         "resultado": {
             "introduccion": {
-                "nivel": 3,
-                "justificacion": "El texto menciona claramente el qué (la rebaja de la indemnización por el Caso Soquimich) y nombra a un actor clave (Julio Ponce Lerou), y ubica el asunto en 'la historia reciente de Chile' (dónde). Sin embargo, el cuándo es vago ('historia reciente' no es una fecha o periodo concreto) y faltan otros actores claramente relevantes citados en el reactivo (la Corte Suprema, los fondos de pensiones, críticos y defensores). Además hay errores formales ('indeminzación') y la introducción termina abruptamente con una pregunta incompleta, lo que reduce su especificidad y coherencia."
+                "puntaje": 2,
+                "justificacion": "Presente el Qué (rebaja de la indemnización) y el Quién (Julio Ponce Lerou) y menciona el Dónde (Chile). Falta el Cuándo: no se indica periodo, fecha o contexto temporal concreto ('historia reciente' es vago). Además la oración es imprecisa respecto al hecho puntual (no menciona la decisión de la Corte Suprema, montos ni votación) y contiene errores formales ('indeminzación'), lo que debilita la especificidad exigida para una introducción completa."
             },
             "conclusion_cierre": {
-                "nivel": 1,
-                "justificacion": "No existe conclusión ni cierre: el texto termina en una pregunta incompleta y no ofrece síntesis de la idea principal ni proyección sobre implicaciones o consecuencias. No reformula el argumento ni indica reflexiones futuras, por lo que no cumple ninguna de las funciones requeridas."
+                "puntaje": 0,
+                "justificacion": "No hay síntesis ni proyección. El texto termina en una pregunta inaugural y está truncado; no ofrece reformulación de la idea principal ni indica implicaciones, consecuencias o una reflexión futura. No existe cierre identificable."
             },
             "progresion_textual": {
-                "nivel": 1,
-                "justificacion": "Es un fragmento unitario y truncado que no desarrolla subtemas ni presenta párrafos diferenciados. No hay conectores ni continuidad argumentativa, tampoco responde a los elementos del reactivo (montos, votación de la Corte Suprema, afectación a fondos de pensiones, posiciones de críticos/defensores). La estructura es inexistente y el texto no progresa."
+                "puntaje": 1,
+                "justificacion": "El texto consiste en una oración afirmativa seguida de una pregunta retórica y no desarrolla subtemas ni párrafos diferenciados. No hay avance ni estructura: falta desarrollo argumental, transición entre ideas y párrafos que aporten nueva información (está truncado). No se responde al reactivo (faltan detalles clave: montos, votación, postura de críticos/defensores)."
             }
         }
     },
@@ -244,16 +233,16 @@
         "id_texto": 15,
         "resultado": {
             "introduccion": {
-                "nivel": 3,
-                "justificacion": "El texto identifica el qué (confinamiento, teletrabajo y efectos sobre la salud mental) y el cuándo (la pandemia / COVID-19) y alude al dónde de forma general ('en gran parte del mundo', 'lugares cerrados'), pero falla en presentar actores específicos con claridad: solo aparecen referencias vagas ('la población', 'trabajadores', 'familias', 'muchas empresas') sin nombrar agentes relevantes ni diferenciar sujetos clave. Además la 'introducción' no es concisa ni claramente delimitada (se extiende enunciando consecuencias), por lo que no cumple la expectativa de 1–2 oraciones precisas que sitúen explícitamente el tema en relación con el REACTIVO (p. ej. la amenaza al hogar como refugio). Sugerencia: redactar 1–2 frases iniciales que contengan explícitamente Qué, Quiénes (grupos/actores concretos), Dónde (ámbito espacial preciso) y Cuándo."
+                "puntaje": 2,
+                "justificacion": "El texto presenta el 'qué' (confinamiento/teletrabajo y efectos en salud mental) y el 'cuándo' (pandemia/COVID‑19) y ofrece referencias espaciales generales ('lugares cerrados', 'gran parte del mundo'), pero falla en identificar con precisión 'quiénes' (no nombra actores concretos: empleadores, trabajadores por sectores, autoridades sanitarias, familias, etc.). Además la presentación es difusa y extensa, no formula una tesis clara vinculada al reactivo (la Salud del hogar como refugio en riesgo). Para mejorar: incluir en las primeras oraciones el tema en una frase concisa, nombrar los actores afectados y precisar el ámbito espacial/temporal, y formular una tesis que responda explícitamente al reactivo."
             },
             "conclusion_cierre": {
-                "nivel": 2,
-                "justificacion": "El texto carece de una conclusión estructurada. El párrafo final repite ideas ya expuestas (estrés laboral, incapacidad de desconectar, aumento de síntomas ansiosos) pero no ofrece una síntesis reformulada de la tesis central ni una proyección (implicaciones, recomendaciones, consecuencias futuras o líneas de investigación). Hay un intento difuso de cierre temático, pero sin reescribir la idea principal en nuevas palabras ni indicar implicaciones concretas respecto al peligro que enfrenta el hogar como refugio, exigencias normativas o consecuencias para políticas de salud mental. Sugerencia: añadir un párrafo final que sintetice la tesis y presente al menos una proyección o recomendación relacionada con el REACTIVO."
+                "puntaje": 1,
+                "justificacion": "Hay un párrafo final que intenta cerrar, pero no cumple con la síntesis ni con la proyección exigidas: repite afirmaciones sobre estrés y pérdida de calidad de vida sin reformular la idea central en términos nuevos y sin ofrecer implicaciones, consecuencias concretas, recomendaciones o líneas de investigación futuras. Tampoco liga el cierre con la idea central del reactivo (la 'salud' del hogar como último refugio). Se requiere una oración de síntesis clara y al menos una proposición de proyección (políticas, riesgos futuros o medidas) para subir el puntaje."
             },
             "progresion_textual": {
-                "nivel": 2,
-                "justificacion": "La organización presenta redundancias y falta de conectores claros. Varios párrafos repiten información: el primero y el tercero reiteran el aumento de trastornos ansiosos/depresivos y la presión sobre servicios de salud; el segundo y el cuarto vuelven sobre la alteración de horarios, la imposibilidad de desconectar y la pérdida de soporte social. No hay una progresión evidente por subtemas (p. ej. contexto → consecuencias laborales → impacto en la vida familiar → propuestas), y faltan conectores lógicos que articulen transiciones. Además hay oraciones extensas y errores que dificultan la coherencia interna. Sugerencia: reorganizar para que cada párrafo trate un subtema distinto y emplear conectores que marquen relaciones (causa-efecto, contraste, ejemplificación)."
+                "puntaje": 1,
+                "justificacion": "El texto tiene varios párrafos pero presenta redundancia importante: el aumento de trastornos ansiosos/depresivos y la afectación de la salud mental se repiten en los párrafos 1, 2 y 4 sin aportar información nueva; el párrafo 3 añade el dato del aumento de consultas y ansiolíticos pero sin conexión lógica ni datos precisos. Faltan conectores que articulen causa, consecuencia y ejemplos; las ideas están enunciadas en oraciones largas y con errores que dificultan la separación temática. Para corregir: asignar a cada párrafo un subtema distinto (p. ej. 1=definición y alcance, 2=impacto laboral y temporización, 3=impacto familiar/espacial, 4=datos y propuestas), evitar repeticiones y añadir transiciones explícitas."
             }
         }
     },
@@ -261,16 +250,16 @@
         "id_texto": 16,
         "resultado": {
             "introduccion": {
-                "nivel": 2,
-                "justificacion": "La introducción solo cumple parcialmente: define de manera vaga el tema central (cierre de colegios y clases virtuales) y menciona actores genéricos ('el gobierno', 'los colegios'), pero falla en especificidad. No indica un lugar concreto (dónde) ni un periodo temporal claro (cuándo: 'actual' es impreciso). Además no presenta explícitamente las posiciones enfrentadas que plantea el reactivo (los 'algunos' a favor de mantener la virtualidad y los 'otros' que piden reapertura), por lo que no configura una introducción completa ni contextualizada. Sugerencia: incluir fecha o periodo, ámbito geográfico y nombrar con precisión los actores relevantes o los grupos señalados en el reactivo y exponer brevemente las dos posturas en disputa."
+                "puntaje": 2,
+                "justificacion": "El texto presenta el tema central (cierre de colegios y clases virtuales) y menciona actores genéricos (“el gobierno”, “colegios”), además alude al momento como “actual contexto sanitario”. Sin embargo, faltan especificidad espacial (no indica país/ámbito concreto) y la referencia temporal es vaga. Tampoco introduce con claridad las posiciones contrapuestas del reactivo (p. ej. quienes priorizan la salud mental de los niños), por lo que la introducción no sitúa plenamente el conflicto planteado. Sugerencia: explicitar lugar y periodo, nombrar con precisión los actores relevantes y enunciar brevemente ambas posturas del reactivo."
             },
             "conclusion_cierre": {
-                "nivel": 3,
-                "justificacion": "La conclusión ofrece una reformulación de la idea central (síntesis) al reiterar que la virtualidad protege la salud y mejora accesibilidad, pero no cumple la función de proyección: no indica consecuencias futuras, recomendaciones políticas, implicaciones educativas ni reflexiones sobre cómo implementar o evaluar esa postura. Además es básicamente repetitiva y carece de sugerencias o pasos siguientes. Sugerencia: añadir proyección concreta (impacto esperado, medidas necesarias, seguimiento o criterios para evaluar el retorno a la presencialidad) y reformular la síntesis en términos no redundantes."
+                "puntaje": 2,
+                "justificacion": "Hay una síntesis del argumento principal (las clases virtuales protegen la salud y favorecen accesibilidad), pero falta proyección: no se indican implicaciones futuras, recomendaciones de política, consecuencias a mediano/largo plazo ni reflexión sobre la otra cara del reactivo (salud mental/emocional). La conclusión vuelve a enumerar puntos previos sin reformularlos críticamente ni plantear pasos siguientes. Sugerencia: añadir una proyección explícita (p. ej. medidas para mitigar efectos en salud mental, criterios para volver a la presencialidad o evaluación de métodos pedagógicos)."
             },
             "progresion_textual": {
-                "nivel": 3,
-                "justificacion": "La progresión presenta párrafos con subtemas distintos (contexto/posición, salud, accesibilidad, crítica y respuesta, conclusión), pero hay repetición parcial entre el primer párrafo y el segundo (ambos insisten en el argumento de protección sanitaria y cierre de colegios), lo que reduce la cohesión. Faltan conectores lógicos claros entre párrafos y algunas transiciones son abruptas; el cuarto párrafo introduce el contraargumento pero lo desarrolla de manera insuficiente y sin enlace sólido con el anterior. Sugerencia: eliminar redundancias (fusionar o diferenciar con más precisión el primer y segundo párrafo), usar conectores explícitos para guiar el avance argumental y desarrollar mejor la oposición antes de refutarla."
+                "puntaje": 2,
+                "justificacion": "La estructura tiene párrafos con subtemas diferenciables (introducción/tesis, salud y riesgo de contagio, igualdad por transporte, objeción sobre aprendizaje, conclusión), y hay conectores; sin embargo, hay redundancia: el primer y segundo párrafo repiten la misma idea central sobre protección de la salud con formulaciones muy próximas. Además la objeción sobre salud mental señalada en el reactivo queda poco desarrollada, por lo que no hay equilibrio en la progresión argumental. Sugerencia: eliminar repeticiones, consolidar la idea de salud en un solo párrafo y desarrollar con mayor profundidad la objeción contraria para fortalecer la coherencia argumental."
             }
         }
     },
@@ -278,16 +267,16 @@
         "id_texto": 17,
         "resultado": {
             "introduccion": {
-                "nivel": 3,
-                "justificacion": "La introducción identifica claramente el tema (contaminación del aire y actividad física) y el lugar general ('las grandes ciudades'), pero falla en dos elementos: 'quiénes' relevantes no están bien especificados (menciona 'las grandes empresas' y 'niños' pero no a los 'especialistas' que plantea el reactivo) y 'cuándo' es vago ('en el último tiempo'). Además no aclara la postura respecto al enunciado del reactivo (la posición de los especialistas sobre los efectos limitados de las medidas individuales). Sugerencia: nombrar explícitamente a los especialistas como actores relevantes y precisar un marco temporal o periodo concreto."
+                "puntaje": 2,
+                "justificacion": "El párrafo inicial identifica el tema (contaminación del aire en las grandes ciudades) y menciona actores generales (\"las grandes empresas\", \"niños\", \"educación escolar\"), pero falla en la indicación temporal específica: \"En el último tiempo\" es vago. Además no menciona a los actores relevantes del REACTIVO (por ejemplo, \"especialistas en medicina\") ni sitúa con precisión el contexto histórico o periodo. Para ser completa requiere una fecha/periodo concreto y una identificación más explícita de los actores expertales referidos en el enunciado."
             },
             "conclusion_cierre": {
-                "nivel": 3,
-                "justificacion": "Hay una proyección explícita (se propone que el gobierno lance campañas o leyes) y una reformulación del tema, pero la síntesis es meramente repetitiva y no reescribe la idea principal en términos nuevos ni reconoce la limitación central del reactivo (que las medidas individuales no cambian las condiciones ambientales causantes). Además la conclusión contradice el reactivo al sostener que el ejercicio 'combatirá' el problema ambiental en lugar de plantear medidas sistémicas. Sugerencia: en la conclusión sintetizar con palabras nuevas y proyectar implicaciones reales (p. ej. políticas públicas y medidas estructurales) admitiendo los límites del autocuidado."
+                "puntaje": 2,
+                "justificacion": "Hay proyección explícita (propuesta de campaña o ley gubernamental para fomentar el deporte), pero la síntesis de la idea principal es tenue y esencialmente repetitiva: no reformula la tesis en palabras nuevas ni reconoce la limitación central del REACTIVO (que las medidas individuales no atacan las causas ambientales). La conclusión además generaliza al afirmar que la actividad física \"combatirá\" el problema, contradiciendo sin evidencias la advertencia de los especialistas."
             },
             "progresion_textual": {
-                "nivel": 2,
-                "justificacion": "La organización por párrafos existe, pero hay redundancia: el párrafo 2 (beneficios del ejercicio y frecuencia recomendada) y el párrafo 3 (déficit en las escuelas e importancia de incentivar a los niños) repiten la misma idea central sobre la necesidad de fomentar deporte en niños; el párrafo 4 repite y además desestima sin fundamento la postura contraria de los especialistas. Faltan conectores y transiciones que integren el contraargumento con la tesis; la secuencia resulta repetitiva y no desarrolla subtemas claramente diferenciados. Sugerencia: condensar las ideas repetidas, usar conectores para articular evidencia, contraargumento y reconciliación con el reactivo (reconocer limitaciones individuales y proponer medidas estructurales)."
+                "puntaje": 2,
+                "justificacion": "El texto está dividido en párrafos y usa conectores básicos, pero presenta repetición parcial: los párrafos 2 y 3 reiteran la misma idea central (beneficios de la actividad física e importancia de fomentarla en la escuela) sin aportar subtemas claramente distintos; el párrafo 5 repite la recomendación final. El párrafo 4 introduce la objeción de los expertos pero la refuta sin argumento ni evidencia, rompiendo la coherencia argumental con el REACTIVO. Se requieren subtemas diferenciados (evidencia de beneficios, límites frente a la contaminación, políticas públicas efectivas) y mejor integración de la objeción experta."
             }
         }
     },
@@ -295,16 +284,16 @@
         "id_texto": 18,
         "resultado": {
             "introduccion": {
-                "nivel": 2,
-                "justificacion": "El texto presenta el 'qué' (la pandemia del COVID-19) y apunta a un 'dónde' específico (Chile), pero carece de 'quiénes' concretos (no identifica actores por nombre: autoridades, comunidades afectadas o expertos) y no indica 'cuándo' (no sitúa el periodo, p. ej. segunda ola, fechas o periodo histórico). Además la introducción es extensa y difusa: mezcla constatación y tesis sin ofrecer una apertura concisa ni conectar explícitamente con el reactivo (no aborda la segunda ola en Europa, los confinamientos sectorizados ni las acusaciones de discriminación señaladas en el enunciado)."
+                "puntaje": 2,
+                "justificacion": "El texto identifica claramente el qué (la pandemia del COVID-19 y sus efectos) y menciona un lugar específico (Chile), y alude a los sujetos afectados ('las personas', 'habitantes del mundo'), pero falla en la dimensión temporal: no precisa un periodo histórico o fechas relevantes (p. ej. 2020-2021, 'segunda ola'), por lo que el cuándo es vago. Además, los 'quiénes' son generales y no se nombran actores concretos (autoridades, grupos sociales específicos) solicitados por el reactivo (que habla de la segunda ola en Europa y decisiones de autoridades como la presidenta de la Comunidad de Madrid). Sugerencia: añadir un marcador temporal explícito y precisar los actores relevantes para conectar con el reactivo."
             },
             "conclusion_cierre": {
-                "nivel": 1,
-                "justificacion": "No hay conclusión identificable: el texto termina abrupto y truncado (‘q’ final) sin síntesis de la idea principal ni reformulación en otras palabras, y sin proyección (no plantea implicaciones, recomendaciones claras o escenarios futuros). Tampoco responde al reactivo en términos de cierre: no evalúa consecuencias específicas de las medidas ni reflexiona sobre la discriminación o la gestión en Europa."
+                "puntaje": 1,
+                "justificacion": "Hay un intento de cierre: se reitera que el COVID-19 es un desafío para actualizar programas y normativas y se alude a la 'dignidad' y acceso a alimentos y condiciones laborales; sin embargo no hay una síntesis clara en palabras nuevas ni una proyección desarrollada y el texto termina abruptamente e incompleto ('q'), lo que impide considerar que exista una conclusión estructurada. Además no se vinculan consecuencias concretas ni se relaciona la proyección con el problema planteado en el reactivo (segunda ola, confinamientos discriminatorios). Sugerencia: redactar una oración final que reformule la tesis y exponga implicaciones políticas concretas y verificables."
             },
             "progresion_textual": {
-                "nivel": 3,
-                "justificacion": "El texto tiene dos párrafos que no desarrollan subtemas claramente diferenciados: ambos reiteran la necesidad de políticas públicas y la relación entre pandemia y calidad de vida, de modo que hay repetición parcial de ideas. Faltan conectores lógicos y transiciones precisas entre enunciados y párrafos; hay preguntas retóricas que no se responden ni articulan con evidencia. Además, la estructura termina de forma abrupta y no aborda elementos claves del reactivo (segunda ola europea, confinamientos por barrios, discriminación y caso de Madrid), por lo que la progresión temática no conduce a una argumentación completa."
+                "puntaje": 2,
+                "justificacion": "El texto tiene separación en dos párrafos, pero no mantienen progresión totalmente nueva: el primer párrafo plantea la tesis sobre la pandemia y la necesidad de políticas públicas en Chile; el segundo repite la idea de la afectación social y la necesidad de actualizar políticas (calidad de vida, dignidad, acceso a alimentos, condiciones laborales), reconduciendo el mismo eje sin aportar subtemas claramente diferenciados. Además faltan conectores lógicos precisos y hay problemas de cohesión y frases incompletas que dificultan la transición (y el cierre incompleto). Importante: el desarrollo no responde al reactivo específico (segunda ola en Europa, confinamientos sectorizados y discriminación), por lo que la progresión temática no cumple la exigencia de abordar el caso propuesto. Sugerencia: reestructurar párrafos para que cada uno trate un subtema distinto (impacto sanitario, impacto laboral, respuesta política, ejemplo del caso europeo) y usar conectores explícitos."
             }
         }
     },
@@ -312,16 +301,16 @@
         "id_texto": 19,
         "resultado": {
             "introduccion": {
-                "nivel": 3,
-                "justificacion": "El texto contiene un enunciado temático (qué: la pandemia de covid-19) y especifica el cuándo (año 2020), y alude a actores colectivos ('la mayoría de los países y estados del mundo') y un ámbito espacial ('del mundo'), pero esos elementos son generales y no específicos. No identifica actores por nombre ni contextos concretos, y es una sola oración que empieza abruptamente, por lo que no constituye una introducción completa. Además, no responde al reactivo: no menciona las imágenes de Venecia, los delfines, la incapacidad humana ante el ecosistema ni el modelo productivo global, temas centrales del enunciado."
+                "puntaje": 2,
+                "justificacion": "El texto presenta el 'qué' (la pandemia del covid-19) y el 'cuándo' (año 2020), pero falla en especificidad de 'quiénes' y 'dónde'. 'La mayoría de los países y estados del mundo' es un actor y un lugar excesivamente general; no se mencionan actores concretos (por ejemplo: ciudadanos, personal sanitario, gobiernos, Venecia) ni un contexto espacial preciso solicitado por el reactivo (p. ej. Venecia, Italia, o canales urbanos). Además no refiere las imágenes o las posturas del reactivo (delfines/recuperación ecológica vs. imposición del modelo productivo). Sugerencia: incluir actores concretos y precisar el lugar (p. ej. Venecia) y fechas más específicas para alcanzar una introducción completa."
             },
             "conclusion_cierre": {
-                "nivel": 1,
-                "justificacion": "No existe una conclusión ni cierre: el enunciado es una afirmación única y no realiza síntesis ni reformulación de ideas en palabras nuevas, ni plantea proyección, implicaciones o reflexiones futuras. Tampoco cierra ni vincula su contenido con los puntos del reactivo (Venecia, ecosistema, modelo productivo), por lo que no cumple ninguna de las funciones requeridas."
+                "puntaje": 1,
+                "justificacion": "El enunciado funciona como un intento mínimo de cierre (afirma que la pandemia será recordada por pérdidas humanas y económicas) pero carece de síntesis reformulada y, sobre todo, de proyección: no ofrece implicaciones, consecuencias ni reflexión futura sobre el tema ni dialoga con las perspectivas del reactivo (recuperación ecológica vs. modelo productivo). Es una oración final aislada sin estructura de cierre. Sugerencia: reelaborar la idea principal con otras palabras y añadir una proyección (p. ej. lecciones para políticas ambientales o económicas)."
             },
             "progresion_textual": {
-                "nivel": 1,
-                "justificacion": "El texto es una única oración sin división en párrafos ni desarrollo de subtemas; por tanto no hay progresión textual, no se introducen ideas nuevas en párrafos sucesivos ni conectores lógicos. Tampoco responde al reactivo: no hay tratamiento ni contrastación de las posiciones sobre las imágenes de Venecia, la relación humano-ecosistema o el modelo productivo, lo que evidencia ausencia de desarrollo argumental."
+                "puntaje": 0,
+                "justificacion": "El texto es una sola oración sin separación en párrafos, por lo que no cumple los requisitos de progresión: no hay desarrollo de subtemas, no hay conectores lógicos y no puede apreciarse aporte distinto por párrafo. Además no responde al reactivo en cuanto a contrastar las imágenes de Venecia y las dos posturas planteadas. Sugerencia: estructurar el texto en párrafos separados (contexto/ejemplo de Venecia; interpretación ecológica; interpretación del modelo productivo; conclusión) y usar conectores para evitar redundancias."
             }
         }
     },
@@ -329,16 +318,16 @@
         "id_texto": 20,
         "resultado": {
             "introduccion": {
-                "nivel": 2,
-                "justificacion": "Solo cumple parcialmente el elemento 'qué' (identifica la pandemia de COVID-19) y ofrece un rasgo temporal vago ('actualmente'). Falla en especificar 'quiénes' (los actores se nombran de forma genérica: 'distintas organizaciones sanitarias' sin identificación) y 'dónde' (dice 'todos los países' en la primera frase; la referencia pertinente del reactivo es la 'segunda ola en Europa', que no aparece en la introducción). Los elementos espacial y de actores son imprecisos y el marco temporal es general; por tanto la introducción no enmarca adecuadamente el reactivo."
+                "puntaje": 1,
+                "justificacion": "El texto inicia con el tema (qué: covid-19 y cuarentenas) pero no cumple los cuatro elementos exigidos. 'Quiénes' aparece de forma vaga como 'distintas organizaciones sanitarias' sin identificar actores concretos (gobiernos, autoridades locales, comunidades afectadas). 'Dónde' no se especifica: no se menciona Europa ni ningún contexto espacial concreto pese a que el reactivo exige la segunda ola europea. 'Cuándo' se limita a 'actualmente' y 'con el pasar de los meses', expresiones generales que no precisan periodo (segunda ola, meses concretos). En suma hay sólo uno o dos elementos identificables y demasiado generales; falta especificidad y conexión explícita con el reactivo."
             },
             "conclusion_cierre": {
-                "nivel": 3,
-                "justificacion": "La conclusión contiene una reformulación general (síntesis débil) al llamar a ver el COVID-19 de forma panorámica y menciona la tarea de las organizaciones sanitarias, pero carece de proyección explícita: no plantea consecuencias concretas, medidas futuras ni implicaciones políticas claras en relación con la segunda ola en Europa o las críticas por cuarentenas sectorizadas que exige el reactivo. Hay síntesis parcial pero ausencia de una proyección bien fundada."
+                "puntaje": 2,
+                "justificacion": "La conclusión realiza una síntesis superficial (reformular la idea de que el covid no es solo sanitario y que hay que maximizar bienestar social) y plantea una breve orientación (las organizaciones deben maximizar bienestar), pero falla en proyección sólida: no detalla implicaciones políticas, consecuencias prácticas, medidas futuras ni evalúa el problema de la discriminación señalado en el reactivo. La proyección es vaga y normativa sin concreción (qué deben hacer, cómo, impacto esperado). Por ello hay síntesis pero la proyección es débil."
             },
             "progresion_textual": {
-                "nivel": 2,
-                "justificacion": "Hay redundancia clara: varios párrafos repiten las mismas ideas sobre el impacto económico/psicológico y sobre la relación entre pobreza y riesgo de contagio (párrafos 2, 3, 4 y 5 contienen solapamientos). Faltan conectores lógicos fuertes entre secciones y la delimitación de subtemas no es nítida (p.ej. separar análisis epidemiológico, criterios de cuarentena, y consecuencias socioeconómicas). Además el texto no responde con detalle al reactivo: apenas menciona la 'segunda ola en Europa' y no aborda las protestas, cuarentenas por sectores ni la acusación discriminatoria señalada en el enunciado."
+                "puntaje": 1,
+                "justificacion": "La estructura muestra redundancia y escasos conectores lógicos. Dos o más párrafos repiten ideas: el párrafo 2 y el 5 reiteran la tensión teletrabajo/economía y la responsabilidad de permitir teletrabajo; el párrafo 3 y el 4 repiten que los más pobres son los más afectados y justifican restricciones por riesgo, sin aportar evidencia nueva ni matices. Faltan transiciones claras y cada párrafo no desarrolla consistentemente un subtema distinto. Además el texto no responde con precisión al reactivo: no aborda las protestas, la decisión de confinar por sectores ni la acusación discriminatoria (por ejemplo el caso de Madrid), y en cambio justifica el aislamiento de barrios pobres, lo que contradice el enfoque crítico requerido. Se requiere reorganización para evitar repeticiones y alinear contenido con el reactivo."
             }
         }
     }

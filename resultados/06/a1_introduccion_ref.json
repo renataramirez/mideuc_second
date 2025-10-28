@@ -1,0 +1,1268 @@
+[
+    {
+        "id_texto": 1,
+        "resultado": {
+            "evaluacion_general": "La introducción ofrece múltiples señales implícitas que sitúan el tema en el ámbito del teletrabajo y la salud mental durante la pandemia, pero esas señales están dispersas, a veces contradictorias y con imprecisiones temporales y referenciales. Predominan formulaciones retóricas y juicios valorativos que aluden al contexto más amplio (pandemia, globalización, empleadores/empleados, hogar/oficina), aunque faltan anclajes claros que permitan precisar alcance geográfico, actores institucionales y marcos temporales concretos. En conjunto, el texto funciona mejor como una evocación crítica que como una contextualización académica sólida; con ajustes puntuales podría mantener su tono interpretativo mientras gana claridad contextual.",
+            "detalle_indicios": [
+                {
+                    "componente": "tema",
+                    "presente": true,
+                    "evidencia": "Menciones recurrentes a 'pandemia', 'salud mental', 'trabajo remoto', 'trabajo en casa', 'bienestar laboral' y contraste con 'oficinas'. Preguntas retóricas sobre si el retorno al trabajo domiciliario es progreso en bienestar laboral refuerzan el foco temático.",
+                    "interpretacion": "El tema principal se infiere con fuerza: impactos de la modalidad remota en la salud mental y en la relación entre trabajo y hogar durante la pandemia. La presentación es explícita en intención aunque más argumentativa que descriptiva.",
+                    "fuerza": "fuerte"
+                },
+                {
+                    "componente": "actores",
+                    "presente": true,
+                    "evidencia": "Aparecen referencias a 'empleados', 'empleadores', 'trabajadores', 'asociados' y el uso de segunda persona plural ('vosotros', 'tu') que implica sujetos laborales y sus relaciones contractuales.",
+                    "interpretacion": "Los actores principales son claramente los sujetos laborales (empleadores y empleados), en ocasiones hablados de forma directa. Falta mención de otros actores potenciales relevantes en un análisis académico (gobiernos, autoridades sanitarias, sindicatos, empleadores institucionales, familias).",
+                    "fuerza": "medio"
+                },
+                {
+                    "componente": "lugar o entorno",
+                    "presente": true,
+                    "evidencia": "Referencias a 'barrios', 'oficinas', 'espacio público', 'cerrada intimidad', 'desde casa', 'cybercafés' y una mención explícita a 'Japon'.",
+                    "interpretacion": "El texto sugiere entornos contrastantes (hogar, oficina, espacio público) y alude a alternativas (cybercafés). Sin embargo, el ámbito geográfico general no queda definido: las señales oscilan entre lo local (barrios) y lo global (mención de Japón y referencias a la globalización), lo que dificulta delimitar el alcance empírico o geográfico del argumento.",
+                    "fuerza": "medio"
+                },
+                {
+                    "componente": "tiempo",
+                    "presente": true,
+                    "evidencia": "Aparecen alusiones temporales: 'nuestra actual pandemia', 'poco mas de cien años han pasado', 'los últimos treinta años', y referencias explícitas al COVID-19 en el reactivo.",
+                    "interpretacion": "Hay indicadores temporales que enmarcan la discusión en la pandemia contemporánea y en procesos sociales más amplios (últimas décadas, siglo pasado), pero las referencias son vagas y en ocasiones anacrónicas o imprecisas (ej. 'poco mas de cien años' sin especificar a qué evento concreto se refiere).",
+                    "fuerza": "medio"
+                }
+            ],
+            "puntos_fuertes": [
+                "Tema central (teletrabajo y salud mental en contexto pandémico) se percibe con claridad y coherencia temática.",
+                "Uso de contrastes (hogar vs. oficina; flexibilidad vs. explotación) ofrece pistas sobre los marcos interpretativos sin declarar explícitamente todos los elementos contextuales.",
+                "Algunas señales concretas de lugar (cybercafés; Japón) y temporalidad (pandemia, últimas décadas) enriquecen el cuadro aunque de forma fragmentaria."
+            ],
+            "limitaciones_detectadas": [
+                "Ausencia de delimitación geográfica clara: no se indica si el análisis se refiere a un país, región o a un fenómeno global con ejemplos puntuales.",
+                "Imprecisión temporal: referencias amplias ('más de cien años', 'últimos treinta años') sin anclaje cronológico específico generan ambigüedad.",
+                "Actores secundarios relevantes (gobiernos, autoridades sanitarias, sindicatos, familias) no se nombran o se insinúan sólo de forma débil, lo que empobrece la complejidad relacional del fenómeno.",
+                "Tono normativo y argumentativo que reafirma posturas (ej. 'La verdad es que no') puede dificultar una presentación equilibrada y académica del contexto."
+            ],
+            "recomendaciones_practicas": [
+                "Añadir una frase de contextualización temprana que delimite alcance geográfico y cronológico: por ejemplo, indicar si la discusión se refiere 'a nivel mundial' o a un país/sector y especificar el periodo (p. ej. desde marzo de 2020 hasta la actualidad).",
+                "Incluir, de forma implícita pero más precisa, actores institucionales y sociales relevantes: autoridades sanitarias, empleadores formales, empleadores informales, sindicatos y familias, para dar mayor densidad contextual.",
+                "Sustituir o matizar afirmaciones categóricas por formulaciones que indiquen evidencia o percepción (p. ej. 'muchos estudios/autoridades advierten' en vez de 'la verdad es que no'), lo que preserva la voz crítica sin perder rigor académico.",
+                "Corregir o precisar referencias temporales generales con hitos concretos (pandemia COVID‑19: 2020–presente; transformación tecnológica en las últimas tres décadas) o eliminar cifras vagas si no se van a sustentar.",
+                "Si se desea mantener la sutileza implícita, usar ejemplos anclados (una ciudad, un sector económico, un estudio o una política específica) que funcionen como microscosmos para el argumento general."
+            ],
+            "sugerencias_de_frasis_para_incorporar": [
+                "Durante la pandemia de COVID‑19 (2020–2022), millones de trabajadores en contextos urbanos y rurales se vieron forzados a trasladar su tarea al hogar, lo que revalorizó el debate sobre la salud mental y los límites entre trabajo y descanso.",
+                "Actores como empleadores, empleados, autoridades sanitarias y sindicatos han planteado distintas formas de regulación del teletrabajo, aunque las respuestas varían según el país y el sector.",
+                "Aunque algunas prácticas —por ejemplo, el bloqueo de llamadas los fines de semana en Japón— ejemplifican soluciones, la evidencia sugiere que la falta de regulación clara incrementa riesgos para la salud mental y la protección del tiempo personal."
+            ]
+        }
+    },
+    {
+        "id_texto": 2,
+        "resultado": {
+            "resumen_general": "La introducción sitúa el problema central —el impacto de la pandemia de Covid-19 en el aprendizaje de niños y adolescentes— con signos tanto explícitos como implícitos de contexto. Existe una mezcla de referencias directas (pandemia, aprendizaje virtual, niños/adolescentes) y señales más sutiles (énfasis en la dinámica familiar, menciones a estudios en Latinoamérica y Chile, y referencias a medidas sanitarias y vacunación). En conjunto, aunque la orientación temática y algunos actores aparecen con claridad, las pistas contextuales podrían matizarse y precisarse para fortalecer la ubicación del tema dentro de su marco espacial, temporal y actoral.",
+            "tema_principal": {
+                "presente": true,
+                "evidencias_textuales": [
+                    "\"La pandemia provocada por el virus Covid-19 ha generado profundos cambios a nivel social y cultural\"",
+                    "\"el proceso de aprendizaje de niños y adoloscentes\"",
+                    "\"aprendizaje virtual\""
+                ],
+                "analisis": "El tema central (efectos de la pandemia en el aprendizaje infantil/adolescente y la transición al aprendizaje virtual) es claramente detectable. Aunque hay menciones explícitas, también hay señales implícitas de enfoque: la división en 'áreas de aprendizaje' y la preocupación por las interacciones sociales y familiares sugieren que el autor considera el aprendizaje como un fenómeno multidimensional influido por entornos micro (familia, pares) y macro (medidas sanitarias, políticas públicas)."
+            },
+            "actores": {
+                "presentes": true,
+                "evidencias_textuales": [
+                    "\"niños y adoloscentes\"",
+                    "\"familia\" / \"dinámica familiar\"",
+                    "\"pares\"",
+                    "\"autoridades y la sociedad\"",
+                    "\"profesor Sebastian Torres, académico de la PUC\"",
+                    "\"Potificia Universidad Católica de Chile\""
+                ],
+                "analisis": "Hay una combinación de actores directos (los sujetos afectados: niños, adolescentes, pares, familia) y actores institucionales o expertos (académico, universidad, autoridades). Implícitamente se sugiere una red de responsabilidad compartida: familias, escuelas/educadores y autoridades sanitarias. Sin embargo, la jerarquía y el papel específico de cada actor en la solución o en la toma de decisiones no se precisa con claridad."
+            },
+            "lugar_entorno": {
+                "presente": true,
+                "evidencias_textuales": [
+                    "\"en todo el mundo\"",
+                    "\"paises de latinoamérica\"",
+                    "\"Chile\"",
+                    "\"Potificia Universidad Católica de Chile\""
+                ],
+                "analisis": "El texto oscila entre escalas globales (\"todo el mundo\"), regionales (\"Latinoamérica\") y específicas (estudio en Chile). Estas capas ofrecen pistas contextuales útiles, pero no existe una delimitación clara del alcance del análisis: no se aclara si los hallazgos y cifras se refieren a un país, a la región o a un contexto global. La mención puntual a Chile y a una universidad concreta actúa como anclaje local importante, aunque aparece como ejemplo más que como el foco exclusivo."
+            },
+            "indicadores_temporales": {
+                "presentes": true,
+                "evidencias_textuales": [
+                    "\"La pandemia...\" (implícito: 2020 en adelante)",
+                    "\"en la actualidad\"",
+                    "\"un estudio realizado en Chile el año 2010\"",
+                    "\"han dado una esperanza\" (vacunación: reducción del 75%)",
+                    "\"mientras no se consiga una inmunidad de 'revaño'\" (futuro hipotético)"
+                ],
+                "analisis": "Hay referencias a distintos momentos: un pasado reciente (la pandemia), un pasado más lejano (estudio de 2010) y el presente/near-future (vacunación y la condición de 'actualidad'). Estas capas temporales pueden enriquecer el contexto, pero la mezcla de 2010 con la pandemia contemporánea se presenta sin articulación clara: no se explica cómo un estudio de 2010 se relaciona con los efectos de la pandemia de 2020+. Además, el uso de porcentajes (reducción del 75%) y de conceptos futuros (inmunidad de rebaño) sugiere un marco temporal actual-inmediato, aunque no se documentan fechas ni periodizaciones precisas."
+            },
+            "alineacion_con_el_reactivo": {
+                "respuesta": "Parcialmente alineada",
+                "analisis": "La introducción aborda elementos del reactivo: reconoce la transformación hacia el aprendizaje virtual, menciona riesgos sanitarios y consecuencias sociales/emocionales (área social y dinámica familiar), y sugiere un dilema entre salud y reapertura escolar. Sin embargo, no articula explícitamente las posiciones contrapuestas planteadas en el reactivo (quedarse en casa vs volver a la presencialidad) ni evalúa sus argumentos con claridad. La introducción tiende a enfatizar la importancia de la familia y el riesgo sanitario, ofreciendo recomendaciones familiares, pero falta una presentación equilibrada y explícita del debate público descrito en el reactivo."
+            },
+            "fortalezas_identificadas": [
+                "Tema central claro y relevante (pandemia y aprendizaje virtual).",
+                "Múltiples niveles contextuales mencionados (global, regional, local) que permiten lecturas diferenciadas.",
+                "Actores clave aparecen tanto en lo micro (familia, pares) como en lo institucional (universidad, autoridades).",
+                "Presencia de indicadores temporales que cruzan pasado, presente y futuro."
+            ],
+            "debilidades_y_areas_de_mejora": [
+                "Confusión entre escalas espaciales: mezclar \"todo el mundo\", \"Latinoamérica\" y un estudio de Chile sin delimitar el alcance analítico.",
+                "Mezcla temporal poco articulada: el estudio de 2010 aparece sin explicar su relación con la pandemia actual.",
+                "Falta de explicitación del conflicto planteado en el reactivo; las posturas contrapuestas no se despliegan ni se contraponen claramente.",
+                "Afirmaciones numéricas (80%, 95%, 75%) aparecen sin referencia ni fuente clara; esto debilita la verosimilitud contextual.",
+                "Roles de los actores quedan implícitos pero no jerarquizados ni conectados a responsabilidades o acciones concretas."
+            ],
+            "recomendaciones_practicas_para_enriquecer_los_indicios_contextuales": [
+                "Delimitar el alcance espacial del estudio desde el inicio (por ejemplo: 'en México/Chile/Latinoamérica' o 'estudios comparativos en la región') para evitar ambigüedad entre escalas.",
+                "Articular la secuencia temporal: explicar por qué un estudio de 2010 es pertinente para la discusión actual o reemplazarlo por evidencia postpandemia que contextualice mejor el problema.",
+                "Exponer explícitamente las posiciones del reactivo (beneficios/perjuicios de la presencialidad vs permanencia en casa) y señalar qué evidencia o criterios serán usados para evaluarlas.",
+                "Acompañar porcentajes y afirmaciones cuantitativas con referencias o aclarar si son estimaciones hipotéticas para evitar interpretaciones incorrectas.",
+                "Clarificar los roles y responsabilidades de los actores mencionados (por ejemplo: qué se espera de las autoridades, escuelas, familias y pares) para convertir indicios implícitos en marcos analíticos operativos.",
+                "Usar un lenguaje más matizado que conecte las capas micro y macro (por ejemplo: 'a nivel familiar, según estudios regionales...; a nivel de políticas públicas, las medidas tal...'), mostrando cómo interactúan."
+            ],
+            "observaciones_finales": "La introducción contiene buena materia prima contextual (actores, escalas y temporalidades), pero la señalización es ambigua en algunos puntos y necesita una articulación más explícita entre las capas implícitas y la tesis que se desea defender. Si el objetivo es responder al reactivo, conviene enfatizar el dilema público y documentar mejor las evidencias que sustentan las afirmaciones."
+        }
+    },
+    {
+        "id_texto": 3,
+        "resultado": {
+            "pregunta_1_indicios_tema": {
+                "resumen": "El tema central se insinúa como la relación entre actividad física, salud humana y contaminación ambiental, y la necesidad de medidas gubernamentales para reducir la contaminación.",
+                "indicios_implícitos_detectados": [
+                    "Referencias a la 'actividad física' como pilar de la supervivencia humana y su efecto sobre la salud, que orientan el discurso hacia salud pública y estilo de vida.",
+                    "Mención de la 'contaminación ambiental' como amenaza actual y de origen mayoritariamente humano, lo que sugiere un enfoque en causas antropogénicas y políticas públicas.",
+                    "Propuestas prácticas (subsidio del transporte público, campañas contra fumar, uso de mascarillas) que desplazan el tema hacia intervención institucional y mitigación ambiental.",
+                    "Comparaciones de riesgo (equivalencia con fumar) que implican un marco de evaluación de impacto en salud."
+                ],
+                "interpretacion": "Aunque el término 'tema' no se proclama de forma técnica, múltiples señales convergen para identificar el núcleo temático: intersección entre actividad física, calidad del aire y políticas públicas para proteger la salud."
+            },
+            "pregunta_2_actores": {
+                "resumen": "La introducción sugiere varios actores, mayormente colectivos sociales e institucionales, aunque sin jerarquizar ni precisar niveles de responsabilidad.",
+                "actores_implícitos_detectados": [
+                    "El 'ser humano' y 'las personas' como sujetos generales afectados y también agentes de cambio (p. ej. elegir bus vs auto).",
+                    "El 'gobierno' como actor institucional responsable de implementar medidas y diseñar incentivos.",
+                    "Habitantes de 'grandes ciudades' como grupo poblacional específico y receptores de políticas y riesgos.",
+                    "Individuos que fuman o no adoptan medidas, considerados tanto como agentes causantes como víctimas indirectas."
+                ],
+                "interpretacion": "Los actores aparecen implícitamente en roles claros (afectados, decisores, agentes de cambio), pero falta precisión sobre el tipo/nivel de gobierno (local, nacional), organismos de salud o comunidades científicas."
+            },
+            "pregunta_3_lugar_entorno": {
+                "resumen": "El texto sitúa el problema principalmente en entornos urbanos densos, con contrastes frente a áreas no urbanas.",
+                "pistas_contextuales_detectadas": [
+                    "Repetidas referencias a 'grandes ciudades', 'ciudad' y 'habitantes de las grandes ciudades', que centran el contexto espacial en lo urbano.",
+                    "Comparación con 'una persona fuera de la ciudad' que fuma, lo que introduce un contraste rural/urbano implícito.",
+                    "Menciones a medidas de transporte público y tarifas, que apuntan a escenarios urbanos con sistemas de movilidad masiva."
+                ],
+                "interpretacion": "El lugar relevante está bien sugerido: ambientes urbanos y metropolitanos. Sin embargo, faltan detalles sobre jurisdicción, regiones específicas o variaciones geográficas que podrían matizar la discusión."
+            },
+            "pregunta_4_indicadores_temporales": {
+                "resumen": "La introducción contiene marcadores temporales que sitúan el discurso en una trayectoria histórica y en el presente, además de aludir a efectos futuros.",
+                "indicadores_detectados": [
+                    "'A lo largo de la historia' — sitúa el argumento en una dimensión temporal amplia y evolutiva.",
+                    "'Actualmente' y 'en el presente ensayo' — ubican la discusión en el momento contemporáneo.",
+                    "Frases como 'a la larga' y 'a futuro' — señalan consecuencias temporales y proyección de impactos.",
+                    "Menciones a estudios y tendencias de comportamiento contemporáneas, que sugieren evidencia reciente aunque no citada explícitamente."
+                ],
+                "interpretacion": "Los marcadores temporales funcionan para dar profundidad histórica y una proyección prospectiva, pero son genéricos; la ausencia de fechas, periodos concretos o referencias a marcos temporales específicos limita la precisión cronológica."
+            },
+            "evaluacion_general": {
+                "coherencia_y_sutileza": "La introducción ofrece un conjunto de indicios contextuales suficientes para que un lector entienda el asunto central y el marco general (salud, contaminación, políticas públicas, entorno urbano). La información contextual es más sugestiva que explícita: utiliza ejemplos concretos (transporte, fumar, mascarillas) y comparaciones de riesgo que comunican contexto sin declaraciones formales.",
+                "limitaciones": [
+                    "Falta precisión institucional: no se especifica qué nivel de gobierno o qué agencias serían responsables.",
+                    "Ausencia de referencias empíricas verificables (citas, datos con origen), lo que reduce la fuerza contextual de las afirmaciones sobre estudios y equivalencias de riesgo.",
+                    "El lugar está acotado a 'grandes ciudades' pero sin matices geográficos (países, regiones, ciudades específicas), y el tiempo se maneja de forma genérica.",
+                    "Algunos indicios son inconsistentes por imprecisiones del lenguaje que dificultan interpretaciones más finas (p. ej. errores que afectan claridad)."
+                ],
+                "conexión_con_el_reactivo": {
+                    "resumen": "El reactivo plantea la tensión entre beneficios del autocuidado (actividad física) y la insuficiencia de medidas individuales para resolver el problema de la contaminación; la introducción se posiciona en este debate pero enfatiza la acción gubernamental y el efecto multiplicador de comportamientos individuales incentivados.",
+                    "observaciones": [
+                        "La introducción coincide parcialmente con el reactivo al reconocer que la actividad física mejora la salud pero que la contaminación la perjudica.",
+                        "Difiere en que el reactivo subraya la ineficacia de medidas exclusivamente individuales para cambiar las condiciones ambientales; la introducción, en cambio, argumenta que medidas gubernamentales combinadas con incentivos individuales sí producirían cambios significativos.",
+                        "La presencia de una sección que anticipa objeciones ('Si bien pueden haber personas...') muestra conciencia de la controversia y añade un vínculo implícito con la postura crítica que plantea el reactivo."
+                    ]
+                },
+                "recomendaciones_practicas_para_mejorar_contextualizacion": [
+                    "Especificar el nivel institucional (municipal, regional, nacional) y actores concretos (ministerios, agencias de salud, autoridades de transporte) para precisar responsabilidades y escenarios de intervención.",
+                    "Incluir referencias o citas a estudios, estadísticas o informes que respalden afirmaciones clave (p. ej. equivalencia de exposición con fumar), lo que fortalecerá la base contextual y temporal.",
+                    "Aportar ejemplos geográficos concretos o acotar el alcance (ciudades específicas o tipos de metrópolis) para matizar el entorno y permitir comparaciones más claras.",
+                    "Precisar periodos temporales cuando se hable de tendencias o estudios (últimos años, década, estudios longitudinales) para mejorar la dimensión cronológica.",
+                    "Mantener y ampliar la discusión sobre la interacción entre medidas individuales y colectivas, aclarando qué combinaciones de políticas han mostrado eficacia según la evidencia, lo que enriquecería la interpretación contextual sin perder la sutileza implícita."
+                ],
+                "valoracion_final_breve": "La introducción presenta indicios contextuales claros y variados que permiten situar el tema en un marco urbano, sanitario y de políticas públicas; sin embargo, para mayor rigor académico conviene afinar la precisión institucional, geográfica y temporal y aportar evidencia que respalde las señales implícitas ya presentes."
+            }
+        }
+    },
+    {
+        "id_texto": 4,
+        "resultado": {
+            "evaluacion_general": "La introducción presenta con claridad una postura central: los cambios que mejoran la salud en las grandes ciudades requieren acciones más allá del individuo, especialmente políticas públicas y prácticas colectivas. Desde un enfoque interpretativo, el texto ofrece señales implícitas y explícitas que sitúan el tema en un marco socioambiental urbano y comparativo. Sin embargo, algunas alusiones son vagas o están poco precisas (ej.: términos confusos, errores léxicos) y falta vincular explícitamente ciertas dimensiones que el reactivo plantea (por ejemplo, el rol declarado de especialistas y prácticas de autocuidado como la actividad física).",
+            "indicadores_tema": {
+                "respuesta": "Las referencias implícitas y directas apuntan al tema principal: la relación entre salud pública y condiciones ambientales/urbana (contaminación, manejo de residuos, políticas públicas y cultura social).",
+                "evidencias_textuales": [
+                    "«condiciones deplorables... nuestra salud al estar dentro de las grandes ciudades» (alusión directa al entorno urbano y su impacto en la salud).",
+                    "«vivir en un espacio libre de contaminación», «disminuyan los gases ... que afectan tanto a la salud» (vincula contaminación y salud).",
+                    "ejemplos normativos como la «eliminación de las bolsas plásticas» y la «cultura» de disposición de residuos (señales de intervenciones políticas y sociales como ejes temáticos)."
+                ],
+                "interpretacion": "Aunque la mención del tema es evidente, el texto mezcla causas, soluciones y ejemplos sin jerarquizarlos; los ejemplos prácticos funcionan como pistas implícitas que concretan el tipo de problema (contaminación, residuos) y las vías de intervención (políticas, cultura colectiva)."
+            },
+            "indicadores_actores": {
+                "respuesta": "Hay indicios claros sobre quiénes participan, combinando actores institucionales, colectivos y sujetos individuales, aunque algunas referencias son implícitas en su función más que en nombres concretos de agentes.",
+                "evidencias_textuales": [
+                    "«políticas públicas», «gobierno» (actor institucional responsable de cambios).",
+                    "«toda una población», «colectivo», «la gente» (actores sociales y culturales).",
+                    "«una persona», «muchas personas» (actores individuales cuya acción es evocada como insuficiente pero influyente)."
+                ],
+                "interpretacion": "El texto apunta a una trama actoral multinivel: gobierno/estado (tomador de decisiones), colectivos/cultura social (agentes de cambio sostenido) e individuos (fuentes de práctica y ejemplo). Estas referencias funcionan como señales implícitas de roles y relaciones de poder/acción, aunque no se mencionan otros actores relevantes que podrían aparecer en contextos académicos (p. ej., ONG, sector privado, especialistas sanitarios)."
+            },
+            "indicadores_lugar": {
+                "respuesta": "El espacio relevante está situado predominantemente en las «grandes ciudades», con ejemplos comparativos que introducen contextos nacionales distintos.",
+                "evidencias_textuales": [
+                    "«grandes ciudades» y «vivir dentro de las grandes ciudades» (marco urbano general).",
+                    "Ejemplos nacionales: «Chile» frente a «India» (uso de casos país para contrastar prácticas culturales y su impacto sobre la salud).",
+                    "Referencias a «comercio» y «basureros», que evocan entornos urbanos y sistemas de gestión de residuos."
+                ],
+                "interpretacion": "Las menciones ofrecen un anclaje espacial mixto: un marco general urbano y referencias tangibles a contextos nacionales utilizados como contraste. Estas pistas implican que el análisis se coloca en un nivel subnacional/ nacional y global comparativo, aunque no se delimitan regiones, ciudades ni escalas administrativas concretas."
+            },
+            "indicadores_tiempo": {
+                "respuesta": "El texto utiliza indicadores temporales implícitos que sugieren continuidad y cambio histórico reciente, pero carece de marcadores cronológicos precisos.",
+                "evidencias_textuales": [
+                    "«diariamente», «antes», «actualmente», «pueda vivir una vida digna» (marcan procesos continuos y transiciones).",
+                    "Construcciones modales y prospectivas: «debe ser», «ayuda que se disminuyan», «puede generar» (orientan hacia expectativas y efectos futuros)."
+                ],
+                "interpretacion": "El enfoque temporal es predominantemente presente-dinámico: describe condiciones actuales y procesos en curso, con orientación hacia cambios futuros. No hay referencias a períodos históricos concretos ni a plazos, lo que deja imprecisa la dimensión temporal en términos académicos."
+            },
+            "alineacion_con_reactivo": {
+                "respuesta": "Existe una coincidencia temática parcial con el reactivo: ambos subrayan que las medidas individuales son insuficientes y que se requieren acciones colectivas o institucionales. No obstante, la introducción no incorpora la dimensión específica del reactivo sobre la afirmación de especialistas médicos acerca del valor del autocuidado (actividad física) como factor que mejora la resistencia individual frente a la contaminación.",
+                "detalle": [
+                    "Coincidencia: la introducción enfatiza la necesidad de políticas públicas y prácticas colectivas como respuestas efectivas frente a amenazas ambientales a la salud (coincide con la segunda parte del reactivo).",
+                    "Falta/laguna: el texto no menciona ni cita a especialistas en medicina ni discute explícitamente prácticas de autocuidado (ej.: actividad física) que el reactivo presenta como complementarias a las acciones colectivas."
+                ],
+                "sugerencia_para_mejorar_alineacion": "Agregar una breve referencia a la evidencia médica sobre autocuidado (p. ej., actividad física) como medida que mejora la resistencia individual, y articularla con la tesis central: que tales prácticas son valiosas pero insuficientes sin intervenciones colectivas e institucionales."
+            },
+            "recomendaciones": {
+                "1": "Preservar la tensión analítica entre micro (prácticas individuales) y macro (políticas públicas, cultura colectiva), pero explicitar cómo interactúan: ¿las prácticas individuales generan cambios institucionales o requieren condiciones políticas para generalizarse?",
+                "2": "Incluir la referencia al enunciado del reactivo: mencionar a especialistas en medicina y las prácticas de autocuidado (por ejemplo, actividad física) para mostrar diálogo con la evidencia científica y así fortalecer la legitimidad argumentativa.",
+                "3": "Precisar el alcance espacial y temporal: si el foco es «grandes ciudades», indicar si se refiere a contextos urbanos de países de renta media/alta o baja, y si el análisis atiende a procesos actuales o a trayectorias históricas recientes; esto se puede hacer con una frase de anclaje (p. ej., «en muchas ciudades contemporáneas»).",
+                "4": "Aclarar roles de actores adicionales pertinentes en lo académico (salud pública, ONGs, sector privado, expertos) o justificar por qué se centra solo en gobierno/colectivos/individuos.",
+                "5": "Corregir imprecisiones léxicas y errores que dificultan la lectura (p. ej., «inevernaderos» → «invernadero» o «de efecto invernadero», concordancias verbales) para que las señales contextuales no se vean debilitadas por problemas formales."
+            }
+        }
+    },
+    {
+        "id_texto": 5,
+        "resultado": {
+            "evaluacion_general": "La introducción sitúa con claridad el conflicto central —los límites de la libertad de expresión frente a intervenciones artísticas críticas— y articula una postura argumentativa. Desde la consigna dada, la solicitud privilegia la detección de señales implícitas: el texto mezcla referencias explícitas (p. ej. 'Carabineros', 'Las Tesis') con pistas más sutiles (p. ej. 'manifestaciones', 'comunidad', 'una democracia liberal') que permiten inferir contexto político y social. La presentación es normativamente sólida, pero carece de algunos marcadores contextuales que harían la situación más localizada y temporalmente precisable sin sacrificar la generalidad académica.",
+            "pregunta_1_tema": {
+                "indicadores_implícitos": [
+                    "Las referencias a “actividades del colectivo feminista Las Tesis” y a “intervenciones artísticas” apuntan al tema central: tensión entre arte/activismo y libertad de expresión.",
+                    "La formulación de preguntas normativas (“cuáles son los límites... hasta dónde se puede llegar...”) funciona como señal temática que sitúa el texto en el debate sobre límites normativos y derechos fundamentales.",
+                    "La contraposition entre censura y libertad, así como la mención de pensadores (Popper), sugiere un enfoque teórico-jurídico-político sobre la protección de la expresión."
+                ],
+                "valoracion": "Aunque el tema aparece explícito en su núcleo, la introducción usa preguntas retóricas y contrastes conceptuales que operan como señales implícitas de la agenda analítica (p. ej. ponderación de riesgos, control ex ante vs ex post). Esto permite entender el foco sin necesidad de una declaración temática formal."
+            },
+            "pregunta_2_actores": {
+                "indicadores_implícitos": [
+                    "Menciones directas: “colectivo feminista Las Tesis” y “Carabineros” (institución policial) identifican actores clave.",
+                    "Referencias genéricas a “autoridad”, “comunidad”, “grupos”, “ciudadanos” e “interés público” sugieren una pluralidad de participantes: agentes estatales, colectivos sociales, y el público o sociedad civil.",
+                    "La discusión sobre quién controla y juzga lo aceptable insinúa a actores institucionales (poder ejecutivo/administrativo, sistema judicial) y a actores sociales (opinión pública, grupos disidentes)."
+                ],
+                "valoracion": "El texto combina identificaciones explícitas con referencias genéricas que permiten inferir actores formales e informales. Sin embargo, la categoría “autoridad” queda deliberadamente indeterminada; esa ambigüedad evita fijar un actor único pero reduce precisión analítica si se busca ubicar responsabilidades concretas."
+            },
+            "pregunta_3_lugar_entorno": {
+                "indicadores_implícitos": [
+                    "La presencia de 'Carabineros' opera como señal fuerte de un contexto jurídico-policial propio de sistemas con esa institución, lo que permite inferir un escenario latinoamericano (específicamente chileno) aunque el texto no lo nombra explícitamente.",
+                    "Términos como “manifestaciones”, “comunidad”, “sociedad” y “intervenciones artísticas” sugieren espacios públicos y espacios mediáticos (plazas, performances, redes de circulación cultural) como entornos relevantes.",
+                    "La apelación a la 'democracia liberal' enmarca el lugar en un tipo específico de régimen político y de prácticas institucionales."
+                ],
+                "valoracion": "El entorno sociopolítico está sugerido de forma eficaz mediante instituciones y prácticas referidas, pero falta una localización geográfica explícita y una indicación más precisa de los espacios materiales o mediáticos donde ocurren las acciones (por ejemplo, plazas públicas, escenarios artísticos, plataformas digitales)."
+            },
+            "pregunta_4_indicadores_temporales": {
+                "indicadores_implícitos": [
+                    "Expresiones como “han generado controversia” y “una vez más” implican una temporalidad reciente o de recurrencia, aunque sin fechas concretas.",
+                    "La frase “antes no eran cuestionados” aporta una referencia retrospectiva que marca un cambio temporal en la percepción social.",
+                    "La necesidad de 'determinar' límites y la discusión sobre censura postulan una dinámica procesual (debate presente, posibles medidas futuras)."
+                ],
+                "valoracion": "El texto sugiere temporalidad a través de relaciones antes/después y recurrencia, pero carece de marcadores cronológicos precisos (año, periodo, 'reciente' con delimitación) que serían útiles para enmarcar el episodio específico aludido en el reactivo."
+            },
+            "fortalezas": [
+                "Claridad temática: el conflicto normativo entre libertad de expresión y límites está bien planteado.",
+                "Uso combinado de referencias concretas (Las Tesis, Carabineros) y categorías generales (autoridad, comunidad) que permiten lecturas a distintos niveles de abstracción.",
+                "Tono argumentativo académico que presenta riesgos y contraargumentos (mención de Popper, ponderación de escenarios)."
+            ],
+            "carencias": [
+                "Ausencia de una localización geográfica explícita que impide anclar el caso en un contexto nacional o local concreto.",
+                "Falta de indicadores temporales precisos (fechas, 'reciente' con referencia) que limiten la contemporaneidad del conflicto.",
+                "Indeterminación sobre qué se entiende por 'autoridad' y sobre los espacios materiales o mediáticos donde ocurren las intervenciones (lo público vs lo artístico vs lo digital)."
+            ],
+            "recomendaciones_precisas": [
+                "Agregar una breve frase que ubique el caso: por ejemplo, una mención explícita al país o al marco institucional ('en Chile' o 'en el contexto chileno') para aprovechar la presencia de 'Carabineros' como ancla contextual.",
+                "Incorporar un marcador temporal mínimo ('recientemente' o una referencia a un año/periodo) para fijar la contemporaneidad del debate sin excesiva especificidad.",
+                "Especificar, con una oración, los espacios en que se producen las intervenciones (p. ej. 'performances en espacios públicos y redes sociales') y aclarar a qué tipo de 'autoridad' se refiere (policía, fiscalía, autoridades administrativas) cuando eso sea relevante para el argumento.",
+                "Si se desea mantener ambigüedad analítica, señalar explícitamente que la generalidad es deliberada: una breve frase del tipo 'sin limitarse a un caso local concreto' justifica la estrategia interpretativa del texto."
+            ],
+            "conclusion": "La introducción ofrece señales contextuales suficientes para comprender el núcleo del conflicto y los actores implicados a un nivel general, combinando referencias explícitas con pistas implícitas. Para un tratamiento académico que responda con mayor precisión al reactivo (que menciona la denuncia pública y un video en redes), conviene añadir dos o tres indicios explícitos adicionales —ubicación geográfica, acotación temporal y tipo de espacios mediáticos— sin perder la flexibilidad interpretativa que el texto ya exhibe."
+        }
+    },
+    {
+        "id_texto": 6,
+        "resultado": {
+            "resumen": "La introducción ofrece indicios contextuales claros y en su mayoría explícitos sobre el tema central (impacto del teletrabajo en la salud mental durante la pandemia de COVID-19), pero también contiene señales implícitas valiosas (la domesticidad del espacio de trabajo, la experiencia de adaptación y la carga laboral). En general sitúa el problema en un marco contemporáneo y global, aunque queda espacio para matizar actores institucionales, variaciones contextuales y marcadores temporales más precisos.",
+            "analisis": {
+                "tema_principal": {
+                    "evidencia": [
+                        "\"la pandemia provocada por el covid-19\"",
+                        "\"introduciendo el teletrabajo como un mecanismo\"",
+                        "\"han generado un alto impacto en la salud mental\""
+                    ],
+                    "interpretacion": "Las expresiones combinadas señalan con claridad que el núcleo temático es la relación entre la pandemia, el teletrabajo y sus consecuencias en la salud mental. Aunque hay formulaciones explícitas, también hay señales implícitas: el discurso enfatiza adaptación forzada y cambio de estilo de vida, lo que sugiere un interés en las transformaciones psicosociales vinculadas al trabajo remoto.",
+                    "confianza": "alta"
+                },
+                "actores": {
+                    "evidencia": [
+                        "\"son muchas las personas en todo el mundo\"",
+                        "\"las personas que trabajan desde sus casas\"",
+                        "\"seguir cumpliendo con las demandas laborales\""
+                    ],
+                    "interpretacion": "Los actores aparecen principalmente como 'personas' o 'quienes trabajan desde sus casas', es decir, sujetos individuales/trabajadores domésticos. Hay una ausencia de actores institucionales explícitos (empleadores, autoridades sanitarias, sindicatos) en la introducción, aunque la referencia a 'demandas laborales' sugiere la presencia implícita de empleadores o sistemas organizacionales que generan esas demandas.",
+                    "confianza": "media"
+                },
+                "lugar_o_entorno": {
+                    "evidencia": [
+                        "\"en todo el mundo\"",
+                        "\"trabajan desde sus casas\"",
+                        "\"respetar las debidas cuarentenas\"",
+                        "\"evitando la propagación del virus\""
+                    ],
+                    "interpretacion": "Combina una localización global ('en todo el mundo') con el entorno doméstico específico ('desde sus casas'). Implícitamente sitúa el fenómeno en el hogar como espacio de trabajo y en entornos donde las medidas de aislamiento son aplicadas. Estas señales permiten entender tanto la escala (global) como el microespacio relevante (hogar/doméstico).",
+                    "confianza": "alta"
+                },
+                "indicadores_temporales": {
+                    "evidencia": [
+                        "\"Hoy en día\"",
+                        "\"pandemia provocada por el covid-19\"",
+                        "\"cuarentenas\""
+                    ],
+                    "interpretacion": "Las marcas temporales sitúan el texto en el periodo contemporáneo de la crisis por COVID-19. 'Hoy en día' y la mención directa del virus ubican el fenómeno en los años asociados a la pandemia (a partir de 2020). Además, términos como 'nuevos escenario' y 'obligatoriedad de trabajar desde casa' insinúan un cambio temporal reciente y de emergencia.",
+                    "confianza": "alta"
+                }
+            },
+            "evaluacion_general": "La introducción cumple bien la función de situar el tema en su contexto inmediato: pandemia global, transición al teletrabajo y efectos en la salud mental. Los indicios contextuales son mayormente explícitos, pero también operan señales implícitas útiles (hogar como espacio de conflicto, carga laboral, adaptación). Lo que falta es una mayor diferenciación de actores (instituciones, empleadores, grupos vulnerables), matices sobre variaciones geográficas o socioeconómicas y marcadores temporales más precisos (fechas, fases de la pandemia).",
+            "recomendaciones": [
+                "Si se desea reforzar la sutileza contextual, incluya referencias implícitas a actores institucionales: por ejemplo, mencionar 'presiones organizacionales' o 'protocolos empresariales' en lugar de solo 'demandas laborales'.",
+                "Para enriquecer el lugar/entorno, añada breves frases que contrasten el hogar como 'espacio de cuidado' versus 'espacio de trabajo', lo que subraya la tensión doméstica sin enumerar explícitamente escenarios.",
+                "Precise el periodo temporal con señales discretas (ej.: 'desde el inicio de la pandemia en 2020' o 'durante las cuarentenas estrictas'), lo que mantiene un tono académico y sitúa mejor la discusión histórica.",
+                "Considere introducir indicios sobre heterogeneidad (sectores laborales, condiciones de vivienda, roles de género) con formulaciones como 'para muchos trabajadores, especialmente aquellos en sectores X o con viviendas de espacio limitado...', que ofrecen contexto implícito y abren líneas de análisis.",
+                "Si se quiere mantener la sutileza, incorpore citas o referencias indirectas ('estudios recientes', 'autoridades sanitarias') para conectar la introducción con interlocutores institucionales sin alterar su tono reflexivo."
+            ]
+        }
+    },
+    {
+        "id_texto": 7,
+        "resultado": {
+            "indicios_tema": {
+                "interpretacion": "El tema principal se orienta hacia la inclusión cultural en políticas educativas y sus tensiones con la preservación de valores y tradiciones nacionales. Esto se desprende de referencias a 'políticas educativas', 'currículum actual', 'diversidad cultural', 'inclusión de las comunidades inmigrantes' y la preocupación por 'pérdida cultural, los valores y tradiciones del país'.",
+                "evidencias_textuales": [
+                    "las políticas educativas que actualmente rigen nuestro país",
+                    "el currículum actual pone gran esfuerzo en querer que las instituciones educativas sean espacios de gran diversidad cultural",
+                    "la inclusión de las comunidades inmigrantes en la planificación de las actividades curriculares",
+                    "repercutirán en un desconocimiento y pérdida cultural, los valores y tradiciones del país"
+                ],
+                "grado_de_sutileza": "Medio. El tema está explícito en varias frases pero se presenta también de forma implícita al relacionar políticas, currículo y consecuencias culturales, lo que permite lecturas interpretativas sobre la tensión entre inclusión e identidad nacional."
+            },
+            "indicios_actores": {
+                "interpretacion": "Existen actores implícitos y algunos explícitos: el Estado o las autoridades educativas (implícito en 'políticas educativas' y 'currículum'), las instituciones educativas ('establecimientos educativos', 'comunidades educativas') y grupos sociales con posturas distintas (ciudadanos conservadores/extremistas y las comunidades inmigrantes).",
+                "evidencias_textuales": [
+                    "las políticas educativas que ... rigen nuestro país",
+                    "instituciones educativas sean espacios de gran diversidad cultural",
+                    "población ... asociar con pensamientos conservadores y extremadamente nacionalistas",
+                    "las comunidades inmigrantes"
+                ],
+                "grado_de_sutileza": "Alto. Los actores no siempre se nombran con roles precisos (por ejemplo, no se especifica qué autoridades o qué comunidades inmigrantes), pero las referencias permiten identificar a los participantes claves en la discusión."
+            },
+            "indicios_lugar_entorno": {
+                "interpretacion": "El lugar se sugiere de manera genérica: se refiere a 'nuestro país' y 'establecimientos educativos' sin precisar un territorio específico. El entorno relevante es el sistema escolar nacional y las comunidades educativas locales.",
+                "evidencias_textuales": [
+                    "nuestro país",
+                    "las instituciones educativas",
+                    "establecimientos educativos",
+                    "las familias que conforman nuestro país"
+                ],
+                "grado_de_sutileza": "Alto. La mención de 'nuestro país' y 'comunidades educativas' sitúa el texto en un contexto nacional/educativo pero no aporta detalles geográficos ni de nivel educativo que permitan una localización precisa."
+            },
+            "indicios_temporales": {
+                "interpretacion": "Aparecen marcadores temporales vagos que sitúan el asunto en el presente y en etapas formativas: 'actualmente', 'primeros años de formación' y referencias a tradición conservada 'a través de los años'. No hay periodización concreta ni referencias históricas precisas.",
+                "evidencias_textuales": [
+                    "actualmente",
+                    "políticas educativas que actualmente rigen",
+                    "primeros años de formación",
+                    "que se han ido manteniendo a través de los años"
+                ],
+                "grado_de_sutileza": "Medio. Los indicadores temporales colocan el debate en el presente y en procesos de transmisión intergeneracional, pero carecen de especificidad cronológica."
+            },
+            "evaluacion_global": {
+                "respuesta_al_reactivo": "Sí. La introducción responde al reactivo al plantear la tensión entre la expectativa de que estudiantes inmigrantes se adecuen y la preocupación por la amenaza a valores nacionales; muestra ambas posiciones (políticas de inclusión vs. reacciones conservadoras).",
+                "puntos_fuertes": [
+                    "Presenta claramente la tensión central entre inclusión educativa y conservación cultural.",
+                    "Incluye actores relevantes (políticas, docentes/escuelas, inmigrantes, sectores conservadores) aunque no siempre nominados formalmente.",
+                    "Ofrece señales contextuales que permiten ubicar el conflicto en el sistema educativo contemporáneo."
+                ],
+                "limitaciones": [
+                    "El «lugar» y agentes específicos permanecen vagos: 'nuestro país' y 'comunidades inmigrantes' sin datos que permitan precisar contexto nacional o regional.",
+                    "Marcadores temporales son generales y no sitúan históricamente el debate (por ejemplo, cuándo comenzaron estas políticas o si hay cambios recientes concretos).",
+                    "El lenguaje presenta juicios valorativos hacia cierto grupo ('fascistas'), lo que puede sesgar la posición académica y reducir la objetividad.",
+                    "Falta de referencias externas (datos, estudios, normativas) que anclen las afirmaciones en evidencia."
+                ],
+                "tono_y_adecuacion_academica": "La introducción es comprensible y pertinente, pero podría ganar rigor académico eliminando expresiones peyorativas, precisando actores y lugar, y aportando fuentes o datos que contextualicen las afirmaciones."
+            },
+            "recomendaciones_practicas": [
+                "Especificar el contexto geográfico: sustituir 'nuestro país' por el nombre del país o indicar si se habla de un contexto nacional genérico.",
+                "Precisar actores: identificar qué autoridades o niveles educativos se discuten (ministerio, escuelas primarias/secundarias, docentes, familias) y tipificar o describir mejor a 'comunidades inmigrantes'.",
+                "Aumentar la precisión temporal: indicar si las políticas son recientes, si hay un cambio legislativo concreto o periodos relevantes que enmarquen el debate.",
+                "Suavizar o justificar juicios sobre grupos sociales: evitar epítetos (por ejemplo, 'fascistas') y, si se mantiene la crítica, apoyarla con evidencia o referencias que muestren la prevalencia de esas posturas.",
+                "Incluir, aunque sea brevemente, referencias o datos que respalden las afirmaciones sobre políticas y sus efectos —por ejemplo, citar normativa educativa, informes o estudios— para fortalecer la credibilidad académica.",
+                "Si se desea mantener la sutileza interpretativa, añadir pequeñas frases que conecten las señales implícitas con evidencia: por ejemplo, 'según la política X (año) …' o 'estudios muestran que…', sin perder la naturaleza reflexiva del texto."
+            ]
+        }
+    },
+    {
+        "id_texto": 8,
+        "resultado": {
+            "indicios_tema": [
+                {
+                    "señal": "teletrabajo como continuidad de actividades productivas",
+                    "explicación": "Frases como \"el teletrabajo ha sido una forma de continuar realizando las actividades productivas\" sitúan el centro temático en la modalidad laboral remota y su relación con la producción económica."
+                },
+                {
+                    "señal": "preocupación por la salud mental",
+                    "explicación": "Formulaciones como \"consecuencias en la salud mental\" y \"amenaza la integridad psicológica\" muestran que el foco específico es el impacto psicosocial del teletrabajo."
+                },
+                {
+                    "señal": "tensión entre hogar y trabajo",
+                    "explicación": "Referencias al hogar como lugar de descanso que puede volverse estresante implican una preocupación temática por la frontera vida-trabajo y la calidad del espacio doméstico."
+                }
+            ],
+            "indicios_actores": [
+                {
+                    "señal": "trabajadores / el trabajador",
+                    "explicación": "El texto nombra explícitamente a \"trabajadores\" y al \"trabajador\" como sujetos afectados, y los presenta como quien padece las consecuencias."
+                },
+                {
+                    "señal": "empleadores / jefe",
+                    "explicación": "Menciones a \"empleadores\" y \"jefe\" introducen al otro polo relacional: quienes ejercen control laboral y contactan fuera de horario."
+                },
+                {
+                    "señal": "familia (pareja, hijos)",
+                    "explicación": "La aparición de la \"familia\", \"pareja e hijos\" sugiere actores domésticos que sufren efectos colaterales del estrés laboral."
+                },
+                {
+                    "señal implícita de actores institucionales o sociales ausentes o sugeridos por el reactivo": "Aunque no están nombradas, la presencia de ideas sobre normas y regulaciones insinúa actores institucionales (autoridades, legisladores, sindicatos) que deberían intervenir."
+                }
+            ],
+            "indicios_lugar": [
+                {
+                    "señal explícita": "Chile",
+                    "explicación": "La apertura \"En la situación actual de Chile\" ubica geográficamente el estudio y acota el contexto nacional."
+                },
+                {
+                    "señal implícita": "el hogar como entorno central",
+                    "explicación": "Descripciones del hogar como refugio y nuevo lugar de trabajo apuntan al espacio doméstico como escenario primordial del fenómeno."
+                },
+                {
+                    "señal contextual adicional": "ámbito laboral/empresarial",
+                    "explicación": "Referencias a empleadores y contacto fuera de horario aluden al entorno organizacional y a la relación laboral que trasciende el hogar."
+                }
+            ],
+            "indicios_tiempo": [
+                {
+                    "señal": "antes de la pandemia",
+                    "explicación": "La comparación con actividades realizadas \"antes de la pandemia\" sitúa un antes/después y establece la pandemia como punto de inflexión temporal."
+                },
+                {
+                    "señal": "confinamiento",
+                    "explicación": "La mención del \"confinamiento\" indica el periodo específico (fase de restricciones sanitarias) que favoreció la adopción del teletrabajo."
+                },
+                {
+                    "señal prospectiva": "nueva normalidad / por mucho tiempo más",
+                    "explicación": "Formulaciones que aluden a una posible permanencia temporal del teletrabajo sugieren incertidumbre sobre la duración y transición futura del fenómeno."
+                },
+                {
+                    "señal implícita de proceso temporal": "erosión de límites horarios",
+                    "explicación": "La constatación de contactos fuera del horario laboral es una pista temporal sobre la dilución de fronteras entre jornada y descanso en el tiempo cotidiano."
+                }
+            ],
+            "evaluacion_detallada": "La introducción ofrece indicios contextuales claros y también varias señales implícitas que permiten situar el tema: el teletrabajo como fenómeno contemporáneo ligado a la pandemia, su localización nacional en Chile y su despliegue en el hogar como espacio clave. Los actores principales (trabajadores, empleadores y familias) aparecen de forma suficiente para entender las relaciones de interés, y hay marcadores temporales que enmarcan el antes/después pandémico y la posibilidad de una \"nueva normalidad\". En términos interpretativos, el texto combina indicios explícitos (p. ej. nombre del país) con sugerencias más sutiles —erosión de límites laborales, función protectora del hogar, y la ausencia implícita de actores institucionales— que permiten una lectura matizada del contexto. Sin embargo, la introducción tiende a aceptar afirmaciones generales (por ejemplo, \"amenaza la integridad psicológica\") sin matices ni fuentes, y deja espacio para precisar la escala del fenómeno (sectores afectados, diversidad socioeconómica) y el papel de actores regulatorios mencionados solo de forma general.",
+            "recomendaciones": [
+                "Conectar la declaración nacional (Chile) con el reactivo global: explicitar cómo la experiencia chilena se relaciona o difiere de la preocupación internacional sobre teletrabajo y salud mental.",
+                "Matizar afirmaciones fuertes (\"amenaza la integridad psicológica\") añadiendo variables o condiciones (grados de riesgo, factores mediadores como límites horarios, carga laboral, espacio físico) para evitar generalizaciones.",
+                "Incorporar pistas adicionales sobre actores institucionales (autoridades sanitarias, empleadores, sindicatos, legisladores) y ejemplos concretos de su intervención para robustecer el contexto.",
+                "Precisar temporalmente el marco (fechas o fases: inicio del confinamiento, meses/años relevantes) si se desea situar con mayor exactitud el fenómeno en el tiempo.",
+                "Si se busca sutileza interpretativa, incluir referencias indirectas o testimonios breves que ejemplifiquen la erosión de fronteras hogar-trabajo y las tensiones familiares, en lugar de afirmaciones categóricas."
+            ]
+        }
+    },
+    {
+        "id_texto": 9,
+        "resultado": {
+            "evaluacion_general": "La introducción presenta señales contextuales claras y también implícitas que permiten situar el tema: la relación entre teletrabajo y salud mental en el marco de la pandemia. Aunque algunos elementos (pandemia, teletrabajo, hogar) se nombran directamente, el texto ofrece además referencias más sutiles —preocupación pública, controversia, prácticas y rituales— que permiten inferir actores, entorno y temporalidad. La aproximación es mayormente contemporánea y normativa (propone soluciones), pero carece de precisión respecto a la escala, grupos concretos y condiciones diferenciales que matizarían el contexto académico.",
+            "indicadores_tema": {
+                "respuesta": "Sí hay indicios claros del tema principal, tanto explícitos como implícitos.",
+                "señales_detectadas": [
+                    "Mención explícita a 'pandemia por el covid-19' y 'teletrabajo' centra el asunto en la tensión entre trabajo remoto y salud mental.",
+                    "Palabras como 'preocupación', 'controversia', 'pone en peligro', 'riesgos' evocan el marco problemático y la agenda de investigación (riesgos psicosociales, bienestar).",
+                    "La discusión sobre 'espacio seguro', 'descanso', 'ritual de cierre' sugiere una preocupación conceptual por los límites entre lo doméstico y lo laboral."
+                ],
+                "interpretacion": "Aunque el tema está enunciado, el texto opera también por evocación: usa conceptos cotidianos (hogar, rituales, horarios) para enmarcar el problema desde la experiencia y la intervención práctica."
+            },
+            "actores_implícitos": {
+                "respuesta": "Existen menciones directas e indirectas que permiten identificar actores relevantes.",
+                "actores_sugeridos": [
+                    "Quienes teletrabajan (forma impersonal 'quienes están expuestos', 'hay quienes sostienen'), es decir, trabajadores a distancia.",
+                    "Expertos y autoridades sanitarias (implícitos en la referencia a advertencias y, en la conclusión, al llamado a gobiernos).",
+                    "Gobiernos y responsables de políticas públicas (se sugiere en 'deberían promover campañas').",
+                    "Actores empleadores o institucionales (la mención de horarios y ausencia de cierre de oficina implica responsabilidad organizacional).",
+                    "La familia/los miembros del hogar, de forma lateral, como parte del espacio doméstico afectado."
+                ],
+                "interpretacion": "Los actores no siempre se nombran con precisión (p. ej., tipos de trabajadores, sectores económicos), pero el discurso remite tanto a sujetos individuales como a instancias institucionales y expertos."
+            },
+            "pistas_lugar_entorno": {
+                "respuesta": "El lugar se sugiere principalmente por contraste entre hogar y oficina; hay señales del entorno doméstico y laboral.",
+                "evidencias": [
+                    "Repetidas referencias al 'hogar', 'espacio definido en el hogar', 'resto de la casa' ubican el foco en el entorno doméstico.",
+                    "Comparaciones con la 'oficina' y la ausencia de 'traslado' evocan el entorno urbano/ocupacional y las prácticas asociadas al lugar de trabajo.",
+                    "El texto no precisa geografía (país, región) ni condiciones materiales del hogar (tamaño, convivencia), pero el uso de 'pandemia' sugiere un contexto amplio y generalizable."
+                ],
+                "interpretacion": "El entorno es funcionalmente descrito (hogar vs oficina) más que geográficamente; esto permite una lectura general, pero oculta variaciones contextuales importantes."
+            },
+            "indicadores_temporales": {
+                "respuesta": "Hay indicadores temporales que sitúan el tema en el presente y en el periodo pandémico.",
+                "señales_detectadas": [
+                    "La referencia explícita a la 'pandemia por el covid-19' ubica el problema en el periodo 2020 en adelante y sugiere una temporalidad contemporánea.",
+                    "Expresiones como 'en la actualidad' y 'mientras dure el trabajo desde el hogar' refuerzan que se trata de una situación presente y potencialmente temporal.",
+                    "El uso del presente (p. ej., 'es preciso', 'es necesario') da tono de urgencia y vigencia inmediata."
+                ],
+                "interpretacion": "La introducción sitúa el problema en el presente pandémico pero no delimita si se trata de efectos transitorios, persistentes o variables según fases de la pandemia."
+            },
+            "aspectos_sutiles_y_complejidad": {
+                "respuesta": "El texto incorpora señales sutiles que añaden matices interpretativos al contexto.",
+                "detalles": [
+                    "La apelación a 'ritual de cierre' introduce una dimensión cultural/psicológica que trasciende la mera logística y apunta a prácticas informales que median el impacto.",
+                    "Las soluciones propuestas (definir espacios, respetar horarios, hobbies) reflejan un enfoque individual y conductual, lo que sugiere una orientación normativa y práctica más que analítica o estructural.",
+                    "El contraste entre posiciones ('hay quienes sostienen... Si bien esto no carece de veracidad') evidencia una postura dialogante que reconoce debate y evidencia parcial."
+                ],
+                "interpretacion": "Estas sutilezas muestran que el texto mezcla evidencia, opinión y recomendaciones prácticas; funcionan como pistas contextuales sobre valores (bienestar, orden) y supuestos (capacidad individual para gestionar límites)."
+            },
+            "lagunas_y_recomendaciones": {
+                "respuesta": "Existen ausencias relevantes que, si se señalasen implícitamente, enriquecerían el contexto académico.",
+                "lagunas_identificadas": [
+                    "Falta de especificación sobre grupos heterogéneos (trabajadores con cuidados, pisos pequeños, empleos esenciales vs. conocimiento) que modulan el impacto del teletrabajo.",
+                    "Ausencia de escala geográfica o institucional (local, nacional, internacional; empresas, sector público/privado).",
+                    "Carencia de referencias a evidencia previa o fuentes que sustenten las afirmaciones sobre riesgos y soluciones."
+                ],
+                "recomendaciones_para_mejorar_la_introduccion": [
+                    "Incluir señales que puntualicen la escala (por ejemplo, 'a nivel mundial', 'en países con medidas de confinamiento prolongado') para clarificar alcance.",
+                    "Agregar referencias implícitas a actores concretos (empleadores, familias monoparentales, trabajadores esenciales) para mostrar heterogeneidad del fenómeno.",
+                    "Mencionar brevemente tipos de evidencia (artículos, informes de salud pública) o estudios previos como indicio de respaldo empírico.",
+                    "Precisar la duración o fases temporales (fases agudas de la pandemia, periodos de confinamiento) para diferenciar efectos inmediatos y potenciales a largo plazo."
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 10,
+        "resultado": {
+            "resumen": "La introducción sitúa el debate sobre la modalidad educativa (presencial vs. virtual) en el marco de la pandemia. Aunque algunas señales son explícitas, existen también indicios implícitos que permiten inferir tema, actores, lugar y periodo. El texto adopta una postura claramente pro‑presencial, usa datos y referencias genéricas y recurre a actores colectivos y entes institucionales, pero carece de precisiones temporales y de atribuciones claras de fuentes.",
+            "hallazgos": {
+                "tema_principal": {
+                    "indicios_implícitos": [
+                        "Frases que aluden a cambios en el 'sistema de enseñanza' y a la 'implementación a raíz de la pandemia'.",
+                        "Reiterada oposición entre 'clases presenciales' y 'sistema virtual'.",
+                        "Menciones de consecuencias (déficit en aprendizaje, salud mental, nutrición) que configuran el problema central."
+                    ],
+                    "evaluacion": "El tema aparece con alta saliencia; aunque se nombra explícitamente, también se refuerza de manera implícita mediante la enumeración de efectos (aprendizaje, salud). La introducción comunica con claridad el núcleo temático, pero lo hace desde una postura argumentativa bastante marcada en favor de la presencialidad."
+                },
+                "actores": {
+                    "indicios_implícitos": [
+                        "Nombres genéricos: 'estudiantes', 'familia', 'población chilena', 'menores'.",
+                        "Instituciones aludidas de forma general: 'Ministerio de Educación', 'diversos estudios de salud', 'estadísticas'.",
+                        "Grupos indistintos: 'detractores' (oponentes anónimos) y la comunidad académica/experta implícita en 'estudios'."
+                    ],
+                    "evaluacion": "Hay una presencia múltiple de actores, algunos explícitos (Ministerio, estudiantes, población chilena) y otros vagos (detractores, 'diversos estudios'). Esta mezcla da contexto social e institucional, pero la indeterminación de ciertos actores (quiénes son los detractores, qué instituciones producen las estadísticas) limita la precisión analítica."
+                },
+                "lugar_o_entorno": {
+                    "indicios_implícitos": [
+                        "Referencia directa a la 'población chilena', que sugiere el ámbito nacional de Chile.",
+                        "Escenarios concretos evocadas: 'casa' versus 'clases presenciales' (entornos doméstico y escolar).",
+                        "Alusión implícita a sistemas educativos nacionales a través del 'Ministerio de Educación'."
+                    ],
+                    "evaluacion": "El texto ofrece señales suficientes para ubicar el debate en un contexto país (Chile) y en contextos más micro (hogar, escuela). No obstante, no se explicita si los datos y las políticas mencionadas son nacionales, regionales o locales, lo que deja cierto grado de ambigüedad espacial."
+                },
+                "indicadores_temporales": {
+                    "indicios_implícitos": [
+                        "Expresiones temporales generales: 'En la actualidad', 'a raíz de la pandemia'.",
+                        "Referencias al periodo de virtualidad escolar reciente y sus consecuencias continuadas ('permanente convivencia familiar')."
+                    ],
+                    "evaluacion": "La localización temporal es amplia y vinculada al periodo pandémico, sin marcadores cronológicos concretos (años, fases de pandemia, fechas de medidas). Esto es suficiente para una introducción general, pero insuficiente si se requiere precisión histórica o cronológica en el análisis académico."
+                }
+            },
+            "interpretacion_reflexiva": "El discurso conjuga señales explícitas y pistas implícitas para construir un contexto comprensible: el conflicto entre modalidades educativas tras la pandemia, en el marco de políticas públicas y efectos socio‑sanitarios. La presencia de estadísticas, instituciones y grupos sociales sugiere un entramado institucional y social bien ubicado, pero la generalidad de varias referencias (''diversos estudios'', ''estadísticas'', ''detractores'') deja espacio para múltiples interpretaciones sobre la fuente, la representatividad y la escala del problema. La contundencia de las afirmaciones indica un propósito persuasivo más que descriptivo, lo que condiciona cómo se leen los indicios contextuales: como argumentos en favor de una solución propuesta, no como una exposición neutral del contexto.",
+            "sugerencias_para_mejorar_la_introduccion (en relación con los indicios contextuales)": [
+                "Especificar fuentes cuando se citan datos o estudios (p. ej., indicar año y titular del informe del Ministerio de Educación, o la institución responsable de las 'estadísticas').",
+                "Aclarar el alcance geográfico de los datos y afirmaciones (confirmar que 'población chilena' y 'Ministerio de Educación' se refieren a Chile; si se usan datos internacionales, indicarlo).",
+                "Precisar el periodo temporal (año de cierre de colegios, fase de la pandemia a la que se refiere, si se discute la etapa de emergencia o la reapertura).",
+                "Detallar o caracterizar a los 'detractores' (qué actores representan: padres, sindicatos, epidemiólogos) para dar mayor solidez al contraste argumentativo.",
+                "Matizar el lenguaje causal y evaluativo cuando no se presentan evidencias completas (por ejemplo, evitar afirmaciones absolutas como 'carece de sustento' sin citar estudios que lo demuestren).",
+                "Mantener una apertura interpretativa al presentar los indicios: destacar que los datos y testimonios sugieren tendencias y riesgos, y señalar la necesidad de evidencia adicional para afirmaciones concluyentes."
+            ],
+            "ejemplos_de_frases_del_texto_y_su_funcion_contextual": [
+                {
+                    "frase": "a raíz de la pandemia",
+                    "funcion": "Sitúa el evento desencadenante (pandemia) como marco temporal y causal de la transformación del sistema educativo."
+                },
+                {
+                    "frase": "población chilena",
+                    "funcion": "Indica de forma implícita el espacio geográfico y social en el que se ubica el problema (Chile)."
+                },
+                {
+                    "frase": "Según los datos entregados por el Ministerio de Educación, aproximadamente un 60%...",
+                    "funcion": "Introduce una fuente institucional que aporta legitimidad estadística; sin embargo, requiere mayor precisión (año, informe) para ser verificable."
+                },
+                {
+                    "frase": "diversos estudios de salud han surgido",
+                    "funcion": "Sugiere la existencia de una producción científica o técnica sobre efectos sanitarios, pero no especifica autores o instituciones, por lo que el indicio es débil."
+                }
+            ],
+            "nivel_de_confianza_en_la_lectura_de_indicios": "moderado",
+            "notas_finales": "La introducción cumple la función de contextualizar el problema a nivel macro (pandemia, sistema educativo, salud), con señales tanto explícitas como implícitas. Para incrementar su valor académico y la claridad contextual, se recomienda incorporar precisiones sobre fuentes, alcance geográfico y marcos temporales, y explicitar quiénes conforman los actores mencionados."
+        }
+    },
+    {
+        "id_texto": 11,
+        "resultado": {
+            "cumplimiento_general": "Parcialmente satisfactorio. La introducción contiene señales claras que sitúan el tema en un marco temático (encíclica, justicia social, solidaridad) y refiere agentes relevantes (el Papa, movimientos sociales, católicos), pero carece de marcadores espaciales y temporales precisos. El contexto se sugiere más por alusiones normativas y por el marco religioso-institucional que por referencias empíricas concretas.",
+            "indicadores_tema": {
+                "respuesta": "Sí, hay indicios implícitos robustos del tema principal.",
+                "evidencias_principales": [
+                    "La mención recurrente de la encíclica Fratelli Tutti y del Papa Francisco orienta el tema hacia el análisis de un texto magisterial contemporáneo.",
+                    "Términos valorativos y normativos como justicia social, igualdad, individualismo explotador, bien común, bienestar integral y solidaridad delimitan el campo temático: la propuesta social y ética cristiana frente a formas de vida sociales actuales.",
+                    "La formulación sobre la solidaridad como “modo de hacer historia” sugiere que el tema articula dimensiones teóricas (tradición filosófica política cristiana) y prácticas (movimientos sociales, cambio estructural)."
+                ],
+                "matices_interpretativos": "El tema no aparece como una pregunta explícita, sino como una posición interpretativa —defensa y ampliación de la tradición cristiana por parte del Papa— lo que obliga a leer la introducción como un enmarque argumentativo más que como una exposición neutral del objeto."
+            },
+            "indicadores_actores": {
+                "respuesta": "Existen actores identificables, algunos explícitos y otros sugeridos.",
+                "actores_explicitos": [
+                    "El Papa Francisco / el pontífice (actor central, autor de la encíclica).",
+                    "Católicos y 'hombres de buena voluntad' (público destinatario de la propuesta)."
+                ],
+                "actores_implícitos": [
+                    "Movimientos sociales (mencionados como agentes de cambio y comparación práctica).",
+                    "Los pobres y la sociedad en general (receptores y sujetos sobre los que recae la política de bienestar).",
+                    "La tradición filosófica política cristiana y otros pontífices (actores institucionales e históricos aunque presentados de modo colectivo)."
+                ],
+                "grado_de_precisión": "Los actores principales están bien señalados en términos de roles y funciones; sin embargo falta concreción sobre identidades específicas de movimientos sociales, comunidades geográficas o actores laicos/institucionales concretos."
+            },
+            "indicadores_lugar_entorno": {
+                "respuesta": "Las pistas sobre lugar o entorno son implícitas y generales, más orientadas al ámbito social y eclesial que a un espacio geográfico preciso.",
+                "evidencias": [
+                    "Referencias a 'la sociedad', 'el mundo' y a una 'propuesta social' apuntan a un ámbito global o societal amplio.",
+                    "El uso de la tradición cristiana y la mención de pontífices sitúan el contexto en el ámbito institucional de la Iglesia católica y en el espacio público-religioso.",
+                    "No hay menciones a países, regiones ni escenarios locales concretos; el discurso opera en un registro universalizante."
+                ],
+                "interpretacion": "El entorno relevante se construye como el espacio público-moral y eclesial a escala amplia; la introducción sugiere universalidad (mundial/teológica) más que localización empírica."
+            },
+            "indicadores_tempo_periodo": {
+                "respuesta": "Las claves temporales son predominantemente contemporáneas pero imprecisas.",
+                "evidencias": [
+                    "Expresiones como 'en el último tiempo', 'actual', 'nueva encíclica' y 'forma de vida actual' sitúan el fenómeno en el presente o en un reciente devenir histórico.",
+                    "La apelación a la tradición filosófica política cristiana introduce una línea temporal larga (histórica), pero sin periodización concreta dentro del texto (no se dan fechas ni periodos concretos)."
+                ],
+                "implicaciones": "La introducción mezcla una perspectiva presentista con eco histórico; para una mayor claridad académica sería útil explicitar fechas (por ejemplo, año de la encíclica) y el alcance cronológico de las transformaciones sociales que se aluden."
+            },
+            "evaluacion_reflexiva_final": {
+                "sintesis": "El texto ofrece una capa rica de indicios contextuales implícitos que permiten entender el tema como la lectura y la proyección socio-política de la encíclica Fratelli Tutti en el contexto de la ética cristiana y los movimientos sociales contemporáneos. Predomina un posicionamiento interpretativo que presenta al Papa como heredero y reformulador de una tradición, y a la solidaridad como puente entre doctrina y praxis.",
+                "complejidades_y_sutilezas": "La introducción se apoya en referencias normativas y discursivas (valores, prácticas, roles) más que en marcadores empíricos; esto produce una contextualización de naturaleza retórico-conceptual (marco religioso, público y moral) en vez de geográfica o cronológica detallada. La ambivalencia entre tradición y novedad está bien marcada, lo que enriquece la lectura pero exige atención metodológica si el propósito es histórico-analítico.",
+                "recomendaciones_breves_para_fortalecer_el_contexto": [
+                    "Incluir al menos una referencia temporal concreta (año de publicación de la encíclica) para anclar la discusión.",
+                    "Precisar el ámbito geográfico o el alcance (¿global, regional, latinoamericano?) si la intención es evaluar efectos o recepciones sociales.",
+                    "Nombrar, cuando corresponda, ejemplos o tipos de movimientos sociales aludidos para dar mayor concreción a la referencia a praxis.",
+                    "Si se busca equilibrio analítico, matizar la postura valorativa con indicios empíricos o citas que permitan diferenciar lo programático (autor) de lo interpretativo (evaluador)."
+                ]
+            }
+        }
+    },
+    {
+        "id_texto": 12,
+        "resultado": {
+            "evaluacion_general": "La introducción presenta con claridad la tesis central: las prácticas de autocuidado son beneficiosas a nivel individual pero insuficientes frente a problemas ambientales y estructurales. El texto ofrece múltiples señales implícitas que sitúan el tema en un contexto contemporáneo, sanitario y socioeconómico, y expresa una postura crítica respecto a la masificación comercial y la necesidad de políticas públicas. La contextualización es más alusiva que explícita: predominan referencias genéricas (\"factores ambientales\", \"medicina\", \"instituciones y marcas\", \"la población\") que permiten inferir actores, espacio y tiempo, pero faltan precisiones que anclarían mejor el argumento académicamente.",
+            "preguntas": {
+                "1_tema_principal": {
+                    "indicios_implícitos": [
+                        "Frases que enuncian la contraposición entre beneficios individuales y límites estructurales: \"acciones individuales son sólo una salida rápida, pues no erradican el problema\".",
+                        "Referencias a prácticas concretas que centran el tema en salud y autocuidado: \"meditación, la alimentación, la actividad física, el buen descanso\".",
+                        "Mención de consecuencias relacionadas con el entorno: \"factores ambientales perjudiciales\", \"condiciones del ambiente\", \"problemas respiratorios\"."
+                    ],
+                    "interpretacion": "El tema principal se aprecia de forma implícita como la tensión entre soluciones individuales de autocuidado y la necesidad de respuestas colectivas o políticas ante factores ambientales nocivos. El autoriza el debate hacia la salud pública y la relación entre comportamiento individual y determinantes sociales del bienestar."
+                },
+                "2_actores_participantes": {
+                    "indicios_implícitos": [
+                        "\"medicina\" y \"especialistas\" implícitos en expresiones como \"llevan a la medicina a postura más preventiva\" o \"investigaciones... sostienen la importancia\".",
+                        "\"instituciones y marcas\" mencionadas explícitamente como promotoras de la masificación de la información.",
+                        "Referencias a \"la población\", \"miles de personas\" y al individuo que practica autocuidado."
+                    ],
+                    "interpretacion": "Aunque no hay nombres concretos, el texto sugiere un conjunto de actores: profesionales/autoridades médicas o científicas (fuente de recomendaciones), instituciones comerciales o de marketing (que promueven y comercializan prácticas), y la ciudadanía como destinataria/afectada. Esta triada alimenta la argumentación sobre responsabilidad individual vs. responsabilidad estructural."
+                },
+                "3_lugar_o_entorno": {
+                    "indicios_implícitos": [
+                        "Uso de expresiones generales vinculadas a la salud ambiental: \"factores ambientales perjudiciales\", \"condiciones del ambiente\", \"problemas respiratorios de la población\".",
+                        "Alusión a dinámicas de masificación y mercado: \"masificación de esta información\" y \"instituciones y marcas\", que remiten a entornos mediáticos y urbanos."
+                    ],
+                    "interpretacion": "El texto sitúa el problema en un entorno ambientalmente afectado, plausible en contextos urbanos o industrializados donde la contaminación y políticas públicas insuficientes son relevantes. No obstante, esa localización es sugerida, no explicitada: el lector puede inferir escenarios urbanos o nacionales contemporáneos, pero no hay referencia a un país, región o tipo de ciudad concreta."
+                },
+                "4_indicadores_temporales": {
+                    "indicios_implícitos": [
+                        "Uso del presente y expresiones temporales relativas: \"Se ha demostrado\", \"aparecen constantemente investigaciones\", \"cada día más populares\", \"La salud integral es un tema que hoy toma más relevancia\"."
+                    ],
+                    "interpretacion": "La franja temporal es la contemporaneidad: discusiones actuales y procesos en curso. El autor sitúa el fenómeno en el presente inmediato (tendencia creciente, debates actuales) sin anclarlo a un periodo histórico preciso (p. ej. últimas décadas, años 2000)."
+                }
+            },
+            "alineacion_con_reactivo": {
+                "coincidencias": [
+                    "La introducción comparte la tesis central del reactivo: reconoce que las prácticas de autocuidado mejoran la resistencia individual frente a factores ambientales pero no resuelven las causas estructurales.",
+                    "Se enfatiza la necesidad de cambios de políticas y legislación, en consonancia con la afirmación de que las medidas individuales no inciden efectivamente en las condiciones generadoras del entorno hostil."
+                ],
+                "faltantes_o_debilidades": [
+                    "El reactivo menciona explícitamente a \"especialistas en medicina\"; la introducción alude a \"investigaciones\" y a la \"medicina\" pero no cita ni atribuye a especialistas concretos, lo que debilita la autoridad empírica del enunciado.",
+                    "No aparecen datos empíricos, citas o referencias temporales más precisas que respalden la relación entre autocuidado y resistencia frente a la contaminación del aire (tema puntual del reactivo)."
+                ],
+                "sintesis": "En términos argumentativos la introducción responde adecuadamente al reactivo desde una perspectiva crítica y coherente, pero carece de fuentes y precisiones que fortalecerían la conexión académica con la afirmación sobre especialistas y contaminación urbana."
+            },
+            "evidencias_textuales_relevantes": [
+                "\"Se ha demostrado la incidencia positiva de las prácticas de autocuidado y hábitos saludables frente a factores ambientales perjudiciales para la salud\"",
+                "\"acciones individuales son sólo una salida rápida, pues no erradican el problema\"",
+                "\"Todas son prácticas favorables... que llevan a la medicina a postura más preventiva y educativa que asistencialista\"",
+                "\"La masificación de esta información, es fuertemente promovida por una serie de instituciones y marcas\"",
+                "\"Los problemas efectivos, no se solucionan con cambios individuales, sino en cambios de políticas y en la legislación\""
+            ],
+            "recomendaciones_para_mejorar_la_contextualizacion": [
+                "Añadir referencias concretas o citas breves a estudios o declaraciones de especialistas que respalden la afirmación sobre la eficacia limitada del autocuidado frente a amenazas ambientales (p. ej. estudios sobre contaminación del aire y salud respiratoria).",
+                "Precisar el ámbito geográfico o el tipo de entorno al que se refiere (ciudades grandes, contextos industrializados, regiones específicas) para anclar el argumento y facilitar su aplicabilidad.",
+                "Nombrar actores institucionales con mayor precisión (ministerios de salud, agencias ambientales, empresas alimentarias) o tipificarlos (sector público, privado, ONG) para mostrar quién ejerce influencia y responsabilidad.",
+                "Incorporar indicadores temporales más concretos si el argumento pretende señalar tendencias (p. ej. ‘en la última década’, ‘desde los años 2000’) o datos que muestren el aumento de la popularidad de estas prácticas.",
+                "Evitar expresiones generales o coloquiales (p. ej. \"hablar las cosas como son\") y sustituirlas por formulaciones que indiquen la necesidad de transparencia en la comunicación científica y la ética de la promoción en salud."
+            ],
+            "nivel_confianza": "alto"
+        }
+    },
+    {
+        "id_texto": 13,
+        "resultado": {
+            "evaluacion_general": "La introducción sitúa el problema central en la intersección entre una crisis sanitaria (COVID-19) y un proceso político (plebiscito/constituyente). Aunque hay menciones explícitas (China, Chile, plebiscito, octubre), al atender a señales implícitas se observan recursos que sugieren contexto amplio: referencias a cuarentenas, “nueva realidad”, grupos vulnerables y locales de votación. El tono es mayormente descriptivo y valorativo; la contextualización existe pero carece de precisión cronológica, institucional y estilística, lo que limita la fuerza académica del encuadre.",
+            "indicadores_tema": {
+                "hallazgos": [
+                    "Menciones reiteradas a 'virus COVID-19', 'pandemia', 'cuarentena' y 'nueva realidad' que configuran el eje sanitario.",
+                    "Referencias a 'plebiscito', 'sustituya la constitución del 1980' y 'derecho a voto' que introducen el eje político-electoral.",
+                    "La yuxtaposición de esos campos sugiere el tema central: tensión entre medidas sanitarias y garantía del sufragio en contexto de pandemia."
+                ],
+                "interpretacion_reflexiva": "Aunque el tema aparece casi por solapamiento de vocabulario sanitario y electoral, la introducción opera principalmente por asociación: el lector infiere la problemática mayor (riesgo de exclusión electoral por motivos sanitarios) más que encontrar una formulación explícita del problema de investigación."
+            },
+            "indicadores_actores": {
+                "hallazgos": [
+                    "Actores institucionales sugeridos: 'el presidente' (menciona la convocatoria al plebiscito) y, de forma implícita, el 'gobierno' (última oración).",
+                    "Actores sociales implícitos: 'la gente', 'adultos mayores', 'personas con alguna enfermedad respiratoria', 'personas ya contagiadas'.",
+                    "Ausencia de referencia a autoridades electorales (por ejemplo, Servel) en el texto, aunque la problemática remite a su decisión."
+                ],
+                "interpretacion_reflexiva": "Los actores se presentan más como categorías sociales vulnerables que como agentes institucionales con competencias concretas. Esto orienta el texto hacia una lectura ética y de impacto social, pero debilita la precisión sobre quién toma decisiones y quién tiene la capacidad de mitigarlas."
+            },
+            "indicadores_lugar": {
+                "hallazgos": [
+                    "Presencia explícita de 'Chile' y referencia al origen del brote en 'China'.",
+                    "Pistas implícitas de escala espacial: 'regiones y sectores de Chile', 'locales de votación' y escenas públicas (salir con mascarilla, reuniones en lugares cerrados)."
+                ],
+                "interpretacion_reflexiva": "La ubicación nacional (Chile) está clara; sin embargo, las referencias a 'regiones' y 'sectores' insinúan desigualdades territoriales o variación subnacional en la vivencia de la pandemia, una dimensión útil que permanece poco desarrollada e implícita."
+            },
+            "indicadores_tiempo": {
+                "hallazgos": [
+                    "Referencias temporales: 'a finales del semestre pasado', 'finales de febrero y comienzo de marzo', 'varios meses de cuarentena', 'octubre'.",
+                    "Falta de indicación del año, por lo que las pistas sitúan los hechos en un marco relativo (p. ej. 'el semestre pasado') en vez de un marco absoluto."
+                ],
+                "interpretacion_reflexiva": "Las señales temporales permiten reconstruir una secuencia (inicio del brote, llegada a Chile, cuarentena prolongada, programación del plebiscito en octubre), pero la ausencia de años exactos obliga al lector a inferir el periodo (probablemente 2020). Para una lectura académica más contundente conviene explicitar fechas."
+            },
+            "fortalezas": [
+                "Conecta de forma intuitiva dos ejes relevantes (salud pública y derecho político), lo que ofrece un marco temático viable.",
+                "Incluye categorías sociales vulnerables (adultos mayores, enfermos respiratorios, contagiados) que enriquecen la dimensión ética del problema.",
+                "Usa elementos narrativos (cronología de llegada y cuarentena) que facilitan la comprensión del desarrollo del conflicto."
+            ],
+            "debilidades": [
+                "Ambigüedad temporal por ausencia de años concretos y uso de expresiones imprecisas ('semestre pasado').",
+                "Falta de referencias institucionales clave (por ejemplo, Servicio Electoral) y de datos que den sostén empírico a afirmaciones sobre alcance y consecuencias.",
+                "Estilo a veces informal y repetitivo ('todo el rato', 'salir a lo que se conoce como la nueva realidad'), lo que resta tono académico.",
+                "Errores y frases confusas que dificultan la lectura y la precisión conceptual (p. ej. 'el país se frente a una pandemia')."
+            ],
+            "recomendaciones": [
+                "Explicitar fechas (año) y, cuando sea pertinente, cifras o fuentes para anclar cronología y magnitud: p. ej. 'a finales de febrero de 2020 llegó a Chile...'.",
+                "Nombrar las instituciones relevantes que articulan la situación (Servicio Electoral, Ministerio de Salud, gobierno central) para clarificar actores y responsabilidades.",
+                "Afinar el registro: sustituir expresiones coloquiales por formulaciones más formales y evitar repeticiones; revisar coherencia sintáctica.",
+                "Desarrollar las pistas territoriales: si interesa la dimensión subnacional, indicar brevemente en qué regiones o tipos de localidades se observan diferencias.",
+                "Si se desea mantener el enfoque interpretativo implícito, reforzarlo con citas, datos o referencias que permitan al lector validar las inferencias (p. ej. tasas de contagio, instrucciones sanitarias para locales de votación).",
+                "Reformular una frase de cierre que sintetice el conflicto central de forma clara y académica, por ejemplo: 'Este texto examina la tensión entre la protección de la salud pública y la garantía del derecho al sufragio para personas diagnosticadas con COVID-19 en el plebiscito de octubre de 2020 en Chile'."
+            ]
+        }
+    },
+    {
+        "id_texto": 14,
+        "resultado": {
+            "indicadores_tema": [
+                {
+                    "evidencia": "“rebaja de la indeminzación”",
+                    "interpretacion": "Alude a una decisión judicial o administrativa sobre sanciones económicas; sugiere que el núcleo temático es la legitimidad de sanciones por conductas irregulares."
+                },
+                {
+                    "evidencia": "“Caso Soquimich”",
+                    "interpretacion": "Nombre propio de un escándalo que funciona como marcador denso: remite a corrupción empresarial, fraude bursátil y controversia pública sin explicarlo explícitamente."
+                },
+                {
+                    "evidencia": "“serie de irregularidades” y la pregunta sobre la “legitimidad” de la medida",
+                    "interpretacion": "Indican una perspectiva crítica y normativa: el texto plantea un problema ético-legal sobre rendición de cuentas y equidad ante la ley."
+                }
+            ],
+            "indicadores_actores": [
+                {
+                    "evidencia": "“Julio Ponce Lerou”",
+                    "interpretacion": "Actor central y protagonista individual del caso; su mención directa sitúa la discusión alrededor de una persona concreta vinculada al escándalo."
+                },
+                {
+                    "evidencia": "“la Corte Suprema” (implícita en la pregunta sobre la medida)",
+                    "interpretacion": "Actor institucional implicado en la decisión; la formulación interrogativa sugiere conflicto entre poder judicial y expectativas sociales."
+                },
+                {
+                    "evidencia": "alusión a “irregularidades” y al marco de la pregunta crítica",
+                    "interpretacion": "Sugiere actores colectivos no nombrados (víctimas, críticos, defensores, medios, fondos de pensiones) que se infiere del tema y del reactivo aunque no estén explícitos en la introducción corta."
+                }
+            ],
+            "indicadores_lugar": [
+                {
+                    "evidencia": "“historia reciente de Chile”",
+                    "interpretacion": "Marcador geográfico-explicito: sitúa el fenómeno en el contexto nacional chileno y conecta el hecho puntual con procesos políticos y sociales del país."
+                },
+                {
+                    "evidencia": "mención del “Caso Soquimich” y, en el reactivo, “corte suprema chilena”",
+                    "interpretacion": "Refuerzan el contexto nacional y el ámbito institucional (empresa chilena, sistema judicial chileno, mercado bursátil local)."
+                }
+            ],
+            "indicadores_tiempo": [
+                {
+                    "evidencia": "“historia reciente de Chile”",
+                    "interpretacion": "Proporciona una ubicación temporal amplia: contemporaneidad o pasado próximo, pero sin precisar fechas o periodización concreta."
+                },
+                {
+                    "evidencia": "uso del presente en la formulación (“debía pagar”, “es parte de”) y la pregunta sobre la medida",
+                    "interpretacion": "Sugiere que la discusión está anclada en un hecho vigente o de reciente ocurrencia; señala actualidad del problema pero no un marco cronológico detallado."
+                },
+                {
+                    "evidencia": "en el reactivo: referencia a votación 3 contra 2 y montos (62 millones → 3 millones)",
+                    "interpretacion": "Aunque no pertenece estrictamente a la introducción corta, aporta indicios temporales y de secuencia del evento judicial (decisión reciente, resultado medible) que la introducción sugiere pero no especifica."
+                }
+            ],
+            "valoracion_general": "La introducción contiene señales implícitas suficientes para que un lector familiarizado con el caso reconstruya rápidamente el tema (decisión judicial sobre sanción económica ligada a un escándalo empresarial en Chile). Emplea nombres propios y términos cargados (Caso Soquimich, Corte Suprema, Julio Ponce Lerou) que funcionan como índices contextuales densos y economizan explicación. Sin embargo, su brevedad y la ausencia de datos temporales precisos, definiciones o identificación explícita de los grupos afectados (por ejemplo, cotizantes o fondos de pensiones) reducen su accesibilidad para lectores no especializados. La pregunta retórica fortalece el sentido crítico pero también deja implícitas las posiciones contrapuestas sin articular quiénes las representan.",
+            "sutilezas_y_complejidad": "La introducción recurre a la presuposición de conocimiento compartido: el nombre del caso y del empresario condensan historia, actores y consecuencias en un par de palabras. Esa estrategia es eficiente en contextos donde el público conoce el episodio, pero puede excluir a lectores internacionales o a quienes no dominan la agenda pública chilena. Asimismo, la formulación interrogativa introduce una perspectiva normativa que orienta la lectura hacia la legitimidad del fallo; esto actúa como una señal discursiva que involucra a la academia y al público cívico sin explicitar las fuentes del juicio (datos, estudios, testimonios), lo que exige un tratamiento más explícito en un texto académico.",
+            "errores_ortografia_puntuacion": [
+                {
+                    "original": "indeminzación",
+                    "correccion": "indemnización"
+                },
+                {
+                    "original": "¿Qué tan legítima es esta medida tomada por la Corte Suprema?,¿ ",
+                    "correccion": "¿Qué tan legítima es esta medida tomada por la Corte Suprema?"
+                },
+                {
+                    "observacion": "Espacios y signos de interrogación",
+                    "correccion": "Eliminar signos redundantes y asegurar espacio correcto después de comas y puntos."
+                }
+            ],
+            "recomendaciones": [
+                "Introducir brevemente fechas o periodo (por ejemplo, año de la decisión o periodo en que ocurrieron las operaciones fraudulentas) para anclar temporalmente el caso.",
+                "Nombrar, aunque sea de forma sucinta, a los actores colectivos afectados (fondos de pensiones, cotizantes, instituciones reguladoras) para dar mayor accesibilidad a lectores no familiarizados.",
+                "Corregir errores ortográficos y de puntuación y reformular la pregunta final para un tono académico más neutro (por ejemplo: “Cabe preguntarse sobre la legitimidad de la medida dictada por la Corte Suprema.”).",
+                "Si el público objetivo no conoce el caso, añadir una frase que sintetice en una o dos líneas la naturaleza del Caso Soquimich (fraude vinculando compra-venta de acciones y afectación de fondos previsionales) sin exceder la extensión propia de una introducción."
+            ]
+        }
+    },
+    {
+        "id_texto": 15,
+        "resultado": {
+            "resumen": "La introducción sitúa el problema de la salud mental en relación con el teletrabajo durante la pandemia mediante una serie de referencias que combinan lo sanitario, lo laboral y lo doméstico. Más que enumerar actores y lugares de forma sistemática, el texto despliega señales implícitas (confinamiento, teletrabajo, aumento de consultas psiquiátricas, familias en espacios reducidos) que permiten reconstruir un contexto amplio: la tensión entre hogar y trabajo, el estrés pandémico y la respuesta del sistema de salud.",
+            "indicadores_de_tema": {
+                "hallazgos": [
+                    "La presencia recurrente de términos como 'confinamiento', 'teletrabajo', 'salud mental', 'ansiedad' y 'depresión' configura el tema central.",
+                    "Referencias a medidas preventivas y cambios en rutinas indican la relación entre la pandemia y las modificaciones en modos de trabajo y vida.",
+                    "Se alude al impacto en la calidad de vida y al uso incrementado de ansiolíticos, que señala la gravedad del fenómeno."
+                ],
+                "interpretacion": "Aunque el texto menciona explícitamente la pandemia, los indicios más ricos son las conexiones implícitas entre medidas sanitarias (confinamiento), prácticas laborales (teletrabajo) y consecuencias psicosociales (trastornos, consumo de fármacos, ruptura de redes de apoyo). Estos nexos sugieren que el tema principal no es solo el teletrabajo en abstracto, sino la transformación del hogar como espacio de trabajo y su repercusión en la salud mental."
+            },
+            "actores": {
+                "menciones": [
+                    "'la población', 'trabajadores', 'muchas empresas', 'el resto del personal', 'familias completas', 'miles de personas'.",
+                    "Referencias al 'sistema de salud' y consultas a 'psiquiatría' implican la participación de profesionales sanitarios e instituciones."
+                ],
+                "interpretacion": "Los actores aparecen mayormente de manera colectiva y genérica, lo que sugiere amplitud (poblaciones laborales, familias) pero poca especificidad. Implícitamente se identifican: trabajadores/as que teletrabajan, empleadores/empresas que gestionan medidas, profesionales de la salud mental y unidades familiares como entornos afectados. La generalidad facilita una lectura global pero limita la capacidad de situar grupos vulnerables concretos (por ejemplo, trabajadores de sectores específicos, hogares de menor tamaño o con menor recursos)."
+            },
+            "lugar_entorno": {
+                "pistas": [
+                    "Citas a 'lugares cerrados como oficinas, escuelas o el transporte publico' apuntan a entornos urbanos y laborales.",
+                    "El énfasis en 'hogar', 'espacios muy pequeños' y la imposibilidad de salir a 'plaza o la playa' remite al entorno doméstico y al acceso a espacios públicos de ocio.",
+                    "Expresiones como 'en gran parte del mundo' y 'en muchas partes del mundo' sugieren un alcance geográfico global o transnacional."
+                ],
+                "interpretacion": "Las pistas configuran un escenario multinivel: el espacio público/ocupacional (oficinas, transporte), el doméstico (hogar como lugar de trabajo y refugio) y el sistema de salud como esfera institucional. La referencia implícita a limitaciones de espacio y acceso a lugares abiertos introduce dimensiones socioespaciales (vivienda, densidad, acceso a entornos recreativos) que podrían profundizarse para contextualizar mejor diferencias entre entornos y poblaciones."
+            },
+            "tiempo": {
+                "indicadores": [
+                    "Mención explícita al periodo pandémico y a 'COVID-19'.",
+                    "Comparaciones con 'años anteriores' y referencias a cambios 'con la pandemia' ofrecen un contraste entre pre y post pandemia.",
+                    "Formas verbales ('se ha convertido', 'se han visto', 'ha aumentado') comunican continuidad y efecto reciente/actual."
+                ],
+                "interpretacion": "Las señales temporales sitúan el fenómeno en el periodo actual marcado por la pandemia, con una perspectiva comparativa hacia el pasado inmediato (antes de la pandemia). La redacción sugiere procesos en curso —no solo hechos puntuales— y pone de manifiesto una fase de adaptación y consecuencia acumulada (aumento de consultas, uso de ansiolíticos). Para mayor precisión académica sería útil acotar momentos concretos (p. ej. 2020–2021) o indicar si se trata de tendencias continuas o picos temporales."
+            },
+            "evaluacion_general": "La introducción contiene numerosas pistas contextuales que permiten reconstruir un contexto amplio y multidimensional (salud pública, trabajo, hogar, sistema sanitario). Sin embargo, esas señales se presentan de forma mayormente genérica y sin matices temporales o espaciales precisos ni segmentación de actores. La interpretación implícita del hogar como espacio en tensión aparece como un hilo conductor potente que conecta el Reactivo con el texto, pero podría reforzarse para dar más profundidad analítica.",
+            "sugerencias_para_afinamiento": [
+                "Precisar actores y subgrupos afectados (por ejemplo: trabajadores/as del sector servicios, padres con hijos en edad escolar, personas en viviendas de tamaño reducido) para acotar el problema.",
+                "Matizar el alcance geográfico y temporal: indicar si los ejemplos y cifras se refieren a contextos nacionales, regionales o globales y especificar periodos (años, oleadas de la pandemia).",
+                "Profundizar en la dimensión del hogar como espacio protector en riesgo: incorporar la noción de 'salud del hogar' señalada en el reactivo y articular cómo se relaciona con el agotamiento laboral y la pérdida de límites.",
+                "Añadir referencias o menciones a fuentes, estudios o datos cuantitativos que sustenten las afirmaciones sobre aumentos en trastornos y en el uso de ansiolíticos para fortalecer la credibilidad.",
+                "Introducir una transición más nítida entre la descripción general y la cuestión de investigación (qué aspecto concreto se va a abordar y por qué importa), manteniendo la riqueza de las señales contextuales ya presentes."
+            ]
+        }
+    },
+    {
+        "id_texto": 16,
+        "resultado": {
+            "evaluacion_general": "La introducción sitúa el debate sobre la continuidad de la enseñanza virtual en un contexto sanitario derivado de la pandemia y adopta una posición clara en favor de mantener la modalidad no presencial. Los indicios contextuales combinan referencias explícitas (por ejemplo, 'contexto sanitario', 'pandemia') con señales implícitas sobre actores, entorno y temporalidad. En conjunto, el texto ofrece suficiente anclaje contextual para entender el problema, aunque faltan precisiones espaciales y cronológicas más concretas y existen oportunidades para matizar y diversificar las voces implicadas.",
+            "indicadores_detectados": [
+                {
+                    "componente": "Tema principal",
+                    "hallazgos": "El tema central es el impacto de la crisis sanitaria en la organización escolar y la defensa de la enseñanza virtual frente al retorno presencial.",
+                    "evidencia_textual": [
+                        "En el actual contexto sanitario",
+                        "los colegios no deben volver a clases presenciales",
+                        "accesibilidad a la educación en pandemia"
+                    ],
+                    "nivel_de_implicitud": "bajo (mezcla de referencias explícitas e implícitas)",
+                    "comentario": "Aunque el tema aparece de forma explícita, también se recurre a señales (salud, virus, igualdad en accesibilidad) que enriquecen la comprensión sin enumerar formalmente el tópico."
+                },
+                {
+                    "componente": "Actores",
+                    "hallazgos": "Se identifican actores institucionales y sociales mediante referencias directas e indirectas: gobierno, colegios, ministerio de salud, profesores, funcionarios, estudiantes, familias y 'personas' que sostienen opiniones contrarias.",
+                    "evidencia_textual": [
+                        "el gobierno ha decidido restringir",
+                        "los colegios ha tenido que cerrar",
+                        "revisados por el ministerio de salud",
+                        "un profesor o funcionario del establecimiento",
+                        "estudiantes y sus familiares",
+                        "hay personas que dicen que el aprendizaje virtual no genera los mismos resultados"
+                    ],
+                    "nivel_de_implicitud": "medio (actores nombrados pero sin caracterización ni alcance)",
+                    "comentario": "Los actores aparecen mayoritariamente como etiquetas funcionales; falta especificar agentes concretos (nivel de gobierno, tipos de colegios, grupos sociales) para enriquecer el contexto."
+                },
+                {
+                    "componente": "Lugar / entorno",
+                    "hallazgos": "El espacio aparece sugerido a través de referencias al 'transporte público', 'la zona' y el sistema escolar en general; no se menciona un país, región o tipo de localidad concretos.",
+                    "evidencia_textual": [
+                        "la zona no está exenta del virus",
+                        "gran cantidad de personas que siguen ocupando el transporte público día a día",
+                        "los colegios"
+                    ],
+                    "nivel_de_implicitud": "alto (entorno sólo sugerido mediante elementos cotidianos)",
+                    "comentario": "Las pistas llevan a imaginar contextos urbanos o periurbanos con uso de transporte público, pero la ausencia de una localización explícita impide anclaje geográfico preciso."
+                },
+                {
+                    "componente": "Temporalidad",
+                    "hallazgos": "El texto sitúa la discusión en el periodo de la pandemia y su evolución reciente (aproximadamente un año desde su comienzo), pero sin fechas ni marcos temporales precisos.",
+                    "evidencia_textual": [
+                        "En el actual contexto sanitario",
+                        "ha pasado un año aproximadamente desde el comienzo de la pandemia",
+                        "en pandemia"
+                    ],
+                    "nivel_de_implicitud": "medio (periodo bien indicado en términos relativos, pero sin precisión cronológica)",
+                    "comentario": "Las referencias temporales son suficientes para entender que la discusión ocurre durante la pandemia y tras un año de adaptación, pero sería útil precisar fechas o fases (inicio, pico, postpico) cuando sea relevante."
+                }
+            ],
+            "fortalezas_y_debilidades": {
+                "fortalezas": [
+                    "Combina argumentos de salud pública y equidad educativa, lo que contextualiza multidimensionalmente el tema.",
+                    "Incluye actores relevantes (instituciones y sujetos) y una temporalidad relativa que sitúa el texto en la pandemia."
+                ],
+                "debilidades": [
+                    "Falta de especificidad espacial y de identificación más precisa de los actores (por ejemplo, qué nivel de gobierno o qué tipo de colegios).",
+                    "Temporalidad expresada de manera vaga (sin fechas) y ausencia de datos que permitan calibrar la magnitud del problema.",
+                    "Tono normativo pronunciado que reduce la presentación neutrally académica del contexto."
+                ]
+            },
+            "sugerencias_breves_de_mejora": [
+                "Añadir un anclaje geográfico (país, región o tipo de localidad) cuando sea pertinente para la argumentación.",
+                "Precisar la temporalidad con referencias más concretas (fechas, fases de la pandemia) si influyen en la validez de los argumentos.",
+                "Caracterizar mejor a los actores: especificar niveles institucionales, poblaciones afectadas y fuentes de las afirmaciones para fortalecer el contexto académico.",
+                "Matizar la tesis inicial mediante reconocimiento explícito de posiciones contrarias y de las limitaciones de la evidencia presentada."
+            ],
+            "conclusion": "La introducción ofrece indicios contextuales claros que permiten entender el tema —la continuidad de la educación virtual durante la pandemia— mediante una combinación de referencias explícitas e implícitas; sin embargo, ganaría en rigor académico al precisar lugar, actores y tiempo con mayor concreción y matizar su postura normativa con evidencia y caracterización más detallada."
+        }
+    },
+    {
+        "id_texto": 17,
+        "resultado": {
+            "indicaciones_generales": "Análisis interpretativo de indicios contextuales implícitos en la introducción, con énfasis en la sutileza y la complejidad del contexto señalado por el autor.",
+            "indicios_tema": [
+                {
+                    "hallazgo": "Términos recurrentes como «contaminación del aire», «grandes ciudades», «practicar deporte» y «actividad física».",
+                    "interpretacion": "Estas referencias sugieren que el tema principal es la intersección entre salud pública (específicamente la salud respiratoria) y la promoción de la actividad física como estrategia preventiva en entornos urbanos contaminados. El texto articula implícitamente un problema (contaminación) y una respuesta propuesta (fomento del deporte), enmarcando el debate en claves de salud y políticas educativas."
+                },
+                {
+                    "hallazgo": "Mención de un cambio en la «educación escolar» y de la necesidad de campañas o leyes.",
+                    "interpretacion": "Se introduce el tema de la intervención institucional/estatal y de políticas públicas en educación física, lo cual amplía el enfoque desde el individuo hacia medidas colectivas y normativas."
+                }
+            ],
+            "indicios_actores": [
+                {
+                    "hallazgo": "Aparición de actores genéricos: «grandes empresas», «expertos», «gobierno», «la gente», «niños», «establecimientos educacionales».",
+                    "interpretacion": "El texto sugiere múltiples agentes involucrados (productores de contaminación, especialistas que asesoran, instituciones educativas y autoridades públicas), pero los nombra de forma imprecisa. Esto posiciona la discusión en un escenario plural pero sin delimitar responsabilidades ni identificar actores institucionales concretos."
+                },
+                {
+                    "hallazgo": "Presencia de voces contrapuestas: «algunos declaran...», «ellos se equivocan».",
+                    "interpretacion": "Hay indicios de debate o controversia en torno a la eficacia del autocuidado frente a la contaminación. Sin embargo, las voces disidentes quedan difusas (sin atribución), lo que debilita la claridad sobre quiénes sostienen cada posición."
+                }
+            ],
+            "indicios_lugar_entorno": [
+                {
+                    "hallazgo": "Expresiones como «las grandes ciudades» y «establecimientos educacionales».",
+                    "interpretacion": "El entorno relevante es urbano y escolar. El uso de «grandes» apunta a áreas densamente pobladas e industrializadas, con implicaciones sobre fuentes de contaminación y dinámicas de exposición. No obstante, no se especifica un país, región o ciudad concreta, por lo que el marco geográfico permanece amplio y general."
+                },
+                {
+                    "hallazgo": "Referencia al «aire que respiramos día a día».",
+                    "interpretacion": "Se sugiere un ambiente cotidiano y compartido (espacio público/urbano), lo que enmarca el problema como de carácter poblacional y transversal a distintas instituciones sociales."
+                }
+            ],
+            "indicios_temporales": [
+                {
+                    "hallazgo": "Marcadores temporales vagos: «En el último tiempo», «actualmente», «desde pequeños», «cada semana», «a medida que vayan creciendo».",
+                    "interpretacion": "Estos indicadores sitúan el tema en el presente y en una dimensión longitudinal (desarrollo infantil y continuidad a lo largo de la vida). No obstante, carecen de precisión cronológica (no hay fechas, periodos históricos o comparaciones temporales explícitas), lo que limita la capacidad de ubicar el fenómeno en un marco temporal más definido."
+                }
+            ],
+            "evaluacion_general": "La introducción ofrece una serie de indicios contextuales implícitos que permiten identificar el tema central (contaminación del aire y promoción de la actividad física) y reconocer actores y entornos relevantes (empresas, expertos, escuelas, ciudades). Su enfoque interpretativo es plausible y refleja la naturaleza contemporánea del problema y su dimensión preventiva/educativa. Sin embargo, la evidencia contextual es amplia y general: los actores son anónimos, el lugar se limita a la categoría «grandes ciudades» sin especificidad geográfica, y los marcadores temporales son vagos. Esta imprecisión dificulta delimitar la escala del análisis y la aplicabilidad de las recomendaciones políticas propuestas.",
+            "recomendaciones_para_fortalecer_los_indicios_contextuales": [
+                "Precisar el ámbito geográfico (país, región o tipo de ciudad) para acotar la relevancia y las causas de la contaminación mencionada.",
+                "Identificar con mayor exactitud a los actores: tipificar a los «expertos» (p. ej., especialistas en salud pública, neumólogos, pedagogos) y, si es posible, señalar instituciones o sectores empresariales responsables.",
+                "Incorporar marcadores temporales más concretos (p. ej., datos recientes, periodos de aumento/declive de la contaminación, edades o etapas educativas) para situar mejor el problema y las intervenciones propuestas.",
+                "Evitar referencias genéricas («algunos», «ellos») o acompañarlas con aclaraciones sobre la fuente o tipo de argumentos contrapuestos, lo cual enriquecería la representación del debate académico y político."
+            ]
+        }
+    },
+    {
+        "id_texto": 18,
+        "resultado": {
+            "evaluacion_general": "La introducción ofrece indicios contextuales implícitos sobre la pandemia y sus efectos, pero lo hace de manera amplia y en ocasiones ambigua. Presenta señales útiles para identificar tema y algunos actores, y menciona un lugar concreto (Chile), aunque carece de marcadores temporales precisos y de una delimitación espacial/escalar que conecte claramente con el reactivo (segunda ola en Europa).",
+            "tema": {
+                "indicios_implícitos": [
+                    "La frase inicial «La pandemia del COVID-19 ha generado una serie de cuestionamientos sobre la importancia del cuidado y el mantenimiento de la salud» señala el tema central: efectos sociales y políticos de la pandemia.",
+                    "Referencias a «consecuencias en el abordaje del virus», «condiciones de vida» y «consecuencias laborales, psicológicas y sociales» amplían el tema hacia impactos multidimensionales.",
+                    "La tesis explícita: «la pandemia del COVID-19 se instaura como un hito importante dentro de las trayectorias vitales...» reafirma el foco en la pandemia como evento transformador."
+                ],
+                "valoracion": "El tema principal está claramente sugerido mediante referencias al impacto sanitario, social y a la necesidad de políticas públicas. La señalamiento es fuerte pero general: falta una delimitación temática más concreta (por ejemplo, enfoque en confinamientos sectorizados, discriminación en medidas sanitarias o en desigualdades territoriales) que vincule la discusión con el caso planteado en el reactivo."
+            },
+            "actores": {
+                "indicios_implícitos": [
+                    "Menciones generales: «diferentes habitantes del mundo», «cada uno de los países», «las personas en Chile», «muchos autores de diversas disciplinas y profesiones», «programas y normativas gobernamentales».",
+                    "Alusiones a roles: «políticas públicas actúen», «expertos en salud pública» (no mencionados en el texto, pero implícitamente referidos cuando propone que las políticas respondan).",
+                    "El texto evoca colectividades (habitantes, integrantes, miembros) más que actores institucionales específicos."
+                ],
+                "valoracion": "Hay indicios de actores tanto colectivos (poblaciones, ‘habitantes’) como institucionales (políticas públicas, programas gubernamentales), pero son vagos. No aparecen actores locales o grupos vulnerables concretos (por ejemplo, inmigrantes, barrios marginales) que son centrales en el reactivo. Para conectar con ese reactivo sería necesario identificar explícitamente actores afectados (vecindarios pobres, trabajadores desplazados, autoridades locales, mov. ciudadanos).",
+                "alineacion_con_reactivo": "Parcial. El texto menciona desigualdad y políticas públicas, lo cual es compatible con el reactivo, pero omite actores clave que éste destaca (residentes de barrios marginados, inmigrantes, autoridades regionales como la presidenta de la comunidad)."
+            },
+            "lugar_entorno": {
+                "indicios_implícitos": [
+                    "Frases generales: «entre los diferentes habitantes del mundo», «cada uno de los países» indican un marco global.",
+                    "Mención explícita puntual: «las personas en Chile (que coexistían antes del ingreso del virus)» introduce un anclaje nacional concreto.",
+                    "Ausencia de referencias a contextos supranacionales o subnacionales detallados (ciudades, barrios, regiones específicas)."
+                ],
+                "valoracion": "El texto oscila entre un marco global y una referencia nacional a Chile, lo que ofrece cierta contextualización espacial pero poco matizada. No hay indicios de Europa, de la segunda ola ni de escenarios urbanos marginales que aparecen en el reactivo. Para una mejor pertinencia habría que precisar la escala (global vs. país vs. barrio) y, si se pretende discutir el caso del reactivo, introducir explícitamente Europa/Madrid o comparar con Chile."
+            },
+            "tiempo_periodo": {
+                "indicios_implícitos": [
+                    "Uso del término general «pandemia del COVID-19» que ubica el fenómeno desde fines de 2019/2020 en adelante, aunque sin datación precisa.",
+                    "Expresiones relativas: «antes del ingreso del virus», «estos tiempos», «encierro prolongado» sugieren una cronología implícita (prepandemia / pandemia / periodo de confinamiento) pero no especifican fases como «primera» o «segunda ola».",
+                    "No aparecen fechas, marcos temporales concretos ni referencias a olas sucesivas de contagio."
+                ],
+                "valoracion": "Hay indicios temporales generales suficientes para situar el asunto en la era pandémica, pero la ausencia de marcadores precisos (p. ej. «segunda ola», años, meses, periodos de confinamiento) impide una conexión clara con el reactivo, que plantea expresamente una segunda ola en Europa. Si el objetivo es dialogar con ese reactivo, conviene introducir indicaciones temporales que concreten la fase pandémica en discusión."
+            },
+            "recomendaciones_principales": [
+                {
+                    "prioridad": "alta",
+                    "sugerencia": "Delimitar el ámbito espacial y temporal: si se pretende responder al reactivo, añadir referencias explícitas a Europa/países europeos, a la «segunda ola» y, si procede, contrastarlas con la situación en Chile. Esto ayuda a conectar la introducción con el caso planteado."
+                },
+                {
+                    "prioridad": "alta",
+                    "sugerencia": "Especificar actores afectados y agentes decisores: incluir grupos vulnerables (barrios marginales, trabajadores que viajan a otras zonas, inmigrantes), autoridades locales y expertos en salud pública, para dar concreción social e institucional al argumento."
+                },
+                {
+                    "prioridad": "media",
+                    "sugerencia": "Integrar pistas temporales más claras (fechas, olas, periodos de confinamiento) y escala (nacional vs. local, urbano vs. rural) para mejorar la ubicuidad contextual sin perder la interpretación flexible."
+                },
+                {
+                    "prioridad": "media",
+                    "sugerencia": "Introducir ejemplos o referencias breves y explícitas (p. ej. menciones a medidas sectorizadas de confinamiento, protestas ciudadanas o declaraciones públicas) para que las alusiones implícitas cobren mayor densidad interpretativa."
+                },
+                {
+                    "prioridad": "baja",
+                    "sugerencia": "Mantener el tono reflexivo y multidisciplinar, pero precisar la tesis para indicar si el ensayo analizará causas, efectos, equidad en políticas públicas o comparaciones internacionales; esto orienta la selección de indicadores contextuales."
+                }
+            ],
+            "nota_final_sobre_el_analisis": "La evaluación se ha realizado privilegiando señales implícitas y sugerentes en el texto, evitando imponer lecturas forzadas. El escrito dispone de recursos contextuales útiles (tema y cierta localización en Chile), pero necesita mayor precisión espacial, temporal y en la identificación de actores para dialogar de modo directo y provechoso con el reactivo sobre la segunda ola en Europa y las críticas a confinamientos sectorizados."
+        }
+    },
+    {
+        "id_texto": 19,
+        "resultado": {
+            "texto": "La pandemia del covid-19 del año 2020 será recordada por las pérdidas humanas y económicas que evidenciaron la mayoria de los paises y estados del mundo",
+            "evaluacion": "El enunciado introductorio es directo y sitúa con claridad el fenómeno central (la pandemia y sus pérdidas humanas y económicas) a escala global y con una indicación temporal explícita. Sin embargo, como introducción destinada a responder al reactivo, ofrece indicios contextuales limitados y poco matizados: carece de referencias implícitas sobre imágenes mediáticas, relaciones ecosistémicas o el modelo productivo global que plantea el reactivo. En conjunto, tiene pistas claras sobre tema y tiempo, indicios genéricos sobre actores y lugar, pero presenta vacíos relevantes para conectar con la discusión sugerida en el reactivo.",
+            "indicadores_tema": [
+                {
+                    "indicio": "mención explícita de la 'pandemia del covid-19'",
+                    "interpretacion": "Sitúa el tema principal en torno a la crisis sanitaria producida por el virus; fuerte y directo."
+                },
+                {
+                    "indicio": "pérdidas humanas y económicas",
+                    "interpretacion": "Indica el ángulo analítico (impactos sociales y económicos) pero no introduce subtemas del reactivo (imágenes mediáticas, ecología, modelo productivo); el alcance temático es amplio y general."
+                }
+            ],
+            "indicadores_actores": [
+                {
+                    "indicio": "la mayoría de los países y estados del mundo",
+                    "interpretacion": "Alude a actores colectivos (Estados, sistemas nacionales) y sugiere una afectación global; es una referencia amplia e institucional."
+                },
+                {
+                    "indicio": "pérdidas humanas",
+                    "interpretacion": "Refiere implícitamente a las personas como víctimas, pero no especifica grupos sociales concretos (trabajadores, comunidades, grupos vulnerables) ni actores mediadores (medios, científicos, empresas)."
+                }
+            ],
+            "indicadores_lugar": [
+                {
+                    "indicio": "la mayoría de los países y estados del mundo",
+                    "interpretacion": "Marca un ámbito geográfico global; es explícito en escala pero no ofrece entornos particulares (ciudades, ecosistemas, regiones) que conecten con ejemplos como Venecia."
+                }
+            ],
+            "indicadores_tiempo": [
+                {
+                    "indicio": "del año 2020",
+                    "interpretacion": "Proporciona un marcador temporal claro: sitúa el evento principal en un momento histórico preciso."
+                },
+                {
+                    "indicio": "'será recordada'",
+                    "interpretacion": "Introduce una perspectiva prospectiva/memorial que sugiere consecuencias duraderas, lo que añade una capa temporal reflexiva (memoria colectiva), aunque no especifica periodos posteriores."
+                }
+            ],
+            "fortalezas": [
+                "Ofrece un tema central claro y un marcador temporal explícito (2020).",
+                "Define la escala del fenómeno (global) y los tipos de impacto (humanos y económicos) de manera concisa."
+            ],
+            "limitaciones": [
+                "Ausencia de indicios implícitos relacionados con las imágenes mediáticas o simbólicas (por ejemplo, las aguas de Venecia) que son clave en el reactivo.",
+                "No sugiere, ni siquiera de forma implícita, la dimensión ecosistémica o la idea de interdependencia entre humanos y naturaleza.",
+                "Carece de referencias al modelo productivo global o a la condición ambivalente de los seres humanos como víctimas y agentes del sistema, planteada en el reactivo.",
+                "Errores ortográficos y de capitalización (mayoria → mayoría; paises → países; covid-19 → COVID-19) que restan formalidad académica."
+            ],
+            "sugerencias_mejora": [
+                "Incorporar una mención implícita a la visibilidad mediática de ciertos fenómenos (por ejemplo, 'imágenes reproducidas en los medios') para crear puente con el reactivo sin dejar de ser interpretativo.",
+                "Añadir indicios ecológicos breves (palabras como 'ecosistema', 'recuperación ambiental', 'interdependencia') que remitan a la dimensión natural sin perder el enfoque principal.",
+                "Introducir actores más precisos de forma implícita (medios, ciudadanos urbanos, trabajadores, gobiernos) para matizar quiénes participan en la discusión.",
+                "Mantener el marcador temporal pero enriquecer la perspectiva temporal con expresiones que indiquen efectos posteriores o memorias colectivas.",
+                "Corregir errores ortográficos y de estilo para adecuar el registro académico."
+            ],
+            "texto_corregido": "La pandemia de COVID-19 de 2020 será recordada por las pérdidas humanas y económicas que evidenciaron la mayoría de los países y estados del mundo.",
+            "texto_alineado_reactivo": "La pandemia de COVID-19 de 2020 será recordada no solo por las pérdidas humanas y económicas que afectaron a la mayoría de los países, sino también por las imágenes difundidas en medios que hicieron visible, aunque de forma parcial, transformaciones ambientales (como la limpieza de canales urbanos) y tensionaron la comprensión de la interdependencia entre humanos y ecosistemas. Estas representaciones mediáticas y las dinámicas del modelo productivo global permiten explorar cómo distintas voces —ciudadanos, medios y gobiernos— interpretan a la vez a las personas como agentes y como víctimas de un sistema más amplio.",
+            "valoracion_final": "El texto original posee anclas útiles (tema y tiempo) pero requiere suturas implícitas adicionales para dialogar con el reactivo: introducir señales sobre imágenes mediáticas, relaciones ecosistémicas y el modelo productivo enriquecería la contextualización sin sacrificar la concisión académica."
+        }
+    },
+    {
+        "id_texto": 20,
+        "resultado": {
+            "preguntas": {
+                "1_tema_principal": {
+                    "hallazgos": "El tema central se identifica con claridad semántica aunque no siempre con precisión contextual: la pandemia de covid-19 y sus efectos multisectoriales (salud pública, economía, salud mental, movilidad y políticas de cuarentena).",
+                    "indicios_implícitos": [
+                        "Menciones directas: «El covid-19», «pandemia», «segunda ola», «contagios», «cuarentenas».",
+                        "Ampliación temática: referencias a consecuencias económicas y psicológicas («afecta la economía, psicología y muchas otras disciplinas»).",
+                        "Enfoque en gestión y políticas públicas: discusión sobre determinación de sectores en cuarentena, teletrabajo y responsabilidades del gobierno y empresas."
+                    ],
+                    "comentario_interpretativo": "Aunque el tópico es claro, el texto mezcla descripción, evaluación y recomendación normativa; esto facilita entender el objeto de estudio pero dificulta distinguir entre hechos, supuestos y propuestas metodológicas o políticas."
+                },
+                "2_actores": {
+                    "hallazgos": "Hay múltiples referencias a actores, mayormente implícitas y de carácter genérico; se adivinan actores estatales, profesionales sanitarios, grupos socioeconómicos y actores económicos.",
+                    "menciones": [
+                        "Organizaciones sanitarias / «organizaciones encargadas de establecer las cuarentenas» (actor institucional).",
+                        "Expertos en la salud pública (actor epistemico/consultivo).",
+                        "Gobierno y empresas (actor regulador y económico).",
+                        "Grupos sociales diferenciados por nivel socioeconómico: «la gente más pobre», «la gente de mayores recursos», «familias», «trabajadores como jardinero» y «empresario».",
+                        "Población general: personas en cuarentena, usuarios del transporte público."
+                    ],
+                    "comentario_interpretativo": "Los actores aparecen como categorías sociales e institucionales, lo que sirve para el argumento general, pero la falta de identificación específica (institución X, gobierno Y, colectivos concretos) limita la trazabilidad y la posibilidad de comprobación empírica."
+                },
+                "3_lugar_entorno": {
+                    "hallazgos": "Las pistas espaciales son amplias y de dos niveles: global/regional y urbano-local.",
+                    "pistas": [
+                        "Referencia regional: «En Europa el surgimiento de una 'segunda ola'».",
+                        "Referencia general/global: «actualmente ha afectado a todos los paises», «nuestra civilización».",
+                        "Entorno urbano/infraestructural: alusiones al «sistema de transporte público», «barrios», «sectores» y la dicotomía entre trabajo desde casa y trabajo manual."
+                    ],
+                    "comentario_interpretativo": "El texto sitúa el problema entre una perspectiva global y una experiencia urbana/local (especialmente barrios pobres), pero evita situar el estudio en una localidad, país o contexto institucional concreto; esto deja el marco espacial suficientemente indicativo para argumentar, pero poco útil para análisis empíricos precisos."
+                },
+                "4_tiempo_periodo": {
+                    "hallazgos": "Las señales temporales son relativas y narrativas; indican fases y duración sin concretar fechas.",
+                    "indicadores": [
+                        "Adverbios y frases temporales: «actualmente», «Con el pasar de los meses», «Luego de algunos meses».",
+                        "Concepto secuencial: «segunda ola», que implica una primera fase previa y una nueva etapa epidémica.",
+                        "Sin fechas calendarizadas ni periodización explícita (año, mes o intervalo exacto)."
+                    ],
+                    "comentario_interpretativo": "El lector entiende que el texto se refiere a una evolución de la pandemia a lo largo de varios meses y a la aparición de sucesivas olas, pero carece de anclajes temporales precisos que permitan ubicar los hechos en un periodo concreto (por ejemplo 2020–2021)."
+                }
+            },
+            "evaluacion_general": {
+                "fortalezas": [
+                    "El tema principal y sus dimensiones (sanitaria, económica, mental y organizativa) quedan bien reconocibles.",
+                    "Aparecen actores relevantes (instituciones sanitarias, gobierno, expertos, distintos grupos socioeconómicos) que permiten construir un argumento normativo sobre políticas de cuarentena.",
+                    "Hay pistas espaciales (Europa; entornos urbanos y barrios) y temporales (meses transcurridos; segunda ola) que sitúan el discurso en una trayectoria histórica reconocible."
+                ],
+                "limitaciones": [
+                    "La mayoría de las señales contextuales son genéricas o implicadas; faltan identificadores concretos (fechas, nombres de instituciones o niveles de gobierno, localidades), lo que reduce precisión académica.",
+                    "Algunos enunciados mezclan juicios valorativos y afirmaciones causales sin evidencia presentada (p. ej. «La gente más pobre lamentablemente es más riesgosa a nuevos contagios»), lo que exige mayor cautela o respaldo empírico.",
+                    "No se exploran ni se documentan ejemplos concretos de discriminación o del caso señalado en el reactivo (p. ej. Madrid y declaraciones sobre inmigrantes), lo que impide evaluar la relación directa entre la introducción y ese reactivo."
+                ],
+                "tonalidad_y_estilo": "El tono combina descripción informativa con lenguaje normativo y apelativo. Esto ayuda a posicionar la postura del autor, pero para una introducción académica sería beneficioso separar claramente hechos, hipótesis y recomendaciones."
+            },
+            "alineacion_con_el_reactivo": {
+                "coincidencias": [
+                    "Ambos textos sitúan la relevancia en la «segunda ola» en Europa y en el impacto desproporcionado sobre barrios y personas pobres.",
+                    "Ambos señalan controversias y críticas públicas frente a confinamientos por sectores y la dimensión discriminatoria de ciertas políticas."
+                ],
+                "ausencias_en_la_introduccion": [
+                    "El reactivo menciona un ejemplo específico (la comunidad de Madrid y la acusación hacia inmigrantes) que la introducción no recoge ni contrasta.",
+                    "Faltan en la introducción casos, datos o referencias que sustenten la acusación de discriminación señalada en el reactivo."
+                ],
+                "interpretacion": "La introducción es compatible con el reactivo en términos generales, pero debería incorporar mayor concreción y evidencia para conectar explícitamente con las acusaciones y protestas que el reactivo presenta como contexto problemático."
+            },
+            "recomendaciones_concretas_para_mejorar_la_introduccion": {
+                "1_anclar_espacio_y_tiempo": "Agregar referencias temporales y geográficas precisas (p. ej. años o meses clave, y el país o ciudad de estudio si aplica) para facilitar la replicabilidad y el contraste con evidencia empírica.",
+                "2_identificar_actores_concreta_y_ordenadamente": "Nombrar las instituciones, niveles de gobierno o colectivos relevantes (ministerio/instituto de salud, gobiernos locales, sindicatos, ONG) y distinguir entre actores decisores, afectados y expertos.",
+                "3_sustentar_afirmaciones_causales": "Evitar generalizaciones sin respaldo; cuando se afirme que un grupo es más expuesto o que una medida es discriminatoria, añadir referencias, datos o al menos pedir explícitamente que se analicen evidencias en el estudio.",
+                "4_matizar_el_lenguaje_normativo": "Separar descripciones de valoraciones (por ejemplo, usar «sugiere», «se observa», «según expertos» en lugar de aserciones absolutas como «es más riesgosa»), lo que fortalecerá el tono académico.",
+                "5_incluir_ejemplos_y_contrastes_relevantes": "Si el reactivo es parte del marco, incorporar el caso de Madrid u otros ejemplos de protestas y declaraciones públicas como instancias que ilustren la dimensión política y discriminatoria de ciertas medidas.",
+                "6_precisar_objetivo_de_la_investigación": "Terminar la introducción con una frase que señale el propósito del trabajo (p. ej. analizar la equidad de los confinamientos sectorizados en X territorio durante la segunda ola) para orientar al lector."
+            }
+        }
+    }
+]

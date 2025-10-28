@@ -1,0 +1,182 @@
+[
+    {
+        "id_texto": 1,
+        "resultado": {
+            "introduccion": {
+                "puntaje": 2,
+                "justificacion": "El elemento Qué aparece pero de forma vaga: el texto alude a la 'realidad del trabajo permanente' y a la salud mental en pandemia, pero no presenta en 1-2 oraciones claras y específicas el tema central. El elemento Quiénes está solo en términos generales (empleados, empleadores, trabajadores) sin actores concretos ni referencias precisas a grupos afectados o a autoridades/estudios nombrados. El elemento Cuándo se menciona de modo impreciso como 'nuestra actual pandemia' sin identificar explícitamente 'COVID-19' ni un periodo (por ejemplo 2020–2021). El elemento Dónde falta: no hay ubicación geográfica ni contexto espacial específico. Para alcanzar 3 puntos sería suficiente aclarar en 1–2 oraciones el tema (ej. impacto del teletrabajo en la salud mental durante la pandemia de COVID-19), nombrar los actores concretos (p. ej. trabajadores teletrabajantes y empleadores/autoridades laborales), precisar el periodo (p. ej. 2020–2023) y añadir un contexto espacial (p. ej. en México / a nivel mundial / en empresas tecnológicas)."
+            }
+        }
+    },
+    {
+        "id_texto": 2,
+        "resultado": {
+            "introduccion": {
+                "puntaje": 2,
+                "justificacion": "Qué: presente y claro (impacto de la pandemia y la pregunta sobre si el aprendizaje virtual limita a niños y adolescentes). Quiénes: presente como grupo ('niños y adolescentes'), suficientemente concreto. Dónde: vago; 'en todo el mundo' es demasiado general y no cumple el requisito de ubicación específica (podría precisarse país o región, p. ej. 'en Chile' o 'en países de Latinoamérica', que se mencionan luego). Cuándo: vago; se alude a la 'pandemia' pero no se indica un periodo o año concreto (p. ej. 'durante la pandemia de COVID-19, desde 2020'). Para alcanzar 3 puntos, basta añadir en 1 frase la ubicación geográfica específica y el periodo temporal concreto sin alterar el resto del texto."
+            }
+        }
+    },
+    {
+        "id_texto": 3,
+        "resultado": {
+            "introduccion": {
+                "puntaje": 1,
+                "justificacion": "Solo cumple de forma clara el “Qué”: se identifica el tema general (actividad física y contaminación ambiental). Los demás elementos son ausentes o vagos: “Quiénes” aparece de modo general (\"el gobierno\", \"las personas\", \"ser humano\") pero no hay actores concretos ni se alude a los especialistas en medicina mencionados en el reactivo; “Dónde” no se especifica (no hay ubicación geográfica precisa en la introducción; referencias a \"grandes ciudades\" aparecen fuera de la primera sección introductoria o son implícitas); “Cuándo” es impreciso (\"a lo largo de la historia\" es vagamente temporal y no aporta un periodo claro). Por tanto faltan 2–3 elementos específicos exigidos."
+            }
+        }
+    },
+    {
+        "id_texto": 4,
+        "resultado": {
+            "introduccion": {
+                "puntaje": 1,
+                "justificacion": "Sólo cumple claramente el “Qué”: señala el tema central (mejorar la salud frente a la contaminación urbana mediante acciones colectivas y políticas públicas). Sin embargo, “Quiénes” es vago: usa términos generales (gobierno, políticas públicas, colectivo, personas) sin nombrar actores o instituciones concretas. “Dónde” también es impreciso: habla de “las grandes ciudades” (y más adelante aparecen ejemplos de países) pero no ofrece una ubicación geográfica específica en la introducción. “Cuándo” está ausente: no hay periodo temporal ni marco histórico. Respecto al reactivo, el enunciado es pertinente al planteamiento general, pero falla en precisar actores y contexto temporal/geográfico exigidos por el criterio."
+            }
+        }
+    },
+    {
+        "id_texto": 5,
+        "resultado": {
+            "introduccion": {
+                "puntaje": 2,
+                "justificacion": "La introducción contiene el Qué (el conflicto sobre el límite entre expresión artística y respeto a la autoridad) y el Quién (el colectivo feminista Las Tesis y la institución Carabineros), ambos específicos. Sin embargo, carece de un Dónde explícito: no se indica la ubicación geográfica (por ejemplo, Chile o una ciudad o contexto institucional más preciso) y tampoco presenta un Cuándo: no aparece un periodo temporal, fecha o indicación clara de que se trata de una denuncia reciente. Para alcanzar puntaje máximo, basta una corrección mínima: añadir en una frase la ubicación (p. ej. ‘en Chile’) y situar temporalmente la denuncia (p. ej. ‘la reciente denuncia’ o una fecha concreta si está disponible), sin introducir información no provista por el reactivo."
+            }
+        }
+    },
+    {
+        "id_texto": 6,
+        "resultado": {
+            "introduccion": {
+                "puntaje": 2,
+                "justificacion": "El 'qué' está presente y específico: el impacto del teletrabajo en la salud mental. El 'cuándo' también aparece (pandemia por COVID-19) aunque podría precisarse con años. Sin embargo, el 'quiénes' es vago: usa 'personas' sin identificar actores concretos (por ejemplo, trabajadores/as que teletrabajan en sectores específicos, docentes, empleados de empresa, autoridades sanitarias o expertos mencionados en el reactivo). El 'dónde' es general ('en todo el mundo') y requiere una ubicación más concreta (país, ciudad o contexto institucional). Para llegar a 3 puntos, añada en 1–2 oraciones los actores específicos y una ubicación temporal y espacial más precisa, manteniendo la idea central."
+            }
+        }
+    },
+    {
+        "id_texto": 7,
+        "resultado": {
+            "introduccion": {
+                "puntaje": 1,
+                "justificacion": "Solo cumple parcialmente el elemento 'qué': el tema general (políticas educativas e inclusión cultural) aparece pero de forma algo general. Los demás elementos están ausentes o vagos: 'quiénes' aparece como expresiones generales ('un gran porcentaje de la población', 'poblaciones incluidas', 'las familias') pero no identifica actores concretos como 'estudiantes inmigrantes', 'docentes' o 'Ministerio de Educación'; 'dónde' se indica solo como 'nuestro país' sin nombrar la nación o región; 'cuándo' se limita a 'actualmente' sin periodo o fechas precisas. Además la introducción no enmarca explícitamente el reactivo (la afirmación sobre que los estudiantes inmigrantes deben adecuarse a los usos del país anfitrión) ni presenta claramente las posturas enfrentadas. Para alcanzar 3 puntos se requiere: nombrar el lugar (país/región), precisar el periodo temporal (año o marco histórico) y señalar actores concretos relevantes (p. ej. estudiantes inmigrantes, escuelas, Ministerio de Educación, grupos conservadores), manteniendo la temática ya planteada."
+            }
+        }
+    },
+    {
+        "id_texto": 8,
+        "resultado": {
+            "introduccion": {
+                "puntaje": 3,
+                "justificacion": "La introducción cumple los cuatro elementos: Qué — el tema central está claro (el teletrabajo y su impacto en la salud mental, tesis explícita: “el teletrabajo amenaza la integridad psicológica de los trabajadores”); Quiénes — actores concretos mencionados (trabajadores, empleadores y la familia); Dónde — ubicación específica (Chile, en la primera oración); Cuándo — periodo temporal identificado (la pandemia y el confinamiento). Observación mínima: la referencia temporal es genérica (no hay fechas exactas), pero constituye un momento histórico identificado y por tanto satisface el criterio de especificidad requerido."
+            }
+        }
+    },
+    {
+        "id_texto": 9,
+        "resultado": {
+            "introduccion": {
+                "puntaje": 2,
+                "justificacion": "Presenta claramente el qué (preocupación por la salud mental y el papel del hogar) y el cuándo (pandemia por COVID-19). Sin embargo, el quiénes aparece de manera vaga («quienes están expuestos al teletrabajo») sin identificar grupos concretos, y falta un dónde espacial específico (no indica ubicación geográfica o contexto espacial: p. ej. ‘a nivel mundial’ o un país/ciudad). Para alcanzar 3 puntos, basta precisar los actores (nombrar explícitamente los grupos afectados: trabajadores/empleados que teletrabajan, padres que teletrabajan, etc., sin inventar datos nuevos) y añadir una ubicación concreta o la indicación «a nivel mundial» ya presente en el reactivo."
+            }
+        }
+    },
+    {
+        "id_texto": 10,
+        "resultado": {
+            "introduccion": {
+                "puntaje": 2,
+                "justificacion": "La introducción identifica claramente el 'qué' (el sistema de enseñanza transformado por la pandemia), pero falla en los otros elementos requeridos: no nombra actores concretos en ese párrafo inicial (quiénes) y no establece un lugar preciso (dónde); el 'cuándo' aparece de forma vaga ('en la actualidad', 'a raíz de la pandemia') en vez de un periodo o fecha concreta. Para obtener 3 puntos debería incluir en la introducción actores específicos (por ejemplo, estudiantes, Ministerio de Educación, padres), situar el tema geográficamente (por ejemplo, Chile) y acotar temporalmente el marco (p. ej. pandemia de COVID-19 desde 2020)."
+            }
+        }
+    },
+    {
+        "id_texto": 11,
+        "resultado": {
+            "introduccion": {
+                "puntaje": 1,
+                "justificacion": "Qué: presente y específico (tema centrado en la encíclica Fratelli Tutti, solidaridad y crítica al individualismo). Quiénes: presente (Papa Francisco, movimientos sociales, pontífices). Dónde: ausente — no hay ubicación geográfica o contexto espacial concreto (solo referencias generales a la sociedad). Cuándo: vago — aparecen expresiones como “en el último tiempo” o “actual”, pero no hay un periodo, fecha o momento histórico preciso. Pertinencia al reactivo: el texto responde al debate planteado sobre la posición del Papa, pero falla en cumplir los criterios formales de introducción por la carencia de lugar y de un marcador temporal concreto; para alcanzar 3 puntos debe añadirse una indicación espacial específica y un periodo o fecha clara (p. ej., región o alcance geográfico y el año/momento de la encíclica)."
+            }
+        }
+    },
+    {
+        "id_texto": 12,
+        "resultado": {
+            "introduccion": {
+                "puntaje": 1,
+                "justificacion": "El “qué” está presente: el tema central es la eficacia de las prácticas de autocuidado frente a factores ambientales perjudiciales (primera oración). Sin embargo, faltan o son vagas las demás categorías: “quiénes” aparecen solo en términos generales (\"la medicina\", \"instituciones y marcas\", \"la población\") sin actores concretos ni nombres (p. ej. especialistas, autoridades o instituciones específicas); no hay ningún “dónde”: no se menciona ubicación geográfica o contexto espacial (ciudades, país, zonas urbanas); y no hay “cuándo”: no se especifica periodo temporal, fecha ni marco histórico. En relación con el REACTIVO, el texto coincide en la idea general pero carece de concreción institucional y temporal. Para alcanzar 3 puntos bastaría añadir en 1–2 oraciones: nombrar actores concretos (por ejemplo “especialistas en medicina” o una institución sanitaria), precisar el ámbito geográfico (por ejemplo “las grandes ciudades” o un país) y señalar el periodo temporal (por ejemplo “en la última década” o “actualmente”)."
+            }
+        }
+    },
+    {
+        "id_texto": 13,
+        "resultado": {
+            "introduccion": {
+                "puntaje": 2,
+                "justificacion": "La introducción trata el tema general (pandemia y votación/plebiscito) y ubica el hecho en Chile y en un periodo (finales de feb-prinicipio de marzo; \"este octubre\"), por lo que hay 3 elementos presentes. Sin embargo: el “qué” no está formulado de manera clara y concisa en 1–2 oraciones específicas (el tema aparece disperso y general); faltan actores concretos por nombre (no se menciona al Servel, ni el presidente por nombre, ni autoridades específicas; sólo hay referencias genéricas como \"el presidente\" o \"adultos mayores\"). Además la fecha del plebiscito no se precisa (se dice \"este octubre\" pero no el 25 de octubre requerido) y no se alude a la decisión administrativa concreta que plantea el reactivo (exclusión de pacientes PCR positivos). En conjunto, esto impide otorgar 3 puntos."
+            }
+        }
+    },
+    {
+        "id_texto": 14,
+        "resultado": {
+            "introduccion": {
+                "puntaje": 2,
+                "justificacion": "Qué: presente y claro (la rebaja de la indemnización en el Caso Soquimich). Quiénes: presentes (Julio Ponce Lerou y la Corte Suprema están nombrados). Dónde: presente (se menciona Chile). Cuándo: ausente/vago; decir «historia reciente de Chile» no aporta un periodo preciso. Además hay errores menores (p. ej., «indeminzación» mal escrito y puntuación interrogativa confusa). Para alcanzar 3 puntos se requiere añadir un marcador temporal concreto (por ejemplo la fecha o el año de la votación del fallo) y, si se desea mayor precisión, nombrar también a otros actores afectados mencionados en el reactivo (por ejemplo los fondos de pensiones)."
+            }
+        }
+    },
+    {
+        "id_texto": 15,
+        "resultado": {
+            "introduccion": {
+                "puntaje": 1,
+                "justificacion": "Solo están claramente presentes 2 elementos: el 'Qué' (confinamiento, teletrabajo y repercusiones en la salud mental) y el 'Cuándo' (la pandemia por COVID-19). Falta un 'Quiénes' específico: el texto emplea términos generales ('la población', 'trabajadores', 'familias') en lugar de actores concretos relevantes (p. ej., trabajadores de oficina, docentes, padres que teletrabajan, personal sanitario). También falta un 'Dónde' preciso: predominan expresiones vagas como 'en muchas partes del mundo' o espacios cerrados sin indicar un contexto geográfico o tipo de hogar (país, ciudad, hogares urbanos/rurales). Además, la introducción no articula con claridad la tesis central del reactivo sobre la 'salud del hogar' como refugio en peligro. Para obtener 3 puntos sería suficiente añadir una oración que nombre los grupos afectados de forma concreta, especificar el ámbito geográfico/contexto del estudio y afirmar explícitamente que el hogar como refugio está en riesgo debido al teletrabajo durante la pandemia."
+            }
+        }
+    },
+    {
+        "id_texto": 16,
+        "resultado": {
+            "introduccion": {
+                "puntaje": 1,
+                "justificacion": "Solo el “qué” aparece con relativa claridad: el cierre de colegios y el paso a clases virtuales y la tesis de que no deben volver a la presencialidad. Los otros elementos faltan o son vagos: “quiénes” se menciona de forma genérica ('el gobierno', 'colegios', 'escolares') sin identificar instituciones, niveles educativos o grupos concretos; “dónde” no aparece (no hay país, región o contexto geográfico); “cuándo” es impreciso ('actual contexto sanitario') y no sitúa el fenómeno en un periodo o fecha concreta (por ejemplo, pandemia de COVID‑19 y su inicio). La introducción es pertinente al reactivo pero carece de especificidad requerida para una puntuación más alta."
+            }
+        }
+    },
+    {
+        "id_texto": 17,
+        "resultado": {
+            "introduccion": {
+                "puntaje": 1,
+                "justificacion": "Solo se cumple claramente el 'Qué' (la contaminación del aire y la necesidad de fomentar actividad física). 'Quiénes' es vago: aparecen grupos generales como \"grandes empresas\" y \"niños\" sin actores concretos (p. ej., especialistas, instituciones, autoridades). 'Dónde' es impreciso: \"las grandes ciudades\" no especifica ubicación geográfica o contexto concreto. 'Cuándo' está ausente/vago: \"En el último tiempo\" no aporta periodo o fecha precisa. Además, la introducción no incorpora a los especialistas en medicina mencionados en el reactivo ni la idea clave de que el autocuidado no modifica las causas ambientales, por lo que no responde adecuadamente al reactivo."
+            }
+        }
+    },
+    {
+        "id_texto": 18,
+        "resultado": {
+            "introduccion": {
+                "puntaje": 2,
+                "justificacion": "La introducción contiene el 'qué' de forma relativamente clara: tesis sobre el impacto del COVID-19 y la necesidad de políticas públicas que atiendan consecuencias laborales, psicológicas y la desigualdad (1 elemento). El 'dónde' también aparece de forma específica al mencionar a Chile (2 elemento). Sin embargo, el 'quiénes' es vago: no se nombran actores concretos (por ejemplo: gobierno chileno, trabajadores específicos, barrios afectados o grupos sociales identificables); solo aparecen expresiones generales como “muchos autores”, “el ser humano” o “las personas en Chile”. El 'cuándo' está ausente o impreciso: no se indica periodo concreto (p. ej. segunda ola, año, fechas) más allá de referencias generales como “estos tiempos” o “antes del ingreso del virus”. Además, la introducción no responde con pertinencia al reactivo, que se centra en la segunda ola en Europa y ejemplos concretos (confinamientos por sectores, Madrid y acusaciones contra inmigrantes): el texto aborda de forma general la pandemia y se enfoca en Chile, por lo que hay desajuste temático. También presenta problemas de redacción y una oración final cortada que reduce claridad."
+            }
+        }
+    },
+    {
+        "id_texto": 19,
+        "resultado": {
+            "introduccion": {
+                "puntaje": 2,
+                "justificacion": "La introducción contiene el Qué (la pandemia de covid-19 y las pérdidas humanas y económicas) y el Cuándo (año 2020) de forma explícita. Faltan o son vagos el Quiénes y el Dónde: “la mayoría de los países y estados del mundo” es demasiado general y no identifica actores concretos (gobiernos, grupos sociales o países específicos) ni una ubicación geográfica precisa (país, región o ciudad). Además presenta errores ortográficos ('mayoría', 'países') y necesita puntuación. Para alcanzar 3 puntos, basta agregar en una frase breve los actores concretos y la ubicación específica (por ejemplo, nombrar países, instituciones o grupos afectados y la región o país donde se centra el análisis), sin alterar el dato temporal ya dado."
+            }
+        }
+    },
+    {
+        "id_texto": 20,
+        "resultado": {
+            "introduccion": {
+                "puntaje": 2,
+                "justificacion": "La introducción contiene el 'qué' (la pandemia de COVID‑19 y las cuarentenas) y un 'dónde' relativamente concreto al mencionar la 'segunda ola' en Europa, pero es imprecisa en el 'cuándo' y carece de 'quiénes' específicos. El 'cuándo' aparece de forma vaga ('luego de algunos meses', 'segunda ola') sin un periodo o fecha precisa, y el 'quiénes' se refiere de modo genérico ('distintas organizaciones sanitarias', 'la gente', 'personas más pobres') sin nombrar actores o grupos concretos (por ejemplo gobiernos, autoridades sanitarias o la Comunidad de Madrid mencionada en el reactivo). Respecto a la pertinencia, el texto es relevante frente al reactivo por tema y lugar, pero debe añadir actores concretos y precisar el marco temporal para alcanzar el puntaje máximo."
+            }
+        }
+    }
+]
